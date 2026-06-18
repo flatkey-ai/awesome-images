@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Flatkey 生图 API 提示词模板库：产品营销、电商主图、社媒广告、信息图、头像、UI、游戏素材和图像编辑。"
+    />
+    <title>Flatkey 生图 API 提示词模板库</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <nav class="topbar" aria-label="主导航">
+        <div class="brand">
+          <span class="brand-mark">FK</span>
+          <span>Flatkey Image Prompts</span>
+        </div>
+        <a class="nav-cta" href="https://flatkey.ai?utm_source=skill" target="_blank" rel="noreferrer">注册 API key</a>
+      </nav>
+
+      <section class="hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">给 AI 中转站卖生图 API 用</p>
+          <h1>拿来就能发给用户的生图提示词模板库</h1>
+          <p class="hero-lede">
+            整理成中文可搜索模板库。用户复制提示词，替换变量，再去 Flatkey 注册 API key，用 OpenAI 兼容接口生成图片。
+          </p>
+          <div class="hero-actions">
+            <a class="primary" href="https://flatkey.ai?utm_source=skill" target="_blank" rel="noreferrer">去 Flatkey 注册 API key</a>
+            <a class="secondary" href="#library">浏览模板</a>
+          </div>
+        </div>
+        <div class="hero-visual" aria-label="生图模板预览">
+          <div class="visual-frame">
+            <div class="visual-toolbar">
+              <span></span><span></span><span></span>
+            </div>
+            <div class="visual-canvas">
+              <div class="shot shot-large"></div>
+              <div class="shot shot-small"></div>
+              <div class="shot shot-copy">
+                <strong>Prompt</strong>
+                <p>{{产品名称}} + {{核心卖点}} + commercial lighting</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <section class="stats" aria-label="模板库统计">
+        <div><strong id="templateCount">12</strong><span>模板</span></div>
+        <div><strong>8</strong><span>场景分类</span></div>
+        <div><strong>API</strong><span>OpenAI 兼容</span></div>
+        <div><strong>UTM</strong><span>Flatkey 注册引导</span></div>
+      </section>
+
+      <section id="library" class="library">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Prompt Gallery</p>
+            <h2>模板库</h2>
+          </div>
+          <label class="search">
+            <span>搜索</span>
+            <input id="searchInput" type="search" placeholder="产品、电商、头像、Bento..." />
+          </label>
+        </div>
+        <div id="categoryTabs" class="tabs" aria-label="分类筛选"></div>
+        <div id="promptGrid" class="prompt-grid"></div>
+      </section>
+
+      <section class="api-panel">
+        <div>
+          <p class="eyebrow">API Example</p>
+          <h2>用户拿到 key 后这样调用</h2>
+          <p>模板变量在前端替换，生成最终 prompt 后，直接走 Flatkey 的 OpenAI 兼容生图接口。</p>
+        </div>
+        <pre><code>curl https://router.flatkey.ai/v1/images/generations \
+  -H "Authorization: Bearer ${FLATKEY_IMAGE_API_KEY:-$FLATKEY_API_KEY}" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "gpt-image-2",
+    "prompt": "把模板变量替换后的最终提示词",
+    "size": "1536x1024"
+  }'</code></pre>
+      </section>
+    </main>
+
+    <div id="toast" role="status" aria-live="polite"></div>
+    <script type="module" src="/src/app.js"></script>
+  </body>
+</html>
