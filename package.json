@@ -1,0 +1,28 @@
+{
+  "name": "@flatkey-ai/image-buddy",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "bin": {
+    "image-buddy": "./bin/image-buddy.js"
+  },
+  "files": [
+    "bin/",
+    "skills/",
+    "src/",
+    "index.html",
+    "styles.css",
+    "README*.md"
+  ],
+  "scripts": {
+    "test": "node scripts/validate-library.mjs",
+    "prepare:release": "node scripts/prepare-npm-release.mjs",
+    "start": "node bin/image-buddy.js",
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "devDependencies": {
+    "vite": "^8.0.16"
+  }
+}
