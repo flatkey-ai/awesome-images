@@ -30,7 +30,9 @@ a {
 }
 
 button,
-input {
+input,
+textarea,
+select {
   font: inherit;
 }
 
@@ -461,6 +463,94 @@ details pre,
   padding-top: 42px;
 }
 
+.generator-panel {
+  scroll-margin-top: 20px;
+  margin-bottom: 70px;
+  border-top: 1px solid var(--line);
+  padding-top: 42px;
+}
+
+.generator-grid {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.8fr) minmax(180px, 0.4fr);
+  gap: 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 18px;
+  background: var(--paper);
+}
+
+.generator-grid label {
+  display: grid;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.generator-grid input,
+.generator-grid select,
+.generator-grid textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 12px;
+  background: #fff;
+  color: var(--ink);
+}
+
+.prompt-field,
+.generation-result {
+  grid-column: 1 / -1;
+}
+
+.generator-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: end;
+}
+
+.generator-actions button {
+  min-height: 42px;
+  border: 1px solid var(--ink);
+  border-radius: 8px;
+  padding: 0 16px;
+  background: var(--ink);
+  color: #fff;
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.generator-actions button + button {
+  background: #fff;
+  color: var(--ink);
+}
+
+.generation-result img {
+  display: block;
+  width: min(360px, 100%);
+  border-radius: 8px;
+  border: 1px solid var(--line);
+}
+
+.generation-result .error {
+  color: var(--red);
+}
+
+.demo-card .demo-image-wrap {
+  overflow: hidden;
+  aspect-ratio: 9 / 16;
+  background: #e8e3d8;
+}
+
+.demo-card img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .api-panel p {
   max-width: 520px;
   color: var(--muted);
@@ -535,6 +625,7 @@ details pre,
 
   .stats,
   .prompt-grid,
+  .generator-grid,
   .card-actions {
     grid-template-columns: 1fr;
   }

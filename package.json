@@ -7,6 +7,7 @@
     "image-buddy": "bin/image-buddy.js"
   },
   "files": [
+    "assets/",
     "bin/",
     "skills/",
     "src/",

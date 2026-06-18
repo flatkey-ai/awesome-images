@@ -56,6 +56,8 @@ npx @flatkey-ai/image-buddy generate premium-product-hero \
 
 `onboard` yêu cầu nhập Flatkey API key và lưu cục bộ. Nếu chưa có key, lấy tại <https://console.flatkey.ai/keys>. CLI cũng đọc `FLATKEY_IMAGE_API_KEY` hoặc `FLATKEY_API_KEY`, gọi Flatkey image API và lưu ảnh vào máy. Mặc định không khởi động web.
 
+`generate` mặc định dùng Nano Banana qua `router.flatkey.ai`. Chỉ dùng `--model gpt` khi cần endpoint GPT Image 2 tương thích OpenAI.
+
 Cài từ source trước khi có npm release:
 
 ```bash

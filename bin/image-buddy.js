@@ -53,6 +53,12 @@ function parseOptions(args) {
     else if (arg.startsWith("--prompt=")) options.prompt = arg.slice("--prompt=".length);
     else if (arg === "--model") options.model = args[++index];
     else if (arg.startsWith("--model=")) options.model = arg.slice("--model=".length);
+    else if (arg === "--nano-model") options.nanoModel = args[++index];
+    else if (arg.startsWith("--nano-model=")) options.nanoModel = arg.slice("--nano-model=".length);
+    else if (arg === "--aspect") options.aspect = args[++index];
+    else if (arg.startsWith("--aspect=")) options.aspect = arg.slice("--aspect=".length);
+    else if (arg === "--image-size") options.imageSize = args[++index];
+    else if (arg.startsWith("--image-size=")) options.imageSize = arg.slice("--image-size=".length);
     else if (arg === "--size") options.size = args[++index];
     else if (arg.startsWith("--size=")) options.size = arg.slice("--size=".length);
     else if (arg === "--quality") options.quality = args[++index];
@@ -160,29 +166,15 @@ async function generateImage(args) {
   }
 
   const baseUrl = String(options.baseUrl || process.env.FLATKEY_IMAGE_BASE_URL || "https://router.flatkey.ai").replace(/\/+$/, "");
-  const body = {
-    model: options.model || "gpt-image-2",
-    prompt,
-    n: clampNumber(options.n || 1, 1, 4)
-  };
-  if (options.size) body.size = options.size;
-  if (options.quality) body.quality = options.quality;
-
-  const response = await fetch(`${baseUrl}/v1/images/generations`, {
-    method: "POST",
-    headers: {
-      Authorization: `Bearer ${apiKey}`,
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify(body)
-  });
+  const request = imageGenerationRequest({ ...options, prompt, apiKey, baseUrl });
+  const response = await fetch(request.url, request.fetchOptions);
   const payload = await response.json().catch(() => ({}));
   if (!response.ok) {
     throw new Error(payload?.error?.message || payload?.message || `Flatkey image API failed: HTTP ${response.status}`);
   }
 
   const artifacts = await persistImages(payload, options.out || "image-buddy-output");
-  const result = { provider: "flatkey", endpoint: "/v1/images/generations", model: body.model, prompt, artifacts, raw: payload };
+  const result = { provider: "flatkey", endpoint: request.endpoint, model: request.model, prompt, artifacts, raw: payload };
   if (options.json) {
     console.log(JSON.stringify(result, null, 2));
     return;
@@ -194,6 +186,88 @@ async function generateImage(args) {
   for (const artifact of artifacts) {
     console.log(artifact.path || artifact.url);
   }
+}
+
+function imageGenerationRequest(options) {
+  const backend = normalizeImageBackend(options.model);
+  if (backend === "nano") return nanoImageRequest(options);
+  return gptImageRequest(options);
+}
+
+function normalizeImageBackend(model = "") {
+  const value = String(model || "").trim().toLowerCase();
+  if (!value || value === "nano" || value.startsWith("nano-banana")) return "nano";
+  return "gpt";
+}
+
+function gptImageRequest(options) {
+  const model = options.model && options.model !== "gpt" ? options.model : "gpt-image-2";
+  const body = {
+    model,
+    prompt: options.prompt,
+    n: clampNumber(options.n || 1, 1, 4)
+  };
+  if (options.size) body.size = options.size;
+  if (options.quality) body.quality = options.quality;
+  return {
+    endpoint: "/v1/images/generations",
+    model,
+    url: `${options.baseUrl}/v1/images/generations`,
+    fetchOptions: {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${options.apiKey}`,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(body)
+    }
+  };
+}
+
+function nanoImageRequest(options) {
+  const model = nanoModelId(options.nanoModel || options.model);
+  const imageGenerationConfig = {
+    aspectRatio: options.aspect || aspectFromSize(options.size) || "1:1"
+  };
+  if (options.imageSize) imageGenerationConfig.imageSize = options.imageSize;
+  const body = {
+    contents: [{ parts: [{ text: options.prompt }] }],
+    generationConfig: {
+      responseModalities: ["TEXT", "IMAGE"],
+      imageGenerationConfig
+    }
+  };
+  return {
+    endpoint: `/v1beta/models/${model}:generateContent`,
+    model,
+    url: `${options.baseUrl}/v1beta/models/${model}:generateContent?key=${encodeURIComponent(options.apiKey)}`,
+    fetchOptions: {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body)
+    }
+  };
+}
+
+function nanoModelId(value = "") {
+  const model = String(value || "").trim();
+  if (model === "flash") return "nano-banana-flash";
+  if (model === "pro" || model === "preview" || model === "nano") return "nano-banana-pro-preview";
+  return model || "nano-banana-pro-preview";
+}
+
+function aspectFromSize(size = "") {
+  const match = String(size).match(/^(\d+)x(\d+)$/);
+  if (!match) return "";
+  const width = Number(match[1]);
+  const height = Number(match[2]);
+  if (!width || !height) return "";
+  const divisor = greatestCommonDivisor(width, height);
+  return `${width / divisor}:${height / divisor}`;
+}
+
+function greatestCommonDivisor(a, b) {
+  return b ? greatestCommonDivisor(b, a % b) : Math.abs(a);
 }
 
 async function onboard(args) {
@@ -256,7 +330,7 @@ function clampNumber(value, min, max) {
 }
 
 async function persistImages(payload, outDir) {
-  const images = Array.isArray(payload?.data) ? payload.data : [];
+  const images = normalizedImages(payload);
   const artifacts = [];
   await mkdir(outDir, { recursive: true });
   for (let index = 0; index < images.length; index += 1) {
@@ -274,6 +348,17 @@ async function persistImages(payload, outDir) {
     artifacts.push({ index: index + 1, path: filePath, mime_type: mime });
   }
   return artifacts;
+}
+
+function normalizedImages(payload) {
+  if (Array.isArray(payload?.data)) return payload.data;
+  const parts = payload?.candidates?.flatMap((candidate) => candidate?.content?.parts || []) || [];
+  return parts
+    .filter((part) => part?.inlineData?.data)
+    .map((part) => ({
+      b64_json: part.inlineData.data,
+      mime_type: part.inlineData.mimeType || "image/png"
+    }));
 }
 
 function parseDataUrl(value = "") {
@@ -362,7 +447,10 @@ Options:
   --var key=value       Replace template variable
   --api-key <key>       Defaults to saved key, FLATKEY_IMAGE_API_KEY, or FLATKEY_API_KEY
   --base-url <url>      Defaults to https://router.flatkey.ai
-  --model <model>       Defaults to gpt-image-2
+  --model <model>       nano (default), gpt, gpt-image-2, or nano-banana model id
+  --nano-model <model>  flash, pro, preview, or full Nano Banana model id
+  --aspect <ratio>      Nano aspect ratio. Default: inferred from --size or 1:1
+  --image-size <size>   Nano image size option, for example 1K or 2K
   --size <size>         Example: 1536x1024
   --quality <quality>   Provider quality option
   --n <count>           1-4 images. Default: 1

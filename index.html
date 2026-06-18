@@ -29,7 +29,7 @@
           </p>
           <div class="hero-actions">
             <a class="primary" href="https://flatkey.ai?utm_source=skill" target="_blank" rel="noreferrer">去 Flatkey 注册 API key</a>
-            <a class="secondary" href="#library">浏览模板</a>
+            <a class="secondary" href="#generator">立即生成</a>
           </div>
         </div>
         <div class="hero-visual" aria-label="生图模板预览">
@@ -52,24 +52,56 @@
 
     <main>
       <section class="stats" aria-label="模板库统计">
-        <div><strong id="templateCount">12</strong><span>模板</span></div>
+        <div><strong id="templateCount">20</strong><span>9:16 模板</span></div>
         <div><strong>8</strong><span>场景分类</span></div>
         <div><strong>API</strong><span>OpenAI 兼容</span></div>
         <div><strong>UTM</strong><span>Flatkey 注册引导</span></div>
       </section>
 
+      <section id="generator" class="generator-panel">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Generate With Flatkey</p>
+            <h2>输入提示词直接生成</h2>
+          </div>
+          <a class="nav-cta" href="https://console.flatkey.ai/keys" target="_blank" rel="noreferrer">获取 API key</a>
+        </div>
+        <div class="generator-grid">
+          <label>
+            <span>Flatkey API key</span>
+            <input id="apiKeyInput" type="password" placeholder="fk-..." autocomplete="off" />
+          </label>
+          <label>
+            <span>尺寸</span>
+            <select id="sizeInput">
+              <option value="1024x1792">9:16 - 1024x1792</option>
+              <option value="1536x1024">16:9 - 1536x1024</option>
+              <option value="1024x1024">1:1 - 1024x1024</option>
+            </select>
+          </label>
+          <label class="prompt-field">
+            <span>提示词</span>
+            <textarea id="promptInput" rows="7" placeholder="写下你要生成的画面，或点击下方模板的「用同款」"></textarea>
+          </label>
+          <div class="generator-actions">
+            <button id="generateButton">生成图片</button>
+            <button id="saveKeyButton" type="button">保存 key 到浏览器</button>
+          </div>
+          <div id="generationResult" class="generation-result"></div>
+        </div>
+      </section>
+
       <section id="library" class="library">
         <div class="section-heading">
           <div>
-            <p class="eyebrow">Prompt Gallery</p>
-            <h2>模板库</h2>
+            <p class="eyebrow">9:16 Demo Gallery</p>
+            <h2>看图选同款</h2>
           </div>
           <label class="search">
             <span>搜索</span>
-            <input id="searchInput" type="search" placeholder="产品、电商、头像、Bento..." />
+            <input id="searchInput" type="search" placeholder="产品、电商、广告、旅行..." />
           </label>
         </div>
-        <div id="categoryTabs" class="tabs" aria-label="分类筛选"></div>
         <div id="promptGrid" class="prompt-grid"></div>
       </section>
 
@@ -79,7 +111,7 @@
           <h2>用户拿到 key 后这样调用</h2>
           <p>模板变量在前端替换，生成最终 prompt 后，直接走 Flatkey 的 OpenAI 兼容生图接口。</p>
         </div>
-        <pre><code>curl https://router.flatkey.ai/v1/images/generations \
+<pre><code>curl https://router.flatkey.ai/v1/images/generations \
   -H "Authorization: Bearer ${FLATKEY_IMAGE_API_KEY:-$FLATKEY_API_KEY}" \
   -H "Content-Type: application/json" \
   -d '{

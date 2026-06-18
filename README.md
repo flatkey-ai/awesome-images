@@ -64,6 +64,8 @@ npx @flatkey-ai/image-buddy generate premium-product-hero \
 
 `onboard` prompts for a Flatkey API key and saves it locally. If you do not have a key, get one at <https://console.flatkey.ai/keys>. The CLI also accepts `FLATKEY_IMAGE_API_KEY` or `FLATKEY_API_KEY`, calls Flatkey image generation, and saves images locally. No web server required.
 
+`generate` defaults to Nano Banana through `router.flatkey.ai` because it works well for direct CLI generation. Use `--model gpt` when you explicitly want the OpenAI-compatible GPT Image 2 endpoint.
+
 Browse templates from terminal:
 
 ```bash

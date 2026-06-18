@@ -63,6 +63,8 @@ npx @flatkey-ai/image-buddy generate premium-product-hero \
 
 `onboard` 会提示输入 Flatkey API key 并保存到本地。没有 key 可去 <https://console.flatkey.ai/keys> 获取。CLI 也会读取 `FLATKEY_IMAGE_API_KEY` 或 `FLATKEY_API_KEY`，调用 Flatkey 生图 API，并把图片保存到本地。默认不启动网页。
 
+`generate` 默认通过 `router.flatkey.ai` 调用 Nano Banana，更适合直接 CLI 生成。需要 OpenAI 兼容的 GPT Image 2 endpoint 时再传 `--model gpt`。
+
 如果 npm release 还没发布，可从源码运行：
 
 ```bash

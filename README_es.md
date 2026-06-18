@@ -56,6 +56,8 @@ npx @flatkey-ai/image-buddy generate premium-product-hero \
 
 `onboard` pide una API key de Flatkey y la guarda localmente. Si no tienes key, consíguela en <https://console.flatkey.ai/keys>. La CLI también lee `FLATKEY_IMAGE_API_KEY` o `FLATKEY_API_KEY`, llama a la API de imágenes de Flatkey y guarda las imágenes localmente. No inicia una web por defecto.
 
+`generate` usa Nano Banana por defecto a través de `router.flatkey.ai`. Usa `--model gpt` solo si necesitas el endpoint GPT Image 2 compatible con OpenAI.
+
 Instalación desde el código antes del release en npm:
 
 ```bash

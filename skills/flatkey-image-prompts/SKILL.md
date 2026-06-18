@@ -45,6 +45,8 @@ npx @flatkey-ai/image-buddy web
 
 CLI renders templates, calls Flatkey image API, and saves generated images locally. It reads saved key, `FLATKEY_IMAGE_API_KEY`, or `FLATKEY_API_KEY`.
 
+`image-buddy generate` defaults to Nano Banana through `router.flatkey.ai`. Use `--model gpt` only when the user explicitly needs GPT Image 2/OpenAI-compatible image generation.
+
 API key signup:
 
 ```text

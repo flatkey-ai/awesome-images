@@ -73,6 +73,8 @@ const generate = await run([
   "generate",
   "--prompt",
   "premium product photo of Image Buddy",
+  "--model",
+  "gpt",
   "--base-url",
   `http://127.0.0.1:${port}`,
   "--out",
@@ -89,6 +91,53 @@ const generatePayload = JSON.parse(generate.stdout);
 assert.equal(await readFile(generatePayload.artifacts[0].path, "utf8"), "image");
 await rm(outDir, { recursive: true, force: true });
 await rm(buddyHome, { recursive: true, force: true });
+
+const nanoCalls = [];
+const nanoServer = createServer(async (request, response) => {
+  const chunks = [];
+  request.on("data", (chunk) => chunks.push(chunk));
+  await once(request, "end");
+  nanoCalls.push({
+    url: request.url,
+    method: request.method,
+    body: JSON.parse(Buffer.concat(chunks).toString("utf8"))
+  });
+  response.writeHead(200, { "Content-Type": "application/json" });
+  response.end(JSON.stringify({
+    candidates: [{
+      content: {
+        parts: [{ inlineData: { mimeType: "image/png", data: Buffer.from("nano-image").toString("base64") } }]
+      }
+    }]
+  }));
+});
+nanoServer.listen(0, "127.0.0.1");
+await once(nanoServer, "listening");
+const nanoOutDir = await mkdtemp(path.join(os.tmpdir(), "image-buddy-nano-"));
+const nanoPort = nanoServer.address().port;
+const nanoGenerate = await run([
+  ...cli,
+  "generate",
+  "--prompt",
+  "premium product photo of Image Buddy",
+  "--model",
+  "nano",
+  "--api-key",
+  "flatkey-test",
+  "--base-url",
+  `http://127.0.0.1:${nanoPort}`,
+  "--out",
+  nanoOutDir,
+  "--json"
+]);
+nanoServer.close();
+assert.equal(nanoGenerate.code, 0, nanoGenerate.stderr);
+assert.match(nanoCalls[0].url, /^\/v1beta\/models\/nano-banana-pro-preview:generateContent\?key=flatkey-test$/);
+assert.equal(nanoCalls[0].method, "POST");
+assert.equal(nanoCalls[0].body.generationConfig.imageGenerationConfig.aspectRatio, "1:1");
+const nanoPayload = JSON.parse(nanoGenerate.stdout);
+assert.equal(await readFile(nanoPayload.artifacts[0].path, "utf8"), "nano-image");
+await rm(nanoOutDir, { recursive: true, force: true });
 
 const help = await run([...cli, "--help"]);
 assert.equal(help.code, 0);

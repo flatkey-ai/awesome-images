@@ -64,6 +64,8 @@ assert(cli.includes("image-buddy generate"), "CLI help must expose generate comm
 assert(cli.includes("image-buddy onboard"), "CLI help must expose onboard command");
 assert(cli.includes("image-buddy web"), "CLI help must expose web command");
 assert(cli.includes("/v1/images/generations"), "CLI must call Flatkey image generation API");
+assert(cli.includes("/v1beta/models/"), "CLI must support Flatkey Nano Banana image generation API");
+assert(cli.includes("nano (default)"), "CLI help must document Nano as the default generator");
 assert(cli.includes("FLATKEY_IMAGE_API_KEY"), "CLI must read Flatkey image API key");
 assert(cli.includes("https://console.flatkey.ai/keys"), "CLI must point users to Flatkey key console");
 assert(cli.includes("Flatkey image prompt library running"), "CLI must start the prompt library server");
