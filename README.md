@@ -41,6 +41,30 @@ Each template includes:
 - Copy prompt button
 - Flatkey API key registration link
 
+## Demo Gallery
+
+The web gallery ships with 20 generated demo images. These are included in the npm package and shown by `image-buddy web`.
+
+| Product | Ecommerce | Social Ad | App |
+|---|---|---|---|
+| ![SaaS Hero Phone](assets/saas-hero-phone.png)<br>**SaaS Hero Phone** | ![Skincare Product](assets/ecommerce-skincare.png)<br>**Skincare Product** | ![UGC Coffee Ad](assets/ugc-coffee-ad.png)<br>**UGC Coffee Ad** | ![Fitness App](assets/fitness-app.png)<br>**Fitness App** |
+
+| Poster | Infographic | Fashion | Game Asset |
+|---|---|---|---|
+| ![AI Agent Poster](assets/ai-agent-poster.png)<br>**AI Agent Poster** | ![Liquid Bento](assets/liquid-bento.png)<br>**Liquid Bento** | ![Streetwear Lookbook](assets/streetwear-lookbook.png)<br>**Streetwear Lookbook** | ![Crystal Game Prop](assets/game-prop-crystal.png)<br>**Crystal Game Prop** |
+
+| Food | Travel | Portrait | Real Estate |
+|---|---|---|---|
+| ![Dessert Hero](assets/food-dessert.png)<br>**Dessert Hero** | ![Travel Map](assets/travel-map.png)<br>**Travel Map** | ![Cyber Portrait](assets/cyber-portrait.png)<br>**Cyber Portrait** | ![Interior Render](assets/real-estate-interior.png)<br>**Interior Render** |
+
+| Entertainment | Education | Finance | Beauty |
+|---|---|---|---|
+| ![Music Cover](assets/music-cover.png)<br>**Music Cover** | ![Education Card](assets/education-card.png)<br>**Education Card** | ![Finance Dashboard](assets/finance-dashboard.png)<br>**Finance Dashboard** | ![Beauty Makeup](assets/beauty-makeup.png)<br>**Beauty Makeup** |
+
+| Architecture | Pet | Sports | Publishing |
+|---|---|---|---|
+| ![Architecture Model](assets/architecture-model.png)<br>**Architecture Model** | ![Pet Brand](assets/pet-brand.png)<br>**Pet Brand** | ![Sports Shoe](assets/sports-shoe.png)<br>**Sports Shoe** | ![Book Cover](assets/book-cover.png)<br>**Book Cover** |
+
 ## CLI Usage
 
 Generate from plain English:
