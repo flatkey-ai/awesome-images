@@ -2,7 +2,7 @@
 
 [English](README.md) | [中文](README_zh.md) | [日本語](README_ja.md) | [Español](README_es.md) | [Português](README_pt.md) | [Tiếng Việt](README_vi.md)
 
-Marketing-ready image generation prompt library for AI API resellers, growth pages, and user onboarding. Users can browse templates, copy prompts, replace variables, register a Flatkey API key, and generate images through an OpenAI-compatible image API.
+Marketing-ready image generation prompt library for AI API resellers, growth pages, and user onboarding. Users can browse templates, copy prompts, replace variables, register a Flatkey API key, and generate images from the CLI.
 
 Get API key: <https://flatkey.ai?utm_source=skill>
 
@@ -164,20 +164,8 @@ npm run build
 3. Expand the template and copy the prompt.
 4. Replace variables such as `{{product_name}}`, `{{core_benefit}}`, or `{{brand_color}}`.
 5. Register a Flatkey API key at <https://flatkey.ai?utm_source=skill>.
-6. Call the Flatkey OpenAI-compatible image API to generate images.
+6. Run `image-buddy generate` to create and save images locally.
 
-## API Example
-
-```bash
-curl https://router.flatkey.ai/v1/images/generations \
-  -H "Authorization: Bearer ${FLATKEY_IMAGE_API_KEY:-$FLATKEY_API_KEY}" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "gpt-image-2",
-    "prompt": "final prompt after replacing template variables",
-    "size": "1536x1024"
-  }'
-```
 
 ## Template Structure
 

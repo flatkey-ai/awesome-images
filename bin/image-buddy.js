@@ -12,6 +12,20 @@ import { categories, prompts } from "../src/prompts.js";
 
 const root = join(fileURLToPath(new URL(".", import.meta.url)), "..");
 const packageJson = await import("../package.json", { with: { type: "json" } });
+const englishTitles = {
+  "premium-product-hero": "Premium Product Hero",
+  "marketplace-main-image": "Marketplace Main Image",
+  "ugc-ad-still": "UGC Ad Still",
+  "liquid-glass-infographic": "Liquid Glass Infographic",
+  "founder-quote-card": "Founder Quote Card",
+  "avatar-pack": "Avatar Pack",
+  "app-store-screenshot": "App Store Screenshot",
+  "youtube-thumbnail": "YouTube Thumbnail",
+  "poster-event": "Event Poster",
+  "game-prop-sheet": "Game Prop Sheet",
+  "image-edit-background": "Image Edit Background",
+  "fashion-lookbook": "Fashion Lookbook"
+};
 
 main().catch((error) => {
   console.error(error instanceof Error ? error.message : String(error));
@@ -26,7 +40,7 @@ async function main() {
     printHelp();
     return;
   }
-  if (command === "version" || args.includes("--version") || args.includes("-v")) {
+  if (command === "version" || args.includes("--version") || args.includes("--versino") || args.includes("-v")) {
     console.log(packageJson.default.version);
     return;
   }
@@ -109,7 +123,7 @@ function listTemplates(options) {
     .filter((prompt) => !options.category || prompt.category === options.category)
     .map((prompt) => ({
       id: prompt.id,
-      title: prompt.title,
+      title: englishTitle(prompt),
       category: prompt.category,
       aspectRatio: prompt.aspectRatio,
       model: prompt.model
@@ -121,6 +135,18 @@ function listTemplates(options) {
   for (const item of items) {
     console.log(`${item.id}\t${item.category}\t${item.title}`);
   }
+}
+
+function englishTitle(prompt) {
+  return englishTitles[prompt.id] || titleFromId(prompt.id);
+}
+
+function titleFromId(id = "") {
+  return String(id)
+    .split("-")
+    .filter(Boolean)
+    .map((word) => word[0]?.toUpperCase() + word.slice(1))
+    .join(" ");
 }
 
 function showTemplate(args) {
@@ -495,6 +521,7 @@ Options:
   --out <dir>           Output dir. Default: image-buddy-output
   --json                Print JSON
   -v, --version         Print version
+  --versino            Print version (accepted typo)
   -h, --help            Show help
 
 Get a Flatkey API key:

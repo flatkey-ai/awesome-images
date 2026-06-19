@@ -14,6 +14,18 @@ const templates = JSON.parse(list.stdout);
 assert.ok(Array.isArray(templates));
 assert.ok(templates.some((item) => item.id === "premium-product-hero"));
 
+const plainList = await run([...cli, "list"]);
+assert.equal(plainList.code, 0);
+assert.doesNotMatch(plainList.stdout, /[\u3400-\u9fff]/);
+assert.match(plainList.stdout, /premium-product-hero/);
+
+const version = await run([...cli, "-v"]);
+assert.equal(version.code, 0);
+assert.match(version.stdout.trim(), /^\d+\.\d+\.\d+$/);
+const typoVersion = await run([...cli, "--versino"]);
+assert.equal(typoVersion.code, 0);
+assert.equal(typoVersion.stdout, version.stdout);
+
 const show = await run([...cli, "show", "premium-product-hero", "--json"]);
 assert.equal(show.code, 0);
 assert.equal(JSON.parse(show.stdout).id, "premium-product-hero");

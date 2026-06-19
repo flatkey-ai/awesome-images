@@ -89,18 +89,6 @@ npm run build
 5. Registrar uma API key da Flatkey em <https://flatkey.ai?utm_source=skill>.
 6. Chamar a API de imagens compatível com OpenAI da Flatkey para gerar imagens.
 
-## Exemplo de API
-
-```bash
-curl https://router.flatkey.ai/v1/images/generations \
-  -H "Authorization: Bearer ${FLATKEY_IMAGE_API_KEY:-$FLATKEY_API_KEY}" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "gpt-image-2",
-    "prompt": "final prompt after replacing template variables",
-    "size": "1536x1024"
-  }'
-```
 
 ## Estrutura do Modelo
 

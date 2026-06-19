@@ -9,6 +9,7 @@
   "files": [
     "assets/",
     "bin/",
+    "scripts/postinstall.mjs",
     "skills/",
     "src/",
     "index.html",
@@ -17,6 +18,7 @@
   ],
   "scripts": {
     "test": "node scripts/validate-library.mjs && node scripts/test-cli.mjs",
+    "postinstall": "node scripts/postinstall.mjs",
     "prepare:release": "node scripts/prepare-npm-release.mjs",
     "start": "node bin/image-buddy.js",
     "dev": "vite --host 0.0.0.0",

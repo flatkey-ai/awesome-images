@@ -102,20 +102,8 @@ npm run build
 3. 展开模板并复制提示词。
 4. 替换 `{{product_name}}`、`{{core_benefit}}`、`{{brand_color}}` 等变量。
 5. 在 <https://flatkey.ai?utm_source=skill> 注册 Flatkey API key。
-6. 调用 Flatkey OpenAI 兼容生图 API 生成图片。
+6. 运行 `image-buddy generate` 生成图片并保存到本地。
 
-## API 示例
-
-```bash
-curl https://router.flatkey.ai/v1/images/generations \
-  -H "Authorization: Bearer ${FLATKEY_IMAGE_API_KEY:-$FLATKEY_API_KEY}" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "gpt-image-2",
-    "prompt": "替换模板变量后的最终提示词",
-    "size": "1536x1024"
-  }'
-```
 
 ## 模板结构
 

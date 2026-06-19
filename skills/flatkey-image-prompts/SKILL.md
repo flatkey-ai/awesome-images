@@ -59,18 +59,6 @@ API key signup:
 https://flatkey.ai?utm_source=skill
 ```
 
-## API Example
-
-```bash
-curl https://router.flatkey.ai/v1/images/generations \
-  -H "Authorization: Bearer ${FLATKEY_IMAGE_API_KEY:-$FLATKEY_API_KEY}" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "model": "gpt-image-2",
-    "prompt": "final prompt after replacing template variables",
-    "size": "1536x1024"
-  }'
-```
 
 ## Good Defaults
 

@@ -19,6 +19,7 @@ const html = await readFile(path.join(root, "index.html"), "utf8");
 const app = await readFile(path.join(root, "src", "app.js"), "utf8");
 const readme = await readFile(path.join(root, "README.md"), "utf8");
 const packageJson = JSON.parse(await readFile(path.join(root, "package.json"), "utf8"));
+const postinstall = await readFile(path.join(root, "scripts", "postinstall.mjs"), "utf8");
 const skill = await readFile(
   path.join(root, "skills", "flatkey-image-prompts", "SKILL.md"),
   "utf8"
@@ -39,22 +40,25 @@ assert(categories.length >= 6, "library needs at least 6 categories");
 assert(html.includes(flatkeyUrl), "index.html must link to Flatkey with utm_source=skill");
 assert(app.includes(flatkeyUrl), "app.js must link to Flatkey with utm_source=skill");
 assert(html.includes("https://router.flatkey.ai/v1/images/generations"), "index.html must use router.flatkey.ai for image API examples");
-assert(readme.includes("https://router.flatkey.ai/v1/images/generations"), "README must use router.flatkey.ai for image API examples");
 assert(html.includes("${FLATKEY_IMAGE_API_KEY:-$FLATKEY_API_KEY}"), "index.html must document Flatkey image API key fallback");
-assert(readme.includes("${FLATKEY_IMAGE_API_KEY:-$FLATKEY_API_KEY}"), "README must document Flatkey image API key fallback");
 assert(!html.includes("api.flatkey.ai"), "index.html must not use api.flatkey.ai");
 assert(!readme.includes("api.flatkey.ai"), "README must not use api.flatkey.ai");
 assert(packageJson.private !== true, "package must be publishable for CLI usage");
 assert(packageJson.name === "@flatkey-ai/image-buddy", "package name must be @flatkey-ai/image-buddy");
 assert(packageJson.bin?.["image-buddy"], "package must expose image-buddy CLI");
+assert(packageJson.scripts?.postinstall === "node scripts/postinstall.mjs", "package must show onboard hint after install");
+assert(postinstall.includes("\\x1b[33m"), "postinstall hint must use yellow terminal text");
+assert(postinstall.includes("image-buddy onboard"), "postinstall hint must explain image-buddy onboard");
 assert(readme.includes("npx"), "README must explain npx CLI usage");
 assert(readme.includes("npx @flatkey-ai/image-buddy"), "README must explain npm package CLI usage");
 assert(!readme.includes("npm run dev"), "README must not make npm run dev the user-facing path");
+assert(!readme.includes("curl https://router.flatkey.ai"), "README must not expose raw API curl usage");
 assert(skill.includes("name: flatkey-image-prompts"), "skill must define flatkey-image-prompts");
 assert(skill.includes("npx @flatkey-ai/image-buddy"), "skill must route users to image-buddy CLI");
 assert(skill.includes('generate --prompt "<final image prompt>"'), "skill must support natural language to direct generation");
 assert(skill.includes("Do not stop at prompt suggestions"), "skill must tell agents to generate, not only suggest prompts");
 assert(skill.includes(flatkeyUrl), "skill must include Flatkey registration link");
+assert(!skill.includes("curl https://router.flatkey.ai"), "skill must not expose raw API curl usage");
 
 const cliPath = path.join(root, packageJson.bin["image-buddy"]);
 await access(cliPath, constants.X_OK);
