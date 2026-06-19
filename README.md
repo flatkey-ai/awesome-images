@@ -2,9 +2,34 @@
 
 [English](README.md) | [中文](README_zh.md) | [日本語](README_ja.md) | [Español](README_es.md) | [Português](README_pt.md) | [Tiếng Việt](README_vi.md)
 
-Marketing-ready image generation prompt library for AI API resellers, growth pages, and user onboarding. Users can browse templates, copy prompts, replace variables, register a Flatkey API key, and generate images from the CLI.
+Image Buddy is a commercial prompt library and CLI for generating useful marketing images with [Flatkey.ai](https://flatkey.ai?utm_source=skill). Flatkey can be about 40% cheaper than common direct image API routes, and this repo makes it easier to turn that lower cost into usable product images, ads, avatars, app visuals, and ecommerce creatives.
 
 Get API key: <https://flatkey.ai?utm_source=skill>
+
+## What You Get
+
+- **Lower generation cost**: use Flatkey.ai for image generation, often around 40% cheaper than common direct API routes.
+- **Commercial prompts that work**: templates are written for product, ecommerce, social ads, UI screenshots, avatars, posters, game assets, and edits.
+- **Fast generation demo**: use `image-buddy web` to open a local demo gallery and generate images with a Flatkey key.
+- **CLI-first workflow**: onboard once, then generate from a short sentence or a template hint.
+
+## Includes
+
+**Skill**: a copy-paste prompt for your AI agent. The agent installs and uses Image Buddy for you, backed by the CLI.
+
+Paste this into your AI assistant:
+
+```text
+Install and use the Flatkey Image Buddy skill from https://github.com/flatkey-ai/awesome-images.
+When I ask for an image, use image-buddy CLI with Flatkey. First run image-buddy onboard if needed, then generate the image from my short prompt or from a template hint. Do not stop at suggesting prompts.
+```
+
+**CLI**: one command-line tool for onboarding and generation.
+
+- `image-buddy onboard`: save your Flatkey API key locally.
+- `image-buddy generate --prompt "..."`: generate from a plain sentence.
+- `image-buddy generate avatar-pack "地雷妹"`: generate from a template plus hint.
+- `image-buddy web`: open the optional demo gallery.
 
 ## Quickstart
 

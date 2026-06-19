@@ -2,9 +2,34 @@
 
 [English](README.md) | [中文](README_zh.md) | [日本語](README_ja.md) | [Español](README_es.md) | [Português](README_pt.md) | [Tiếng Việt](README_vi.md)
 
-面向 AI API 中转站、增长页面和用户 onboarding 的生图提示词模板库。用户可以浏览模板、复制提示词、替换变量、注册 Flatkey API key，并通过 OpenAI 兼容生图 API 生成图片。
+Image Buddy 是一个商业化生图提示词库 + CLI，用 [Flatkey.ai](https://flatkey.ai?utm_source=skill) 生成可直接使用的营销图片。Flatkey.ai 通常比常见直连生图 API 路线便宜约 40%，这个库负责把低成本生图变成更容易落地的产品图、广告图、头像、App 图、电商图和素材图。
 
 获取 API key：<https://flatkey.ai?utm_source=skill>
+
+## 你会得到什么
+
+- **更低生成成本**：用 Flatkey.ai 生图，通常比常见直连 API 路线便宜约 40%。
+- **可商业化使用的提示词库**：覆盖产品营销、电商、社媒广告、UI 截图、头像、海报、游戏素材和图像编辑。
+- **Flatkey 生图 demo**：运行 `image-buddy web` 打开本地 demo gallery，填 Flatkey key 后直接生成图片。
+- **CLI 优先工作流**：一次 onboard 保存 key，之后用一句话或模板 hint 直接生成。
+
+## 包含两个东西
+
+**Skill**：给用户贴给 AI 的安装提示词。AI 背后实际会安装并调用 CLI。
+
+复制这段给你的 AI 助手：
+
+```text
+Install and use the Flatkey Image Buddy skill from https://github.com/flatkey-ai/awesome-images.
+When I ask for an image, use image-buddy CLI with Flatkey. First run image-buddy onboard if needed, then generate the image from my short prompt or from a template hint. Do not stop at suggesting prompts.
+```
+
+**CLI**：负责 onboard 和生成图片。
+
+- `image-buddy onboard`：保存 Flatkey API key 到本地。
+- `image-buddy generate --prompt "..."`：用一句话生成图片。
+- `image-buddy generate avatar-pack "地雷妹"`：用模板 + hint 生成图片。
+- `image-buddy web`：打开可选 demo gallery。
 
 ## 使用价值
 
