@@ -167,13 +167,20 @@ async function generateImage(args) {
 
   const baseUrl = String(options.baseUrl || process.env.FLATKEY_IMAGE_BASE_URL || "https://router.flatkey.ai").replace(/\/+$/, "");
   const request = imageGenerationRequest({ ...options, prompt, apiKey, baseUrl });
+  const log = createGenerateLogger(options);
+  log(`Starting image generation`);
+  log(`Model: ${request.model}`);
+  log(`Endpoint: ${request.endpoint}`);
+  log(`Output: ${resolve(options.out || "image-buddy-output")}`);
   const response = await fetch(request.url, request.fetchOptions);
   const payload = await response.json().catch(() => ({}));
   if (!response.ok) {
     throw new Error(payload?.error?.message || payload?.message || `Flatkey image API failed: HTTP ${response.status}`);
   }
 
+  log(`Saving generated image artifacts`);
   const artifacts = await persistImages(payload, options.out || "image-buddy-output");
+  log(`Saved ${artifacts.length} artifact${artifacts.length === 1 ? "" : "s"}`);
   const result = { provider: "flatkey", endpoint: request.endpoint, model: request.model, prompt, artifacts, raw: payload };
   if (options.json) {
     console.log(JSON.stringify(result, null, 2));
@@ -186,6 +193,11 @@ async function generateImage(args) {
   for (const artifact of artifacts) {
     console.log(artifact.path || artifact.url);
   }
+}
+
+function createGenerateLogger(options) {
+  if (options.json) return () => {};
+  return (message) => console.error(`[image-buddy] ${message}`);
 }
 
 function imageGenerationRequest(options) {

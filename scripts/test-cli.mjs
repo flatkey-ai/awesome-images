@@ -139,6 +139,41 @@ const nanoPayload = JSON.parse(nanoGenerate.stdout);
 assert.equal(await readFile(nanoPayload.artifacts[0].path, "utf8"), "nano-image");
 await rm(nanoOutDir, { recursive: true, force: true });
 
+const logCalls = [];
+const logServer = createServer(async (request, response) => {
+  const chunks = [];
+  request.on("data", (chunk) => chunks.push(chunk));
+  await once(request, "end");
+  logCalls.push({ url: request.url });
+  response.writeHead(200, { "Content-Type": "application/json" });
+  response.end(JSON.stringify({ data: [{ b64_json: Buffer.from("logged-image").toString("base64") }] }));
+});
+logServer.listen(0, "127.0.0.1");
+await once(logServer, "listening");
+const logOutDir = await mkdtemp(path.join(os.tmpdir(), "image-buddy-log-"));
+const logPort = logServer.address().port;
+const loggedGenerate = await run([
+  ...cli,
+  "generate",
+  "--prompt",
+  "premium product photo of Image Buddy",
+  "--model",
+  "gpt",
+  "--api-key",
+  "flatkey-test",
+  "--base-url",
+  `http://127.0.0.1:${logPort}`,
+  "--out",
+  logOutDir
+]);
+logServer.close();
+assert.equal(loggedGenerate.code, 0, loggedGenerate.stderr);
+assert.match(loggedGenerate.stderr, /Starting image generation/);
+assert.match(loggedGenerate.stderr, /Endpoint: \/v1\/images\/generations/);
+assert.match(loggedGenerate.stderr, /Saved 1 artifact/);
+assert.match(loggedGenerate.stdout, /image-01\.png/);
+await rm(logOutDir, { recursive: true, force: true });
+
 const help = await run([...cli, "--help"]);
 assert.equal(help.code, 0);
 assert.match(help.stdout, /image-buddy generate/);
