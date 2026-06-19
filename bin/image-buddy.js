@@ -142,7 +142,7 @@ function renderTemplate(args) {
   const options = parseOptions(args);
   const id = options._?.[0];
   const template = findPrompt(id);
-  const rendered = renderPrompt(template.prompt, options.vars);
+  const rendered = renderPrompt(template.prompt, variablesForTemplate(template, options));
   if (options.json) {
     console.log(JSON.stringify({ id: template.id, prompt: rendered, missing: missingVariables(rendered) }, null, 2));
     return;
@@ -153,7 +153,8 @@ function renderTemplate(args) {
 async function generateImage(args) {
   const options = parseOptions(args);
   const id = options._?.[0];
-  const prompt = options.prompt || renderPrompt(findPrompt(id).prompt, options.vars);
+  const template = options.prompt ? null : findPrompt(id);
+  const prompt = options.prompt || renderPrompt(template.prompt, variablesForTemplate(template, options));
   const missing = missingVariables(prompt);
   if (missing.length) {
     throw new Error(`Missing variables: ${missing.join(", ")}. Pass --var key=value.`);
@@ -327,6 +328,30 @@ function renderPrompt(template, vars) {
   return template.replace(/\{\{\s*([^}]+?)\s*\}\}/g, (match, key) => vars[key] ?? match);
 }
 
+function variablesForTemplate(template, options) {
+  const vars = { ...options.vars };
+  const hint = templateHint(options);
+  if (!hint) return vars;
+  for (const variable of template.variables || []) {
+    if (vars[variable]) continue;
+    vars[variable] = hintedVariableValue(variable, hint);
+  }
+  return vars;
+}
+
+function templateHint(options) {
+  return (options._ || []).slice(1).join(" ").trim();
+}
+
+function hintedVariableValue(variable, hint) {
+  const key = String(variable);
+  if (/风格|style/i.test(key)) return `${hint} 相关的精致商业视觉风格`;
+  if (/背景|场景|元素|scene|background/i.test(key)) return `${hint} 相关的轻量背景元素`;
+  if (/职业|身份|人群|用户|audience|role|profession/i.test(key)) return `${hint} 相关角色身份`;
+  if (/主色|品牌色|色彩|color/i.test(key)) return `${hint} 适配配色`;
+  return hint;
+}
+
 function missingVariables(prompt) {
   return Array.from(new Set(Array.from(prompt.matchAll(/\{\{\s*([^}]+?)\s*\}\}/g), (match) => match[1])));
 }
@@ -451,6 +476,7 @@ Usage:
   image-buddy onboard [--api-key <key>]
   image-buddy show <template-id> [--json]
   image-buddy render <template-id> --var key=value [--json]
+  image-buddy generate <template-id> "hint text" [options]
   image-buddy generate <template-id> --var key=value [options]
   image-buddy generate --prompt "final prompt" [options]
   image-buddy web [--port 5173] [--no-open]

@@ -78,6 +78,12 @@ Generate from a template:
 
 ```bash
 npx @flatkey-ai/image-buddy onboard
+npx @flatkey-ai/image-buddy generate avatar-pack "地雷妹"
+```
+
+For precise template control, pass variables explicitly:
+
+```bash
 npx @flatkey-ai/image-buddy generate premium-product-hero \
   --var "产品名称=Image Buddy" \
   --var "品牌调性=clean SaaS" \
@@ -85,6 +91,8 @@ npx @flatkey-ai/image-buddy generate premium-product-hero \
   --var "主色=teal" \
   --size 1536x1024
 ```
+
+Template text after the id is used as a hint. Missing variables are filled from that hint, so users do not need to learn every `--var` name before generating.
 
 `onboard` prompts for a Flatkey API key and saves it locally. If you do not have a key, get one at <https://console.flatkey.ai/keys>. The CLI also accepts `FLATKEY_IMAGE_API_KEY` or `FLATKEY_API_KEY`, calls Flatkey image generation, and saves images locally. No web server required.
 

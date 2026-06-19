@@ -30,6 +30,12 @@ npx @flatkey-ai/image-buddy generate --prompt "<final image prompt>"
 3. If user names a known template or gives structured variables, use that template:
 
 ```bash
+npx @flatkey-ai/image-buddy generate avatar-pack "地雷妹"
+```
+
+Use `--var` only when the user needs precise variable control:
+
+```bash
 npx @flatkey-ai/image-buddy generate premium-product-hero \
   --var "产品名称=Image Buddy" \
   --var "品牌调性=clean SaaS" \

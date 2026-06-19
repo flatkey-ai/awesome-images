@@ -35,6 +35,12 @@ assert.equal(render.code, 0);
 assert.match(render.stdout, /Image Buddy/);
 assert.doesNotMatch(render.stdout, /\{\{产品名称\}\}/);
 
+const hintedRender = await run([...cli, "render", "avatar-pack", "地雷妹", "--json"]);
+assert.equal(hintedRender.code, 0, hintedRender.stderr);
+const hintedRenderPayload = JSON.parse(hintedRender.stdout);
+assert.match(hintedRenderPayload.prompt, /地雷妹/);
+assert.deepEqual(hintedRenderPayload.missing, []);
+
 const generateNoKey = await run([...cli, "generate", "--prompt", "premium product photo of Image Buddy"], {
   FLATKEY_IMAGE_API_KEY: "",
   FLATKEY_API_KEY: "",
@@ -118,8 +124,8 @@ const nanoPort = nanoServer.address().port;
 const nanoGenerate = await run([
   ...cli,
   "generate",
-  "--prompt",
-  "premium product photo of Image Buddy",
+  "avatar-pack",
+  "地雷妹",
   "--model",
   "nano",
   "--api-key",
@@ -134,6 +140,8 @@ nanoServer.close();
 assert.equal(nanoGenerate.code, 0, nanoGenerate.stderr);
 assert.match(nanoCalls[0].url, /^\/v1beta\/models\/nano-banana-pro-preview:generateContent\?key=flatkey-test$/);
 assert.equal(nanoCalls[0].method, "POST");
+assert.match(nanoCalls[0].body.contents[0].parts[0].text, /地雷妹/);
+assert.doesNotMatch(nanoCalls[0].body.contents[0].parts[0].text, /\{\{/);
 assert.equal(nanoCalls[0].body.generationConfig.imageGenerationConfig.aspectRatio, "1:1");
 const nanoPayload = JSON.parse(nanoGenerate.stdout);
 assert.equal(await readFile(nanoPayload.artifacts[0].path, "utf8"), "nano-image");

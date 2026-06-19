@@ -61,6 +61,7 @@ await access(cliPath, constants.X_OK);
 const cli = await readFile(cliPath, "utf8");
 assert(cli.startsWith("#!/usr/bin/env node"), "CLI must have node shebang");
 assert(cli.includes("image-buddy generate"), "CLI help must expose generate command");
+assert(cli.includes('generate <template-id> "hint text"'), "CLI help must document template hint generation");
 assert(cli.includes("image-buddy onboard"), "CLI help must expose onboard command");
 assert(cli.includes("image-buddy web"), "CLI help must expose web command");
 assert(cli.includes("/v1/images/generations"), "CLI must call Flatkey image generation API");
