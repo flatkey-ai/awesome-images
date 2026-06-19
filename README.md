@@ -6,6 +6,29 @@ Marketing-ready image generation prompt library for AI API resellers, growth pag
 
 Get API key: <https://flatkey.ai?utm_source=skill>
 
+## Quickstart
+
+Generate an image with no local install:
+
+```bash
+npx @flatkey-ai/image-buddy onboard
+npx @flatkey-ai/image-buddy generate --prompt "premium product hero image for an AI image API CLI"
+```
+
+Use a template with a short hint:
+
+```bash
+npx @flatkey-ai/image-buddy generate avatar-pack "地雷妹"
+```
+
+Open the optional web gallery:
+
+```bash
+npx @flatkey-ai/image-buddy web
+```
+
+No API key yet? Create one at <https://console.flatkey.ai/keys>. The CLI reads the saved key, `FLATKEY_IMAGE_API_KEY`, or `FLATKEY_API_KEY`.
+
 ## Why This Exists
 
 - **Lower activation friction**: users start from proven templates instead of a blank prompt box.
