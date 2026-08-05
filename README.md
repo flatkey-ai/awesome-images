@@ -188,7 +188,7 @@ npm run build
 2. Find a template by category or keyword.
 3. Expand the template and copy the prompt.
 4. Replace variables such as `{{product_name}}`, `{{core_benefit}}`, or `{{brand_color}}`.
-5. Register a Flatkey API key at <https://flatkey.ai?utm_source=skill>.
+5. Register a Flatkey API key at <[https://flatkey.ai](https://flatkey.ai?utm_source=github&utm_medium=awesome)>.
 6. Run `image-buddy generate` to create and save images locally.
 
 
