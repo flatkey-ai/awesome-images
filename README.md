@@ -2,9 +2,9 @@
 
 [English](README.md) | [中文](README_zh.md) | [日本語](README_ja.md) | [Español](README_es.md) | [Português](README_pt.md) | [Tiếng Việt](README_vi.md)
 
-Image Buddy is a commercial prompt library and CLI for generating useful marketing images with [Flatkey.ai](https://flatkey.ai?utm_source=skill). Flatkey can be about 40% cheaper than common direct image API routes, and this repo makes it easier to turn that lower cost into usable product images, ads, avatars, app visuals, and ecommerce creatives.
+Image Buddy is a commercial prompt library and CLI for generating useful marketing images with [Flatkey.ai]([https://flatkey.ai?utm_source=skill](https://flatkey.ai?utm_source=github&utm_medium=awesome_images)). Flatkey can be about 40% cheaper than common direct image API routes, and this repo makes it easier to turn that lower cost into usable product images, ads, avatars, app visuals, and ecommerce creatives.
 
-Get API key: <https://flatkey.ai?utm_source=skill>
+Get API key: <[https://flatkey.ai?utm_source=github&utm_medium=awesome_images](https://flatkey.ai?utm_source=github&utm_medium=awesome_images)>
 
 ## What You Get
 
@@ -142,7 +142,7 @@ npx @flatkey-ai/image-buddy generate premium-product-hero \
 
 Template text after the id is used as a hint. Missing variables are filled from that hint, so users do not need to learn every `--var` name before generating.
 
-`onboard` prompts for a Flatkey API key and saves it locally. If you do not have a key, get one at <https://console.flatkey.ai/keys>. The CLI also accepts `FLATKEY_IMAGE_API_KEY` or `FLATKEY_API_KEY`, calls Flatkey image generation, and saves images locally. No web server required.
+`onboard` prompts for a Flatkey API key and saves it locally. If you do not have a key, get one at <https://console.flatkey.ai/keys?utm_source=github&utm_medium=awesome_images>. The CLI also accepts `FLATKEY_IMAGE_API_KEY` or `FLATKEY_API_KEY`, calls Flatkey image generation, and saves images locally. No web server required.
 
 `generate` defaults to Nano Banana through `router.flatkey.ai` because it works well for direct CLI generation. Use `--model gpt` when you explicitly want the OpenAI-compatible GPT Image 2 endpoint.
 
@@ -188,7 +188,7 @@ npm run build
 2. Find a template by category or keyword.
 3. Expand the template and copy the prompt.
 4. Replace variables such as `{{product_name}}`, `{{core_benefit}}`, or `{{brand_color}}`.
-5. Register a Flatkey API key at <[https://flatkey.ai](https://flatkey.ai?utm_source=github&utm_medium=awesome)>.
+5. Register a Flatkey API key at <[https://flatkey.ai](https://flatkey.ai?utm_source=github&utm_medium=awesome_images)>.
 6. Run `image-buddy generate` to create and save images locally.
 
 
