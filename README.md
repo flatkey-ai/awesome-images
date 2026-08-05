@@ -4,7 +4,7 @@
 
 Image Buddy is a commercial prompt library and CLI for generating useful marketing images with [Flatkey.ai]([https://flatkey.ai?utm_source=skill](https://flatkey.ai?utm_source=github&utm_medium=awesome_images)). Flatkey can be about 40% cheaper than common direct image API routes, and this repo makes it easier to turn that lower cost into usable product images, ads, avatars, app visuals, and ecommerce creatives.
 
-Get API key: <[https://flatkey.ai?utm_source=github&utm_medium=awesome_images](https://flatkey.ai?utm_source=github&utm_medium=awesome_images)>
+Get API key: <[https://flatkey.ai](https://flatkey.ai?utm_source=github&utm_medium=awesome_images)>
 
 ## What You Get
 
