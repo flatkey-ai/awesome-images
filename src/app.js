@@ -25,7 +25,7 @@ function showToast(message) {
 }
 
 function promptMatches(item) {
-  return [item.title, item.category, item.prompt].join(" ").toLowerCase().includes(query.toLowerCase());
+  return [item.title, item.category, item.industry, item.prompt].join(" ").toLowerCase().includes(query.toLowerCase());
 }
 
 function renderPrompts() {

@@ -9,10 +9,33 @@ export const categories = [
   { id: "edit", name: "图像编辑", tone: "保真改图" }
 ];
 
+// Business context is kept separate from the production category so the same
+// template can be filtered by both a model-detail page and the local gallery.
+export const industries = [
+  { id: "automotive-mobility", name: "汽车与出行" },
+  { id: "beauty-wellness", name: "美妆与健康" },
+  { id: "creator-social", name: "创作者与社交" },
+  { id: "ecommerce-retail", name: "电商与零售" },
+  { id: "education-training", name: "教育与培训" },
+  { id: "fashion-apparel", name: "时尚与服饰" },
+  { id: "finance", name: "金融" },
+  { id: "food-beverage", name: "食品与饮料" },
+  { id: "gaming", name: "游戏" },
+  { id: "marketing-advertising", name: "营销与广告" },
+  { id: "media-entertainment", name: "媒体与娱乐" },
+  { id: "pet-care", name: "宠物" },
+  { id: "publishing", name: "出版" },
+  { id: "real-estate", name: "房地产与建筑" },
+  { id: "software-saas", name: "软件与 SaaS" },
+  { id: "sports-fitness", name: "运动与健身" },
+  { id: "travel-hospitality", name: "旅游与酒店" }
+];
+
 export const prompts = [
   {
     id: "premium-product-hero",
     title: "高端产品海报主视觉",
+    industry: "marketing-advertising",
     category: "product",
     badge: "Hero",
     aspectRatio: "16:9",
@@ -21,11 +44,12 @@ export const prompts = [
     description: "把一个产品包装成高级商业广告主视觉，强调材质、卖点和品牌记忆点。",
     variables: ["产品名称", "品牌调性", "核心卖点", "主色"],
     prompt:
-      "为 {{产品名称}} 生成一张高端商业广告主视觉。品牌调性是 {{品牌调性}}，核心卖点是 {{核心卖点}}。画面中央展示产品本体，保持真实比例和清晰边缘，表面材质可被放大检查。背景使用 {{主色}} 作为主视觉线索，加入与卖点相关的轻量场景元素，但不要遮挡产品。构图采用 16:9 横版，产品占画面 42%，右侧保留干净留白给营销文案。灯光为大型柔光箱加一束轮廓光，细节锐利，高端电商摄影，真实阴影，8k，禁止水印、乱码文字、虚假 logo。"
+      "为 {{产品名称}} 生成一张 16:9 商业广告主视觉。品牌调性是 {{品牌调性}}，核心卖点是 {{核心卖点}}。产品本体位于画面中央，占画面约 42%，保持真实比例、清晰边缘和可辨识的表面材质。背景以 {{主色}} 为主，加入一两个与卖点相关的场景元素但不遮挡产品；右侧保留干净留白给后期文案。使用左前方大型柔光箱和一束窄轮廓光，阴影方向明确、反射受控。不要生成水印、乱码文字或虚假 logo。"
   },
   {
     id: "marketplace-main-image",
     title: "白底电商主图升级",
+    industry: "ecommerce-retail",
     category: "ecommerce",
     badge: "Amazon",
     aspectRatio: "1:1",
@@ -39,6 +63,7 @@ export const prompts = [
   {
     id: "ugc-ad-still",
     title: "UGC 广告封面帧",
+    industry: "creator-social",
     category: "social",
     badge: "Ads",
     aspectRatio: "9:16",
@@ -52,6 +77,7 @@ export const prompts = [
   {
     id: "liquid-glass-infographic",
     title: "液态玻璃 Bento 信息图",
+    industry: "education-training",
     category: "infographic",
     badge: "Bento",
     aspectRatio: "16:9",
@@ -60,11 +86,12 @@ export const prompts = [
     description: "采用热门 bento grid 结构，把复杂卖点变成可读的信息图。",
     variables: ["主题", "语言", "主色", "数据点"],
     prompt:
-      "创建 {{主题}} 的 16:9 横版 Bento 信息图，语言使用 {{语言}}。整体风格为高级液态玻璃界面，背景使用 {{主色}} 的柔和抽象纹理并强模糊，前景 8 个模块采用半透明玻璃卡片、细边框和真实阴影。M1 展示主题主视觉，M2 核心优势 4 点，M3 使用步骤 4 步，M4 展示 {{数据点}} 等关键数据，M5 适合人群，M6 注意事项，M7 速查信息，M8 冷知识。文本必须清晰、排版规整、不要乱码。图标统一线性风格，留白充足，适合网页文章封面和产品教育页。"
+      "创建 {{主题}} 的 16:9 横版 Bento 信息图，语言使用 {{语言}}。背景使用 {{主色}} 的柔和抽象纹理并强模糊；前景排布 8 个半透明玻璃卡片，统一细边框、阴影和间距。M1 展示主题主视觉，M2 核心优势 4 点，M3 使用步骤 4 步，M4 展示 {{数据点}} 等关键数据，M5 适合人群，M6 注意事项，M7 速查信息，M8 冷知识。文字按清晰的标题、短句和数字层级排版，图标统一线性风格，留白充足。"
   },
   {
     id: "founder-quote-card",
     title: "创始人金句卡",
+    industry: "creator-social",
     category: "social",
     badge: "Quote",
     aspectRatio: "4:5",
@@ -78,6 +105,7 @@ export const prompts = [
   {
     id: "avatar-pack",
     title: "统一风格头像组",
+    industry: "creator-social",
     category: "portrait",
     badge: "Avatar",
     aspectRatio: "1:1",
@@ -86,11 +114,12 @@ export const prompts = [
     description: "同一人物或角色的多风格头像模板，强调一致性和可替换变量。",
     variables: ["角色", "职业", "风格", "背景元素"],
     prompt:
-      "为 {{角色}} 生成 1:1 高级头像。角色职业是 {{职业}}，视觉风格为 {{风格}}。面部自然、眼神清晰、肩颈比例真实，背景加入少量 {{背景元素}} 作为身份线索。构图为胸像，头部居中，背景不过度复杂。灯光柔和，有清晰轮廓光，适合作为产品社区、客服、创作者账号头像。输出高分辨率，避免夸张表情、畸形五官、文字、水印和多余装饰。"
+      "为 {{角色}} 生成 1:1 胸像头像。角色职业是 {{职业}}，视觉风格为 {{风格}}。头部居中，肩颈比例自然，面部细节和眼神清晰；背景只保留少量 {{背景元素}} 作为身份线索。使用柔和正面光和一束窄轮廓光，适合作为产品社区、客服或创作者账号头像。不要加入夸张表情、畸形五官、文字、水印或多余装饰。"
   },
   {
     id: "app-store-screenshot",
     title: "App Store 截图海报",
+    industry: "software-saas",
     category: "ui",
     badge: "UI",
     aspectRatio: "9:16",
@@ -104,6 +133,7 @@ export const prompts = [
   {
     id: "youtube-thumbnail",
     title: "YouTube 封面缩略图",
+    industry: "creator-social",
     category: "social",
     badge: "CTR",
     aspectRatio: "16:9",
@@ -117,6 +147,7 @@ export const prompts = [
   {
     id: "poster-event",
     title: "活动海报主KV",
+    industry: "marketing-advertising",
     category: "product",
     badge: "Poster",
     aspectRatio: "3:4",
@@ -130,6 +161,7 @@ export const prompts = [
   {
     id: "game-prop-sheet",
     title: "游戏道具设定图",
+    industry: "gaming",
     category: "game",
     badge: "Asset",
     aspectRatio: "4:3",
@@ -143,6 +175,7 @@ export const prompts = [
   {
     id: "image-edit-background",
     title: "保留主体换背景",
+    industry: "ecommerce-retail",
     category: "edit",
     badge: "Edit",
     aspectRatio: "source",
@@ -156,6 +189,7 @@ export const prompts = [
   {
     id: "fashion-lookbook",
     title: "服装 Lookbook 拼贴",
+    industry: "fashion-apparel",
     category: "ecommerce",
     badge: "Fashion",
     aspectRatio: "4:5",
@@ -164,6 +198,6 @@ export const prompts = [
     description: "把单品做成多姿势、多细节的高级画报式拼贴。",
     variables: ["服装单品", "模特气质", "场景", "品牌灵感"],
     prompt:
-      "生成 {{服装单品}} 的 4:5 高级 Lookbook 拼贴海报。模特气质为 {{模特气质}}，场景是 {{场景}}，品牌灵感接近 {{品牌灵感}}。同一位模特出现 3 个姿势：全身、半身、细节特写，层叠排版但不拥挤。服装材质、版型、褶皱、配饰清晰可见，背景有编辑杂志感。预留少量文案空间但不要生成具体文字。禁止畸形手指、错误肢体、乱码和多余 logo。"
+      "生成 {{服装单品}} 的 4:5 Lookbook 拼贴海报。模特气质为 {{模特气质}}，场景是 {{场景}}，品牌灵感接近 {{品牌灵感}}。同一位模特出现 3 个姿势：全身、半身、细节特写，层叠排版但不拥挤。服装材质、版型、褶皱和配饰清晰可见，背景采用编辑杂志式留白。预留少量文案空间但不要生成具体文字；不要出现畸形手指、错误肢体、乱码或多余 logo。"
   }
 ];

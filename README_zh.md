@@ -66,6 +66,8 @@ When I ask for an image, use image-buddy CLI with Flatkey. First run image-buddy
 - 复制提示词按钮
 - Flatkey API key 注册链接
 
+可复用模板同时会导出到 [`catalog/prompts.json`](catalog/prompts.json)，方便模型详情页或其他 Prompt Gallery 读取；按行业浏览可查看自动生成的[提示词索引](docs/prompt-index.md)。这个目录是内容源，不是提示词生成 API。
+
 ## CLI 使用
 
 用一句话直接生成：
@@ -117,6 +119,7 @@ npx @flatkey-ai/image-buddy --help
 ```bash
 npm install
 npm test
+npm run build:catalog
 npm run build
 ```
 
@@ -140,6 +143,7 @@ npm run build
 {
   id: "unique-template-id",
   title: "Template title",
+  industry: "ecommerce-retail",
   category: "product",
   badge: "Hero",
   aspectRatio: "16:9",
@@ -150,6 +154,8 @@ npm run build
   prompt: "Create a commercial hero image for {{product_name}}..."
 }
 ```
+
+`industry` 表示业务行业，`category` 表示图片生产类型。给人看的 `description` 和直接交给模型的 `prompt` 分开维护，具体格式见 [`docs/prompt-format.md`](docs/prompt-format.md)。
 
 新增后运行：
 
