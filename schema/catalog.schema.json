@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/flatkey-ai/awesome-images/schema/catalog.schema.json",
+  "title": "Flatkey image prompt catalog",
+  "type": "object",
+  "required": ["schemaVersion", "kind", "entries"],
+  "properties": {
+    "schemaVersion": { "const": "1.0" },
+    "kind": { "const": "image-prompt-library" },
+    "repository": { "type": "string", "format": "uri" },
+    "generatedFrom": { "type": "string" },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["slug", "model", "industry", "category", "title", "description", "prompt", "status"],
+        "properties": {
+          "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+          "model": { "type": "string", "minLength": 1 },
+          "industry": { "type": "string", "minLength": 1 },
+          "category": { "type": "string", "minLength": 1 },
+          "title": { "type": "object", "minProperties": 1, "additionalProperties": { "type": "string" } },
+          "description": { "type": "object", "minProperties": 1, "additionalProperties": { "type": "string" } },
+          "prompt": { "type": "string", "minLength": 1 },
+          "variables": { "type": "array", "items": { "type": "string" } },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "status": { "enum": ["draft", "published", "archived"] }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": false
+}

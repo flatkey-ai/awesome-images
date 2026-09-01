@@ -12,8 +12,11 @@ function assert(condition, message) {
   }
 }
 
-const { prompts, categories } = await import(
+const { prompts, categories, industries } = await import(
   pathToFileURL(path.join(root, "src", "prompts.js")).href
+);
+const { demoPrompts } = await import(
+  pathToFileURL(path.join(root, "src", "demo-prompts.js")).href
 );
 const html = await readFile(path.join(root, "index.html"), "utf8");
 const app = await readFile(path.join(root, "src", "app.js"), "utf8");
@@ -37,6 +40,8 @@ assert(Array.isArray(prompts), "prompts must be an array");
 assert(prompts.length >= 12, "library needs at least 12 prompt templates");
 assert(Array.isArray(categories), "categories must be an array");
 assert(categories.length >= 6, "library needs at least 6 categories");
+assert(Array.isArray(industries), "industries must be an array");
+assert(industries.length >= 8, "library needs at least 8 industries");
 assert(html.includes(flatkeyUrl), "index.html must link to Flatkey with utm_source=skill");
 assert(app.includes(flatkeyUrl), "app.js must link to Flatkey with utm_source=skill");
 assert(html.includes("https://router.flatkey.ai/v1/images/generations"), "index.html must use router.flatkey.ai for image API examples");
@@ -96,6 +101,8 @@ for (const prompt of prompts) {
   assert(prompt.id && !ids.has(prompt.id), `duplicate or missing id: ${prompt.id}`);
   ids.add(prompt.id);
   assert(prompt.title?.length > 4, `${prompt.id} missing title`);
+  assert(prompt.industry, `${prompt.id} missing industry`);
+  assert(industries.some((industry) => industry.id === prompt.industry), `${prompt.id} has unknown industry`);
   assert(prompt.category, `${prompt.id} missing category`);
   assert(categories.some((category) => category.id === prompt.category), `${prompt.id} has unknown category`);
   assert(prompt.description?.length > 16, `${prompt.id} missing description`);
@@ -104,6 +111,14 @@ for (const prompt of prompts) {
   assert(Array.isArray(prompt.variables) && prompt.variables.length >= 2, `${prompt.id} needs at least 2 variables`);
   assert(prompt.aspectRatio, `${prompt.id} missing aspect ratio`);
   assert(prompt.apiUseCase?.length > 8, `${prompt.id} missing API use case`);
+}
+
+const demoIds = new Set();
+for (const demo of demoPrompts) {
+  assert(demo.id && !demoIds.has(demo.id), `duplicate or missing demo id: ${demo.id}`);
+  demoIds.add(demo.id);
+  assert(demo.industry, `${demo.id} missing industry`);
+  assert(industries.some((industry) => industry.id === demo.industry), `${demo.id} has unknown industry`);
 }
 
 console.log(`Validated ${prompts.length} prompt templates and ${categories.length} categories.`);

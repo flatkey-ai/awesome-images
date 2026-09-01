@@ -89,6 +89,8 @@ Each template includes:
 - Copy prompt button
 - Flatkey API key registration link
 
+The reusable templates are also exported as a reviewable, machine-readable catalog at [`catalog/prompts.json`](catalog/prompts.json). Browse the generated [industry index](docs/prompt-index.md) when you want to find a use case before opening the CLI gallery. The catalog is content-only; it is not a prompt-generation API.
+
 ## Demo Gallery
 
 The web gallery ships with 20 generated demo images. These are included in the npm package and shown by `image-buddy web`.
@@ -179,6 +181,7 @@ Developer commands:
 ```bash
 npm install
 npm test
+npm run build:catalog
 npm run build
 ```
 
@@ -202,6 +205,7 @@ Add a new template by appending an object:
 {
   id: "unique-template-id",
   title: "Template title",
+  industry: "ecommerce-retail",
   category: "product",
   badge: "Hero",
   aspectRatio: "16:9",
@@ -212,6 +216,8 @@ Add a new template by appending an object:
   prompt: "Create a commercial hero image for {{product_name}}..."
 }
 ```
+
+Use `industry` for the business context and `category` for the visual production pattern. Keep the human-facing `description` separate from the model-facing `prompt`; details are documented in [`docs/prompt-format.md`](docs/prompt-format.md).
 
 After adding templates, run:
 

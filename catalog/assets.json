@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "1.0",
+  "kind": "image-demo-assets",
+  "repository": "https://github.com/flatkey-ai/awesome-images",
+  "generatedFrom": "src/demo-prompts.js",
+  "assets": [
+    {
+      "slug": "saas-hero-phone",
+      "title": "SaaS Hero Phone",
+      "industry": "software-saas",
+      "category": "product",
+      "url": "assets/saas-hero-phone.png",
+      "prompt": "9:16 vertical product hero image for Image Buddy, an AI image generation CLI. A sleek smartphone-like terminal window floats over a clean SaaS dashboard background, teal accents, sharp commercial lighting, premium tech campaign style, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "ecommerce-skincare",
+      "title": "Skincare Product",
+      "industry": "ecommerce-retail",
+      "category": "ecommerce",
+      "url": "assets/ecommerce-skincare.png",
+      "prompt": "9:16 vertical ecommerce hero image for a frosted glass skincare serum bottle on a reflective white surface, soft mint and pearl palette, water droplets, premium studio lighting, clean composition, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "ugc-coffee-ad",
+      "title": "UGC Coffee Ad",
+      "industry": "creator-social",
+      "category": "social-ad",
+      "url": "assets/ugc-coffee-ad.png",
+      "prompt": "9:16 vertical UGC ad still, young creator holding a canned cold brew coffee in a bright kitchen, natural phone-camera feel with professional clarity, warm morning light, product label area clean but no readable text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "fitness-app",
+      "title": "Fitness App",
+      "industry": "sports-fitness",
+      "category": "app",
+      "url": "assets/fitness-app.png",
+      "prompt": "9:16 vertical app store promo image for a fitness tracking app, realistic phone mockup showing charts, workout streaks and heart-rate cards, energetic coral and blue palette, crisp UI, no tiny unreadable text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "ai-agent-poster",
+      "title": "AI Agent Poster",
+      "industry": "marketing-advertising",
+      "category": "poster",
+      "url": "assets/ai-agent-poster.png",
+      "prompt": "9:16 vertical event poster key visual for an AI agents summit, abstract network of luminous nodes forming a city skyline, deep charcoal background, electric cyan and gold highlights, cinematic depth, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "liquid-bento",
+      "title": "Liquid Bento",
+      "industry": "education-training",
+      "category": "infographic",
+      "url": "assets/liquid-bento.png",
+      "prompt": "9:16 vertical liquid glass bento infographic about image API workflows, eight translucent panels, icons for prompt, model, generation, storage and delivery, clean hierarchy, teal and amber palette, legible layout but no actual text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "streetwear-lookbook",
+      "title": "Streetwear Lookbook",
+      "industry": "fashion-apparel",
+      "category": "fashion",
+      "url": "assets/streetwear-lookbook.png",
+      "prompt": "9:16 vertical streetwear lookbook collage, same model in three poses wearing oversized cream jacket and black cargos, editorial cutout layers, urban concrete background, premium fashion lighting, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "game-prop-crystal",
+      "title": "Crystal Game Prop",
+      "industry": "gaming",
+      "category": "game-asset",
+      "url": "assets/game-prop-crystal.png",
+      "prompt": "9:16 vertical fantasy game prop showcase, glowing crystal key artifact on dark velvet pedestal, small supporting sketches around it, rich blue and violet rim light, highly detailed concept art, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "food-dessert",
+      "title": "Dessert Hero",
+      "industry": "food-beverage",
+      "category": "food",
+      "url": "assets/food-dessert.png",
+      "prompt": "9:16 vertical premium dessert advertisement, layered matcha strawberry parfait in clear glass, floating cream ribbons and berry slices, soft pistachio background, high-end food photography, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "travel-map",
+      "title": "Travel Map",
+      "industry": "travel-hospitality",
+      "category": "travel",
+      "url": "assets/travel-map.png",
+      "prompt": "9:16 vertical illustrated travel map for a coastal city weekend guide, watercolor landmarks, tiny boats, cafes and walking paths, warm paper texture, charming editorial style, minimal labels as decorative marks only, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "cyber-portrait",
+      "title": "Cyber Portrait",
+      "industry": "creator-social",
+      "category": "portrait",
+      "url": "assets/cyber-portrait.png",
+      "prompt": "9:16 vertical cinematic cyber portrait of a founder wearing translucent neon yellow glasses, formulas and interface light projected across face, teal background bokeh, realistic skin, premium commercial photography, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "real-estate-interior",
+      "title": "Interior Render",
+      "industry": "real-estate",
+      "category": "real-estate",
+      "url": "assets/real-estate-interior.png",
+      "prompt": "9:16 vertical luxury apartment interior render, sunlit living room with walnut wood, cream sofa, sculptural lamp and indoor olive tree, quiet premium real estate photography, no people, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "music-cover",
+      "title": "Music Cover",
+      "industry": "media-entertainment",
+      "category": "entertainment",
+      "url": "assets/music-cover.png",
+      "prompt": "9:16 vertical album cover style image for an electronic music single, chrome headphones floating above rippled black water, magenta and cyan lasers, moody studio atmosphere, no title text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "education-card",
+      "title": "Education Card",
+      "industry": "education-training",
+      "category": "education",
+      "url": "assets/education-card.png",
+      "prompt": "9:16 vertical education visual about learning AI prompting, friendly desk scene with notebooks, tablet, sticky notes and simple diagram shapes, bright editorial illustration, clear learning mood, no readable text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "finance-dashboard",
+      "title": "Finance Dashboard",
+      "industry": "finance",
+      "category": "finance",
+      "url": "assets/finance-dashboard.png",
+      "prompt": "9:16 vertical fintech dashboard promo, realistic phone showing portfolio cards, clean charts and security indicators, navy, emerald and white palette, trustworthy premium app marketing style, no tiny readable text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "beauty-makeup",
+      "title": "Beauty Makeup",
+      "industry": "beauty-wellness",
+      "category": "beauty",
+      "url": "assets/beauty-makeup.png",
+      "prompt": "9:16 vertical beauty campaign image, lip gloss tube and compact mirror on glossy rose surface, soft reflections, floating petals, precise product edges, premium cosmetics lighting, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "architecture-model",
+      "title": "Architecture Model",
+      "industry": "real-estate",
+      "category": "architecture",
+      "url": "assets/architecture-model.png",
+      "prompt": "9:16 vertical architectural concept image, miniature sustainable tower model surrounded by moss, solar panels and tiny pathways, natural daylight, elegant design competition presentation, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "pet-brand",
+      "title": "Pet Brand",
+      "industry": "pet-care",
+      "category": "pet",
+      "url": "assets/pet-brand.png",
+      "prompt": "9:16 vertical pet food brand campaign, happy golden retriever beside premium kibble bowl and simple packaging silhouette, warm home kitchen background, cheerful commercial photography, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "sports-shoe",
+      "title": "Sports Shoe",
+      "industry": "sports-fitness",
+      "category": "sports",
+      "url": "assets/sports-shoe.png",
+      "prompt": "9:16 vertical sports shoe product hero, lightweight running shoe suspended above wet asphalt, splash particles, sunrise rim light, dynamic motion trail, high-performance brand aesthetic, no text, no watermark.",
+      "source": "assets/"
+    },
+    {
+      "slug": "book-cover",
+      "title": "Book Cover",
+      "industry": "publishing",
+      "category": "publishing",
+      "url": "assets/book-cover.png",
+      "prompt": "9:16 vertical book cover concept without text, surreal library corridor opening into a glowing digital garden, paper pages transforming into pixels, refined literary sci-fi illustration, no text, no watermark.",
+      "source": "assets/"
+    }
+  ]
+}

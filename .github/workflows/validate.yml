@@ -1,0 +1,29 @@
+name: Validate prompt library
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Build catalog
+        run: npm run build:catalog
+      - name: Check generated files
+        run: git diff --exit-code -- catalog docs/prompt-index.md
+      - name: Test library and CLI
+        run: npm test
