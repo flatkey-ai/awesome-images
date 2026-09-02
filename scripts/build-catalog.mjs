@@ -8,6 +8,10 @@ const catalogDir = path.join(root, "catalog");
 const docsDir = path.join(root, "docs");
 const repositoryUrl = "https://github.com/flatkey-ai/awesome-images";
 const industryLabels = Object.fromEntries(industries.map((industry) => [industry.id, industry.name]));
+const modelDetailCatalogPath = path.join(catalogDir, "model-detail-assets.json");
+const modelDetailCatalog = fs.existsSync(modelDetailCatalogPath)
+  ? JSON.parse(fs.readFileSync(modelDetailCatalogPath, "utf8"))
+  : { entries: [] };
 
 const source = {
   label: "Flatkey image prompt library",
@@ -16,7 +20,8 @@ const source = {
   license: "Flatkey-owned"
 };
 
-const entries = prompts
+const entries = [
+  ...prompts
   .map((prompt) => ({
     slug: prompt.id,
     model: prompt.model,
@@ -37,9 +42,15 @@ const entries = prompts
     a.industry.localeCompare(b.industry) ||
     a.category.localeCompare(b.category) ||
     a.slug.localeCompare(b.slug)
-  );
+  ),
+  ...modelDetailCatalog.entries.map((entry) => ({
+    ...entry,
+    file: "catalog/model-detail-assets.json"
+  }))
+];
 
-const assets = demoPrompts.map((item) => ({
+const assets = [
+  ...demoPrompts.map((item) => ({
   slug: item.id,
   title: item.title,
   industry: item.industry ?? "marketing-advertising",
@@ -47,13 +58,25 @@ const assets = demoPrompts.map((item) => ({
   url: item.image,
   prompt: item.prompt,
   source: "assets/"
-}));
+  })),
+  ...modelDetailCatalog.entries.map((entry) => ({
+    slug: entry.slug,
+    assetId: entry.assetId,
+    model: entry.model,
+    title: entry.title,
+    industry: entry.industry,
+    category: entry.category,
+    url: entry.artifact?.url,
+    prompt: entry.prompt,
+    source: "model-detail"
+  }))
+];
 
 const catalog = {
   schemaVersion: "1.0",
   kind: "image-prompt-library",
   repository: repositoryUrl,
-  generatedFrom: "src/prompts.js",
+  generatedFrom: "src/prompts.js + catalog/model-detail-assets.json",
   entries
 };
 
@@ -64,7 +87,7 @@ fs.writeFileSync(path.join(catalogDir, "assets.json"), `${JSON.stringify({
   schemaVersion: "1.0",
   kind: "image-demo-assets",
   repository: repositoryUrl,
-  generatedFrom: "src/demo-prompts.js",
+  generatedFrom: "src/demo-prompts.js + catalog/model-detail-assets.json",
   assets
 }, null, 2)}\n`);
 
@@ -85,12 +108,13 @@ for (const entry of entries) {
     if (lines.at(-1) !== "") lines.push("");
     lines.push(`## ${industryLabels[currentIndustry] ?? currentIndustry}`, "");
   }
-  lines.push(`- [${entry.title.zh ?? entry.slug}](../${entry.file}) — ${entry.category} · ${entry.model}`);
+  lines.push(`- [${entry.title.zh ?? entry.title.en ?? entry.slug}](../${entry.file}) — ${entry.category} · ${entry.model}`);
 }
 
 lines.push("", "## Demo assets", "", "The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.", "");
 for (const asset of assets) {
-  lines.push(`- [${asset.title}](../${asset.url}) — ${industryLabels[asset.industry] ?? asset.industry}`);
+  const title = typeof asset.title === "string" ? asset.title : asset.title?.zh ?? asset.title?.en ?? asset.slug;
+  lines.push(`- [${title}](../${asset.url}) — ${industryLabels[asset.industry] ?? asset.industry}`);
 }
 
 fs.writeFileSync(path.join(docsDir, "prompt-index.md"), `${lines.join("\n")}\n`);

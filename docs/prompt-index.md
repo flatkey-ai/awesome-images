@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **12**
-Demo assets: **20**
+Published templates: **66**
+Demo assets: **74**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -38,6 +38,222 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 
 - [App Store 截图海报](../src/prompts.js) — ui · gpt-image-2
 
+## 游戏
+
+- [gpt-image-2 — Game UI interaction and equipment switching](../catalog/model-detail-assets.json) — game-ui · gpt-image-2
+
+## 运动与健身
+
+- [gpt-image-2 — Live sports broadcast simulation](../catalog/model-detail-assets.json) — sports-broadcast · gpt-image-2
+
+## 电商与零售
+
+- [gpt-image-2 — Brand TVC and seamless ecommerce showcase](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 媒体与娱乐
+
+- [gpt-image-2 — Cinematic character and storyboard direction](../catalog/model-detail-assets.json) — cinematic-storyboard · gpt-image-2
+
+## 营销与广告
+
+- [gpt-image-2 — Comedy sketch and physical storytelling](../catalog/model-detail-assets.json) — physical-storytelling · gpt-image-2
+
+## 媒体与娱乐
+
+- [gpt-image-2 — Historical photo restoration and revival](../catalog/model-detail-assets.json) — historical-documentary · gpt-image-2
+
+## 游戏
+
+- [gemini-2-5-flash-image — Game UI interaction and equipment switching](../catalog/model-detail-assets.json) — game-ui · gemini-2-5-flash-image
+
+## 运动与健身
+
+- [gemini-2-5-flash-image — Live sports broadcast simulation](../catalog/model-detail-assets.json) — sports-broadcast · gemini-2-5-flash-image
+
+## 电商与零售
+
+- [gemini-2-5-flash-image — Brand TVC and seamless ecommerce showcase](../catalog/model-detail-assets.json) — commercial · gemini-2-5-flash-image
+
+## 媒体与娱乐
+
+- [gemini-2-5-flash-image — Cinematic character and storyboard direction](../catalog/model-detail-assets.json) — cinematic-storyboard · gemini-2-5-flash-image
+
+## 营销与广告
+
+- [gemini-2-5-flash-image — Comedy sketch and physical storytelling](../catalog/model-detail-assets.json) — physical-storytelling · gemini-2-5-flash-image
+
+## 媒体与娱乐
+
+- [gemini-2-5-flash-image — Historical photo restoration and revival](../catalog/model-detail-assets.json) — historical-documentary · gemini-2-5-flash-image
+
+## 游戏
+
+- [gemini-3-pro-image — Game UI interaction and equipment switching](../catalog/model-detail-assets.json) — game-ui · gemini-3-pro-image
+
+## 运动与健身
+
+- [gemini-3-pro-image — Live sports broadcast simulation](../catalog/model-detail-assets.json) — sports-broadcast · gemini-3-pro-image
+
+## 电商与零售
+
+- [gemini-3-pro-image — Brand TVC and seamless ecommerce showcase](../catalog/model-detail-assets.json) — commercial · gemini-3-pro-image
+
+## 媒体与娱乐
+
+- [gemini-3-pro-image — Cinematic character and storyboard direction](../catalog/model-detail-assets.json) — cinematic-storyboard · gemini-3-pro-image
+
+## 营销与广告
+
+- [gemini-3-pro-image — Comedy sketch and physical storytelling](../catalog/model-detail-assets.json) — physical-storytelling · gemini-3-pro-image
+
+## 媒体与娱乐
+
+- [gemini-3-pro-image — Historical photo restoration and revival](../catalog/model-detail-assets.json) — historical-documentary · gemini-3-pro-image
+
+## 游戏
+
+- [gemini-3-1-flash-image — Game UI interaction and equipment switching](../catalog/model-detail-assets.json) — game-ui · gemini-3-1-flash-image
+
+## 运动与健身
+
+- [gemini-3-1-flash-image — Live sports broadcast simulation](../catalog/model-detail-assets.json) — sports-broadcast · gemini-3-1-flash-image
+
+## 电商与零售
+
+- [gemini-3-1-flash-image — Brand TVC and seamless ecommerce showcase](../catalog/model-detail-assets.json) — commercial · gemini-3-1-flash-image
+
+## 媒体与娱乐
+
+- [gemini-3-1-flash-image — Cinematic character and storyboard direction](../catalog/model-detail-assets.json) — cinematic-storyboard · gemini-3-1-flash-image
+
+## 营销与广告
+
+- [gemini-3-1-flash-image — Comedy sketch and physical storytelling](../catalog/model-detail-assets.json) — physical-storytelling · gemini-3-1-flash-image
+
+## 媒体与娱乐
+
+- [gemini-3-1-flash-image — Historical photo restoration and revival](../catalog/model-detail-assets.json) — historical-documentary · gemini-3-1-flash-image
+
+## 游戏
+
+- [gemini-3-1-flash-lite-image — Game UI interaction and equipment switching](../catalog/model-detail-assets.json) — game-ui · gemini-3-1-flash-lite-image
+
+## 运动与健身
+
+- [gemini-3-1-flash-lite-image — Live sports broadcast simulation](../catalog/model-detail-assets.json) — sports-broadcast · gemini-3-1-flash-lite-image
+
+## 电商与零售
+
+- [gemini-3-1-flash-lite-image — Brand TVC and seamless ecommerce showcase](../catalog/model-detail-assets.json) — commercial · gemini-3-1-flash-lite-image
+
+## 媒体与娱乐
+
+- [gemini-3-1-flash-lite-image — Cinematic character and storyboard direction](../catalog/model-detail-assets.json) — cinematic-storyboard · gemini-3-1-flash-lite-image
+
+## 营销与广告
+
+- [gemini-3-1-flash-lite-image — Comedy sketch and physical storytelling](../catalog/model-detail-assets.json) — physical-storytelling · gemini-3-1-flash-lite-image
+
+## 媒体与娱乐
+
+- [gemini-3-1-flash-lite-image — Historical photo restoration and revival](../catalog/model-detail-assets.json) — historical-documentary · gemini-3-1-flash-lite-image
+
+## 游戏
+
+- [grok-imagine-image — Game UI interaction and equipment switching](../catalog/model-detail-assets.json) — game-ui · grok-imagine-image
+
+## 运动与健身
+
+- [grok-imagine-image — Live sports broadcast simulation](../catalog/model-detail-assets.json) — sports-broadcast · grok-imagine-image
+
+## 电商与零售
+
+- [grok-imagine-image — Brand TVC and seamless ecommerce showcase](../catalog/model-detail-assets.json) — commercial · grok-imagine-image
+
+## 媒体与娱乐
+
+- [grok-imagine-image — Cinematic character and storyboard direction](../catalog/model-detail-assets.json) — cinematic-storyboard · grok-imagine-image
+
+## 营销与广告
+
+- [grok-imagine-image — Comedy sketch and physical storytelling](../catalog/model-detail-assets.json) — physical-storytelling · grok-imagine-image
+
+## 媒体与娱乐
+
+- [grok-imagine-image — Historical photo restoration and revival](../catalog/model-detail-assets.json) — historical-documentary · grok-imagine-image
+
+## 游戏
+
+- [grok-imagine-image-pro — Game UI interaction and equipment switching](../catalog/model-detail-assets.json) — game-ui · grok-imagine-image-pro
+
+## 运动与健身
+
+- [grok-imagine-image-pro — Live sports broadcast simulation](../catalog/model-detail-assets.json) — sports-broadcast · grok-imagine-image-pro
+
+## 电商与零售
+
+- [grok-imagine-image-pro — Brand TVC and seamless ecommerce showcase](../catalog/model-detail-assets.json) — commercial · grok-imagine-image-pro
+
+## 媒体与娱乐
+
+- [grok-imagine-image-pro — Cinematic character and storyboard direction](../catalog/model-detail-assets.json) — cinematic-storyboard · grok-imagine-image-pro
+
+## 营销与广告
+
+- [grok-imagine-image-pro — Comedy sketch and physical storytelling](../catalog/model-detail-assets.json) — physical-storytelling · grok-imagine-image-pro
+
+## 媒体与娱乐
+
+- [grok-imagine-image-pro — Historical photo restoration and revival](../catalog/model-detail-assets.json) — historical-documentary · grok-imagine-image-pro
+
+## 游戏
+
+- [grok-imagine-image-quality — Game UI interaction and equipment switching](../catalog/model-detail-assets.json) — game-ui · grok-imagine-image-quality
+
+## 运动与健身
+
+- [grok-imagine-image-quality — Live sports broadcast simulation](../catalog/model-detail-assets.json) — sports-broadcast · grok-imagine-image-quality
+
+## 电商与零售
+
+- [grok-imagine-image-quality — Brand TVC and seamless ecommerce showcase](../catalog/model-detail-assets.json) — commercial · grok-imagine-image-quality
+
+## 媒体与娱乐
+
+- [grok-imagine-image-quality — Cinematic character and storyboard direction](../catalog/model-detail-assets.json) — cinematic-storyboard · grok-imagine-image-quality
+
+## 营销与广告
+
+- [grok-imagine-image-quality — Comedy sketch and physical storytelling](../catalog/model-detail-assets.json) — physical-storytelling · grok-imagine-image-quality
+
+## 媒体与娱乐
+
+- [grok-imagine-image-quality — Historical photo restoration and revival](../catalog/model-detail-assets.json) — historical-documentary · grok-imagine-image-quality
+
+## 游戏
+
+- [nano-banana-pro-preview — Game UI interaction and equipment switching](../catalog/model-detail-assets.json) — game-ui · nano-banana-pro-preview
+
+## 运动与健身
+
+- [nano-banana-pro-preview — Live sports broadcast simulation](../catalog/model-detail-assets.json) — sports-broadcast · nano-banana-pro-preview
+
+## 电商与零售
+
+- [nano-banana-pro-preview — Brand TVC and seamless ecommerce showcase](../catalog/model-detail-assets.json) — commercial · nano-banana-pro-preview
+
+## 媒体与娱乐
+
+- [nano-banana-pro-preview — Cinematic character and storyboard direction](../catalog/model-detail-assets.json) — cinematic-storyboard · nano-banana-pro-preview
+
+## 营销与广告
+
+- [nano-banana-pro-preview — Comedy sketch and physical storytelling](../catalog/model-detail-assets.json) — physical-storytelling · nano-banana-pro-preview
+
+## 媒体与娱乐
+
+- [nano-banana-pro-preview — Historical photo restoration and revival](../catalog/model-detail-assets.json) — historical-documentary · nano-banana-pro-preview
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -62,3 +278,57 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Pet Brand](../assets/pet-brand.png) — 宠物
 - [Sports Shoe](../assets/sports-shoe.png) — 运动与健身
 - [Book Cover](../assets/book-cover.png) — 出版
+- [gpt-image-2 — Game UI interaction and equipment switching](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/game-ui-equipment/gpt-image-2.png) — 游戏
+- [gpt-image-2 — Live sports broadcast simulation](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/sports-broadcast/gpt-image-2.png) — 运动与健身
+- [gpt-image-2 — Brand TVC and seamless ecommerce showcase](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/brand-tvc-ecommerce/gpt-image-2.png) — 电商与零售
+- [gpt-image-2 — Cinematic character and storyboard direction](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/cinematic-storyboard/gpt-image-2.png) — 媒体与娱乐
+- [gpt-image-2 — Comedy sketch and physical storytelling](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/comedy-physical/gpt-image-2.png) — 营销与广告
+- [gpt-image-2 — Historical photo restoration and revival](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/historical-revival/gpt-image-2.png) — 媒体与娱乐
+- [gemini-2-5-flash-image — Game UI interaction and equipment switching](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/game-ui-equipment/gemini-2-5-flash-image.png) — 游戏
+- [gemini-2-5-flash-image — Live sports broadcast simulation](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/sports-broadcast/gemini-2-5-flash-image.png) — 运动与健身
+- [gemini-2-5-flash-image — Brand TVC and seamless ecommerce showcase](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/brand-tvc-ecommerce/gemini-2-5-flash-image.png) — 电商与零售
+- [gemini-2-5-flash-image — Cinematic character and storyboard direction](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/cinematic-storyboard/gemini-2-5-flash-image.png) — 媒体与娱乐
+- [gemini-2-5-flash-image — Comedy sketch and physical storytelling](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/comedy-physical/gemini-2-5-flash-image.png) — 营销与广告
+- [gemini-2-5-flash-image — Historical photo restoration and revival](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/historical-revival/gemini-2-5-flash-image.png) — 媒体与娱乐
+- [gemini-3-pro-image — Game UI interaction and equipment switching](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/game-ui-equipment/gemini-3-pro-image.png) — 游戏
+- [gemini-3-pro-image — Live sports broadcast simulation](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/sports-broadcast/gemini-3-pro-image.png) — 运动与健身
+- [gemini-3-pro-image — Brand TVC and seamless ecommerce showcase](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/brand-tvc-ecommerce/gemini-3-pro-image.png) — 电商与零售
+- [gemini-3-pro-image — Cinematic character and storyboard direction](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/cinematic-storyboard/gemini-3-pro-image.png) — 媒体与娱乐
+- [gemini-3-pro-image — Comedy sketch and physical storytelling](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/comedy-physical/gemini-3-pro-image.png) — 营销与广告
+- [gemini-3-pro-image — Historical photo restoration and revival](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/historical-revival/gemini-3-pro-image.png) — 媒体与娱乐
+- [gemini-3-1-flash-image — Game UI interaction and equipment switching](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/game-ui-equipment/gemini-3-1-flash-image.png) — 游戏
+- [gemini-3-1-flash-image — Live sports broadcast simulation](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/sports-broadcast/gemini-3-1-flash-image.png) — 运动与健身
+- [gemini-3-1-flash-image — Brand TVC and seamless ecommerce showcase](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/brand-tvc-ecommerce/gemini-3-1-flash-image.png) — 电商与零售
+- [gemini-3-1-flash-image — Cinematic character and storyboard direction](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/cinematic-storyboard/gemini-3-1-flash-image.png) — 媒体与娱乐
+- [gemini-3-1-flash-image — Comedy sketch and physical storytelling](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/comedy-physical/gemini-3-1-flash-image.png) — 营销与广告
+- [gemini-3-1-flash-image — Historical photo restoration and revival](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/historical-revival/gemini-3-1-flash-image.png) — 媒体与娱乐
+- [gemini-3-1-flash-lite-image — Game UI interaction and equipment switching](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/game-ui-equipment/gemini-3-1-flash-lite-image.png) — 游戏
+- [gemini-3-1-flash-lite-image — Live sports broadcast simulation](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/sports-broadcast/gemini-3-1-flash-lite-image.png) — 运动与健身
+- [gemini-3-1-flash-lite-image — Brand TVC and seamless ecommerce showcase](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/brand-tvc-ecommerce/gemini-3-1-flash-lite-image.png) — 电商与零售
+- [gemini-3-1-flash-lite-image — Cinematic character and storyboard direction](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/cinematic-storyboard/gemini-3-1-flash-lite-image.png) — 媒体与娱乐
+- [gemini-3-1-flash-lite-image — Comedy sketch and physical storytelling](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/comedy-physical/gemini-3-1-flash-lite-image.png) — 营销与广告
+- [gemini-3-1-flash-lite-image — Historical photo restoration and revival](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/historical-revival/gemini-3-1-flash-lite-image.png) — 媒体与娱乐
+- [grok-imagine-image — Game UI interaction and equipment switching](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/game-ui-equipment/grok-imagine-image.png) — 游戏
+- [grok-imagine-image — Live sports broadcast simulation](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/sports-broadcast/grok-imagine-image.png) — 运动与健身
+- [grok-imagine-image — Brand TVC and seamless ecommerce showcase](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/brand-tvc-ecommerce/grok-imagine-image.png) — 电商与零售
+- [grok-imagine-image — Cinematic character and storyboard direction](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/cinematic-storyboard/grok-imagine-image.png) — 媒体与娱乐
+- [grok-imagine-image — Comedy sketch and physical storytelling](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/comedy-physical/grok-imagine-image.png) — 营销与广告
+- [grok-imagine-image — Historical photo restoration and revival](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/historical-revival/grok-imagine-image.png) — 媒体与娱乐
+- [grok-imagine-image-pro — Game UI interaction and equipment switching](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/game-ui-equipment/grok-imagine-image-pro.png) — 游戏
+- [grok-imagine-image-pro — Live sports broadcast simulation](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/sports-broadcast/grok-imagine-image-pro.png) — 运动与健身
+- [grok-imagine-image-pro — Brand TVC and seamless ecommerce showcase](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/brand-tvc-ecommerce/grok-imagine-image-pro.png) — 电商与零售
+- [grok-imagine-image-pro — Cinematic character and storyboard direction](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/cinematic-storyboard/grok-imagine-image-pro.png) — 媒体与娱乐
+- [grok-imagine-image-pro — Comedy sketch and physical storytelling](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/comedy-physical/grok-imagine-image-pro.png) — 营销与广告
+- [grok-imagine-image-pro — Historical photo restoration and revival](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/historical-revival/grok-imagine-image-pro.png) — 媒体与娱乐
+- [grok-imagine-image-quality — Game UI interaction and equipment switching](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/game-ui-equipment/grok-imagine-image-quality.png) — 游戏
+- [grok-imagine-image-quality — Live sports broadcast simulation](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/sports-broadcast/grok-imagine-image-quality.png) — 运动与健身
+- [grok-imagine-image-quality — Brand TVC and seamless ecommerce showcase](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/brand-tvc-ecommerce/grok-imagine-image-quality.png) — 电商与零售
+- [grok-imagine-image-quality — Cinematic character and storyboard direction](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/cinematic-storyboard/grok-imagine-image-quality.png) — 媒体与娱乐
+- [grok-imagine-image-quality — Comedy sketch and physical storytelling](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/comedy-physical/grok-imagine-image-quality.png) — 营销与广告
+- [grok-imagine-image-quality — Historical photo restoration and revival](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/historical-revival/grok-imagine-image-quality.png) — 媒体与娱乐
+- [nano-banana-pro-preview — Game UI interaction and equipment switching](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/game-ui-equipment/nano-banana-pro-preview.png) — 游戏
+- [nano-banana-pro-preview — Live sports broadcast simulation](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/sports-broadcast/nano-banana-pro-preview.png) — 运动与健身
+- [nano-banana-pro-preview — Brand TVC and seamless ecommerce showcase](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/brand-tvc-ecommerce/nano-banana-pro-preview.png) — 电商与零售
+- [nano-banana-pro-preview — Cinematic character and storyboard direction](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/cinematic-storyboard/nano-banana-pro-preview.png) — 媒体与娱乐
+- [nano-banana-pro-preview — Comedy sketch and physical storytelling](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/comedy-physical/nano-banana-pro-preview.png) — 营销与广告
+- [nano-banana-pro-preview — Historical photo restoration and revival](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/historical-revival/nano-banana-pro-preview.png) — 媒体与娱乐
