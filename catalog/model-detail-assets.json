@@ -2056,6 +2056,166 @@
         "model_detail_source": "d0835b1c6"
       },
       "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-exquisite-3d-embroidery-bird",
+      "assetId": "goku-gpt-image-2-exquisite-3d-embroidery-bird",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Exquisite 3D Embroidery Bird Illustration"
+      },
+      "description": {
+        "en": "Pastel birds and flowering branches rendered as delicate raised silk embroidery."
+      },
+      "prompt": "Exquisite three-dimensional embroidery-style illustration, shallow relief fiber art effect, pure \"{argument name=\"Base Color\" default=\"Silk White + Milk White\"}\" base color, delicate silk thread texture. The composition features {argument name=\"main subject\" default=\"Several little birds\"} resting on winding flower branches, surrounded by {argument name=\"accent colors\" default=\"pink white, light peach, coral pink, light gold\"} flowers and leaves, with a light and elegant composition with ample blank space. Bird feathers are embroidered with milky white, light blue, light pink, and light gold threads, with slender and natural flower branches and layered floral lines, presenting a high-end hand-embroidered silk thread layer, soft light and shadow, rich details, and a gentle, fresh artistic effect.",
+      "tags": ["embroidery", "fiber-art", "birds", "botanical"],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-exquisite-3d-embroidery-bird",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/exquisite-3d-embroidery-bird.jpg",
+        "ratio": "3:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@dotey via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/dotey/status/2048529821706195442",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_00636",
+        "captured_at": "2026-09-23"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-cute-robot-welding-space-megastructure",
+      "assetId": "goku-gpt-image-2-cute-robot-welding-space-megastructure",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "sci-fi-illustration",
+      "title": {
+        "en": "Cute Robot Welding a Space Megastructure"
+      },
+      "description": {
+        "en": "A tiny chibi maintenance robot welds an immense illuminated orbital lattice."
+      },
+      "prompt": "A highly detailed sci-fi illustration of a {argument name=\"robot style\" default=\"cute chibi robot\"} floating in space, {argument name=\"action\" default=\"welding a massive metallic megastructure\"}. The robot has a large round head with {argument name=\"eye color\" default=\"glowing blue\"} eyes and a white and black mechanical body. It is holding a tool that emits bright orange sparks against the framework. The megastructure is enormous, curving through the scene, built as a {argument name=\"structure type\" default=\"dark metal lattice covered in thousands of tiny glowing yellow lights\"}. In the background, a {argument name=\"star color\" default=\"brilliant glowing blue\"} star shines brightly against a deep space backdrop filled with stars and cosmic dust. The image features hyper-detailed textures, cinematic lighting, high contrast, and a dense, intricate mechanical design.",
+      "tags": ["robot", "space", "megastructure", "welding"],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cute-robot-welding-space-megastructure",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cute-robot-welding-space-megastructure.jpg",
+        "ratio": "3:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@lakeside529 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/lakeside529/status/2045033508062867821",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_02280",
+        "captured_at": "2026-09-23"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-astronaut-pruning-bonsai-in-space",
+      "assetId": "goku-gpt-image-2-astronaut-pruning-bonsai-in-space",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "cinematic-concept-art",
+      "title": {
+        "en": "Astronaut Pruning Bonsai in Space"
+      },
+      "description": {
+        "en": "An astronaut tends a bonsai on a ruined classical temple fragment above a planet."
+      },
+      "prompt": "A highly detailed, cinematic, surreal illustration of an astronaut in a white spacesuit kneeling to carefully prune a {argument name=\"plant type\" default=\"bonsai tree\"}. The astronaut is situated on a floating fragment of a {argument name=\"architecture style\" default=\"ruined classical marble temple\"} overgrown with ivy and moss, featuring ornate gold trim, classical columns, and a stone statue of a woman. The platform is suspended in zero gravity in outer space. Floating debris, including rocks, chunks of marble, and loose leaves, drift weightlessly around the scene. In the background, a {argument name=\"background planet\" default=\"large reddish-orange planet\"} dominates the starry cosmos. The lighting is dramatic and realistic, highlighting the contrast between the ancient ruins, delicate nature, and the futuristic astronaut.",
+      "tags": ["astronaut", "bonsai", "surreal", "concept-art"],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-astronaut-pruning-bonsai-in-space",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/astronaut-pruning-bonsai-in-space.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@nicdunz via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/nicdunz/status/2046306963605352841",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_04370",
+        "captured_at": "2026-09-23"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-tiny-burger-factory-inside-bun",
+      "assetId": "goku-gpt-image-2-tiny-burger-factory-inside-bun",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "miniature-product-visualization",
+      "title": {
+        "en": "Tiny Burger Factory Inside a Bun"
+      },
+      "description": {
+        "en": "A playful miniature factory assembles tiny burgers inside a cutaway sesame bun."
+      },
+      "prompt": "Cross section of giant {argument name=\"object\" default=\"sesame burger bun\"} Miniature {argument name=\"factory\" default=\"burger factory\"} operating inside bun Conveyor belt moving tiny cheeseburgers outward Workers assembling burgers with lettuce, cheese, tomato Industrial machines and pipes inside bread interior Cheese block stacked near machinery Bright colorful lighting Clean {argument name=\"background\" default=\"blue\"} background Ultra detailed 3D miniature render Toy-like aesthetic with hyper realism Soft shadows and smooth textures Cinematic depth of field High resolution 8K",
+      "tags": ["miniature", "food", "cutaway", "product-visualization"],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-tiny-burger-factory-inside-bun",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/tiny-burger-factory-inside-bun.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Strength04_X via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Strength04_X/status/2052282564782788996",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_04802",
+        "captured_at": "2026-09-23"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-steampunk-espresso-machine-blueprint",
+      "assetId": "goku-gpt-image-2-steampunk-espresso-machine-blueprint",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "industrial-product-design",
+      "title": {
+        "en": "Steampunk Espresso Machine Blueprint"
+      },
+      "description": {
+        "en": "A locomotive-inspired design study evolves from technical diagrams into a polished espresso machine."
+      },
+      "prompt": "Industrial retrospection, {argument name=\"machine style\" default=\"1920s steam locomotive engine\"} schematics shaping a high-end commercial {argument name=\"product type\" default=\"espresso machine\"}, sequence from sepia-toned blueprint drafting to thermodynamic pressure diagrams to cylindrical chrome abstraction to final product, exposed boilers with tactile lever mechanisms, polished nickel and {argument name=\"wood detail\" default=\"rich walnut wood\"} detailing, retro-futuristic café aesthetic, presentation layout, split screen, technical blueprints on top, glossy product render below, warm glowing Edison bulb lighting.",
+      "tags": ["espresso", "blueprint", "industrial-design", "steampunk"],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-steampunk-espresso-machine-blueprint",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/steampunk-espresso-machine-blueprint.jpg",
+        "ratio": "4:5",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Gdgtify via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Gdgtify/status/2049964761715278203",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_06692",
+        "captured_at": "2026-09-23"
+      },
+      "status": "published"
     }
   ]
 }

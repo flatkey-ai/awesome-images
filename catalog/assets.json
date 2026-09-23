@@ -885,6 +885,71 @@
       "url": "https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/historical-revival/nano-banana-pro-preview.png",
       "prompt": "A monochrome archival dressing-room photograph shows period performers changing clothes beside trunks, ropes, fabric, and a large window opening onto countryside. Restore the film grain, era-appropriate garments, wooden stage equipment, and natural light without adding modern objects. No readable labels, logos, captions, or watermark.",
       "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-exquisite-3d-embroidery-bird",
+      "assetId": "goku-gpt-image-2-exquisite-3d-embroidery-bird",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Exquisite 3D Embroidery Bird Illustration"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/exquisite-3d-embroidery-bird.jpg",
+      "prompt": "Exquisite three-dimensional embroidery-style illustration, shallow relief fiber art effect, pure \"{argument name=\"Base Color\" default=\"Silk White + Milk White\"}\" base color, delicate silk thread texture. The composition features {argument name=\"main subject\" default=\"Several little birds\"} resting on winding flower branches, surrounded by {argument name=\"accent colors\" default=\"pink white, light peach, coral pink, light gold\"} flowers and leaves, with a light and elegant composition with ample blank space. Bird feathers are embroidered with milky white, light blue, light pink, and light gold threads, with slender and natural flower branches and layered floral lines, presenting a high-end hand-embroidered silk thread layer, soft light and shadow, rich details, and a gentle, fresh artistic effect.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-cute-robot-welding-space-megastructure",
+      "assetId": "goku-gpt-image-2-cute-robot-welding-space-megastructure",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Cute Robot Welding a Space Megastructure"
+      },
+      "industry": "media-entertainment",
+      "category": "sci-fi-illustration",
+      "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cute-robot-welding-space-megastructure.jpg",
+      "prompt": "A highly detailed sci-fi illustration of a {argument name=\"robot style\" default=\"cute chibi robot\"} floating in space, {argument name=\"action\" default=\"welding a massive metallic megastructure\"}. The robot has a large round head with {argument name=\"eye color\" default=\"glowing blue\"} eyes and a white and black mechanical body. It is holding a tool that emits bright orange sparks against the framework. The megastructure is enormous, curving through the scene, built as a {argument name=\"structure type\" default=\"dark metal lattice covered in thousands of tiny glowing yellow lights\"}. In the background, a {argument name=\"star color\" default=\"brilliant glowing blue\"} star shines brightly against a deep space backdrop filled with stars and cosmic dust. The image features hyper-detailed textures, cinematic lighting, high contrast, and a dense, intricate mechanical design.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-astronaut-pruning-bonsai-in-space",
+      "assetId": "goku-gpt-image-2-astronaut-pruning-bonsai-in-space",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Astronaut Pruning Bonsai in Space"
+      },
+      "industry": "media-entertainment",
+      "category": "cinematic-concept-art",
+      "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/astronaut-pruning-bonsai-in-space.jpg",
+      "prompt": "A highly detailed, cinematic, surreal illustration of an astronaut in a white spacesuit kneeling to carefully prune a {argument name=\"plant type\" default=\"bonsai tree\"}. The astronaut is situated on a floating fragment of a {argument name=\"architecture style\" default=\"ruined classical marble temple\"} overgrown with ivy and moss, featuring ornate gold trim, classical columns, and a stone statue of a woman. The platform is suspended in zero gravity in outer space. Floating debris, including rocks, chunks of marble, and loose leaves, drift weightlessly around the scene. In the background, a {argument name=\"background planet\" default=\"large reddish-orange planet\"} dominates the starry cosmos. The lighting is dramatic and realistic, highlighting the contrast between the ancient ruins, delicate nature, and the futuristic astronaut.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-tiny-burger-factory-inside-bun",
+      "assetId": "goku-gpt-image-2-tiny-burger-factory-inside-bun",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Tiny Burger Factory Inside a Bun"
+      },
+      "industry": "marketing-advertising",
+      "category": "miniature-product-visualization",
+      "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/tiny-burger-factory-inside-bun.jpg",
+      "prompt": "Cross section of giant {argument name=\"object\" default=\"sesame burger bun\"} Miniature {argument name=\"factory\" default=\"burger factory\"} operating inside bun Conveyor belt moving tiny cheeseburgers outward Workers assembling burgers with lettuce, cheese, tomato Industrial machines and pipes inside bread interior Cheese block stacked near machinery Bright colorful lighting Clean {argument name=\"background\" default=\"blue\"} background Ultra detailed 3D miniature render Toy-like aesthetic with hyper realism Soft shadows and smooth textures Cinematic depth of field High resolution 8K",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-steampunk-espresso-machine-blueprint",
+      "assetId": "goku-gpt-image-2-steampunk-espresso-machine-blueprint",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Steampunk Espresso Machine Blueprint"
+      },
+      "industry": "marketing-advertising",
+      "category": "industrial-product-design",
+      "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/steampunk-espresso-machine-blueprint.jpg",
+      "prompt": "Industrial retrospection, {argument name=\"machine style\" default=\"1920s steam locomotive engine\"} schematics shaping a high-end commercial {argument name=\"product type\" default=\"espresso machine\"}, sequence from sepia-toned blueprint drafting to thermodynamic pressure diagrams to cylindrical chrome abstraction to final product, exposed boilers with tactile lever mechanisms, polished nickel and {argument name=\"wood detail\" default=\"rich walnut wood\"} detailing, retro-futuristic café aesthetic, presentation layout, split screen, technical blueprints on top, glossy product render below, warm glowing Edison bulb lighting.",
+      "source": "model-detail"
     }
   ]
 }

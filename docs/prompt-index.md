@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **66**
-Demo assets: **74**
+Published templates: **71**
+Demo assets: **79**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -253,6 +253,14 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 ## 媒体与娱乐
 
 - [nano-banana-pro-preview — Historical photo restoration and revival](../catalog/model-detail-assets.json) — historical-documentary · nano-banana-pro-preview
+- [Exquisite 3D Embroidery Bird Illustration](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Cute Robot Welding a Space Megastructure](../catalog/model-detail-assets.json) — sci-fi-illustration · gpt-image-2
+- [Astronaut Pruning Bonsai in Space](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 营销与广告
+
+- [Tiny Burger Factory Inside a Bun](../catalog/model-detail-assets.json) — miniature-product-visualization · gpt-image-2
+- [Steampunk Espresso Machine Blueprint](../catalog/model-detail-assets.json) — industrial-product-design · gpt-image-2
 
 ## Demo assets
 
@@ -332,3 +340,8 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [nano-banana-pro-preview — Cinematic character and storyboard direction](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/cinematic-storyboard/nano-banana-pro-preview.png) — 媒体与娱乐
 - [nano-banana-pro-preview — Comedy sketch and physical storytelling](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/comedy-physical/nano-banana-pro-preview.png) — 营销与广告
 - [nano-banana-pro-preview — Historical photo restoration and revival](../https://cdn.shulex-voc.com/flatkey/model-media/prompt-library/historical-revival/nano-banana-pro-preview.png) — 媒体与娱乐
+- [Exquisite 3D Embroidery Bird Illustration](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/exquisite-3d-embroidery-bird.jpg) — 媒体与娱乐
+- [Cute Robot Welding a Space Megastructure](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cute-robot-welding-space-megastructure.jpg) — 媒体与娱乐
+- [Astronaut Pruning Bonsai in Space](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/astronaut-pruning-bonsai-in-space.jpg) — 媒体与娱乐
+- [Tiny Burger Factory Inside a Bun](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/tiny-burger-factory-inside-bun.jpg) — 营销与广告
+- [Steampunk Espresso Machine Blueprint](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/steampunk-espresso-machine-blueprint.jpg) — 营销与广告
