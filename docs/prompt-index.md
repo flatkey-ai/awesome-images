@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **71**
-Demo assets: **79**
+Published templates: **76**
+Demo assets: **84**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -261,6 +261,23 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 
 - [Tiny Burger Factory Inside a Bun](../catalog/model-detail-assets.json) — miniature-product-visualization · gpt-image-2
 - [Steampunk Espresso Machine Blueprint](../catalog/model-detail-assets.json) — industrial-product-design · gpt-image-2
+- [Marine Lucent Fantasy Tea Poster](../catalog/model-detail-assets.json) — fantasy-product-advertising · gpt-image-2
+
+## 创作者与社交
+
+- [Cute Cat Sticker Sheet Collection](../catalog/model-detail-assets.json) — sticker-design · gpt-image-2
+
+## 旅游与酒店
+
+- [Chengdu Foodie Rampage Map](../catalog/model-detail-assets.json) — illustrated-map · gpt-image-2
+
+## 电商与零售
+
+- [Premium Pastry Packaging Design Proposal](../catalog/model-detail-assets.json) — packaging-design · gpt-image-2
+
+## 教育与培训
+
+- [Camel Desert Survival Encyclopedia](../catalog/model-detail-assets.json) — wildlife-infographic · gpt-image-2
 
 ## Demo assets
 
@@ -345,3 +362,8 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Astronaut Pruning Bonsai in Space](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/astronaut-pruning-bonsai-in-space.jpg) — 媒体与娱乐
 - [Tiny Burger Factory Inside a Bun](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/tiny-burger-factory-inside-bun.jpg) — 营销与广告
 - [Steampunk Espresso Machine Blueprint](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/steampunk-espresso-machine-blueprint.jpg) — 营销与广告
+- [Marine Lucent Fantasy Tea Poster](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/marine-lucent-fantasy-tea-poster.jpg) — 营销与广告
+- [Cute Cat Sticker Sheet Collection](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cute-cat-sticker-sheet.jpg) — 创作者与社交
+- [Chengdu Foodie Rampage Map](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/chengdu-foodie-rampage-map.jpg) — 旅游与酒店
+- [Premium Pastry Packaging Design Proposal](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/premium-pastry-packaging-design.jpg) — 电商与零售
+- [Camel Desert Survival Encyclopedia](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/camel-desert-survival-encyclopedia.jpg) — 教育与培训
