@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **76**
-Demo assets: **84**
+Published templates: **96**
+Demo assets: **104**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -279,6 +279,74 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 
 - [Camel Desert Survival Encyclopedia](../catalog/model-detail-assets.json) — wildlife-infographic · gpt-image-2
 
+## architecture-real-estate
+
+- [Eco-Regenerative Landscape Competition Panel](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+
+## 媒体与娱乐
+
+- [Chalk, Light and Surreal Grace](../catalog/model-detail-assets.json) — editorial-portrait · gpt-image-2
+- [Cosmic Paper Library Explorer](../catalog/model-detail-assets.json) — paper-art · gpt-image-2
+
+## 食品与饮料
+
+- [Taco Exploded Infographic](../catalog/model-detail-assets.json) — food-infographic · gpt-image-2
+
+## 媒体与娱乐
+
+- [Paper Collage Art Visual](../catalog/model-detail-assets.json) — collage-art · gpt-image-2
+- [Ribbon Deer Sculpture](../catalog/model-detail-assets.json) — sculpture-design · gpt-image-2
+
+## 旅游与酒店
+
+- [Dreamy Miniature Travel Poster Art](../catalog/model-detail-assets.json) — travel-poster · gpt-image-2
+- [3D Isometric Luxury Travel Poster](../catalog/model-detail-assets.json) — travel-poster · gpt-image-2
+
+## architecture-real-estate
+
+- [Technical Blueprint Infographic](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+
+## 食品与饮料
+
+- [Miniature Food Cities](../catalog/model-detail-assets.json) — food-diorama · gpt-image-2
+
+## 媒体与娱乐
+
+- [Surreal Sci-Fi Desert Twin Planets](../catalog/model-detail-assets.json) — sci-fi-landscape · gpt-image-2
+
+## 食品与饮料
+
+- [Exploded Gourmet Pizza Slice Infographic](../catalog/model-detail-assets.json) — food-infographic · gpt-image-2
+
+## 旅游与酒店
+
+- [Miniature City Planet Concept](../catalog/model-detail-assets.json) — city-miniature · gpt-image-2
+
+## 媒体与娱乐
+
+- [Pixel Glass Alien Astronaut Touch](../catalog/model-detail-assets.json) — sci-fi-art · gpt-image-2
+- [Kintsugi Porcelain Art](../catalog/model-detail-assets.json) — sculpture-design · gpt-image-2
+
+## 教育与培训
+
+- [Bedroom Eras Isometric Grid](../catalog/model-detail-assets.json) — historical-infographic · gpt-image-2
+
+## 食品与饮料
+
+- [Edible Miniature City Wonders](../catalog/model-detail-assets.json) — food-diorama · gpt-image-2
+
+## 媒体与娱乐
+
+- [Sci-Fi Floating Fortress Cutaway Infographic](../catalog/model-detail-assets.json) — sci-fi-infographic · gpt-image-2
+
+## 旅游与酒店
+
+- [Glossy Miniature Salsa Diorama](../catalog/model-detail-assets.json) — miniature-diorama · gpt-image-2
+
+## architecture-real-estate
+
+- [Temple of Heaven Architecture Deconstructed](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -367,3 +435,23 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Chengdu Foodie Rampage Map](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/chengdu-foodie-rampage-map.jpg) — 旅游与酒店
 - [Premium Pastry Packaging Design Proposal](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/premium-pastry-packaging-design.jpg) — 电商与零售
 - [Camel Desert Survival Encyclopedia](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/camel-desert-survival-encyclopedia.jpg) — 教育与培训
+- [Eco-Regenerative Landscape Competition Panel](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/eco-regenerative-landscape-panel.jpg) — architecture-real-estate
+- [Chalk, Light and Surreal Grace](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/chalk-light-surreal-portrait.jpg) — 媒体与娱乐
+- [Cosmic Paper Library Explorer](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cosmic-paper-library-explorer.jpg) — 媒体与娱乐
+- [Taco Exploded Infographic](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/taco-exploded-infographic.jpg) — 食品与饮料
+- [Paper Collage Art Visual](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/paper-collage-art-visual.jpg) — 媒体与娱乐
+- [Ribbon Deer Sculpture](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/ribbon-deer-sculpture.jpg) — 媒体与娱乐
+- [Dreamy Miniature Travel Poster Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/dreamy-miniature-travel-poster.jpg) — 旅游与酒店
+- [3D Isometric Luxury Travel Poster](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/3d-isometric-luxury-travel-poster.jpg) — 旅游与酒店
+- [Technical Blueprint Infographic](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/technical-blueprint-infographic.jpg) — architecture-real-estate
+- [Miniature Food Cities](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/miniature-food-cities.jpg) — 食品与饮料
+- [Surreal Sci-Fi Desert Twin Planets](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/surreal-sci-fi-desert-twin-planets.jpg) — 媒体与娱乐
+- [Exploded Gourmet Pizza Slice Infographic](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/gourmet-pizza-slice-infographic.jpg) — 食品与饮料
+- [Miniature City Planet Concept](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/miniature-city-planet.jpg) — 旅游与酒店
+- [Pixel Glass Alien Astronaut Touch](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/pixel-glass-alien-astronaut-touch.jpg) — 媒体与娱乐
+- [Kintsugi Porcelain Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/kintsugi-porcelain-art.jpg) — 媒体与娱乐
+- [Bedroom Eras Isometric Grid](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/bedroom-eras-isometric-grid.jpg) — 教育与培训
+- [Edible Miniature City Wonders](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/edible-miniature-city-wonders.jpg) — 食品与饮料
+- [Sci-Fi Floating Fortress Cutaway Infographic](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/scifi-floating-fortress-cutaway.jpg) — 媒体与娱乐
+- [Glossy Miniature Salsa Diorama](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/miniature-salsa-diorama.jpg) — 旅游与酒店
+- [Temple of Heaven Architecture Deconstructed](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/temple-heaven-architecture-deconstructed.jpg) — architecture-real-estate
