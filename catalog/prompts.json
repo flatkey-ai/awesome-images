@@ -3680,6 +3680,956 @@
       },
       "status": "published",
       "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-cinematic-prehistoric-swamp",
+      "assetId": "goku-gpt-image-2-cinematic-prehistoric-swamp",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "environment-art",
+      "title": {
+        "en": "Cinematic Prehistoric Alien Swamp Landscape"
+      },
+      "description": {
+        "en": "A production-ready image prompt for cinematic prehistoric alien swamp landscape, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Create a highly detailed cinematic paleoart landscape showing a wet, alien-looking prehistoric swamp from the early land-plant era, with no animals or humans. The view is from low ground level across a shallow flooded marsh full of mossy green hummocks, slick mud, puddles, and winding rivulets reflecting a cold gray sky. Populate the foreground and midground with primitive vegetation: tall thin reed-like stalks with dark club-shaped tips, sparse brushy thickets, curled fern-like fronds, spiky low plants, bead-like wet growths, and exactly one prominent cluster of translucent pale green oval jelly-like sacs or seed pods in the lower right foreground, glowing subtly with brown vein-like interiors. In the distance, show flat-topped rocky mesas and low hills dusted with patches of snow, softened by drifting mist and steam rising in multiple wisps across the marsh. The atmosphere should be bleak, cold, ancient, and stormy, with heavy layered clouds, blue-gray lighting, damp surfaces, high realism, rich texture, scientific-documentary detail, wide-angle composition, deep depth of field, no text, no buildings, no modern objects.",
+      "tags": [
+        "paleoart",
+        "prehistoric",
+        "swamp",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cinematic-prehistoric-swamp",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cinematic-prehistoric-swamp.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Lari_island via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Lari_island/status/2071749601909182632#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_05597",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-cinematic-3d-typography-letters",
+      "assetId": "goku-gpt-image-2-cinematic-3d-typography-letters",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "poster-design",
+      "title": {
+        "en": "Cinematic 3D Typography Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for cinematic 3d typography art, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Create a clean 2x2 grid of four front-facing 3D typographic sculptures on a light gray seamless studio background, separated by thin white dividers. Each quadrant features a single giant letter built entirely from dense, realistic filmmaking equipment and on-set props from a different cinematic era, with the letterform chaotic but clearly legible. Use high-end Cinema 4D product-render aesthetics, ambient occlusion, realistic scale relationships, intricate kit-bashing, subtle wear, metallic reflections, and three-point studio lighting with a soft overhead source. Top-left: the letter S, representing early silent-era or proto-cinema filmmaking, constructed from antique brass-and-wood cameras, exposed gears, film reels, projector parts, bellows, tripod wood legs, and vintage optical housings; warm bronze and copper tones; include 3 extra props at the base: a black megaphone labeled \"DIRECTOR\", a clapboard, and a short stack of film canisters; one projector-like lens at the upper right glows brightly. Top-right: the letter C, representing classical Hollywood film production, built from black metal film cameras, studio lenses, magazines, matte boxes, dolly components, control boxes, and analog set hardware; mostly black, steel, and gunmetal with subtle brass accents; include 4 extra props integrated around the base and inner right side: a clapperboard, a boxy side module, a film magazine marked \"35\", and a small cylindrical canister; a large forward-facing lamp or lens glows at the upper right. Bottom-left: the letter N, representing modern analog or late-20th-century cinema, assembled from Arriflex-style cameras, long cine zoom lenses, support rigs, rails, cables, a slate, and a field recorder; predominantly matte black with silver hardware and a few red accent rings; include 3 clearly visible base elements: a clapperboard section, a labeled director strip, and a rectangular audio recorder/control unit at the bottom. Bottom-right: the letter D, representing digital and virtual production, built from RED-style digital cinema cameras, monitors, battery packs, wireless transmitters, drones, LED panels, green-screen fabric inserts, and modular rig components; black technical bodies with vivid green accents and screen graphics; include 4 notable integrated device types: drone arms/propellers at the top, a rectangular LED light panel, multiple monitors, and a large camera lens at the lower left. Keep all objects grounded and physically connected, no floating pieces, no flat typography, no handwriting, no paper look, no messy background. Ultra-detailed, sharp, 8k, polished graphic design asset for a poster or visual comparison of filmmaking eras.",
+      "tags": [
+        "3d-render",
+        "film-equipment",
+        "typography",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cinematic-3d-typography-letters",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cinematic-3d-typography-letters.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Gdgtify via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Gdgtify/status/2047677943611297889#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07531",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-sacred-geometry-mandala",
+      "assetId": "goku-gpt-image-2-sacred-geometry-mandala",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Sacred Geometry Mandala Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for sacred geometry mandala art, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "A perfectly centered sacred-geometry mandala on a clean white background, rendered as an ultra-detailed visionary ink-and-pointillism illustration. The composition is radially symmetrical and circular overall, glowing with warm gold, saffron, orange, coral, magenta, violet, and hints of cyan at the core. In the exact center, place a radiant circular nucleus with a bright cyan-blue dot surrounded by concentric rings of pink, magenta, orange, and gold, like a luminous spiritual sun. Around it, build many densely packed concentric bands of tiny jewel-like eyes, bead forms, dots, and filigree, all arranged with precise rotational symmetry. Form a four-point diamond structure around the center, with 4 large petal-like flame clusters pointing up, down, left, and right, and 4 smaller curled spiral clusters in the diagonal quadrants. At the outer cardinal points, include 4 larger almond-shaped eye motifs embedded in feathery golden forms. Across the mandala, include dozens of miniature multicolored eyes set into rings, suggesting omniscient awareness. Use extremely fine stippling, micro-linework, ornate feathered textures, and shimmering decorative detail, with the inner structure predominantly luminous gold and ivory, transitioning to a diffuse halo of violet and lavender stippled particles at the outer edge. The image should feel mystical, transcendent, intricate, balanced, and meditative, like a celestial mandala or visionary sacred emblem, with crisp high-detail line art and soft radiant color blending.",
+      "tags": [
+        "mandala",
+        "sacred-geometry",
+        "pointillism",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-sacred-geometry-mandala",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/sacred-geometry-mandala.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@nicdunz via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/nicdunz/status/2048746124207387132#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07727",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-cozy-ferret-cuddle-watercolor",
+      "assetId": "goku-gpt-image-2-cozy-ferret-cuddle-watercolor",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Cozy Ferret Cuddle Watercolor"
+      },
+      "description": {
+        "en": "A production-ready image prompt for cozy ferret cuddle watercolor, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "A cute hand-drawn animal illustration in a soft watercolor and colored-pencil storybook style, viewed from directly above. Two ferrets are curled together snugly inside a square pet bed with high padded sides. The left ferret is a pale cream color with fluffy fur, a pink nose, round glossy black eyes, and a gentle sweet expression; its long body curves around the other ferret protectively. The right ferret is a sable ferret with a dark brown body, warm tan underfur, a cream face mask, pink nose, and bright black eyes, smiling slightly with tiny teeth visible and one small paw raised near its chest. Their bodies form a cozy spiral composition, touching cheek to cheek. The bed has a soft light gray inner cushion and dark charcoal-black outer sides, with visible fabric texture and softly shaded folds in each corner. Around them are 4 pink doodle hearts and 4 sparkle or emphasis marks in a playful sticker-like style, adding a kawaii mood. Use a warm off-white paper background with subtle beige wash, delicate textured edges, fine fur detail, soft lighting, charming pastel accents, and an overall adorable affectionate feel.",
+      "tags": [
+        "ferret",
+        "watercolor",
+        "kawaii",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cozy-ferret-cuddle-watercolor",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cozy-ferret-cuddle-watercolor.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Chippy_ame via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Chippy_ame/status/2050176824081342683#reversed-3",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_09201",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-jealous-tabby-cat-comic",
+      "assetId": "goku-gpt-image-2-jealous-tabby-cat-comic",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Jealous Tabby Cat Comic"
+      },
+      "description": {
+        "en": "A production-ready image prompt for jealous tabby cat comic, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "A cute hand-drawn four-panel comic in a soft, warm, slice-of-life style on a light cream background with thick black panel borders and slightly textured paper grain. Use simple rounded cartoon cat anatomy, expressive faces, clean black outlines, muted natural colors, and a gentle manga-like presentation. In the top-left panel, show 2 cats: a brown tabby cat with dark stripes and white muzzle sitting with eyes closed, looking pleased, while a mostly white cat with dark brown patches on the head stands beside it and affectionately licks the tabby's cheek; add 2 small black musical notes above them to suggest happy grooming. In the top-right panel, show the white-and-brown patched cat in the foreground looking toward a small calico kitten standing to the right; include a speech bubble containing the Japanese text \"めい\" above the kitten. In the bottom-left panel, show 3 cats together: the brown tabby on the left with a surprised or blank expression, the white patched cat on the right looking cheerful, and the small calico kitten centered in front between them, looking up. In the bottom-right panel, show a close-up of the brown tabby cat alone, facing forward with narrowed yellow-green eyes and an angry, jealous expression; add 2 short emphasis lines near the face and 1 small puff-shaped anger symbol to the right. Keep the tone cozy and comedic, with the visual joke that the tabby was happy being groomed until the new kitten appears. Use flat colors, minimal shading, and a charming Japanese webcomic feel.",
+      "tags": [
+        "four-panel-comic",
+        "cat-jealousy",
+        "slice-of-life",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-jealous-tabby-cat-comic",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/jealous-tabby-cat-comic.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Maoku via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Maoku/status/2046713681741038048#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_10092",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-penguin-roller-coaster",
+      "assetId": "goku-gpt-image-2-penguin-roller-coaster",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Penguin's Wild Coaster Ride"
+      },
+      "description": {
+        "en": "A production-ready image prompt for penguin's wild coaster ride, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "A whimsical, photorealistic action shot of a penguin riding a carnival roller coaster in broad daylight. The penguin is centered in the frame, black and white with a sleek body, wearing a bright red safety helmet and blue wraparound goggles, beak wide open in an excited scream, with both flippers stretched outward like it is enjoying the ride. The roller coaster car is small and glossy black with vivid yellow-to-orange flame graphics along the sides and a silver safety bar across the front. The car is tipping down a steep curve on a bright orange track in the left foreground, creating strong motion and energy. In the background, show a colorful county fair with rainbow-striped tents, a large Ferris wheel lit with multicolored lights, tall amusement rides, and a pink cotton candy stand with a visible “COTTON CANDY” sign. Use a shallow depth of field and slight motion blur in the background to emphasize speed, while keeping the penguin and coaster car sharp. Bright saturated colors, playful surreal humor, dynamic composition, sunny outdoor fairground atmosphere, high detail, cinematic realism.",
+      "tags": [
+        "penguin",
+        "rollercoaster",
+        "carnival",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-penguin-roller-coaster",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/penguin-roller-coaster.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@sandor_bal6746 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/sandor_bal6746/status/2047761315054174614#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_10886",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-dreamy-fairytale-cottage-landscape",
+      "assetId": "goku-gpt-image-2-dreamy-fairytale-cottage-landscape",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "environment-art",
+      "title": {
+        "en": "Dreamy Fairytale Cottage Landscape"
+      },
+      "description": {
+        "en": "A production-ready image prompt for dreamy fairytale cottage landscape, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "A dreamy storybook landscape painting of a cozy fairytale cottage in a lush alpine valley, rendered in a soft painterly style with warm sunlight and delicate atmospheric haze. The cottage sits slightly left of center beside a winding stone path, with cream-colored plaster walls, a steep mossy thatched roof, a small chimney, curved dormer windows, a teal-blue front door, and climbing flowers around the walls and fence. A large leafy tree frames the left foreground, casting cool shade over wildflowers, grass, and rough wooden posts. On the right, a clear stream flows through the scene beneath a small old stone bridge. In the middle distance, a tiny hillside village with church-like towers nestles among trees. In the background, tall rugged mountains rise dramatically, their slopes softened by mist and crowned with bright white clouds. Use rich greens, sunlit gold, soft blue-gray mountains, and a tranquil pastoral mood, with highly detailed foliage, textured brushwork, and a whimsical classic fantasy illustration feel.",
+      "tags": [
+        "fairytale-art",
+        "landscape-painting",
+        "fantasy-illustration",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-dreamy-fairytale-cottage-landscape",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/dreamy-fairytale-cottage-landscape.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@zitoIA via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/zitoIA/status/2048748590751777281#reversed-1",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_11143",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-magnolia-morning-light",
+      "assetId": "goku-gpt-image-2-magnolia-morning-light",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Magnolia in Morning Light"
+      },
+      "description": {
+        "en": "A production-ready image prompt for magnolia in morning light, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "[Year]: 2025\n[Column English Name]: BOTANICAL POSTER\n\n[English Series Name Line 1]: Bloom\n[English Series Name Line 2]: Studies\n\n[Chinese Title]: Magnolia Dawn White\n[English Subtitle]: Magnolia in Morning Light\n\n[Chinese Short Phrase]: A tree of purity speaks before the spring breeze\n[English Explanatory Paragraph]: \nMagnolias hold a special kind of stillness. Their petals open with sculptural grace, carrying the cool breath of early spring. Against white space, they feel almost architectural, calm yet full of inward light. \n\n[Main Plant/Flower]: White Magnolia\n[Number and Condition of Flowers]: One fully bloomed main flower, with two buds on the sides and back\n[Leaf Morphology]: Branches spread out, leaves are few, and the flower shape is prominent\n[Details of fruit/core/seed pods]: The flower core is slightly visible, petals are thick, soft, and smooth\n[Supporting Elements]: Fine branches and a faint morning light\n\n[Season / Time / Mood]: Early spring morning, cool, clean, and gentle\n[Emotional Keyword 1]: Restraint\n[Emotional Keyword 2]: Elegance\n[Emotional Keyword 3]: Tranquility\n\n[Main Color 1]: Milky white\n[Main Color 2]: Light gray-green\n[Main Color 3]: Matte Pink\n[Secondary Colors]: Light brown branches and trunks, cool gray shadows",
+      "tags": [
+        "white-magnolia",
+        "botanical-art",
+        "morning-stillness",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-magnolia-morning-light",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/magnolia-morning-light.jpg",
+        "ratio": "3:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@XiaoKooeye via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/XiaoKooeye/status/2070474430472765804",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12026",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-lunch-diary-watercolor",
+      "assetId": "goku-gpt-image-2-lunch-diary-watercolor",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "poster-design",
+      "title": {
+        "en": "Lunch Diary Watercolor Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for lunch diary watercolor art, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Style: Soft watercolor illustrations, warm Japanese lifestyle magazine aesthetics, hand-drawn texture, delicate ink lines, warm tones, subtle paper textures, and a dreamy and tranquil atmosphere. Ratio: 4:5. Setting: A simple and cozy lunch table in a bright and quiet room; Overhead shots arranged naturally around ceramic teapots, striped mugs, and vases; The background is warm cream-colored textured paper, with English handwritten notes and doodle arrows. Objects: Cream-colored ceramic teapot (with blue floral patterns and bamboo handle), large blue-striped ceramic mug, transparent glass vase with pink and yellow buttercups, capri salad (wave-edged porcelain plate), teriyaki chicken plate (served with roasted pumpkin and broccoli), salmon crushed rice bowl (garnished with edamame and seaweed pieces). Text elements: Main title \"Lunch Diary\", subtitle \"Recording Today's Little Happiness\", handwritten English annotations, and casual handwritten ink font. Light and shadow: soft natural light, tranquil and transparent. Rendering: Visible watercolor brushstrokes and ink gradation effects, with tones including warm cream, soft blue, pastel, pale yellow, beige, sage green, high-detail painting style illustrations.",
+      "tags": [
+        "watercolor",
+        "food-illustration",
+        "japanese-aesthetic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-lunch-diary-watercolor",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/lunch-diary-watercolor.jpg",
+        "ratio": "3:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Maercihh via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Maercihh/status/2053406447439131105",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12314",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-whimsical-folk-flat-graffiti",
+      "assetId": "goku-gpt-image-2-whimsical-folk-flat-graffiti",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Whimsical Folk Flat Graffiti Illustration"
+      },
+      "description": {
+        "en": "A production-ready image prompt for whimsical folk flat graffiti illustration, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Please transform the entire image into a single decorative folk flat illustration with graffiti elements. Using a bold and interesting color scheme, completely different from the original image. Simplify all details into clean, flat shapes that feel handmade, slightly imperfect, like painting on a blank sheet of paper. The overall style should look cute, playful, and whimsical.",
+      "tags": [
+        "folk-art",
+        "flat-illustration",
+        "graffiti-style",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-whimsical-folk-flat-graffiti",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/whimsical-folk-flat-graffiti.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Ciri_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Ciri_ai/status/2066742340434424079",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12439",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-watercolor-poetry-picture-book",
+      "assetId": "goku-gpt-image-2-watercolor-poetry-picture-book",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Watercolor Poetry Picture Book"
+      },
+      "description": {
+        "en": "A production-ready image prompt for watercolor poetry picture book, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Exquisite watercolor illustrations created on textured handmade paper. Plenty of blank space. Soft pastel tones. Minimalist composition. A lonely [subject] is interacting with [object]. The figures are surrounded by floating flowers, butterflies, petals, and watercolor splashes. A quiet emotional atmosphere, nostalgic and poetic. Contemporary Japanese watercolor art album style. Fine ink details, transparent watercolor gradients, clearly visible paper textures, gallery-level illustrations. The main body occupies only 20–30% of the canvas. Most of the background is blank paper. Soft edges, subtle shadows, and elegant handcrafted textures.",
+      "tags": [
+        "watercolor-illustration",
+        "japanese-picture-book",
+        "handmade-paper-texture",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-watercolor-poetry-picture-book",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/watercolor-poetry-picture-book.jpg",
+        "ratio": "360:437",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Ciri_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Ciri_ai/status/2069271511589093583",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12446",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-hand-drawn-travel-doodle",
+      "assetId": "goku-gpt-image-2-hand-drawn-travel-doodle",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "title": {
+        "en": "Hand-Drawn Travel Doodle Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for hand-drawn travel doodle art, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Create a charming editorial-style travel illustration for {DESTINATION}, using a minimalist hand-drawn doodle style, as if it were hand-drawn in a travel notebook with a black felt-tip pen. Illustrations should feel very personal, spontaneous, and imperfect, not digital designs. Imagine someone sitting in a café after visiting a destination, casually creating a painting. ## Color Combinations Keep the illustration almost entirely black and white. Use only one accent color: {ONE POINT COLOR} ## Style Drawn entirely with black felt-tip pen lines. Using slightly shaky hand-drawn outlines, natural line variations, loose marker strokes, sketch-like confidence, subtle imperfections, slightly open line ends, uneven hand pressure, and occasional overlapping brushstrokes. Every line should clearly appear handmade. Avoid perfectly smooth curves, mechanically precise contours, refined vector graphics, or overly sharp digital renderings. ## Theme Depicts {DESTINATION}'s unique atmosphere and highly recognizable identity, rather than creating realistic cityscapes. Choose the destination's most iconic landmarks, unique architecture, local transportation, famous scenery, native plants, local animals, regional cuisine, and cultural items. Focus on the spirit of the destination, not on literal accuracy. ## Composition Arrange selected elements into a balanced editing composition with plenty of empty space. The layout should feel open, light, and effortless, similar to a designer's travel sketchbook. Allows objects to naturally overlap without becoming crowded. Each element should have room to breathe. Keep the composition visually relaxed and not messy. Apply a small amount of blue to selected details such as water, sky, windows, signs, clothing accents, decorative highlights, or small architectural features. Never introduce any other colors. ## Painting Style Keep each object simple and deliberately simplified. Uses a flat shape with minimal internal details. Avoid realistic textures, gradients, shadows, painterly brush techniques, glossy surfaces, or complex rendering. Illustrations should remain clean, grand, understated, and highly flat. ## Line Quality The lines of the black marker pen are the main visual feature. Lines should feel confident, casual, lively, expressive, and naturally imperfect. Slightly uneven outlines, openings at the edges, varying line thickness, and tiny drawing errors are encouraged, as they enhance the authentic hand-drawn feel. ## Atmosphere Warm. Friendly. Relax. Playful. Minimalist. Editorial style. Contemporary Sensibility. Express elegance through simplicity. Finished artwork should resemble beautifully designed travel notebooks, boutique travel guides, editorial magazine illustrations, or lifestyle sketchbooks, rather than elaborate digital illustrations. ## Important Points Do not photograph realistically. No 3D rendering. Don't paint the effects. Don't make a gradual change. Don't double the shadows. Do not use glossy lighting. Don't create a neat artwork that feels like a vector. Don't go into too many details. Don't make the composition crowded. Leaving a lot of blank space. Maintains a flat edited graffiti aesthetic with distinct handmade characteristics. The final image should instantly evoke memories of {DESTINATION} through simple, expressive black felt-tip sketches and subtle sky-blue accents.",
+      "tags": [
+        "travel-illustration",
+        "hand-drawn",
+        "minimalist-doodle",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-hand-drawn-travel-doodle",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/hand-drawn-travel-doodle.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Sairah_0 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Sairah_0/status/2071779087396606433",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12572",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-life-decades-3d-numerals",
+      "assetId": "goku-gpt-image-2-life-decades-3d-numerals",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Life Decades in 3D Numbers"
+      },
+      "description": {
+        "en": "A production-ready image prompt for life decades in 3d numbers, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "2x2 grid, printed numerals to represent four decades of life. Anchor point: [Year number] :: [Life stage / era (e.g., 10-year-old childhood / 40-year-old middle age / 70-year-old elder)] :: 4 Form: [Year Number] 3D printed sculpture made up of dense [life stage] items—physical texture of daily life at this age: toys, tools, documents, comfort items, medical supplies, hobby equipment—nostalgic, authentic, easy to read :: 3 Material physical properties: faithful to the texture of the item at this life stage: worn plastic, laminated paper, soft cotton cloth, Scratched metal, semi-transparent orange prescription bottles, old photos; Its proportions and degree of wear match how these items are actually held and used :: 3 Lighting: Warm home lighting — like afternoon sunlight streaming through a window, soft complementary light on opposite sides, clean light background :: 2 Rendering: Cinema 4D rendering, front angle, 8k, tactile home material shader :: 1 Negative note: [Blurry text, 2D, flat, general stock photo aesthetics, floating, clinical or cool-tone lighting, non-age items] :: -1",
+      "tags": [
+        "life-stages",
+        "3d-sculpture",
+        "nostalgic-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-life-decades-3d-numerals",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/life-decades-3d-numerals.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Gdgtify via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Gdgtify/status/2056109249357357270",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13334",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-futuristic-concept-art",
+      "assetId": "goku-gpt-image-2-minimalist-futuristic-concept-art",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Minimalist Futuristic Concept Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for minimalist futuristic concept art, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "This prompt generates highly stylized, minimalist futuristic themes, focusing on bold contrasts and streamlined designs. The overall style emphasizes simplicity and strong visual impact.\nCustomizable color palettes.\nHigh-impact visual effects.\nConcept art\nBook and movie covers\nBranded materials",
+      "tags": [
+        "minimalist",
+        "futuristic",
+        "concept-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-minimalist-futuristic-concept-art",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/minimalist-futuristic-concept-art.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Aiwithkami via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Aiwithkami/status/2063558873697714376",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13607",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-philosophy-poster",
+      "assetId": "goku-gpt-image-2-minimalist-philosophy-poster",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "poster-design",
+      "title": {
+        "en": "Minimalist Philosophical Poster Design"
+      },
+      "description": {
+        "en": "A production-ready image prompt for minimalist philosophical poster design, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "This prompt guides ChatGPT to generate balanced compositions combining restrained illustrations, broad typography, and a quiet philosophical tone—perfect for print, interior decor, and collecting. Practical benefits: - Consistent minimalist poster aesthetics - typography-focused composition - suitable for wall art and print products. Flexible and easy to reuse in many concepts. Designed for creators who value clarity, restraint, and emotion.",
+      "tags": [
+        "minimalism",
+        "typography",
+        "wall-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-minimalist-philosophy-poster",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/minimalist-philosophy-poster.jpg",
+        "ratio": "701:561",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Aiwithkami via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Aiwithkami/status/2057683820095381606",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13671",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-modern-vintage-travel-collage-poster",
+      "assetId": "goku-gpt-image-2-modern-vintage-travel-collage-poster",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "title": {
+        "en": "Modern Vintage Travel Collage Poster"
+      },
+      "description": {
+        "en": "A production-ready image prompt for modern vintage travel collage poster, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Modern vintage travel collage poster, editorial style destination artwork, minimalist vintage travel design, bold oversized top, layered photo collage composition, textured cream-colored paper background, color palette mixing monochrome and soft tones, geometric abstract circles and paper-cut shapes, contemporary magazine aesthetics, cinematic urban montage, landmark architecture blended, exquisite scrapbook design, clean graphic layout, urban culture poster, ultra-detailed travel collage, luxurious edited print style, aesthetic typographic composition, realist landmark photography and graphic design blend, modern vintage poster atmosphere, artistic layering, fashionable travel promotional artwork, 8K.",
+      "tags": [
+        "vintage-poster",
+        "travel-collage",
+        "editorial-design",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-modern-vintage-travel-collage-poster",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/modern-vintage-travel-collage-poster.jpg",
+        "ratio": "3:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Taaruk_ via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Taaruk_/status/2056969313974620364",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13731",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-eco-cabin-architecture-blueprint",
+      "assetId": "goku-gpt-image-2-eco-cabin-architecture-blueprint",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "architecture-blueprint",
+      "title": {
+        "en": "Eco-Cabin Architecture Blueprint"
+      },
+      "description": {
+        "en": "A production-ready image prompt for eco-cabin architecture blueprint, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Create a high-end square reference style architectural infographic, centered on a beautifully aesthetic natural wooden house, with the design style positioned as a curatorial ecological architecture handbook page rather than a travel advertisement.\n\nThe composition should blend a modern visual encyclopedia, a luxury eco-resort design manual, and a high-end editorial infographic system.\n\nVisual direction:\n• 1:1 square composition\n• Soft earth-tone background with subtle blueprint textures, hand-drawn architectural sketches, and natural paper textures\n• Elegant matte palette featuring warm beige, natural wood brown, olive green, soft cream, bamboo colors, and carbon black accents\n• Refined editorial and typesetting hierarchies\n• Neatly spaced rounded modular information cards\n• Soft, realistic shadows and advanced UI-style dividers\n• Minimalist eco-building icons\n• Highly detailed renderings of the central wooden house, presented in dramatic three-quarter perspective under warm golden lighting\n• Fine, precise marking lines pointing to architectural systems and natural design features\n• Clean and organized \"knowledge-first\" layout, with high information density but transparent spacing\n\nMain Structure:\nA stunning, ultra-detailed rendering of a natural wooden house at the center features natural wood grain, bamboo structures, straw roofs, warm indoor ambient lighting, lush landscaping, handcrafted architectural feel, a cozy tropical ambiance, and a sophisticated ecological luxury realism.\n\nThe cabin is surrounded by scientific and architectural markers, explaining:\n• Thatched roof system\n• Natural ventilation design\n• Elevate the foundation structure\n• Bamboo/wood frame\n• Passive cooling method\n• Open corridor concept\n• Use of sustainable materials\n• Rainwater treatment systems\n• Sunlight optimization\n• Integration of ecological living\n\nIncludes modular infographic sections, such as:\n• Overview of the cabin\n• Building specifications\n• Overview of floor plans\n• Material color palette\n• Sustainability characteristics\n• Passive design benefits\n• Concept of indoor lifestyle\n• Bedroom / bathroom / kitchen concept\n• Sectional architectural drawings\n• Construction and material disassembly\n• Sunlight and ventilation analysis\n• Site layout\n• Cost breakdown (indicative)\n• Advantages and considerations are compared\n• Construction timeline\n• \"5 Amazing Facts\" section\n• Ideal locations and use cases\n\nAdd small advanced vision modules, such as:\n• Plan chart charts\n• Sectional cross-sectional drawing\n• Airflow and cooling diagram\n• Sunlight direction diagram\n• Material texture display\n• Ecosystem workflow charts\n• Site landscape planning\n• Flow diagrams\n• Miniature blueprint elevation view\n• Sustainable visual representation\n\nStyle Keywords:\n\"Advanced Eco Architecture Encyclopedia,\" \"Editorial Nature Resort Handbook,\" \"High-End Tropical Cabin Infographic,\" \"Scientific Sustainable Building Poster,\" \"Museum Quality Eco Residence Reference Page,\" \"Luxury Rural Architecture Editorial Style,\" \"Modular Building Knowledge System,\" \"Ultra-Detailed Natural Living Visualization\"\n\nAvoid:\n• Universal travel manual aesthetic\n• Fantasy fairy tale cabin\n• Cluttered infographic layout\n• Overly sci-fi architecture\n• Excessive cinematic effects\n• Dark and oppressive environments\n\nThe final result should resemble a professionally published eco-architecture reference book page created for architects, interior designers, sustainability enthusiasts, resort planners, and educational design archives.",
+      "tags": [
+        "eco-architecture",
+        "sustainable-design",
+        "wooden-cabin",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-eco-cabin-architecture-blueprint",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/eco-cabin-architecture-blueprint.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@j_smeaton99 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/j_smeaton99/status/2053673104237613458",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14060",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-kashmir-cloisonne-enamel-magnet",
+      "assetId": "goku-gpt-image-2-kashmir-cloisonne-enamel-magnet",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "souvenir-design",
+      "title": {
+        "en": "Kashmir Cloisonné Enamel Magnet"
+      },
+      "description": {
+        "en": "A production-ready image prompt for kashmir cloisonné enamel magnet, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Ultra-premium cloisonné enamel collector's fridge magnet, displayed in bright high-end store windows in a vertical 9:16 composition.\n\nProduct Description:\n“Srinagar · Kashmir”\n\nShape:\n– Custom silhouettes based on the contours of the Himalayas and the towering silhouette of the Srinagar bell tower\n– Vertical composition to emphasize a sense of height\n– Polished metal with gold trim\n\nKey focus:\n– The iconic Srinagar clock tower (Ghanta Ghar) occupies the main part of the composition (70–80% of the height ratio)\n– Extremely detailed Kashmiri architecture, exquisite windows, shimmering enamel highlights, and authentic handcrafted textures\n\nInterior of the magnetic tiles:\n– The Dal Lake at the bottom features reflective water ripple details\n– Traditional Kashmiri houseboats in the foreground\n– The background features Mughal gardens and the Srinagar skyline\n– The snow-capped Himalayas in the distance\n– The Hazratbar Mosque and the elegant Kashmiri arch bridge blend seamlessly into the composition\n\nMiniature Workers (Core Element):\n– Miniature artisans are applying enamel surfaces with miniature brushes\n– Workers painted gold trim and blue enamel details on the ladder\n– A worker polishing metal edges near the top of the Srinagar clock tower\n– Little figures interact with boats, lanterns, and architectural details around Dal Lake\n\nInteraction details:\n– Plane tree leaves float in the scene\n– Warm reflected light complements the smooth enamel and metal frame\n– Subtle handcrafted flaws and texture changes to enhance authenticity\n\nMaterial:\n– Cloisonné enamel with a lustrous and translucent gemstone tone\n– Embossed metal gold trim\n– Handcrafted textures with premium details\n\nColor Palette:\n– Deep Kashmir Blue\n– Emeralds\n– Warm saffron orange\n– Subtle metallic gold highlights\n\nEnvironment:\n– Bright modern luxury souvenir boutique interior\n– Light-colored marble and polished wood display countertops\n– Realistic glass reflections in shop windows\n– Soft, blurred background, shelves filled with high-end travel collectibles\n– Elegant shoppers blurred in the background\n\nLuminous Efficiency:\n– Soft natural light streams through the storefront glass\n– Warm indoor boutique lighting blends with environmental reflections\n– Realistic mirror reflections, soft shadows, and cinematic highlights\n\nStyle:\n– Surrealist product photography\n– Immersive miniature world\n– Extremely rich microscopic details suitable for very close observation\n– High-end handmade collectible aesthetics\n\nTechnology:\n– 85mm lens\n– Shallow depth of field\n– 8K ultra-fine rendering\n– Luxurious souvenir advertising aesthetics with strong social sharing power",
+      "tags": [
+        "cloisonne",
+        "fridge-magnet",
+        "srinagar",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-kashmir-cloisonne-enamel-magnet",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/kashmir-cloisonne-enamel-magnet.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@im_shahid7 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/im_shahid7/status/2054095189715894497",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14446",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-korean-hanok-watercolor-sketch",
+      "assetId": "goku-gpt-image-2-korean-hanok-watercolor-sketch",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "title": {
+        "en": "Korean Hanok Watercolor Sketch"
+      },
+      "description": {
+        "en": "A production-ready image prompt for korean hanok watercolor sketch, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Traditional Korean hanok village streets, watercolor architectural sketches, urban sketches of life masterpieces, hand-drawn ink lines with loose watercolor grading, delicate curved tile roofs, wooden doors and traditional architecture, soft earth tones, beige, warm brown, gray stone slab roofs, subtle splash effects, textured watercolor paper backgrounds, minimalist composition, clean white blank space, atmospheric perspective, delicate lines, travel sketchbook illustrations, outdoor sketching style, highly detailed architecture, soft morning light, realistic proportions, elegant brushstrokes, ink techniques, Professional architectural renderings, tranquil historic alleys, reflections on damp stone roads, fine pen sketch details, soft tones, artistic watercolor diaries, East Asian heritage architecture, ultra-detailed, high-quality, watercolor and ink illustrations.",
+      "tags": [
+        "watercolor-architecture",
+        "hanok-village",
+        "urban-sketching",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-korean-hanok-watercolor-sketch",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/korean-hanok-watercolor-sketch.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@kingofdairyque via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/kingofdairyque/status/2061752797851201842",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14663",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-cake-baking-storyboard",
+      "assetId": "goku-gpt-image-2-cake-baking-storyboard",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "storyboard",
+      "title": {
+        "en": "Cake Baking Storyboard Guide"
+      },
+      "description": {
+        "en": "A production-ready image prompt for cake baking storyboard guide, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Ultra-realistic movie-grade storyboards demonstrate the complete step-by-step process of making a homemade cake. The typographic layout features clean, professional 6-8 panels, with each frame clearly separated by subtle white borders and soft shadows.\n\nEach frame represents a step, presenting a realistic kitchen environment, warm natural light, shallow depth of field, and highly detailed food textures.\n\nFrame 1 – Ingredient Preparation:\nOn a clean kitchen counter, flour, eggs, sugar, milk, butter, vanilla extract, and baking tools are neatly arranged. Overlay text: \"Step 1: Gather Ingredients\"\n\nDrawing Grid 2 – Mixed Dry Ingredients:\nClose-up of flour, sugar, and baking powder being sifted into a bowl. Overlay text: \"Step 2: Mix Dry Ingredients\"\n\nFrame 3 – Mixed wet material:\nStir eggs, milk, butter, and vanilla in a glass bowl with realistic motion blur. Overlay text: \"Step 3: Prepare Wet Mixture\"\n\nPanel 4 – Mixing the batter:\nUse a spatula to evenly stir the thick cake batter in a large bowl, creating a delicate milky texture. Overlay text: \"Step 4: Combine Everything\"\n\nDraw 5 – Pour into the baking tray:\nThe batter is poured into a round baking tray, capturing the slight flowing dripping sensation. Overlay text: \"Step 5: Pour into Baking Pan\"\n\nFrame 6 – Oven Baking:\nThe oven door is slightly open, revealing the cake inside that is expanding and baking to a golden color. Warm glow. Overlay text: \"Step 6: Bake at 180°C\"\n\nFrame 7 – Cooldown Phase:\nFreshly baked cakes cool down on the rack, releasing a faint steam. Overlay text: \"Step 7: Let it Cool\"\n\nFrame 8 – Final Decoration:\nA beautifully decorated cake is being frosted, garnished with strawberries, and coated with sugar. Overlay text: \"Step 8: Decorate & Serve\"\n\nOverall style: ultra-realistic, cinematic-grade food photography, 8K detail, shallow depth of field, soft and warm kitchen lighting, professional food advertising style, highly delicate textures, clean composition, and instructional storyboard design.",
+      "tags": [
+        "baking-tutorial",
+        "storyboard",
+        "food-photography",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cake-baking-storyboard",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cake-baking-storyboard.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AIwithZahra via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AIwithZahra/status/2056253103075139809",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14791",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-neon-floating-headphones",
+      "assetId": "goku-gpt-image-2-neon-floating-headphones",
+      "model": "gpt-image-2",
+      "industry": "ecommerce-retail",
+      "category": "product-advertising",
+      "title": {
+        "en": "Neon Floating Headphones Ad"
+      },
+      "description": {
+        "en": "A production-ready image prompt for neon floating headphones ad, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Surrealist high-end product photography: stylish wireless over-ear headphones float above a smooth base, bright neon lights, soft soft pink background, cinematic studio setup, stylish Gen Z aesthetic, delicate hands holding the headphones, shiny nails, playful graffiti-style handwritten text and arrows around the product, highlighting features like \"60 HRS,\" \"Wireless Freedom,\" \"Bass Beast,\" and \"Loud & Clear.\" Glowing sound waves, game/music atmosphere, colorful environmental reflections, shallow depth of field, clean commercial advertising style, modern tech branding, high detail, realistic photography, Instagram ad aesthetics, soft shadows, dynamic compositions, vibrant cyan, coral, purple, and neon tones, luxury lifestyle product displays, 4K studio lighting, and creative graffiti naturally blend around the headphones.",
+      "tags": [
+        "headphones",
+        "neon",
+        "commercial",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-neon-floating-headphones",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/neon-floating-headphones.jpg",
+        "ratio": "402:499",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ChillaiKalan__ via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ChillaiKalan__/status/2057755904615809406",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14979",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-fantasy-fabric-sculpture",
+      "assetId": "goku-gpt-image-2-fantasy-fabric-sculpture",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Fantasy Fabric Sculpture Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for fantasy fabric sculpture art, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "A fantastic handmade fabric sculpture [object], made entirely from knitted fabrics, woven fibers, felt, yarns, embroidery threads, and soft textile materials. Elegant minimalist design features layered fabric structures, visible stitching, intricate woven textures, ribbed knit patterns, soft-touch surfaces, exquisite handcrafted details, soft light tones, premium craftsmanship, collectible-grade designer figurine aesthetics, shallow depth of field, soft diffused studio lighting, clean backgrounds, ultra-fine fibers, realistic fabric textures, cinematic-grade composition, premium product photography, masterpiece quality, and 8K rendering.",
+      "tags": [
+        "handmade-textile",
+        "minimalist-design",
+        "product-photography",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-fantasy-fabric-sculpture",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/fantasy-fabric-sculpture.jpg",
+        "ratio": "1080:1439",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@RizwanAly07 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/RizwanAly07/status/2069996103358156829",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_15142",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-2026-guyu-poster",
+      "assetId": "goku-gpt-image-2-2026-guyu-poster",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "poster-design",
+      "title": {
+        "en": "2026 Grain Rain Poster"
+      },
+      "description": {
+        "en": "A production-ready image prompt for 2026 grain rain poster, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "[Chinese]\r\nGenerate a poster for the 2026 Grain Rain solar term\r\n\r\n[English]\r\nGenerate a poster for the Guyu solar term in 2026",
+      "tags": [
+        "grain-rain",
+        "solar-term",
+        "poster",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-2026-guyu-poster",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/2026-guyu-poster.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@akokoi1 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/akokoi1/status/2045693939584516441",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_15416",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-great-barrier-reef-poster",
+      "assetId": "goku-gpt-image-2-great-barrier-reef-poster",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "title": {
+        "en": "Great Barrier Reef Travel Poster"
+      },
+      "description": {
+        "en": "A production-ready image prompt for great barrier reef travel poster, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "Create a premium editorial travel poster illustration of the Great Barrier Reef, Australia.\nStyle: Flat vector illustration, ultra-clean minimalism, mid-century modern travel poster aesthetic, inspired by vintage tourism prints and Scandinavian graphic design. No photorealism, no textures, no noise, no gradients. Use crisp shapes, smooth color blocks, and harmonious vibrant tones.\nComposition (vertical 3:4 layout):\nForeground (underwater): A rich coral reef ecosystem filled with colorful corals in pink, orange, yellow, and red tones. Include tropical fish of various species (striped, bright yellow, blue, and orange), and a large sea turtle swimming gracefully toward the right. Clear turquoise water with high visibility.\nMidground: A female snorkeler swimming horizontally just beneath the water surface, wearing fins and a snorkel mask, observing the reef below. Light rays subtly pass through the water surface.\nBackground (above water): A calm tropical ocean with shallow reef patches visible through crystal-clear water. A white leisure boat floats peacefully on the left, and a small sailboat appears far in the distance. On the horizon, soft green islands or hills stretch across.\nSky: Bright blue sky with fluffy white clouds and a few birds flying, enhancing the serene vacation mood.\nTypography:\nAt the bottom of the poster, include bold uppercase text:\n“GREAT BARRIER REEF”\nBelow it, smaller spaced-out text:\n“AUSTRALIA”\nAdd a small decorative coral icon between divider lines.\nMood & Lighting: Bright daylight, calm, inviting, tropical paradise atmosphere. Colors should feel fresh, vibrant, and relaxing with strong contrast between coral reef and ocean blues.",
+      "tags": [
+        "greatbarrierreef",
+        "travelposter",
+        "minimalistart",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-great-barrier-reef-poster",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/great-barrier-reef-poster.jpg",
+        "ratio": "3:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@jzaib4269 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/jzaib4269/status/2055487295734620522",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_15575",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-handmade-crochet-amigurumi-doll",
+      "assetId": "goku-gpt-image-2-handmade-crochet-amigurumi-doll",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Handmade Crochet Amigurumi Doll"
+      },
+      "description": {
+        "en": "A production-ready image prompt for handmade crochet amigurumi doll, with clear composition, material, lighting, and art-direction cues."
+      },
+      "prompt": "A handcrafted crochet doll of a [subject], made with soft yarn textures and intricate knitted details. Dressed in a vivid [color1] accent and a delicate [color2] garment, holding a small [prop]. Set in a cozy [setting], warm muted atmosphere, charming handmade aesthetic, nostalgic amigurumi style.",
+      "tags": [
+        "crochet",
+        "handmade",
+        "amigurumi",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-handmade-crochet-amigurumi-doll",
+        "kind": "image",
+        "url": "https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/handmade-crochet-amigurumi-doll.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@azed_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/azed_ai/status/2067925399947067728",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_15647",
+        "captured_at": "2026-09-29"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
     }
   ]
 }

@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **96**
-Demo assets: **104**
+Published templates: **121**
+Demo assets: **129**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -347,6 +347,88 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 
 - [Temple of Heaven Architecture Deconstructed](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
 
+## 媒体与娱乐
+
+- [Cinematic Prehistoric Alien Swamp Landscape](../catalog/model-detail-assets.json) — environment-art · gpt-image-2
+
+## 营销与广告
+
+- [Cinematic 3D Typography Art](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 创作者与社交
+
+- [Sacred Geometry Mandala Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 媒体与娱乐
+
+- [Cozy Ferret Cuddle Watercolor](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Jealous Tabby Cat Comic](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Penguin's Wild Coaster Ride](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Dreamy Fairytale Cottage Landscape](../catalog/model-detail-assets.json) — environment-art · gpt-image-2
+
+## 创作者与社交
+
+- [Magnolia in Morning Light](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 营销与广告
+
+- [Lunch Diary Watercolor Art](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 创作者与社交
+
+- [Whimsical Folk Flat Graffiti Illustration](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Watercolor Poetry Picture Book](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Hand-Drawn Travel Doodle Art](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Life Decades in 3D Numbers](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Minimalist Futuristic Concept Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 营销与广告
+
+- [Minimalist Philosophical Poster Design](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 旅游与酒店
+
+- [Modern Vintage Travel Collage Poster](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 媒体与娱乐
+
+- [Eco-Cabin Architecture Blueprint](../catalog/model-detail-assets.json) — architecture-blueprint · gpt-image-2
+
+## 旅游与酒店
+
+- [Kashmir Cloisonné Enamel Magnet](../catalog/model-detail-assets.json) — souvenir-design · gpt-image-2
+- [Korean Hanok Watercolor Sketch](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 营销与广告
+
+- [Cake Baking Storyboard Guide](../catalog/model-detail-assets.json) — storyboard · gpt-image-2
+
+## 电商与零售
+
+- [Neon Floating Headphones Ad](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 媒体与娱乐
+
+- [Fantasy Fabric Sculpture Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 营销与广告
+
+- [2026 Grain Rain Poster](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 旅游与酒店
+
+- [Great Barrier Reef Travel Poster](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 媒体与娱乐
+
+- [Handmade Crochet Amigurumi Doll](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -455,3 +537,28 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Sci-Fi Floating Fortress Cutaway Infographic](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/scifi-floating-fortress-cutaway.jpg) — 媒体与娱乐
 - [Glossy Miniature Salsa Diorama](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/miniature-salsa-diorama.jpg) — 旅游与酒店
 - [Temple of Heaven Architecture Deconstructed](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/temple-heaven-architecture-deconstructed.jpg) — architecture-real-estate
+- [Cinematic Prehistoric Alien Swamp Landscape](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cinematic-prehistoric-swamp.jpg) — 媒体与娱乐
+- [Cinematic 3D Typography Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cinematic-3d-typography-letters.jpg) — 营销与广告
+- [Sacred Geometry Mandala Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/sacred-geometry-mandala.jpg) — 创作者与社交
+- [Cozy Ferret Cuddle Watercolor](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cozy-ferret-cuddle-watercolor.jpg) — 媒体与娱乐
+- [Jealous Tabby Cat Comic](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/jealous-tabby-cat-comic.jpg) — 媒体与娱乐
+- [Penguin's Wild Coaster Ride](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/penguin-roller-coaster.jpg) — 媒体与娱乐
+- [Dreamy Fairytale Cottage Landscape](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/dreamy-fairytale-cottage-landscape.jpg) — 媒体与娱乐
+- [Magnolia in Morning Light](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/magnolia-morning-light.jpg) — 创作者与社交
+- [Lunch Diary Watercolor Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/lunch-diary-watercolor.jpg) — 营销与广告
+- [Whimsical Folk Flat Graffiti Illustration](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/whimsical-folk-flat-graffiti.jpg) — 创作者与社交
+- [Watercolor Poetry Picture Book](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/watercolor-poetry-picture-book.jpg) — 创作者与社交
+- [Hand-Drawn Travel Doodle Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/hand-drawn-travel-doodle.jpg) — 旅游与酒店
+- [Life Decades in 3D Numbers](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/life-decades-3d-numerals.jpg) — 创作者与社交
+- [Minimalist Futuristic Concept Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/minimalist-futuristic-concept-art.jpg) — 创作者与社交
+- [Minimalist Philosophical Poster Design](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/minimalist-philosophy-poster.jpg) — 营销与广告
+- [Modern Vintage Travel Collage Poster](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/modern-vintage-travel-collage-poster.jpg) — 旅游与酒店
+- [Eco-Cabin Architecture Blueprint](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/eco-cabin-architecture-blueprint.jpg) — 媒体与娱乐
+- [Kashmir Cloisonné Enamel Magnet](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/kashmir-cloisonne-enamel-magnet.jpg) — 旅游与酒店
+- [Korean Hanok Watercolor Sketch](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/korean-hanok-watercolor-sketch.jpg) — 旅游与酒店
+- [Cake Baking Storyboard Guide](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cake-baking-storyboard.jpg) — 营销与广告
+- [Neon Floating Headphones Ad](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/neon-floating-headphones.jpg) — 电商与零售
+- [Fantasy Fabric Sculpture Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/fantasy-fabric-sculpture.jpg) — 媒体与娱乐
+- [2026 Grain Rain Poster](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/2026-guyu-poster.jpg) — 营销与广告
+- [Great Barrier Reef Travel Poster](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/great-barrier-reef-poster.jpg) — 旅游与酒店
+- [Handmade Crochet Amigurumi Doll](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/handmade-crochet-amigurumi-doll.jpg) — 媒体与娱乐
