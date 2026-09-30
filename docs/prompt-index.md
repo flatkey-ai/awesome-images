@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **121**
-Demo assets: **129**
+Published templates: **146**
+Demo assets: **154**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -429,6 +429,64 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 
 - [Handmade Crochet Amigurumi Doll](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 
+## 创作者与社交
+
+- [Clean Neumorphic Mobile Dashboard UI](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Red Dragon Guarding Ancient Castle](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Pastel Crochet Seaside Diorama Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 媒体与娱乐
+
+- [Cyberpunk Future Cat Neon](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 营销与广告
+
+- [Vintage Japanese Fierce Tiger Poster](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 创作者与社交
+
+- [Surreal Conceptual Art Visual Metaphor](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [100 Fantasy RPG Pixel Items Grid](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Ethereal Smoke Ribbons Dance](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 营销与广告
+
+- [Chinese Typography Poster Design](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 创作者与社交
+
+- [Premium Takeout Packaging Design Board](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Flame Metamorphosis Realistic](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [App Pop-Up UI Kit Showcase](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Luxury Parfait Commercial](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Kawaii Dessert Doodle Dreams](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Layered Paper Cut Illustration](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Radiant Dragon Descent](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Mid-Century City Travel Poster](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Minimal Monochrome Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 营销与广告
+
+- [Botanical Poster Design Guide](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 创作者与社交
+
+- [Premium Packaging Design Proposal Board](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Minimalist Editorial Visual Storytelling](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Minimalist Single-Line Vector Icons](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Santorini Blue Dream Escape](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Venice Vintage Canal Journey](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Vintage Watercolor Travel Poster Art](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -562,3 +620,28 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [2026 Grain Rain Poster](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/2026-guyu-poster.jpg) — 营销与广告
 - [Great Barrier Reef Travel Poster](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/great-barrier-reef-poster.jpg) — 旅游与酒店
 - [Handmade Crochet Amigurumi Doll](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/handmade-crochet-amigurumi-doll.jpg) — 媒体与娱乐
+- [Clean Neumorphic Mobile Dashboard UI](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/neumorphic-mobile-dashboard-ui.jpg) — 创作者与社交
+- [Red Dragon Guarding Ancient Castle](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/red-dragon-castle-pixel-art.jpg) — 创作者与社交
+- [Pastel Crochet Seaside Diorama Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/pastel-crochet-seaside-diorama.jpg) — 创作者与社交
+- [Cyberpunk Future Cat Neon](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/cyberpunk-future-cat-neon.jpg) — 媒体与娱乐
+- [Vintage Japanese Fierce Tiger Poster](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/vintage-japanese-tiger-poster.jpg) — 营销与广告
+- [Surreal Conceptual Art Visual Metaphor](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/surreal-conceptual-art.jpg) — 创作者与社交
+- [100 Fantasy RPG Pixel Items Grid](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/100-fantasy-rpg-pixel-items.jpg) — 创作者与社交
+- [Ethereal Smoke Ribbons Dance](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/ethereal-smoke-ribbons.jpg) — 创作者与社交
+- [Chinese Typography Poster Design](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/chinese-typography-poster.jpg) — 营销与广告
+- [Premium Takeout Packaging Design Board](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/premium-takeout-packaging.jpg) — 创作者与社交
+- [Flame Metamorphosis Realistic](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/flame-metamorphosis-realistic.jpg) — 创作者与社交
+- [App Pop-Up UI Kit Showcase](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/app-popup-ui-kit-showcase.jpg) — 创作者与社交
+- [Luxury Parfait Commercial](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/luxury-parfait-commercial.jpg) — 创作者与社交
+- [Kawaii Dessert Doodle Dreams](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/kawaii-dessert-doodle-dreams.jpg) — 创作者与社交
+- [Layered Paper Cut Illustration](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/layered-paper-cut-illustration.jpg) — 创作者与社交
+- [Radiant Dragon Descent](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/radiant-dragon-descent.jpg) — 创作者与社交
+- [Mid-Century City Travel Poster](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/mid-century-city-travel-poster.jpg) — 旅游与酒店
+- [Minimal Monochrome Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/minimal-monochrome-art.jpg) — 创作者与社交
+- [Botanical Poster Design Guide](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/botanical-poster-design-guide.jpg) — 营销与广告
+- [Premium Packaging Design Proposal Board](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/packaging-design-proposal-board.jpg) — 创作者与社交
+- [Minimalist Editorial Visual Storytelling](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/minimalist-editorial-visual.jpg) — 创作者与社交
+- [Minimalist Single-Line Vector Icons](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/minimalist-single-line-vector-icons.jpg) — 创作者与社交
+- [Santorini Blue Dream Escape](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/santorini-blue-dream-escape.jpg) — 创作者与社交
+- [Venice Vintage Canal Journey](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/venice-vintage-canal-journey.jpg) — 创作者与社交
+- [Vintage Watercolor Travel Poster Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/vintage-watercolor-travel-poster.jpg) — 旅游与酒店
