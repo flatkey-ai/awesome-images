@@ -15,7 +15,10 @@ const generationResult = document.querySelector("#generationResult");
 let query = "";
 
 templateCount.textContent = demoPrompts.length;
-apiKeyInput.value = localStorage.getItem("flatkey_image_api_key") || "";
+// Use sessionStorage (not localStorage) so the API key is cleared when the
+// browser tab/window closes instead of persisting indefinitely on disk,
+// limiting the window in which it could be read via DevTools/XSS.
+apiKeyInput.value = sessionStorage.getItem("flatkey_image_api_key") || "";
 promptInput.value = demoPrompts[0].prompt;
 
 function showToast(message) {
@@ -86,8 +89,8 @@ grid.addEventListener("click", async (event) => {
 });
 
 saveKeyButton.addEventListener("click", () => {
-  localStorage.setItem("flatkey_image_api_key", apiKeyInput.value.trim());
-  showToast("API key 已保存到浏览器");
+  sessionStorage.setItem("flatkey_image_api_key", apiKeyInput.value.trim());
+  showToast("API key 已保存到浏览器（本次会话）");
 });
 
 generateButton.addEventListener("click", async () => {
@@ -125,7 +128,7 @@ generateButton.addEventListener("click", async () => {
     generationResult.innerHTML = src
       ? `<img src="${src}" alt="Generated image" />`
       : `<pre>${JSON.stringify(payload, null, 2)}</pre>`;
-    localStorage.setItem("flatkey_image_api_key", apiKey);
+    sessionStorage.setItem("flatkey_image_api_key", apiKey);
   } catch (error) {
     generationResult.innerHTML = `<p class="error">${error.message}</p>`;
   } finally {
