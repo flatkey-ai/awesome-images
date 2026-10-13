@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **146**
-Demo assets: **154**
+Published templates: **171**
+Demo assets: **179**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -487,6 +487,94 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 
 - [Vintage Watercolor Travel Poster Art](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
 
+## 媒体与娱乐
+
+- [Retro Pixel Parrot Jungle](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Persimmon Still Life Oil Painting](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Phantom Shell Jellyfish](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Dreamy July Healing Visual Design](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## architecture-real-estate
+
+- [Luxury Palace Architectural Masterpiece](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+
+## 食品与饮料
+
+- [Mexican Watermelon Juice Recipe Card](../catalog/model-detail-assets.json) — food-infographic · gpt-image-2
+
+## 旅游与酒店
+
+- [Amsterdam Block Print Skyline](../catalog/model-detail-assets.json) — travel-poster · gpt-image-2
+
+## 食品与饮料
+
+- [Grocery Store Grand Opening](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 创作者与社交
+
+- [Seaside Wedding Invitation Visual](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 媒体与娱乐
+
+- [Spring Bouquet First Light](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 食品与饮料
+
+- [Luxury Sunrise Orange Juice Ad](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 营销与广告
+
+- [Futuristic Sunglasses Furniture Editorial](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 媒体与娱乐
+
+- [Pop Art Party Bash](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Moscow Flavor Culinary Journey](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 食品与饮料
+
+- [Premium Lemonade Splash Poster](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 旅游与酒店
+
+- [London Eternal City Spring Watercolor](../catalog/model-detail-assets.json) — travel-poster · gpt-image-2
+
+## 食品与饮料
+
+- [Premium Strawberry Juice Ad](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+- [World Food Encyclopedia Cooking Cards](../catalog/model-detail-assets.json) — food-infographic · gpt-image-2
+
+## architecture-real-estate
+
+- [Big Ben Blueprint Masterpiece Revealed](../catalog/model-detail-assets.json) — architecture-blueprint · gpt-image-2
+
+## 食品与饮料
+
+- [Cozy Japanese Curry Udon Set](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 媒体与娱乐
+
+- [Holographic Motorcycle Navigation Map](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Nagasaki Travel Guide Poster](../catalog/model-detail-assets.json) — travel-poster · gpt-image-2
+
+## 媒体与娱乐
+
+- [Athens Philosophers Civilization Origins](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 营销与广告
+
+- [Coconut Milk Luxury Skincare Ad](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 食品与饮料
+
+- [Exploded Hot Dog Infographic](../catalog/model-detail-assets.json) — food-infographic · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -645,3 +733,28 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Santorini Blue Dream Escape](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/santorini-blue-dream-escape.jpg) — 创作者与社交
 - [Venice Vintage Canal Journey](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/venice-vintage-canal-journey.jpg) — 创作者与社交
 - [Vintage Watercolor Travel Poster Art](../https://storage.googleapis.com/flatkey-prompt-gallery/prompt-gallery/goku-openlab/gpt-image-2/vintage-watercolor-travel-poster.jpg) — 旅游与酒店
+- [Retro Pixel Parrot Jungle](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pixel-parrot-jungle.jpg) — 媒体与娱乐
+- [Persimmon Still Life Oil Painting](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/persimmon-still-life-oil-painting.jpg) — 媒体与娱乐
+- [Phantom Shell Jellyfish](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/phantom-shell-jellyfish.jpg) — 媒体与娱乐
+- [Dreamy July Healing Visual Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/july-healing-visual.jpg) — 媒体与娱乐
+- [Luxury Palace Architectural Masterpiece](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-palace-architectural-masterpiece.jpg) — architecture-real-estate
+- [Mexican Watermelon Juice Recipe Card](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/agua-de-sandia-recipe-card.jpg) — 食品与饮料
+- [Amsterdam Block Print Skyline](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/amsterdam-linocut-skyline.jpg) — 旅游与酒店
+- [Grocery Store Grand Opening](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/grocery-store-grand-opening.jpg) — 食品与饮料
+- [Seaside Wedding Invitation Visual](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/seaside-wedding-invitation.jpg) — 创作者与社交
+- [Spring Bouquet First Light](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/spring-bouquet-first-light.jpg) — 媒体与娱乐
+- [Luxury Sunrise Orange Juice Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-orange-juice-sunrise.jpg) — 食品与饮料
+- [Futuristic Sunglasses Furniture Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/futuristic-sunglasses-furniture-editorial.jpg) — 营销与广告
+- [Pop Art Party Bash](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pop-art-party-bash.jpg) — 媒体与娱乐
+- [Moscow Flavor Culinary Journey](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/moscow-flavor-culinary-journey.jpg) — 旅游与酒店
+- [Premium Lemonade Splash Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/premium-lemonade-splash-poster.jpg) — 食品与饮料
+- [London Eternal City Spring Watercolor](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/london-eternal-city-spring.jpg) — 旅游与酒店
+- [Premium Strawberry Juice Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/premium-strawberry-juice-ad.jpg) — 食品与饮料
+- [World Food Encyclopedia Cooking Cards](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/world-food-encyclopedia-cooking-cards.jpg) — 食品与饮料
+- [Big Ben Blueprint Masterpiece Revealed](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/big-ben-blueprint-masterpiece.jpg) — architecture-real-estate
+- [Cozy Japanese Curry Udon Set](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cozy-curry-udon.jpg) — 食品与饮料
+- [Holographic Motorcycle Navigation Map](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/holographic-motorcycle-nav.jpg) — 媒体与娱乐
+- [Nagasaki Travel Guide Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/nagasaki-travel-guide-poster.jpg) — 旅游与酒店
+- [Athens Philosophers Civilization Origins](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/athens-philosophers-civilization.jpg) — 媒体与娱乐
+- [Coconut Milk Luxury Skincare Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/coconut-milk-luxury-skincare.jpg) — 营销与广告
+- [Exploded Hot Dog Infographic](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/exploded-hot-dog-infographic.jpg) — 食品与饮料

@@ -5580,6 +5580,956 @@
       },
       "status": "published",
       "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-pixel-parrot-jungle",
+      "assetId": "goku-gpt-image-2-pixel-parrot-jungle",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Retro Pixel Parrot Jungle"
+      },
+      "description": {
+        "en": "A production-ready image prompt for retro pixel parrot jungle, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A retro pixel-art style illustration of a tropical parrot perched on a short brown branch in the center of a dense jungle. The bird is shown in side profile facing right, with a bright green body, a vivid blue wing and long blue tail feathers, a yellow chest, an orange-red head and neck, a white facial patch around the eye, and a large curved black beak. The parrot is the single main subject, centered and enlarged, outlined with dark pixel edges. Surround it with thick rainforest foliage filling the entire frame: layered green leaves, twisting vines, and partial tree trunks on both sides, with 2 visible trunks and many overlapping leaf clusters. Add a soft glowing light halo behind the parrot to separate it from the darker forest background. Use a square composition, saturated colors, classic 16-bit game sprite aesthetics, chunky visible pixels, low-resolution grid-based rendering, and intentionally soft, blurry pixel edges rather than crisp modern pixel art. The mood is lush, vibrant, and nostalgic, like a tropical scene from an old video game.",
+      "tags": [
+        "pixel-art",
+        "retro-gaming",
+        "tropical-jungle",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-pixel-parrot-jungle",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pixel-parrot-jungle.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@RealAstropulse via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/RealAstropulse/status/2048103269910589629#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_01587",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-persimmon-still-life-oil-painting",
+      "assetId": "goku-gpt-image-2-persimmon-still-life-oil-painting",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Persimmon Still Life Oil Painting"
+      },
+      "description": {
+        "en": "A production-ready image prompt for persimmon still life oil painting, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A bold post-impressionist still life painting in thick impasto oil brushstrokes, viewed from slightly above. Center a round turquoise plate holding exactly 3 bright orange persimmons with green leafy tops, arranged in a triangular cluster. Place the plate on a vivid red tablecloth. In the upper left, add a dark green glass bottle casting a soft shadow onto a textured mustard-yellow wall. In the lower left, include a folded cloth napkin with wide cream and muted blue vertical stripes. On the right side of the table, place a kitchen knife with a shiny silver blade and a deep blue handle angled diagonally upward. Use saturated complementary colors, expressive painterly texture, visible palette-knife-like strokes, simplified forms, dark contour accents, and a warm, lively Fauvist color sensibility. The composition should feel handmade, energetic, and slightly naive, like a modern museum-style still life oil painting.",
+      "tags": [
+        "still-life",
+        "oil-painting",
+        "persimmon",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-persimmon-still-life-oil-painting",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/persimmon-still-life-oil-painting.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@MANISH1027512 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/MANISH1027512/status/2048219853761417653#reversed-3",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_01843",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-phantom-shell-jellyfish",
+      "assetId": "goku-gpt-image-2-phantom-shell-jellyfish",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Phantom Shell Jellyfish"
+      },
+      "description": {
+        "en": "A production-ready image prompt for phantom shell jellyfish, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A hyper-detailed naturalistic macro photograph of a strange marine-organic creature resembling a domed seashell fused with a translucent jellyfish body, clinging to the edge of dark wet basalt-like step formations in a cascading waterfall environment. The creature has a large pale gray hemispherical shell with tightly packed concentric ridges, weathered matte texture, and subtle radial segmentation. Beneath the shell is a glossy milky-white gelatinous membrane with soft translucent frills, dangling wet tendrils, and a ring of small oval pores visible around the underside. Along the shell’s left edge are several short semi-transparent spines or fleshy protrusions pressed against the rock. The environment is made of tiered vertical stone columns and ledges covered in flowing water, mineral residue, and mist, with small pearl-like rounded nodules scattered across the ledges in the foreground and middle ground. Cold monochrome palette of silver, charcoal, slate gray, and off-white. Soft overcast lighting, high humidity, shallow depth of field, cinematic macro lens, ultra-real surface detail, realistic wet reflections, fine water streaks, delicate spray, slightly eerie bioluminescent-organism realism without visible glow, centered composition with the creature occupying the left-center foreground.",
+      "tags": [
+        "macro-photography",
+        "creature-design",
+        "surreal-nature",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-phantom-shell-jellyfish",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/phantom-shell-jellyfish.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Lari_island via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Lari_island/status/2047924890746151377#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_06098",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-july-healing-visual",
+      "assetId": "goku-gpt-image-2-july-healing-visual",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Dreamy July Healing Visual Design"
+      },
+      "description": {
+        "en": "A production-ready image prompt for dreamy july healing visual design, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Generate a visual design centered on diffused light and information blank space around any subject object: the theme is first translated into two to three large-scale, soft-edged semi-transparent mist that overlaps, intersperses, and slightly misaligns in the middle of the image, forming a main visual like a halo spreading out, rather than a clearly outlined physical illustration; One cluster carries the strongest emotional energy of the theme, with the largest area and richest color; the other serves as an auxiliary flow direction; the third layer serves only as a faint air base, allowing the visual scene to gradually emerge from the vast blank space. The background remains high-bright, clear, and clean, with a sense of ventilation and soft paper grain. The texture resembles fine printing noise covering the entire frame, but does not create dirt, aging, or grayish-yellow looks. Color is extracted from the subject's own material, season, brand, or mood, and mapped into a bright base color, main emotional color, auxiliary warm and cool colors, a small amount of clear accent colors, and dark text messages; It retains a large area of light bright base, a few highly saturated luminous colors, soft transitions, and clean gradations, giving the overall look a bright, lively, dreamy yet orderly temperament. If text appears, it should be involved in composition like exhibition design information: a small number of oversized headlines scattered above or at the edges form a static center of gravity; small explanatory text uses narrow line spacing, short paragraphs, and precise alignment to establish a reading rhythm; dark text should be restrained, sharp, and allow enough breathing room. The composition avoids filling in elements, retaining obvious blank pauses, edge-cropped mist, tiny symbols or markers as beats, making the subject content resemble abstract memories illuminated by soft light rather than ordinary decorative backgrounds.\n\nTopic: Summer Healing Japanese Visa 2026-07-01 Hello July, please be kind to me\n\nPurpose: Sharing on social media\n\nInformation points, at least five interesting information points\nThe ratio is 9:10",
+      "tags": [
+        "diffused-light",
+        "healing-aesthetic",
+        "minimalist-design",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-july-healing-visual",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/july-healing-visual.jpg",
+        "ratio": "9:10",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@xiaoxiaodong01 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/xiaoxiaodong01/status/2071566349583687887",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12459",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-palace-architectural-masterpiece",
+      "assetId": "goku-gpt-image-2-luxury-palace-architectural-masterpiece",
+      "model": "gpt-image-2",
+      "industry": "architecture-real-estate",
+      "category": "architecture-infographic",
+      "title": {
+        "en": "Luxury Palace Architectural Masterpiece"
+      },
+      "description": {
+        "en": "A production-ready image prompt for luxury palace architectural masterpiece, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create an ultra-luxurious palace infographic poster in the style of a cinematic architectural display. Stunning palace interiors feature massive marble halls, towering gold-edged arches, celestial crystal chandeliers, polished reflective marble floors, monumental staircases, royal domes, carved columns, floating silk curtains, glowing candlelight reflections, and warm volumes of light streaming in from the grand palace windows. A dreamy misty atmosphere, floating crystal particles, glossy luxurious surfaces, and ultra-realistic architectural depth. \n\nThe design layout combines high-end luxury brand advertising campaigns with professional architectural display panels. It includes elegant infographic sections, glass mimic information panels, metal gold frames, architectural floor plans, palace elevations, luxury statistics, lighting concepts, material palettes, and refined editorial layouts. Uses champagne gold, ivory white, pearl beige, warm bronze, royal emerald, and deep black tones. \n\nStyle inspiration comes from brand campaigns by Vogue Arabia, Architectural Digest, Bulgari Hotels, House Dior, and Burj Al Arab Dubai. Symmetrical composition, clean luxurious spacing, cinematic lighting, Unreal Engine 5 realism, Octane rendering quality, ray tracing, global illumination, ultra-detailed 8K textures, photorealistic masterpieces, and premium Behance display aesthetics. \n\nNegative cues: messy layout, cheap design, blurry text, distorted architecture, cartoon style, bland lighting, low detail, oversaturated colors, unrealistic palaces, chaotic composition, amateurish infographics, noisy rendering.",
+      "tags": [
+        "palace-architecture",
+        "luxury-design",
+        "infographic-poster",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-luxury-palace-architectural-masterpiece",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-palace-architectural-masterpiece.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@obsidian_fr1 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/obsidian_fr1/status/2056970486261940599",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13477",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-agua-de-sandia-recipe-card",
+      "assetId": "goku-gpt-image-2-agua-de-sandia-recipe-card",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "food-infographic",
+      "title": {
+        "en": "Mexican Watermelon Juice Recipe Card"
+      },
+      "description": {
+        "en": "A production-ready image prompt for mexican watermelon juice recipe card, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a visually stunning, modern \"Agua de Sandía (Mexican Watermelon Juice)\" recipe card designed specifically for social media sharing. \n\nStyle: \nMinimalist yet artistic. Blending the vibrant aesthetics of a Mexican summer market with festive tropical flair. Featuring soft watercolor watermelon and lime splash effects, accented with subtle Talavera tile-inspired patterns, paired with elegant modern typography with a playful Mexican touch. The layout remains transparent, high-end, and refreshing. \n\nLayout: \nA single-page vertical composition (non-collage) divided into elegant areas with clear visual layers. \n\nTop area: \n- Title: \"Agua de Sandía\" \n- Subtitle: \"Mexican Watermelon Juice • Juicy • Chilled • Hydrated\" \n- A stunning main visual: fresh watermelon juice in a highly transparent glass with ice cubes, the rim garnished with watermelon slices, lime slices, and mint leaves, with beautiful water droplets forming on the glass, accompanied by a soft golden glow and a vibrant pink tone full of Mexican market vibes. \n\nCentral Region (Ingredients): \n- Neatly arranged ingredient list with miniature illustrated icons: ripe seedless watermelon, fresh lime juice, cold water, ice cubes, optional honey or agave syrup, fresh mint. \n- Minimalist bullets with perfect spacing and alignment. \n\nLower area (steps with visual flow): \nIncludes 4–5 steps, with small auxiliary visual effects or icons: \n1. Cut the ripe watermelon into pieces (about 4–5 cups)\n2. Add the watermelon, lime juice, and a small amount of cold water to the blender\n3. Stir at high speed until perfectly delicate and juicy\n4. For a smoother texture, use a fine filter (optional)\n5. Pour into a chilled glass with ice, garnished with watermelon slices, lime, and mint\nElegant connecting lines or curved arrows are added between steps. \n\nSide elements: \n- A small tip box with a Mexican touch: \"For an authentic street flavor, use chilled watermelon, and if possible, serve in a jarrito. Adjust lime to your taste to increase acidity! ” \n- Sweetness Description: \"Natural Sweetness—Add Agave Honey Only When Needed\" \n\nDesign Details: \n- Festive Mexican-inspired tones (watermelon pink, bright lime green, sunny coral, pure white, warm terracotta accents)\n- Inspired by Mexican paper cutouts (papel picado) or subtle decorative dividing lines of tile patterns\n- Compact hand-drawn graffiti (watermelon slices, lime wedges, ice cubes, mint, miniature Mexican flag colors)\n- A clean, uncrowded editorial style layout filled with warmth and cheerful moods\n\nAtmosphere: \nFresh, juicy, vibrant, and sun-filled Mexican summer—festive and upscale\n\nComposition: \nHighly balanced, with ample blank space, featuring the aesthetic of a high-end café/burrito menu\n\nAspect ratio: \nVertical (2:3), ultra-high resolution, suitable for Instagram/Pinterest",
+      "tags": [
+        "summer-drink",
+        "mexican-recipe",
+        "food-design",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-agua-de-sandia-recipe-card",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/agua-de-sandia-recipe-card.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@MrDasOnX via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/MrDasOnX/status/2055560892985827679",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13540",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-amsterdam-linocut-skyline",
+      "assetId": "goku-gpt-image-2-amsterdam-linocut-skyline",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "travel-poster",
+      "title": {
+        "en": "Amsterdam Block Print Skyline"
+      },
+      "description": {
+        "en": "A production-ready image prompt for amsterdam block print skyline, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A minimalist black-and-white illustration in the style of jute prints, accented with a single bright orange accent. The composition features an orange small bicycle at the bottom against a white background, with stylized black Amsterdam architectural landmarks stacked above. Includes recognizable structures such as the canal house with gable facade, the National Museum, the Anne Frank House, the West Chapel, and the windmill, all painted with a simplified, hand-carved woodblock aesthetic. The word \"AMSTERDAM\" should be vertically integrated into the composition between the buildings on the right side -- v 6.1",
+      "tags": [
+        "minimalist-illustration",
+        "amsterdam-landmarks",
+        "linocut-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-amsterdam-linocut-skyline",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/amsterdam-linocut-skyline.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Maddox_Digital via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Maddox_Digital/status/2067800728110809582",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13628",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-grocery-store-grand-opening",
+      "assetId": "goku-gpt-image-2-grocery-store-grand-opening",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "commercial",
+      "title": {
+        "en": "Grocery Store Grand Opening"
+      },
+      "description": {
+        "en": "A production-ready image prompt for grocery store grand opening, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Design a high-end, modern, and highly professional promotional poster for the grand opening of the grocery store. The design should give a sense of neatness, luxury, vitality, and trustworthiness—similar to a high-end supermarket ad created by an award-winning senior graphic designer.\n\nLayout and composition\n\n- Vertical A4/A3 poster (4:5 aspect ratio).\n- A clean editing layout with excellent spacing and visual layering.\n- Bold title in large size at the top:\n  GRAND OPENING\n- Smaller subtitles:\n  OF OUR NEW GROCERY STORE\n- Incorporate elegant decorative elements such as subtle confetti, green leaves in the corners, and soft golden accents.\n\nSubjective vision\n\nFeaturing a realistic chrome shopping cart filled with fresh groceries, including:\n\n- Lettuce\n- Broccoli\n- Tomatoes\n- Bell peppers\n- Bananas\n-apple\n- Orange\n- Grapes\n- Bread\n- Milk\n- Juice\n- Eggs\n- Rice\n- Cooking oil\n- Daily grocery essentials\n\nEverything should appear fresh, colorful, and achieve a realistic effect of high-end commercial advertising.\n\nBackground\n\n- A soft warm white to cream gradient background.\n- Minimalist textures.\n- Bright natural lighting.\n- Neat and elegant.\n- Fresh green accents throughout.\n\nPromotional badges\n\nCreate a circular advanced badge with the following text:\n\nSPECIAL OPENING OFFERS\nDON'T MISS OUT!\n\nUse green, gold, and red.\n\nInformation section\n\nIncludes editable placeholders:\n\nOpening date\nJuly 25, 2026\n\nTime\n9:00 AM\n\nLocation\nABC Grocery Store\n123 Main Street\nYour city\n\nFeatured sections\n\nFour modern circular icons with tags have been added:\n\n- Fresh every day\n- Best price\n- Complete variety\n- Friendly service\n\nFooter\n\nGreen curved footer with gold trim.\n\nInclude slogans:\n\nShop More. Save More. Live Better.\n\nColor scheme\n\n- Emerald\n- Tender leaves are green\n- White\n- Creamy color\n- Gold\n- Red accents\n\nLayout\n\nUse bold, modern sans-serif fonts.\n\nLarge, influential headlines.\nProfessional spacing.\nExcellent readability.\n\nDesign style\n\n- Hyperrealism\n- Premium supermarket brand design\n- Luxury retail advertising\n- High-end print quality\n- Neat composition\n- Modern editing style\n- Bright colors\n- Commercial photography appearance\n- Soft shading\n- Natural light\n- 8K resolution\n- Clear details\n- Print readiness quality\n- Attention-grabbing\n- Minimalist yet elegant\n- Award-winning graphic design aesthetics.",
+      "tags": [
+        "grand-opening",
+        "supermarket-poster",
+        "promotion",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-grocery-store-grand-opening",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/grocery-store-grand-opening.jpg",
+        "ratio": "3:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@abs_uiux via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/abs_uiux/status/2071186082419384765",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14080",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-seaside-wedding-invitation",
+      "assetId": "goku-gpt-image-2-seaside-wedding-invitation",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "poster-design",
+      "title": {
+        "en": "Seaside Wedding Invitation Visual"
+      },
+      "description": {
+        "en": "A production-ready image prompt for seaside wedding invitation visual, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Generate a ritual invitation visual around a specific theme: the image is first visually dominated by an oversized handwritten main title, with thick white brushstrokes, slightly rough edges, and a sense of speed. Long horizontal and dropping strokes cross the background space, as if directly writing emotions into the scene; Below it lies an open, quiet, and breathable thematic field, with clear horizontal layers in the distance, and a central axis leading into the depths or a visual guideline. In the middle, a cleanly bounded rectangular image layer is embedded, where the content and the main narrative form a retrospective of time or memory, like a fragment placed within a real-life scene; Below, smaller thematic figures, objects, or symbolic figures enter the frame from behind, serving as entry points for scale and narrative. Keep the text restrained: use fine text in the upper right to arrange time and place information, with short lines or arrows to pause reading; use elegant serif or fine font, thin horizontal lines, and name/subject names at the bottom to create a ceremonial feel. The text is not an explanation board but works together with the images to form a rhythm. Colors are drawn from the theme's own environment, materials, seasons, and moods, preserving large areas of clear low-saturation backgrounds, a small amount of high-brightness white writing, clear dark structures, and local temperature differences, resulting in an overall clarity and quietness with a sense of calm and airiness. Even if the subject requires darker colors, keep the gradations clean, edges clear, and transparent layers to avoid muddy aging. The final texture is like a real photographic fusion with handwritten calligraphy, with clear layers, breathable blank spaces, and a strong sense of ceremony. At first glance, one senses the powerful emotion of handwriting; the second glance enters the central image and the narrative below.\n\n——————\nImage direction: Seaside wedding invitations, preserving the ritual of distant sea, shore passages to the depths, and handwritten welcome messages\nFor posting on Moments: wedding previews and guest invitations, with information kept in three categories: time, location, and name\nSize: Vertical 3:4, with the middle photo layer replaced by a memory of the newlyweds holding hands as they walk toward the seaside",
+      "tags": [
+        "wedding",
+        "seaside",
+        "invitation",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-seaside-wedding-invitation",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/seaside-wedding-invitation.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@xiaoxiaodong01 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/xiaoxiaodong01/status/2069670735900221520",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14347",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-spring-bouquet-first-light",
+      "assetId": "goku-gpt-image-2-spring-bouquet-first-light",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Spring Bouquet First Light"
+      },
+      "description": {
+        "en": "A production-ready image prompt for spring bouquet first light, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Generate a bright, clear, and airy information visual around the specific theme: the core of the image is not a clear, realistic subject, but rather dissolving the theme into soft-focus mist and slender, flowing color marks, creating a background stretched by light and smeared by moisture; The main color blocks are concentrated in the center, forming hazy memory points, with edges gradually dissolving, and a few more vivid spots left locally as visual pauses. The overall hierarchy consists of a large area of high-brightness, clean base field, a soft semi-transparent theme color, a small amount of bright accent color, and clear white message text. Color is extracted and assigned roles from the theme's season, material, mood, and semantics: the base color is responsible for ventilation and clean brightness, the main color is responsible for softening mood, the emphasis color is only highlighted at key points, and the text color remains clean and high-contrast; Maintain high brightness, low impurities, moderate saturation, and a light, gentle mood, avoiding cloudy, stale, or dull treatments. The layout uses elegant high-contrast serif fonts as the main title, with large font sizes close to the edge of the frame. Chinese information is interwoven in fine Song font style, creating a rhythm where large characters dominate the scene and small characters breathe; You can add rotating reading side information, fine floral symbols, ultra-fine hand-drawn curves, and oval stroke labels, making the text feel like a floral exhibition poster serving both information and graphics. The texture of the image should have slight paper grain, soft light diffusion, and transparent layers; all elements should maintain blank space, order, and a spring-like clear breath.\n\n——————\nPurpose for the image: Create a horizontal 16:9 WeChat header image for a community flower shop, with the theme \"The First Bouquet of Spring Flowers,\" suitable for posting in store groups or as cover pages for Moments.\nImage content: Transform tulips, peonies, and small white flowers into a soft mist in the center and slender hanging color streaks, keeping the edges transparent, and a small handwritten price tag on the side.\nVisible text: Main title \"SPRING BOUQUET\", small Chinese text \"Today's flowers arrive at store / Pick up before 19:00\", corner display \"Start with a Bright Bouquet\".",
+      "tags": [
+        "florist",
+        "spring",
+        "poster",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-spring-bouquet-first-light",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/spring-bouquet-first-light.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@xiaoxiaodong01 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/xiaoxiaodong01/status/2068271400591470667",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14438",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-orange-juice-sunrise",
+      "assetId": "goku-gpt-image-2-luxury-orange-juice-sunrise",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "commercial",
+      "title": {
+        "en": "Luxury Sunrise Orange Juice Ad"
+      },
+      "description": {
+        "en": "A production-ready image prompt for luxury sunrise orange juice ad, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "The ultra-realistic high-end orange juice advertisement features the main shot of a chilled orange juice bottle, featuring a green cap and an elegant white label, placed at a dynamic angle. Behind the bottle, vibrant orange juice bursts out, surrounded by fresh, whole oranges, sliced oranges, and lush green leaves. In the background, a golden sunrise illuminates the citrus orchard, warm morning light, cinematic atmosphere, shimmering droplets floating in the air, realistic condensed droplets on the bottle, rich orange and green tones, shallow depth of field, soft blur, commercial beverage photography, luxury product marketing, realistic photography, hyper-detail, HDR, clear focus, dynamic composition, high-end advertising posters, blank space for titles and branding, fresh, vibrant, healthy lifestyle aesthetic, 8K image quality.",
+      "tags": [
+        "orange-juice",
+        "commercial-photography",
+        "luxury-marketing",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-luxury-orange-juice-sunrise",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-orange-juice-sunrise.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@CaliraVal via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/CaliraVal/status/2068888285427175615",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14950",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-futuristic-sunglasses-furniture-editorial",
+      "assetId": "goku-gpt-image-2-futuristic-sunglasses-furniture-editorial",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "title": {
+        "en": "Futuristic Sunglasses Furniture Editorial"
+      },
+      "description": {
+        "en": "A production-ready image prompt for futuristic sunglasses furniture editorial, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Editorial-style glasses advertisement, surreal proportions, huge futuristic sunglasses transformed into modern furniture, fashionable models creatively standing within frame structures, zooming in and out, cool sky-blue gradient studio setup, reflective acrylic flooring, luxury blockbuster aesthetics inspired by high-end fashion magazines, crisp minimalist compositions, cinematic light and shadow, ultra-fine visual design, square 1:1 ratio",
+      "tags": [
+        "glasses-advertisement",
+        "surreal",
+        "fashion-editorial",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-futuristic-sunglasses-furniture-editorial",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/futuristic-sunglasses-furniture-editorial.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Mind_Boticni via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Mind_Boticni/status/2053324477396853109",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12570",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-pop-art-party-bash",
+      "assetId": "goku-gpt-image-2-pop-art-party-bash",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Pop Art Party Bash"
+      },
+      "description": {
+        "en": "A production-ready image prompt for pop art party bash, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Pop art-style illustrations depict a group of energetic friends at a highly engaging party. It adopts a bold comic aesthetic, featuring bold black contours, half-tone dotted textures, and exaggerated, rich facial expressions. The scene is filled with vibrant neon and primary colors (electric pink, bright yellow, cyan, and bright red), creating a dynamic and energetic atmosphere. The composition is slightly tilted to create a sense of movement and chaos, with characters overlapping and interacting with each other—laughing, dancing, holding drinks, and celebrating to the fullest. In the background floated confetti and shouts like \"WOW!\", \"LOL!\", \"BOOM!\" and other sound effect text elements. Intense edge light and highly saturated light and shadow enhance depth and contrast. The setting is a stylized indoor party space, blending abstract shapes, graffiti wall art, and cleverly embedded comic storyboard backgrounds. Extremely high detail, cinematic composition, high contrast, clear focusing, 8K resolution, a blend of modern pop art and comic illustration style.",
+      "tags": [
+        "pop-art",
+        "party-illustration",
+        "comic-style",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-pop-art-party-bash",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pop-art-party-bash.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Mind_Boticni via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Mind_Boticni/status/2054761436803707039",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14012",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-moscow-flavor-culinary-journey",
+      "assetId": "goku-gpt-image-2-moscow-flavor-culinary-journey",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "title": {
+        "en": "Moscow Flavor Culinary Journey"
+      },
+      "description": {
+        "en": "A production-ready image prompt for moscow flavor culinary journey, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A luxuriously edited-style travel food infographic poster titled \"Moscow Flavor\" features a soft ivory white textured background paired with elegant gold and burgundy red layouts. At the center is a highly detailed 3D miniature map of Moscow, presenting sculpted architectural models that include the Kremlin, cathedrals, rivers, bridges, and historic districts, all in a realistic miniature style. Around the map are beautifully shot, high-lighting, and traditional Russian dishes: deep red borscht (with sour cream and dill), Russian dumplings, blins topped with red caviar, dark rye bread, and layered Medovic cakes. The top corner of the composition is adorned with delicate birch branches, framed with a slender gold decorative frame, adopting a vintage European editorial layout, and elegantly connecting small infoboxes with labels to map locations through elegant lines. It includes sections such as \"Must-Try Items,\" \"Iconic Experiences,\" and regional food labeling. Using exquisite serif fonts, minimalist luxury aesthetics, soft shading, soft warm tones, ultra-clean composition, high-end magazine infographic design, cinematic-grade food photography, realistic textures, high-end travel promotional style, symmetrical layout, ultra-high-definition details, 8K. Style references: Luxurious travel editorial style, architectural miniatures, food photography, a blend of Scandinavian minimalism and Russian cultural elegance, and exquisite infographic poster design.",
+      "tags": [
+        "russian-cuisine",
+        "travel-infographic",
+        "moscow-tourism",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-moscow-flavor-culinary-journey",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/moscow-flavor-culinary-journey.jpg",
+        "ratio": "4:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@nawalsehar via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/nawalsehar/status/2055925296482885685",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12744",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-premium-lemonade-splash-poster",
+      "assetId": "goku-gpt-image-2-premium-lemonade-splash-poster",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "commercial",
+      "title": {
+        "en": "Premium Lemonade Splash Poster"
+      },
+      "description": {
+        "en": "A production-ready image prompt for premium lemonade splash poster, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Ultra-realistic premium lemonade advertising poster design, luxurious modern café brand style, vertical layout, fresh lemon yellow, lime green, and pure white color schemes, large bold vertical text on the left reading \"LEMONADE WITH MINT\" for a cinematic 3D splash effect, centered on a glossy transparent glass filled with chilled lemonade, with fresh mint leaves and lemon slices visible inside, lively citrus juice bursting out, surrounded by floating lemon chunks, mint leaves, and sparkling ice cubes. The surface of the cup body features realistic condensed water droplets and soft natural shadows. High-end commercial beverage photography. The elegant layout in the upper right corner reads \"THE BEST IS HERE AT PERFECT COOKING,\" a fashionable promotional layout featuring a minimalist luxury background with subtle gradients, shiny reflections, high-end summer beverage aesthetics, extremely detailed details, realistic photography, 4K advertising posters, depth of field effects, dramatic light and shadow, floating element composition, modern Instagram marketing design, and authentic textures. Professional brand models, clean luxurious fonts, trendy café promotional posters",
+      "tags": [
+        "beverage-advertising",
+        "brand-design",
+        "summer-marketing",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-premium-lemonade-splash-poster",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/premium-lemonade-splash-poster.jpg",
+        "ratio": "767:1024",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ShamiWeb3 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ShamiWeb3/status/2056032403966378383",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14949",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-london-eternal-city-spring",
+      "assetId": "goku-gpt-image-2-london-eternal-city-spring",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "travel-poster",
+      "title": {
+        "en": "London Eternal City Spring Watercolor"
+      },
+      "description": {
+        "en": "A production-ready image prompt for london eternal city spring watercolor, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A stunning vintage luxury travel magazine cover titled \"London—The Eternal City\" is designed in an elegant watercolor and ink illustration style. The scene captures the charming streets of London on a warm spring afternoon, bathed in soft golden sunlight. At the center of the composition stand iconic Big Ben (Elizabeth Tower) and the Houses of Parliament, shimmering with warm golden hues against a milky pink sky filled with exquisite watercolor clouds. \nIn the foreground is a picturesque cobblestone street, flanked by colorful historic Georgian and Victorian townhouses, boutique bookstores, cozy cafés, bakeries, florists, and elegant outdoor dining terraces. Fresh spring flowers frame both sides of the composition, while blooming trees gently arch into the scene. Classic black Victorian street lamps, vibrant flower boxes, and hanging baskets add charm and detail. \nAuthentic London elements include bright red double-decker buses driving through the streets, traditional red phone booths, and classic black London taxis. Pedestrians leisurely stroll along the sidewalks, creating a lively and refined atmosphere. Reflections flicker on the slightly damp pavement, enhancing the cinematic atmosphere. \nThe artwork combines detailed architectural illustrations with soft watercolor grading, delicate ink lines, subtle paper textures, and refined editorial aesthetics. The colors are warm and inviting: cream, ivory white, soft gold, blush pink, sage green, soft terracotta, and pale blue. The overall atmosphere is romantic, timeless, elegant, nostalgic, and inviting. \nMagazine cover design, luxurious editorial layout, large elegant serif fonts, high-end travel publication aesthetics, premium print quality, ultra-detailed, highly polished composition, perfect balance between architecture and lifestyle, worth sharing on Pinterest and Instagram, with a visually striking finish that stops scrolling, masterpiece illustrations, 8K resolution, vertical composition, realistic watercolor textures, and refined European charm.",
+      "tags": [
+        "watercolor-illustration",
+        "london-landmarks",
+        "vintage-travel",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-london-eternal-city-spring",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/london-eternal-city-spring.jpg",
+        "ratio": "767:1024",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@jzaib4269 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/jzaib4269/status/2061592192662007934",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_15074",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-premium-strawberry-juice-ad",
+      "assetId": "goku-gpt-image-2-premium-strawberry-juice-ad",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "commercial",
+      "title": {
+        "en": "Premium Strawberry Juice Ad"
+      },
+      "description": {
+        "en": "A production-ready image prompt for premium strawberry juice ad, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "High-end strawberry juice commercial product advertisement poster.\n\nCenter: A tall, transparent glass bottle with a black spiral lid, filled with bright red, thick, textured strawberry juice revealing tiny seed particles. The bottle features a pristine white arched label with \"FRESH STRAWBERRY JUICE,\" \"COLD PRESSED,\" and \"100% NATURAL,\" topped with a small strawberry illustration.\n\nForeground and composition: On the left is a vigorous, clear cross-section of a huge, juicy strawberry, accompanied by dynamic, crystal-clear splashes and juice splashes. Two whole, ripe red strawberries with fresh green leaves rest on the smooth surface at the bottom of the bottle, reflecting tiny red juice drops.\n\nBackground and layout: Distinct vertically divided background. The 60% on the left is a clean, bright, minimalist off-white/pale pink gradient. The right 40% is solid, bold deep red blocks. On the far right red area, a huge, bold, and pure white font is vertically layered, spelled \"STRAWBERRY.\" In the upper left corner, bold red text reads \"BERRY FRESH,\" with the subtitle \"SWEET.\" COOL. DELICIOUS.”。 In the lower left corner, there are minimalist circular icons labeled \"100% NATURAL\" and \"FRESHNESS IN EVERY DROP.\"\n\nStyle: High-end commercial beverage photography, studio lighting, hyper-realistic, 8K resolution, extremely clear focus, vivid color grading, professional brand layout. --ar 4:5",
+      "tags": [
+        "strawberry-juice",
+        "commercial-poster",
+        "beverage-branding",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-premium-strawberry-juice-ad",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/premium-strawberry-juice-ad.jpg",
+        "ratio": "561:701",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@UrMeer289 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/UrMeer289/status/2061691161430155738",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14129",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-world-food-encyclopedia-cooking-cards",
+      "assetId": "goku-gpt-image-2-world-food-encyclopedia-cooking-cards",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "food-infographic",
+      "title": {
+        "en": "World Food Encyclopedia Cooking Cards"
+      },
+      "description": {
+        "en": "A production-ready image prompt for world food encyclopedia cooking cards, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Reference cards searched from the World Food Encyclopedia use a \"2x2 technical cooking grid\" layout. The card structure includes: continent title, national flag, dish name, context-generated subtitle, main visual (3/4 side angle plating shot, natural light), key scientific principles (including technical labels, macroscopic process diagrams and technical analysis), flavor variations (sweet, salty, spicy, umami, images and adaptation explanations), ingredient ratios (scaled bowl top-down view), step-by-step explanations (8 continuous process diagrams with 1-2 character labels), time and temperature tables (including stages, time, Celsius/Fahrenheit, and altitude adjustments), common failure cases table (problems, causes, countermeasures), tool and cookware illustrations (labeled), cultural timeline (national snapshots, historical dates and icons). The grid layout is \"2x2—showcasing four different dishes from four continents,\" covering data on four continents, countries, dish names, and types. The background color is set as \"Warm Beige/Cream #f5f1e8\", with layout using \"concise sans-serif titles, serif dish names, and technical style main text\"; the photography style is set to \"professional food photography, natural light, professional plating\", with a resolution of \"8k square grid\", sorted in descending order of educational value completeness, with item 1 selected.",
+      "tags": [
+        "food-encyclopedia",
+        "culinary-science",
+        "global-cuisine",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-world-food-encyclopedia-cooking-cards",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/world-food-encyclopedia-cooking-cards.jpg",
+        "ratio": "701:561",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Gdgtify via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Gdgtify/status/2056046083290325031",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_15173",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-big-ben-blueprint-masterpiece",
+      "assetId": "goku-gpt-image-2-big-ben-blueprint-masterpiece",
+      "model": "gpt-image-2",
+      "industry": "architecture-real-estate",
+      "category": "architecture-blueprint",
+      "title": {
+        "en": "Big Ben Blueprint Masterpiece Revealed"
+      },
+      "description": {
+        "en": "A production-ready image prompt for big ben blueprint masterpiece revealed, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "The ultra-detailed architectural blueprint of London's Big Ben (Elizabeth Tower) and the Palace of Westminster features a full-height frontal view with detailed engineering notes and historical labels. The iconic Gothic Revival clock tower features world-famous dials, magnificent stone carvings, golden architectural details, towering spires, massive clock mechanisms, historic clock chambers, and the Houses of Parliament on the Thames. Featuring detailed infographic elements, it displays a height of 96 meters (315 feet), completed in 1859, designed by Augustus Pukin and Charles Barry, weighing over 13 tons, featuring a large clock called \"Big Ben,\" weighing over 13 tons, four illuminated clock faces, an internal spiral staircase, a parliamentary hall, restoration history, fire protection systems, structural reinforcement, security measures, tourist facilities, and cultural significance. Around the landmark are architectural schematics, clock diagrams, construction timeline diagrams, structural engineering notes, floor layouts, skyline contrasts, historical facts, restoration details, and educational infographic UI elements. The style combines historical architectural visualization, engineering blueprint aesthetics, travel documentary design, cinematic city photography, and ultra-detailed professional landmark displays, 8K, 1744x2336",
+      "tags": [
+        "architectural-blueprint",
+        "london-landmark",
+        "gothic-revival",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-big-ben-blueprint-masterpiece",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/big-ben-blueprint-masterpiece.jpg",
+        "ratio": "1084:1451",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ZephyraLeigh via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ZephyraLeigh/status/2060305726921482453",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_11992",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-cozy-curry-udon",
+      "assetId": "goku-gpt-image-2-cozy-curry-udon",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "commercial",
+      "title": {
+        "en": "Cozy Japanese Curry Udon Set"
+      },
+      "description": {
+        "en": "A production-ready image prompt for cozy japanese curry udon set, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "High-angle cinematic food photography, featuring a cozy Japanese curry udon set on a rustic wooden table, featuring two steaming bowls of thick, golden udon noodles, along with crispy tempura and fried snacks. Warm restaurant ambient lighting with a soft orange glow, visible steam, and a cozy nighttime vibe, realistic glossy noodle texture and crispy details. The composition is surrounded by playful diary-style doodles and handwritten notes—little stars, hearts, arrows, smiling face sketches, sparkles, chopstick icons, and cute food notes drawn with white markers. Modern cute café aesthetics combine with scrapbook style, warm earthy brown and amber tones, cinematic contrasts and shadows, highly detailed realistic food photography, an enticing healing food atmosphere, ultra-clear, 8K aesthetic composition.",
+      "tags": [
+        "curry-udon",
+        "food-photography",
+        "cozy-vibes",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cozy-curry-udon",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cozy-curry-udon.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@john_my07 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/john_my07/status/2053700365338714193",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12187",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-holographic-motorcycle-nav",
+      "assetId": "goku-gpt-image-2-holographic-motorcycle-nav",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Holographic Motorcycle Navigation Map"
+      },
+      "description": {
+        "en": "A production-ready image prompt for holographic motorcycle navigation map, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A cinematic wide-angle photo shows an adventure motorcyclist and two luggage motorcycles parked at a scenic mountaintop viewpoint. On the asphalt pavement beneath their feet, a shimmering golden holographic map of India appeared. This sci-fi HUD (head-up display) overlay clearly displays routes, state boundaries, and flashing digital text showing GPS navigation indicators such as \"Ahmedabad to Goa,\" \"20 hr 56 min (1,091 km),\" and a travel statistics panel. The overall atmosphere is a fusion of futuristic travel and rugged outdoor exploration, featuring high-contrast tones and authentic overcast daylight.",
+      "tags": [
+        "motorcycle",
+        "hologram",
+        "navigation",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-holographic-motorcycle-nav",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/holographic-motorcycle-nav.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Ozayrr_irl via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Ozayrr_irl/status/2057473247118316023",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12203",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-nagasaki-travel-guide-poster",
+      "assetId": "goku-gpt-image-2-nagasaki-travel-guide-poster",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "travel-poster",
+      "title": {
+        "en": "Nagasaki Travel Guide Poster"
+      },
+      "description": {
+        "en": "A production-ready image prompt for nagasaki travel guide poster, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A detailed travel infographic poster for Nagasaki City, Japan, featuring an elegant modern editorial design style. A vertical A4 travel brochure layout with premium navy and cream tones, combining cinematic photography, crisp typography, icons, maps, and structured magazine-style sections. The main visual area at the top presents a stunning panoramic aerial view of Nagasaki Port surrounded by mountains, with blue skies and white clouds. In the foreground is a beautiful green, copper-topped historic White Chapel overlooking the city. The large elegant serif font displays \"NAGASAKI\" with Japanese characters above and the slogan \"Place Where History and Harmony Intersect.\" Meets the standards of professional tourism bureau aesthetics and luxury travel magazines. The infographic is divided into several neat sections, with detailed dividers and balanced spacing: the \"City of History\" timeline section contains historical milestones, illustrated icons, and brief descriptions; The \"Must-Visit Attractions\" grid includes six rounded tourist photos with numbered labels, showcasing scenic gardens, harbor views, churches, the Statue of Peace, the Peak nightscape, and Chinatown streets; The \"City of Culture\" section features elegant blue line icons depicting multicultural heritage, festivals, coexistence, and maritime traditions; The \"Authentic Flavors\" section features close-up food photography within a circular frame, including pasta, Nagasaki cakes, seafood delicacies, and brief descriptions; The \"How to Get There\" section features a light green illustrated map of the Kyushu region, along with airplane/train traffic icons connected by dashed lines; The \"Nagasaki Overview\" section displays geographic location, population, climate, and keywords through minimalist infographic icons. The bottom footer features a dark blue banner with a white dove illustration and an elegant font as an inspirational travel slogan. The design style blends Japanese travel advertising, sophisticated infographic aesthetics, editorial travel magazine layouts, clean vector icons, soft shading, subtle gradients, precise alignment, and ultra-high-resolution print-grade composition.",
+      "tags": [
+        "nagasaki",
+        "travel-infographic",
+        "japan-tourism",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-nagasaki-travel-guide-poster",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/nagasaki-travel-guide-poster.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@jzaib4269 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/jzaib4269/status/2053800964927172991",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13772",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-athens-philosophers-civilization",
+      "assetId": "goku-gpt-image-2-athens-philosophers-civilization",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Athens Philosophers Civilization Origins"
+      },
+      "description": {
+        "en": "A production-ready image prompt for athens philosophers civilization origins, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Two thousand five hundred years ago, Plato, Socrates, and Alexander sat on the streets of Athens chatting and discussing the origins of world civilization.\n\nThe background can include their conversations, overlapping with the cityscape of ancient Athens, Greece, following the timeline.",
+      "tags": [
+        "ancient-greece",
+        "philosophers",
+        "athens",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-athens-philosophers-civilization",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/athens-philosophers-civilization.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ToroJushiAi via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ToroJushiAi/status/2050713034503409874",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_15523",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-coconut-milk-luxury-skincare",
+      "assetId": "goku-gpt-image-2-coconut-milk-luxury-skincare",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "title": {
+        "en": "Coconut Milk Luxury Skincare Ad"
+      },
+      "description": {
+        "en": "A production-ready image prompt for coconut milk luxury skincare ad, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A minimalist white bottle with a golden pump head, surrounded by cracked coconuts, coconut milk splashes and foam clouds, a tropical luxury spa atmosphere, creamy texture, realistic bubbles floating in the background, high-end skincare advertisements, soft warm lighting, ultra-detailed 8K.",
+      "tags": [
+        "skincare",
+        "coconut",
+        "luxury",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-coconut-milk-luxury-skincare",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/coconut-milk-luxury-skincare.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Strength04_X via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Strength04_X/status/2067445760325734734",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13576",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-exploded-hot-dog-infographic",
+      "assetId": "goku-gpt-image-2-exploded-hot-dog-infographic",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "food-infographic",
+      "title": {
+        "en": "Exploded Hot Dog Infographic"
+      },
+      "description": {
+        "en": "A production-ready image prompt for exploded hot dog infographic, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A premium fast-food product photograph of a loaded hot dog centered against a bold red-and-yellow seamless studio background. The hot dog features a grilled sausage with char texture, soft bun, mustard drizzle, ketchup, onions, and pickles. Dramatic commercial lighting creates vibrant highlights and realistic shadows beneath the hot dog. Ultra-sharp focus, DSLR macro food photography, premium fast-food advertisement style, hyper realistic, 8K. Create a hyper-realistic exploded vertical infographic composition of a hot dog. Top → Bottom structure: Mustard & Ketchup Layer (glossy sauce drizzle texture) → Onion & Pickles (fresh chopped topping detail) → Grilled Sausage (charred grilled texture with shine) → Bun Layer (soft toasted bread texture) → Tray Base (minimal serving tray) Perfect vertical spacing, bold studio background, soft shadows, premium food commercial aesthetic. Add clean infographic labels with thin pointer lines using these exact labels: “Sauce” “Toppings” “Sausage” “Bun” “Tray” Ultra-realistic texture detail, premium food advertisement style, 8K.",
+      "tags": [
+        "food-photography",
+        "infographic",
+        "fast-food",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-exploded-hot-dog-infographic",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/exploded-hot-dog-infographic.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Strength04_X via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Strength04_X/status/2056698559638929879",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_05114",
+        "captured_at": "2026-10-13"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
     }
   ]
 }
