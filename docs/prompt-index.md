@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **171**
-Demo assets: **179**
+Published templates: **196**
+Demo assets: **204**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -574,6 +574,82 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 ## 食品与饮料
 
 - [Exploded Hot Dog Infographic](../catalog/model-detail-assets.json) — food-infographic · gpt-image-2
+- [Matcha Mode Brand Identity System](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 媒体与娱乐
+
+- [Botanical Luxury Skincare Gift Set](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 营销与广告
+
+- [Fun SaaS Designer 3D Illustration](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 媒体与娱乐
+
+- [Fiery Phoenix Eagle Warrior Scene](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Fluid Resonance Field](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 旅游与酒店
+
+- [Miniature City Map Wonder](../catalog/model-detail-assets.json) — city-miniature · gpt-image-2
+
+## 媒体与娱乐
+
+- [Chess King's Pawn Opening](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Buried in Books Chaos](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Shades Versus The Mighty Fan](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 电商与零售
+
+- [Pet Snack Packaging Design Proposal](../catalog/model-detail-assets.json) — packaging-design · gpt-image-2
+- [Black Gold Luxury Perfume](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 营销与广告
+
+- [Premium Enterprise Brochure Design System](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 旅游与酒店
+
+- [Vintage Paris Romantic Travel Poster](../catalog/model-detail-assets.json) — travel-poster · gpt-image-2
+
+## 媒体与娱乐
+
+- [Cinema Era Typography Sculpture](../catalog/model-detail-assets.json) — sculpture-design · gpt-image-2
+- [Turbulent Golden River Abstract](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Red Pink Kaleidoscope Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Luxury Skincare Ad](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 食品与饮料
+
+- [Luxury Food Commercial Photography](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 媒体与娱乐
+
+- [Midnight Bartender](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Eastern Minimalist Brand Poster](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+- [Shiba Inu Squat Hero Poster](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 电商与零售
+
+- [Minimalist Analog Wall Clock Photo](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 媒体与娱乐
+
+- [Pug Sprinting Through Alpine Trail](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 食品与饮料
+
+- [Parisian Sangria Summer Bliss](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 媒体与娱乐
+
+- [Chubby Spherical Animal Cute](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 
 ## Demo assets
 
@@ -758,3 +834,28 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Athens Philosophers Civilization Origins](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/athens-philosophers-civilization.jpg) — 媒体与娱乐
 - [Coconut Milk Luxury Skincare Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/coconut-milk-luxury-skincare.jpg) — 营销与广告
 - [Exploded Hot Dog Infographic](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/exploded-hot-dog-infographic.jpg) — 食品与饮料
+- [Matcha Mode Brand Identity System](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/matcha-mode-brand-system.jpg) — 食品与饮料
+- [Botanical Luxury Skincare Gift Set](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/botanical-luxury-skincare-gift.jpg) — 媒体与娱乐
+- [Fun SaaS Designer 3D Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/fun-saas-designer-illustration.jpg) — 营销与广告
+- [Fiery Phoenix Eagle Warrior Scene](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/fiery-phoenix-eagle-warrior.jpg) — 媒体与娱乐
+- [Fluid Resonance Field](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/fluid-resonance-field.jpg) — 创作者与社交
+- [Miniature City Map Wonder](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/miniature-city-map-wonder.jpg) — 旅游与酒店
+- [Chess King's Pawn Opening](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/chess-kings-pawn-opening.jpg) — 媒体与娱乐
+- [Buried in Books Chaos](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/buried-books-chaos.jpg) — 媒体与娱乐
+- [Shades Versus The Mighty Fan](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/shades-vs-fan-comic.jpg) — 媒体与娱乐
+- [Pet Snack Packaging Design Proposal](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pet-snack-packaging-proposal.jpg) — 电商与零售
+- [Black Gold Luxury Perfume](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/black-gold-luxury-perfume.jpg) — 电商与零售
+- [Premium Enterprise Brochure Design System](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/enterprise-brochure-design.jpg) — 营销与广告
+- [Vintage Paris Romantic Travel Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vintage-paris-poster.jpg) — 旅游与酒店
+- [Cinema Era Typography Sculpture](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cinema-era-typography-sculpture.jpg) — 媒体与娱乐
+- [Turbulent Golden River Abstract](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/turbulent-golden-river-abstract.jpg) — 媒体与娱乐
+- [Red Pink Kaleidoscope Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/red-pink-kaleidoscope.jpg) — 媒体与娱乐
+- [Luxury Skincare Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-skincare-ad.jpg) — 媒体与娱乐
+- [Luxury Food Commercial Photography](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-food-commercial-photography.jpg) — 食品与饮料
+- [Midnight Bartender](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/midnight-bartender.jpg) — 媒体与娱乐
+- [Eastern Minimalist Brand Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/eastern-minimalist-brand-poster.jpg) — 创作者与社交
+- [Shiba Inu Squat Hero Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/shiba-squat-hero.jpg) — 创作者与社交
+- [Minimalist Analog Wall Clock Photo](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-wall-clock.jpg) — 电商与零售
+- [Pug Sprinting Through Alpine Trail](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pug-alpine-trail-run.jpg) — 媒体与娱乐
+- [Parisian Sangria Summer Bliss](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/parisian-sangria-summer.jpg) — 食品与饮料
+- [Chubby Spherical Animal Cute](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/chubby-spherical-animal.jpg) — 媒体与娱乐

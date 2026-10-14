@@ -2250,6 +2250,331 @@
       "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/exploded-hot-dog-infographic.jpg",
       "prompt": "A premium fast-food product photograph of a loaded hot dog centered against a bold red-and-yellow seamless studio background. The hot dog features a grilled sausage with char texture, soft bun, mustard drizzle, ketchup, onions, and pickles. Dramatic commercial lighting creates vibrant highlights and realistic shadows beneath the hot dog. Ultra-sharp focus, DSLR macro food photography, premium fast-food advertisement style, hyper realistic, 8K. Create a hyper-realistic exploded vertical infographic composition of a hot dog. Top → Bottom structure: Mustard & Ketchup Layer (glossy sauce drizzle texture) → Onion & Pickles (fresh chopped topping detail) → Grilled Sausage (charred grilled texture with shine) → Bun Layer (soft toasted bread texture) → Tray Base (minimal serving tray) Perfect vertical spacing, bold studio background, soft shadows, premium food commercial aesthetic. Add clean infographic labels with thin pointer lines using these exact labels: “Sauce” “Toppings” “Sausage” “Bun” “Tray” Ultra-realistic texture detail, premium food advertisement style, 8K.",
       "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-matcha-mode-brand-system",
+      "assetId": "goku-gpt-image-2-matcha-mode-brand-system",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Matcha Mode Brand Identity System"
+      },
+      "industry": "food-beverage",
+      "category": "commercial",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/matcha-mode-brand-system.jpg",
+      "prompt": "Create a premium “Matcha Brand Touchpoint System” visual board for a modern lifestyle brand called:\n\n“MATCHA MODE”\n\nBuild a full brand identity system, not a single image.\n\nHERO SCENE:\n\nA hyper-realistic matcha drink in a ceramic cup placed on a clean natural surface.\n\n– vibrant green matcha foam with micro-bubbles\n– bamboo whisk (chasen) nearby\n– soft natural light\n– slight matcha powder dust on the surface\n– minimal Japanese aesthetic\nATMOSPHERE:\n– calm, warm, soft daylight\n– clean background (off-white or beige)\n– subtle shadows and reflections\n– feeling of wellness and luxury\nFULL BRAND SYSTEM:\n– takeout cups (paper + glass bottles)\n– packaging boxes (minimalist design)\n– tote bags (premium lifestyle)\n– labels, stickers, seals\n– menu cards with pricing ($6.50, $8.90, etc.)\n– small typography everywhere\n– subtle imperfections (realism)\n\nDESIGN LANGUAGE:\n\n– modern minimalist typography\n– Japanese-inspired layout\n– soft green palette\n– elegant spacing\n\nINCLUDE:\n– matcha latte\n– iced matcha\n– matcha desserts\n– combo sets\n– lifestyle shots\nThe composition must feel like a high-end design agency presentation.\n\nUltra-detailed, realistic, clean, aesthetic, and highly shareable.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-botanical-luxury-skincare-gift",
+      "assetId": "goku-gpt-image-2-botanical-luxury-skincare-gift",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Botanical Luxury Skincare Gift Set"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/botanical-luxury-skincare-gift.jpg",
+      "prompt": "Create a premium e-commerce product advertisement in a clean botanical skincare style, featuring an open gift box of {argument name=\"product name\" default=\"MONSTER 皮肤精华\"} centered on a light stone tabletop. The packaging is pale sage green and off-white with a minimalist luxury aesthetic, soft matte finish, and delicate watercolor leaf illustrations inside the lid and on the sachets. The box lid is open upright, showing elegant typography: the large brand line {argument name=\"brand text\" default=\"MONSTER 皮肤精华\"}, a secondary line {argument name=\"headline text\" default=\"7天舒缓肌肤\"}, smaller Chinese copy beneath, and 3 small circular feature icons aligned horizontally in the center area. Inside the box, show exactly 4 flat sheet-mask sachets stacked on the left and exactly 5 slim glass serum ampoules standing in a row on the right, each with silver caps and vertical label text. On the front lip of the box, print the same product branding in small refined type. On the right side of the composition, place exactly 3 vertically stacked line-art benefit icons with bilingual labels: a leaf icon with {argument name=\"benefit one\" default=\"舒缓修护\"} and the English subtitle \"SOOTHING REPAIR\", wavy water lines with {argument name=\"benefit two\" default=\"水润保湿\"} and the English subtitle \"HYDRATING\", and a balance scale icon with the Chinese label \"平衡肌肤\" and the English subtitle \"BALANCE\". Surround the scene with a serene natural spa environment: soft-focus green branches entering from the upper left and upper right edges, moss-covered stones on both sides, subtle leaves in the foreground, and diffused daylight on a warm ivory background. Use a balanced front-facing composition, gentle shadows, high-end commercial lighting, crisp packaging detail, muted green palette, and a calm, trustworthy, premium skincare advertisement look.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-fun-saas-designer-illustration",
+      "assetId": "goku-gpt-image-2-fun-saas-designer-illustration",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Fun SaaS Designer 3D Illustration"
+      },
+      "industry": "marketing-advertising",
+      "category": "commercial",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/fun-saas-designer-illustration.jpg",
+      "prompt": "A complete single 3D illustration, exaggerated art editorial style, no storyboard script, no collage layout.\n\nThe main character is an exaggerated cartoon character with a tiny head, a chubby body, extremely elongated limbs, oversized hands and shoes, an off-balance in midair, and dramatic jumping postures suspended in midair, full of tension and comedic energy. The overall form looks like a soft sculpted toy—rounded, thick, elastic, exaggerated, and out of shape to fit anatomical structures.\n\nThe material is matte soft rubber, fuzzy fabric, knit texture, and clay texture, featuring delicate fiber details and a slight graininess, presenting a hand-carved tactile feel, avoiding smooth plastic toy appearances, translucent glass, and high reflectivity.\n\nHigh-saturation dopamine color schemes, bold color blocking, large flat color blocks, bright but not glaring.\n\nA clean white background, minimalist space, with only a soft oval shadow on the floor, and no complex scenes.\n\nAbstract graphic elements float around the characters: stars, wavy lines, spheres, cubes, icons, and symbols, all rendered as soft rubber or paper props to enhance movement and design.\n\nSoft studio lighting, global illumination, soft shadows, low contrast, and clean commercial rendering.\n\nC4D / Blender 3D illustrations, stylized soft sculptures, matte clay materials, fuzzy fabric textures, knitted surface details, fun editorial 3D illustrations, high quality.\n\nSubject: A hoodie-wearing SaaS product designer floats with a laptop, surrounded by dashboard UI cards, charts, and task widgets for the SaaS landing page header illustration",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-fiery-phoenix-eagle-warrior",
+      "assetId": "goku-gpt-image-2-fiery-phoenix-eagle-warrior",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Fiery Phoenix Eagle Warrior Scene"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/fiery-phoenix-eagle-warrior.jpg",
+      "prompt": "A fantastical film scene: a valiant female warrior and falconer, clad in leather armor weathered by war and adorned with gleaming ember patterns, strolls through a dark forest shrouded in mist. She raised her arms high, commanding a massive hybrid of phoenix and eagle, this raptor's wings burned, feathers blazing, and its tip breathing fire. It emitted an orange-red lava glow, with sparks and embers flying. The female warrior had her hair braided, her skin covered in ashes, her expression resolute, holding rope and a tool bag in her hands. The visuals are rich in detail, feather textures are lifelike, flame physics effects are natural, and lighting effects are highly dramatic. Techniques such as volumetric fog and shallow depth of field are used to create an epic, fantasy atmosphere. The color tuning has a cinematic feel, the background is dark and deep, and the resolution reaches up to 8K, presenting the essence of concept art, all rendered using Unreal Engine.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-fluid-resonance-field",
+      "assetId": "goku-gpt-image-2-fluid-resonance-field",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Fluid Resonance Field"
+      },
+      "industry": "creator-social",
+      "category": "poster-design",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/fluid-resonance-field.jpg",
+      "prompt": "To generate a vertical 3:4 Chinese event poster, it must be a finished poster with text layout completed.\n\nPoster styles include: high-end contemporary visual design, experimental music posters, 3D fluid sculpture main visuals, black background with high contrast, modern typography, and art museum poster texture.\n\nThe background is pure black or deep black-gray, with an overall clean, restrained look with premium blank space. A large 3D abstract fluid sculpture main visual is placed in the center or slightly central of the image, composed of three high-gloss materials: teal-green, gold-yellow, and silver-white. The shapes resemble flowing ribbons, sound waves, loops, curved energy trajectories, and fluid structures within space, possessing a strong sense of three-dimensionality, luster, speed, and futurism. The material should resemble a combination of high-gloss lacquer, metal glaze, and glass resin, with sharp edges and localized feather-like, blade-like, and streamlined details, giving the whole a strong sense of tension.\n\nThe layout must be complete, adopting modern Chinese poster design logic, with a clear and prominent main title, allowing for free variation in the following layout methods:\n1. Vertical heading on the left\n2. Stackable title in the top right corner\n3. Extra-large bold title below\n4. Symmetrical layout along the central axis\n5. Grid information layout\n6. Experimental diagonal cutting typesetting\n7. Exhibition information is organized by column\n8. Minimalist blank space layout\n9. Visual main image compression typesetting\n\nThe text must be in Chinese, clear, without garbled text or typos. A small amount of small English text can be used as supplementary information, but it cannot be dominated by English.\n\nPosters need to include the following information modules and be formatted into a complete product:\nMain Title: \"[Main Title]\"\nSubtitle: \"[Subtitle]\"\nEvent Description: \"[One-sentence explanation]\"\nDate and Time: \"[Date] / [Time]\"\nVenue Name: \"[City] · [Venue]\"\nPerformance/Event Type: \"[Event Type]\"\nUnified use of personnel information:\n\"Conductor: XX\"\n\"Planner: XX\"\n\"Visual: XX\"\n\"Composer: XX\"\n\"Performance: XX\"\n\nOverall visual temperament:\nContemporary, experimental, avant-garde, musical, spatial, futuristic, flowing, artistic, and highly productive posters.\n\nThe color scheme mainly consists of teal, gilded, and silver-white, with a pure black background, primarily white, and a small amount of gold or gray as a supplement. No cheap flashy lights, no e-commerce vibes, no outdated poster looks, no watermarks, no real brand logos.\n\nPlease ensure the images look like real Chinese art event posters that can be published.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-miniature-city-map-wonder",
+      "assetId": "goku-gpt-image-2-miniature-city-map-wonder",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Miniature City Map Wonder"
+      },
+      "industry": "travel-hospitality",
+      "category": "city-miniature",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/miniature-city-map-wonder.jpg",
+      "prompt": "An ultra-premium cinematic atlas visualization of {argument name=\"country\" default=\"COUNTRY\"} designed as a luxurious collectible miniature world built directly into an aged textured world map. Instead of a simple diorama, the scene features an elevated hyper-detailed micro-city of {argument name=\"city\" default=\"CITY\"} emerging organically from the terrain like a living architectural island. The environment contains iconic monuments, historic buildings, rivers, bridges, tiny streets filled with realistic urban depth, glowing windows, vegetation, atmospheric details, and elegant cultural symbolism crafted with museum-level precision.\nThe camera angle feels like a high-end macro documentary photograph captured with a professional tilt-shift lens, creating an immersive miniature illusion with cinematic depth separation. Surrounding map typography, borders, coordinates, and neighboring regions remain subtly visible beneath the structure, blending cartography with luxury worldbuilding.\nAdd dramatic golden-hour sunlight mixed with soft volumetric atmospheric haze, realistic ambient occlusion, global illumination, rich shadows, ultra-detailed textures, reflective water canals, tiny moving boats, miniature street lamps, cinematic fog layering, and refined environmental storytelling. Include subtle weathered paper textures, embossed map details, and elegant depth transitions for a premium handcrafted aesthetic.\nThe color grading should feel inspired by luxury travel documentaries and next-generation editorial campaigns — warm golden highlights, rich earthy greens, elegant ivory paper tones, deep architectural contrast, and subtle teal shadows. The composition must feel grand, immersive, artistic, and visually unforgettable.\nUltra-photorealistic, insanely detailed, masterpiece-quality, hyper-realistic materials, advanced global illumination, macro realism, depth-rich cinematic atmosphere, luxury travel aesthetic, collectible miniature world design, editorial-quality rendering, 8K ultra detail.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-chess-kings-pawn-opening",
+      "assetId": "goku-gpt-image-2-chess-kings-pawn-opening",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Chess King's Pawn Opening"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/chess-kings-pawn-opening.jpg",
+      "prompt": "A realistic indoor photograph of a wooden chessboard on a dark wooden table, viewed from a slightly elevated front angle, with Staunton-style pieces in a mid-opening position. The board has light maple and dark walnut squares with a wooden border, and the pieces are glossy black and matte ivory. Show all 32 pieces with no captures: 16 black pieces and 16 white pieces. Black occupies the far side in standard back-rank order from left to right: rook, knight, bishop, queen, king, bishop, knight, rook, with 8 black pawns in front. White occupies the near side in standard back-rank order from left to right: rook, knight, bishop, queen, king, bishop, knight, rook, with 8 white pawns in front. The only moved pieces are 2 central pawns: a black pawn advanced two squares to e5 and a white pawn advanced two squares to e4, facing each other on adjacent central squares. Keep the rest of the pieces in their starting positions. Use natural window light from the right, soft shadows, a warm home interior background with cream curtains and a wooden cabinet, shallow depth of field, realistic proportions, clean digital-photography look, centered composition, and accurate chessboard geometry.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-buried-books-chaos",
+      "assetId": "goku-gpt-image-2-buried-books-chaos",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Buried in Books Chaos"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/buried-books-chaos.jpg",
+      "prompt": "Scene: A whimsical comic-style illustration depicting a young woman buried beneath a messy, colorful mountain of books, with only her head, one hand, and a cat's tail exposed. She had messy dark hair, wore a loose bun, wore oversized round glasses, and her eyes were wide open in shock, her mouth agape in shock. Her hand reached out, as if trying to escape from a pile of books. A large bubble of thought with a question mark floated above her head, emphasizing confusion and overwhelm. Composition: Camera angle is slightly top-down, centered composition; The shot type is medium shot, close-up; The focus is clearly on the characters' faces and the foreground books; Books fill almost the entire canvas, creating a messy yet playful composition. Environment: The background is a soft pale purple, with minimal distractions; Props feature dozens of stacked and scattered books in red, blue, yellow, and green, each with humorous fictional titles. Character: Female, young man, with messy black hair tied in a loose bun with messy strands, big eyes, bewildered, confused but cute, accessory: large round glasses. Titles include: \"Amy's Survival Guide,\" \"Advanced Wild Thinking,\" \"The Art of Procrastination,\" \"How to Talk to Your Cat,\" \"A Beginner's Guide to Conquering the World,\" \"Cooking Basics,\" \"The Philosophy of the Confused,\" \"Dangerous Good Ideas,\" and \"The History of Napping.\" Style: Retro manga illustrations combined with anime-style character designs, high-detail digital painting, clean and bold ink outlines, subtle print grains, and vintage paper textures. The color palette features vibrant, saturated primary colors paired with a soft light purple background. Light and shadow: soft, diffused studio lighting with medium contrast and clean shadows. Quality: High resolution, extremely detailed books, text, facial features, and textures. Negative cues: blurry, low resolution, extra limbs, deformed hands, cropped faces, distorted text, messy anatomical structure, poor proportions, watermarks, noise. Settings: aspect ratio 2:3, steps 35, CFG ratio 7.5, sampler DPM++ 2M Karras.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-shades-vs-fan-comic",
+      "assetId": "goku-gpt-image-2-shades-vs-fan-comic",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Shades Versus The Mighty Fan"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/shades-vs-fan-comic.jpg",
+      "prompt": "A 4-panel comic strip in bold retro Sunday funnies / 1980s pop-art style, thick black outlines, halftone textures, vibrant saturated colors (hot pink, cyan, yellow, teal), dynamic comic lettering. Main character: A stylish young woman with {argument name=\"hair color\" default=\"wavy mint-green\"} hair, wearing oversized black sunglasses and a {argument name=\"clothing\" default=\"pink polka-dot strapless top\"}. Confident expression, glossy lips, dramatic lighting. Secondary character: A cute chibi-style character in a full penguin costume (dark blue body, white belly, yellow beak hood), big sparkling eyes, small body, playful and mischievous vibe. Panel 1 (close-up, bold intro): Zoomed-in portrait of the woman, hair slightly blowing. Bright comic burst background. Text: “THE WIND IS NO MATCH FOR MY SHADES!” Speech bubble: “Bring it, breeze.” Panel 2 (beach chaos begins): Beach setting with strong wind—palm trees bending, hat, towel, and drink flying. Woman standing confidently. Penguin character appears at the side. Text box: “BEACH DAY!” Speech bubble: “Ha! Nice try, wind.” Small penguin text: “awk!” Panel 3 (wind intensifies): Stronger gusts—trash can tipping, seagull mid-air, debris flying. Woman still composed, hair dramatically flowing. Penguin laughing mischievously. Text box: “STRONGER!” Speech bubbles: “Is that all?” / penguin: “hee hee!” Panel 4 (final punchline): Reveal a big electric fan wearing sunglasses blasting air dramatically. Woman surprised. Penguin proudly next to fan. Text box: “ULTIMATE BOSS.” Speech bubbles: “Wait… no!” Big comic text: “YOU GOT BLOWN AWAY!” Caption at bottom: “RESPECT THE FAN.”",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-pet-snack-packaging-proposal",
+      "assetId": "goku-gpt-image-2-pet-snack-packaging-proposal",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Pet Snack Packaging Design Proposal"
+      },
+      "industry": "ecommerce-retail",
+      "category": "packaging-design",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pet-snack-packaging-proposal.jpg",
+      "prompt": "Please generate a horizontal 4:3 high-definition \"Brand Packaging Design Proposal Brief Review.\"\n\n[Topic]: [Fill in product theme]\n[Brand Name]: [Fill in Brand Name]\n[Series Name]: [Fill in Series Name]\n[Product Content]: [Fill in main product + 3 side products / SKUs]\n[Style Direction]: [Cute and playful / Youthful energy / Light lifestyle / Trendy sweetness / Healthy and natural / Pet-friendly / Retro food vibe / High-end light brand feel]\n[Main Color Tone]: [Fill in Main Color]\n[Auxiliary Color]: [Enter Auxiliary Color]\n[IP / Illustration Elements]: [Fill in characters, mascots, ingredients, or graphic elements]\n[Main Title Copy]: [Fill in Title]\n\nThe composition adopts a structure of \"large main color background + irregular color block base + multi-packaging mockup collage + proposal board layout.\"\n\nRequirements include:\n1. A large main package serving as the primary visual center\n2. 2–3 sub-packages/SKUs, showcasing series extensions\n3. One set of auxiliary packaging, combo packs, gift boxes, or tasting packs\n4. Ingredients, props, or symbolic elements related to the product\n5. Original IP / mascot, which can appear on packaging or screen stickers\n6. Prominent Chinese headline\n7. 01/02/03 Numbered labels\n8. A small amount of English handwriting, such as PACKAGE DESIGN, BRAND SYSTEM, NEW FLAVOR\n9. A small amount of hand-drawn sketches, arrows, circles, line art, and cloud text boxes\n\nThe overall effect should look like a quick preview of a real packaging design proposal:\nIt should have a sense of brand, series, portfolio, and social media communication.\n\nPackaging should have a realistic print texture, with materials such as paper boxes, plastic bags, cups, or cans, clear edges, natural perspective, and unified light and shadow.\n\nAvoid:\nDon't use real brand trademarks, don't use garbled text, don't distort packaging, don't use low resolution, don't use cheap e-commerce promotional styles, don't pile all packaging together, don't make ordinary product posters.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-black-gold-luxury-perfume",
+      "assetId": "goku-gpt-image-2-black-gold-luxury-perfume",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Black Gold Luxury Perfume"
+      },
+      "industry": "ecommerce-retail",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/black-gold-luxury-perfume.jpg",
+      "prompt": "Create a photorealistic luxury product photograph of a single {argument name=\"product type\" default=\"perfume bottle\"} centered on a glossy wet black marble surface with fine white and gold veining. The bottle is faceted clear glass with a rounded-square octagonal silhouette, filled with rich {argument name=\"liquid color\" default=\"amber golden-brown\"} perfume, visible internal reflections, tiny air bubbles, and vertical refraction lines; it has a short neck and a smooth cylindrical brushed-metal {argument name=\"cap color\" default=\"champagne gold\"} cap with a small minimalist monogram on top. Surround the bottle with scattered water droplets and several larger shallow puddles that create mirror reflections and subtle rainbow caustic highlights. Use dramatic {argument name=\"lighting style\" default=\"golden hour backlight\"} from the upper rear, casting warm sunbeams through a peach-orange background haze, strong rim highlights on the glass, sparkling specular points on the wet stone, and a crisp reflection of the bottle in the foreground. Shoot at table height with a premium advertising look, shallow depth of field, sharp focus on the bottle, cinematic contrast, ultra-detailed glass and liquid physics, elegant black-and-gold color palette, square composition, no visible label text, no hands, no extra products.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-enterprise-brochure-design",
+      "assetId": "goku-gpt-image-2-enterprise-brochure-design",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Premium Enterprise Brochure Design System"
+      },
+      "industry": "marketing-advertising",
+      "category": "commercial",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/enterprise-brochure-design.jpg",
+      "prompt": "Please create a set of enterprise-level commercial brochure visual solutions, themed around [Brand Name] and promotional brochures for [Industry / Product / Solutions].\n\nOverall style: high-end, professional, with strong visual impact; Avoid the traditional Word formatting and ordinary PPT style. Adopts a style of [Dark Tech Aesthetics / White Minimalist Business / High-End Industrial Style / Artistic Brand Brochure].\n\nThe catalog includes:\n1. Cover and back cover\n2. Company introduction and brand philosophy\n3. Core products and technological advantages\n4. Application scenarios and solutions\n5. Customer cases and cooperation methods\n6. Full-volume system preview chart\n\nRequirements:\nThe layout should have a sense of design, with clear relationships between images, titles, data, icons, blank space, and hierarchy; Maintain a unified brand visual system for the entire brochure; Emphasize the completeness of real commercial materials, avoiding simple text layout.\n\nStructural Planning:\n1. Cover / Back cover: Establish the brand's appearance, industry character, and overall visual tone.\n2. Company introduction page: Describe the company's positioning, capability boundaries, and service targets.\n3. Product Technology Page: Displays core products, technical advantages, and solutions.\n4. Application scenario page: Shows users which industries the product can be used in.\n5. Case/Collaboration Page: Supplement credibility and business conversion information.\n6. Full Booklet System Preview: Verify style consistency and the overall sense of system in the art book.\n\nIf you already have company information, you can upload old brochures, company introduction documents, product manuals, official website content, PPT proposals, product images, or case picture images, allowing ChatGPT to accomplish three things:\n1. Reorganize the content structure and determine which content is suitable for covers, company introductions, product pages, case pages, and collaboration pages.\n2. Distill the main storyline of the album, avoid just piling up information, and need to form a clear commercial narrative.\n3. Unify visual direction, making the entire album look like a single brand system, avoiding the collage of different pages.\n\nPitfalls to avoid:\n1. Avoid starting with just \"generate an art book,\" as it can easily turn into template images.\n2. Avoid just piling up text; brochures must include product visuals, scene drawings, data modules, and design hierarchies.\n3. Avoid generating only a single page; it's best to add a preview image of the entire volume to convey a complete sense of system.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-vintage-paris-poster",
+      "assetId": "goku-gpt-image-2-vintage-paris-poster",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Vintage Paris Romantic Travel Poster"
+      },
+      "industry": "travel-hospitality",
+      "category": "travel-poster",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vintage-paris-poster.jpg",
+      "prompt": "Paris vintage romantic travel typeset poster, designed in a gorgeous handwritten vector style. The central composition, centered on the Eiffel Tower, seamlessly integrates into a large decorative handwritten typesetting spelled \"Paris.\" The warm cream background is paired with elegant navy blue and pale pink tones. The composition is surrounded by rich Victorian-inspired floral patterns, spiral patterns, decorative curls, ribbon banners, hearts, stars, and stamp travel elements.\n\nTop headline: \"The City of Love\" with decorative font. The subject word \"Paris\" uses a large, flowing calligraphic handwriting style, featuring deep shadows, relief carving details, and vintage movable type texture. On the layered ribbon banner below, the classic serif capital letters read \"Endless Happiness & Romance.\" A little romantic tagline at the bottom: \"Where Every Moment Is a Love Story.\" ”\n\nIt features subtle sketches of the Parisian skyline, architectural line art, tiny hearts, shimmering lights, travel seal graphics, and elegant decorative boundaries. High-detail vector illustrations, luxurious travel poster aesthetics, vintage French postcard atmosphere, romantic travel advertisements, balanced symmetrical layout, clear typography, engraved ink textures, premium print design, ultra-detailed, clean negative space, professional poster artwork, 4K quality, centered composition, collectible-grade commemorative poster style.\n\nStyle Keywords:\nGorgeous typography, handwritten lettering, vintage travel posters, French romance, Victorian floral decorations, vector engraving, decorative handwriting, luxurious poster designs, soft pink and navy blue, vintage postcards, elegant ribbon banners, high detail, symmetrical composition, high-quality printing.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-cinema-era-typography-sculpture",
+      "assetId": "goku-gpt-image-2-cinema-era-typography-sculpture",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Cinema Era Typography Sculpture"
+      },
+      "industry": "media-entertainment",
+      "category": "sculpture-design",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cinema-era-typography-sculpture.jpg",
+      "prompt": "Create a clean 2x2 grid on a pure white studio background featuring 4 large 3D typographic sculptures, each a single character built entirely from filmmaking equipment from a different era. The four glyphs are exactly 4 characters: top-left letter A, top-right number 5, bottom-left letter X, bottom-right number 9. Each character should be front-facing, centered in its quadrant, legible but formed from a dense pile of realistic cinema tools and on-set props, with believable occlusion, weight, and construction logic. Use high-end Cinema 4D product visualization, subtle ambient occlusion, soft three-point studio lighting with a softbox overhead, crisp shadows, realistic materials, and isolated composition.\n\nTop-left: the letter A made from early cinema and silent-era equipment, assembled from vintage wooden tripods, hand-cranked film cameras, brass lenses, reels, megaphones, bell-shaped horns, matte black metal parts, leather straps, and aged wood. Surface qualities should include worn varnished wood, black crackle paint, brass tarnish, scuffed metal, and dusty antique patina. The silhouette should feel chaotic but readable, with tripod legs and old camera bodies defining the A shape.\n\nTop-right: the number 5 made from mid-century analog filmmaking gear, assembled from classic film cameras, magazine reels, metal canisters, brown leather cases, audio accessories, silver fabric packs, director chairs, cylindrical lenses, grips, and vintage production bags. Materials should emphasize brushed aluminum, leather, canvas, rubber, and weathered industrial finishes. The 5 should be chunky and balanced, with stacked props tightly packed into the glyph.\n\nBottom-left: the letter X made from late 20th century video and broadcast equipment, assembled from shoulder-mount camcorders, portable recorders, battery packs, coiled cables, cassette-like modules, control panels, worn blue and gray plastic housings, and rugged field electronics. Include visible wiring and taped components. Materials should feel utilitarian and slightly battered, with dark plastic, anodized metal, stickers, rubber grips, and yellow accent details. The crossing diagonals of the X must be clear and substantial.\n\nBottom-right: the number 9 made from contemporary digital cinema and virtual production gear, assembled from modern cinema cameras, compact monitors, LED light panels, drones, gimbals, matte boxes, black modular accessories, and a vivid green chroma screen wrap forming part of the numeral. Include sleek vents, carbon fiber textures, matte black metal, polished glass, and bright green screen fabric as the dominant accent color. The 9 should feel the most modern and refined, with modular precision and clean industrial design.\n\nKeep the background plain and uncluttered, no extra text, no floating objects, no flat typography, no 2D rendering. The sculptures should look like physical objects at realistic scale, highly detailed, photorealistic, and suitable as a graphic design asset.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-turbulent-golden-river-abstract",
+      "assetId": "goku-gpt-image-2-turbulent-golden-river-abstract",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Turbulent Golden River Abstract"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/turbulent-golden-river-abstract.jpg",
+      "prompt": "Create a square abstract expressionist painting with no text, dominated by {argument name=\"primary color\" default=\"vivid golden yellow\"} and {argument name=\"secondary color\" default=\"deep teal green\"}. The composition should feel like a turbulent river of paint: a thick, bright yellow S-shaped stream begins at the lower center, curves upward through the middle, and explodes into a wide swirling splash on the left side before curling toward a large circular vortex near the upper center-right. Use layered acrylic and mixed-media textures with palette-knife ridges, rough scraped paint, speckles, splatters, transparent washes, and visible canvas grain. Include thin looping arc lines around the upper vortex, horizontal scraped streaks across the midline, vertical paint drips especially on the right side, and scattered small yellow droplets across the lower half. Keep the edges painterly and imperfect, with dark emerald shadows and lighter mint-green patches adding depth. The mood should be energetic, fluid, raw, and contemporary, like a high-resolution gallery photograph of an abstract canvas, with balanced contrast and rich tactile surface detail.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-red-pink-kaleidoscope",
+      "assetId": "goku-gpt-image-2-red-pink-kaleidoscope",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Red Pink Kaleidoscope Art"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/red-pink-kaleidoscope.jpg",
+      "prompt": "Create a square abstract kaleidoscopic geometric artwork in a strict two-color palette of {argument name=\"primary color\" default=\"vivid crimson red\"} and {argument name=\"secondary color\" default=\"soft bubblegum pink\"}. The composition is perfectly symmetrical on both vertical and horizontal axes, with an additional diagonal mirror feeling, filling the entire canvas edge to edge. Use sharp flat vector-like triangular polygons only, no gradients, no outlines, no shadows, and no texture. Build the image from nested triangles and recursive fractal triangle clusters: 1 central diamond-shaped medallion made of many tiny red and pink triangles, 4 pointed triangular spires extending from the medallion toward the top, bottom, left, and right, 4 large mirrored corner rosette structures containing dense miniature triangle mosaics, 4 long diagonal fractal bands running from the center area toward the corners, and 8 large pink star-like polygon arms radiating around the center. The overall impression should resemble an origami mandala, a crystalline tessellation, or a Sierpinski-triangle kaleidoscope, with alternating red and pink triangular facets forming a bold symmetrical abstract pattern. Keep the design crisp, high contrast, flat, mathematically precise, and decorative, with no text, no border, no objects, and no recognizable figures.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-skincare-ad",
+      "assetId": "goku-gpt-image-2-luxury-skincare-ad",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Luxury Skincare Ad"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-skincare-ad.jpg",
+      "prompt": "A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name=\"brand name\" default=\"LUMIÉRE\"} and {argument name=\"product type\" default=\"MOISTURE RICH CREAM\"} with \"AGING CARE*\" below it. The background consists of soft, draped, shimmering champagne-colored silk fabric with delicate white flowers on the left. The lighting is warm, ethereal, and sun-drenched with soft bokeh. At the top center, elegant dark brown Japanese typography reads {argument name=\"main headline\" default=\"肌に、静かな贅沢を。\"} above a small decorative gold divider and the text {argument name=\"subheadline\" default=\"高保湿×エイジングケア*\"}. To the right of the jar, a thin gold circle contains Japanese text meaning 'With dense moisture, high-quality firmness and radiance'. At the bottom center is a dark rectangular call-to-action button with a thin gold border containing the text {argument name=\"button text\" default=\"詳しく見る\"} and a right-pointing chevron. In the bottom right corner, tiny fine print contains Japanese text meaning '*Care according to age'.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-food-commercial-photography",
+      "assetId": "goku-gpt-image-2-luxury-food-commercial-photography",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Luxury Food Commercial Photography"
+      },
+      "industry": "food-beverage",
+      "category": "commercial",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-food-commercial-photography.jpg",
+      "prompt": "Generate a hyper-realistic commercial food photography work, with the theme [Product Name] and the style being a modern high-end food brand advertisement.\n\nMain Body:\nThe center of the image displays the [main product], with a realistic texture and clear details. The food must look fresh, natural, and edible. The key is to highlight the [key texture], such as the smoothness of the cream, the delicacy of the ice cream, the crispness of the waffle cone, the juice of the fruit, and the condensation on the surface of the drink.\n\nComposition:\nUse a minimalist commercial ad composition, with the main subject in the center or slightly off the side, and a clean negative space around the edges to make it easy to place brand titles and short sentences. The composition should be balanced and restrained, without piling up decorations.\n\nBackground:\nThe background is soft beige, cream white, light apricot, or low-saturation warm tones. Natural sunlight enters from the side above, creating slight leaf shadows or window shadows in the background. The foreground can include a small amount of soft-focus greenery, glass reflections, or desk edges to create shallow depth of field and a sense of airiness.\n\nText Layout:\nThe visuals include a small amount of modern Chinese brand layout, with text that should be concise and clean, resembling a high-end food advertisement. It is recommended to include a Chinese main title [Chinese Main Title] and a short slogan [Chinese Short Slogan]. The font style should be modern sans-serif or elegant fine Song typeface, with restrained layout, and the font size should not overshadow the product. If the Chinese text is unstable, keep clean blank spaces for easier supplementation.\n\nLight:\nSoft natural daylight, warm highlights, shallow depth of field, slight contour light at the main edges, soft shadows, overall bright but not dead white.\n\nColor:\nLow-saturation premium tones, focusing on the product's own color as the visual focus, paired with beige, cream, light brown, and natural green. Overall, it's fresh, clean, modern, welcoming, but still reasonably priced.\n\nQuality:\nUltra-realistic high-end commercial food photography, high-definition details, authentic materials, professional advertising photography, exquisite composition, shallow depth of field, 4:5 or 1:1 aspect ratio.\n\nAvoid:\nPlastic feel, oversaturation, cheap dessert shop vibe, messy backgrounds, English text, garbled text, cartoonish feel, excessive decoration, food deformation, unclear subjects, low resolution.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-midnight-bartender",
+      "assetId": "goku-gpt-image-2-midnight-bartender",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Midnight Bartender"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/midnight-bartender.jpg",
+      "prompt": "Target style: {Late Night Bartender}\nCharacter Age Sense: {Youth}\n5. Official Profile: {Delicate and handsome face, slender eye shape, slightly distant eyebrows and eyes, straight nose bridge, clear lip line, narrow face shape}\nClothing direction: {Black shirt + dark wine red vest + armbands}\nScene direction: {High-end bar counter / Dark red lighting / Glass glass reflecting}\nPosture and direction: {Stand behind the bar, holding a cocktail glass, looking up at the camera}\nLighting Ambience: {Burgundy dim lighting + golden edge light + glass highlights}\nAspect ratio: {3:4}\nPurpose: {Social Media Cover}",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-eastern-minimalist-brand-poster",
+      "assetId": "goku-gpt-image-2-eastern-minimalist-brand-poster",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Eastern Minimalist Brand Poster"
+      },
+      "industry": "creator-social",
+      "category": "poster-design",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/eastern-minimalist-brand-poster.jpg",
+      "prompt": "Vertical high-end {festival/solar term} brand poster, 3:4 aspect ratio, combining Eastern minimalist aesthetics with surreal commercial photography.\n\nThe overall color scheme includes {Main Color 1}, {Main Color 2}, {Auxiliary Color 1}, {Dark Color Embellishments}, and {Gold/Brand Color Embellishments}, featuring low saturation, soft light, and clean blank space.\n\nThe background is {light misty sky / Xuan paper ink background / soft-focus landscape background}, with distant features {mountains/mist/halo/water surface}.\n\nThe main body is composed of {Core Festival Element 1} forming a surreal scene, forming {slope/wave/canyon/waterway/stage}, with realistic materials and surfaces featuring {water droplets/texture/wrinkles/soft reflection/macro details}.\n\nAdding a small-scale narrative element: {dragon boat/characters/small boat/bird/lantern/gift box}, creating a contrast in scale.\n\nText Layout:\nIn the upper left, the extra-large semi-transparent Chinese calligraphy character \"{Main Title}\";\nOn the left side, place the English \"{English Subtitle}\" for the alt;\nDate and vertical Chinese blessings are displayed in the upper right;\nAt the bottom, display an oversized English title \"{English Main Title}\".\n\nThe overall composition is light on the top and heavy on the bottom, large on the left and small on the right, with clear distinctions between solid and void, cinematic soft light, shallow depth of field, and ink-wash mist, with no cluttered elements, no modern technological feel, and no excessive saturation.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-shiba-squat-hero",
+      "assetId": "goku-gpt-image-2-shiba-squat-hero",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Shiba Inu Squat Hero Poster"
+      },
+      "industry": "creator-social",
+      "category": "poster-design",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/shiba-squat-hero.jpg",
+      "prompt": "Create a hyper-detailed cinematic parody movie poster featuring an anthropomorphic Shiba Inu as an extreme bodybuilding powerlifting hero, centered in a full frontal deep squat while holding a massively overloaded barbell across his shoulders. The dog has a realistic Shiba Inu head with a calm, confident expression, warm orange-and-cream fur, upright ears, and direct eye contact. The body is exaggeratedly muscular and humanlike, with huge deltoids, chest, arms, abs, quads, and calves, rendered with glossy dramatic highlights and dense texture in the fur and skin. He wears only tight black lifting shorts and a dark lifting belt. The squat stance is low and powerful, knees bent wide, feet planted on a wet reflective rooftop or industrial platform at night. Put a modern city skyline in the background with illuminated skyscrapers, bluish haze, smoke, and two bright stadium floodlights in the upper left and upper right creating strong rim light and a heroic sports-arena mood. The composition should be perfectly centered and symmetrical, with the barbell extending horizontally across the frame and stacked with many large black weight plates on both sides. Use a high-contrast teal, amber, black, and gold color palette with intense cinematic grading, sharp focus on the character, and atmospheric glow around the lights. Add stylized poster typography: at the very top, a gold all-caps tagline reading {argument name=\"top tagline\" default=\"NO PAIN. MUCH GAIN. SUCH LEGEND.\"}. Add 2 blocks of small white Japanese copy, 1 on the left of the character and 1 on the right, each set in 2 lines. At the bottom, place a gigantic cracked stone-textured gold title in all caps reading {argument name=\"movie title\" default=\"SQUAT HERO\"}. Beneath it, add a red all-caps subtitle reading {argument name=\"subtitle\" default=\"LEG DAY IS DESTINY.\"}. Add a small red stamp-like Japanese label near the lower right of the title. Include dense tiny mock film-poster credits in white across the lower center, a ratings box in the lower left, 3 tiny studio or audio logos in the lower right, and a centered release line near the bottom reading {argument name=\"release text\" default=\"COMING SOON TO A GYM NEAR YOU\"}. Make it look like a polished blockbuster action-comedy sports film poster with absurdly epic intensity, photoreal rendering, dramatic shadows, volumetric smoke, reflective ground, and premium theatrical poster design.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-wall-clock",
+      "assetId": "goku-gpt-image-2-minimalist-wall-clock",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Minimalist Analog Wall Clock Photo"
+      },
+      "industry": "ecommerce-retail",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-wall-clock.jpg",
+      "prompt": "A minimalist studio photograph of a round analog wall clock mounted on a smooth light gray wall, centered in frame and viewed straight on. The clock has a matte black circular frame, a clean white face, black Arabic numerals 1 through 12, and thin black minute tick marks around the entire dial with thicker hour marks at each numeral. Show exactly 12 numerals and 60 minute divisions. The time displayed is {argument name=\"clock time\" default=\"05:29\"}: the short hour hand is slightly past 5, the longer minute hand points to the 29-minute mark just before the 6, and a very thin black second hand is near the lower part of the dial around the 31-second position. Soft even lighting, subtle realistic shadow on the wall, high-detail product-photography realism, neutral modern interior aesthetic, no branding, no extra objects, square composition.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-pug-alpine-trail-run",
+      "assetId": "goku-gpt-image-2-pug-alpine-trail-run",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Pug Sprinting Through Alpine Trail"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pug-alpine-trail-run.jpg",
+      "prompt": "A bright, high-resolution outdoor action photograph of a small {argument name=\"dog breed\" default=\"pug\"} running toward the camera on a narrow rocky hiking trail through an alpine meadow. The dog is centered slightly low in the frame, mid-stride with one front paw lifted, mouth open, tongue out, ears perked, and an excited expression, wearing a {argument name=\"harness color\" default=\"navy blue\"} chest harness. The trail curves gently back into rolling green hills and is bordered on both sides by dense wildflowers and grasses, including visible clusters of blue, purple, yellow, white, and pink blooms. In the distance, place 3 tiny hikers on the trail for scale. The background features a dramatic panoramic mountain range with 4 prominent snow-capped peaks, rugged rocky faces, and patches of glacier under a clear vivid {argument name=\"sky color\" default=\"blue\"} summer sky with a few thin wispy clouds. Use crisp natural daylight, vibrant but realistic colors, deep depth and clarity from foreground flowers to distant mountains, eye-level low-angle perspective, documentary travel photography style, sharp focus on the running dog, and a joyful adventurous hiking mood.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-parisian-sangria-summer",
+      "assetId": "goku-gpt-image-2-parisian-sangria-summer",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Parisian Sangria Summer Bliss"
+      },
+      "industry": "food-beverage",
+      "category": "commercial",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/parisian-sangria-summer.jpg",
+      "prompt": "A vibrant, colorful digital painting in a lively impressionistic style with bold brush strokes and saturated colors. {argument name=\"main object\" default=\"Two large crystal wine glasses filled with red sangria\"} on a {argument name=\"setting\" default=\"sunny outdoor Parisian café table\"}. The left glass is packed with {argument name=\"fruits\" default=\"orange slices, kiwi, raspberries, strawberries, and cherries\"}, overflowing with fresh mint on top. The right glass has similar fruits plus a scoop of pink and white ice cream or whipped cream, topped with raspberry and mint. A whole bright orange sits on the table next to scattered almonds on a white napkin with a spoon. Background shows a charming European street café with buildings, blue awnings, green trees, pink flowers, outdoor seating, and warm sunlight. Highly detailed, joyful summer atmosphere, glossy reflections on glass, rich textures.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-chubby-spherical-animal",
+      "assetId": "goku-gpt-image-2-chubby-spherical-animal",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Chubby Spherical Animal Cute"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/chubby-spherical-animal.jpg",
+      "prompt": "Generate a photo of a chubby, ball-shaped {argument name=\"animal\" default=\"[animal]\"} rendered as a near-perfect sphere. It has no separate head; instead, the face is fused directly into the round body so head and body are one. Give it enormous, exaggerated cute eyes glancing upward in the cheekiest, most adorable way. Make it cartoonishly adorable and almost perfectly spherical, then place it inside its natural habitat for context.",
+      "source": "model-detail"
     }
   ]
 }
