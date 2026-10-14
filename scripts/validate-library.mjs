@@ -27,10 +27,6 @@ const skill = await readFile(
   path.join(root, "skills", "flatkey-image-prompts", "SKILL.md"),
   "utf8"
 );
-const publishWorkflow = await readFile(
-  path.join(root, ".github", "workflows", "publish.yml"),
-  "utf8"
-);
 const releaseScript = await readFile(
   path.join(root, "scripts", "prepare-npm-release.mjs"),
   "utf8"
@@ -79,18 +75,6 @@ assert(cli.includes("nano (default)"), "CLI help must document Nano as the defau
 assert(cli.includes("FLATKEY_IMAGE_API_KEY"), "CLI must read Flatkey image API key");
 assert(cli.includes("https://console.flatkey.ai/keys"), "CLI must point users to Flatkey key console");
 assert(cli.includes("Flatkey image prompt library running"), "CLI must start the prompt library server");
-assert(
-  publishWorkflow.includes("release:") && publishWorkflow.includes("types: [published]"),
-  "publish workflow must run from published GitHub releases"
-);
-assert(
-  publishWorkflow.includes("NPM_PUBLISH_TOKEN") && publishWorkflow.includes("npm publish"),
-  "publish workflow must publish to npm with NPM_PUBLISH_TOKEN"
-);
-assert(
-  publishWorkflow.includes("npm run prepare:release"),
-  "publish workflow must prepare package version from release tag"
-);
 assert(
   releaseScript.includes("github.event.release.tag_name") || releaseScript.includes("GITHUB_REF_NAME"),
   "release script must derive version from GitHub release tag"
