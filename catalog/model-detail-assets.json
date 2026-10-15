@@ -3,7 +3,7 @@
   "kind": "image-model-detail-assets",
   "repository": "https://github.com/flatkey-ai/awesome-images",
   "generatedFrom": "new-api:d0835b1c6:website/src/lib/image-prompt-templates.ts",
-  "capturedAt": "2026-10-14",
+  "capturedAt": "2026-10-15",
   "entries": [
     {
       "slug": "model-detail-image-gpt-image-2-product-hero",
@@ -6864,6 +6864,931 @@
         "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
         "dataset_id": "GI2_09533",
         "captured_at": "2026-10-14"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-crumple-chair-design",
+      "assetId": "goku-gpt-image-2-crumple-chair-design",
+      "model": "gpt-image-2",
+      "industry": "ecommerce-retail",
+      "category": "product-advertising",
+      "title": {
+        "en": "Crumple Chair Design Breakdown"
+      },
+      "description": {
+        "en": "A production-ready image prompt for crumple chair design breakdown, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Design Concept: The Crumple Chair Core Philosophy: Translating the \"controlled chaos\" of a tossed paper ball into a sculptural, high-comfort seating experience.\n\nStage 1: Observation & Morphological Analysis The goal is to deconstruct the image of the crumpled paper into usable geometric data. Crease Mapping: Identify the primary \"valley\" and \"ridge\" lines. These represent potential structural ribs or seams in the chair. Faceted Planes: Break down the sphere into a series of non-uniform polygons. Each flat surface of the paper becomes a potential panel for the chair’s upholstery or shell. Shadow Study: Analyze how the \"tossed\" form creates deep recesses. These natural pockets guide where the user’s weight will be cradled.\n\nStage 2: Iterative Form Exploration Moving from a sphere to a seat through \"Digital Crumpling.\" Subtractive Sculpting: Imagine the paper ball as a solid mass. Use Boolean operations to \"carve out\" a seating cavity that fits the human form while maintaining the external jagged texture. Tension Simulation: Use 3D software (like Rhino or Blender) to simulate a flat sheet of material being compressed. This ensures the folds look authentic and not \"modeled.\" The \"Toss\" Logic: Experiment with gravity-based simulation dropping a digital mesh to see how it settles naturally, mimicking the \"tossed\" origin.\n\nStage 3: Ergonomic Translation & Blueprinting Refining the raw aesthetic into a functional object. The Comfort Core: Overlay a standard ergonomic template (Seating Angle: 105°–110°) over the crumpled form. Adjust the internal \"folds\" to provide lumbar support and pressure relief. Blueprint Generation: Create technical orthographic views (Front, Side, Top). Map out the dimensions: Seat Height: 450mm Total Width: 850mm Surface Smoothing: Maintain the sharp \"paper edges\" on the exterior shell while softening the interior contact points for skin comfort.\n\nStage 4: Structural Integration & Scaling Making the concept physically viable. The Skeleton: Design a hidden internal frame (likely CNC-bent steel rods or a 3D-printed lattice) that follows the most prominent ridges of the paper folds to provide rigidity. Material Selection: * Option A (High-End): Faceted, cast aluminum with a white powder coat. Option B (Soft): Vacuum-formed recycled plastic shell covered in \"memory-fold\" technical fabric that retains a wrinkled appearance.\n\nStage 5: Final Prototyping & Material Finish Textural Replication: Apply a matte, slightly porous finish to the material to mimic the tactile feel of heavy-bond paper. Lighting Contrast: Use directional studio lighting in the final renders to emphasize the \"tossed\" shadows, making the chair look like a giant piece of discarded inspiration. Design Tip: To keep the \"tossed\" look authentic, avoid symmetry. The most compelling aspect of a crumpled paper ball is its unique irregularity—ensure the left and right sides of the chair are balance-equivalent but not identical",
+      "tags": [
+        "furniture-design",
+        "parametric-modeling",
+        "ergonomics",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-crumple-chair-design",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/crumple-chair-design.jpg",
+        "ratio": "1149:1369",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ShamsAmin56 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ShamsAmin56/status/2050281206139461780",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_15518",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-cyberpunk-noir-waterfront-market",
+      "assetId": "goku-gpt-image-2-cyberpunk-noir-waterfront-market",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Cyberpunk Noir Waterfront Market"
+      },
+      "description": {
+        "en": "A production-ready image prompt for cyberpunk noir waterfront market, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a dense cyberpunk noir waterfront black market scene at night in a futuristic Asian megacity, emphasizing extreme visual noise, rain, grime, reflections, and overwhelming detail. The camera is at dock level looking diagonally along a crowded harbor market: wet concrete piers and puddles in the foreground, dark silhouettes of vendors and customers under tarps on the right, small fishing boats and cargo boats on the left, and a vast neon skyline fading into blue mist in the background. A lone hooded figure in a dark raincoat stands near the center foreground facing the market, surrounded by crates, barrels, tangled cables, umbrellas, makeshift stalls, and glistening trash. Add towering stacked shipping containers and industrial cranes on the right, with suspended cargo and a black cargo drone in the upper left carrying a container. Use cold cyan-blue city light mixed with hot magenta neon, deep shadows, heavy rain haze, volumetric fog, and glossy reflections across every surface. Include exactly 6 visible major text/sign elements: a cyan sign on the containers reading {argument name=\"shipping company sign\" default=\"TENKO SHIPPING\"}, a cyan holographic cargo drone panel reading {argument name=\"drone sign\" default=\"CARGO DRONE\"}, a cyan dock sign reading {argument name=\"dock sign\" default=\"DOCK 7\"}, a bright magenta market sign reading {argument name=\"market sign\" default=\"Black Market\"} with Japanese or Chinese characters above it, a blue boat label reading {argument name=\"boat label\" default=\"海狼 07\"}, and scattered vertical neon tower signs with small unreadable Asian characters. Style: ultra-detailed cinematic concept art, Blade Runner-inspired cyberpunk, photorealistic matte painting, high contrast, moody, chaotic, rain-soaked, 1:1 square composition, sharp foreground detail with atmospheric depth, no clean empty areas, no daylight, no cartoon style.",
+      "tags": [
+        "cyberpunk",
+        "noir",
+        "rainy-dock",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cyberpunk-noir-waterfront-market",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cyberpunk-noir-waterfront-market.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@lostinlatencyX via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/lostinlatencyX/status/2062995092760084536#reversed-2",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_10928",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-crimson-dragon-storm-lighthouse",
+      "assetId": "goku-gpt-image-2-crimson-dragon-storm-lighthouse",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Crimson Dragon Storm Lighthouse"
+      },
+      "description": {
+        "en": "A production-ready image prompt for crimson dragon storm lighthouse, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a dramatic high-fantasy concept art scene of a {argument name=\"dragon color\" default=\"red\"} dragon coiled tightly around a weathered medieval stone lighthouse on a jagged sea cliff. The dragon is enormous, serpentine, and menacing, with glossy crimson scales, sharp horns and spines, glowing eyes, an open roaring mouth, clawed feet gripping the masonry, a long tail wrapped around the tower base, and one vast torn membrane wing spread across the right side of the composition. The lighthouse is old gray stone with cracks, arched windows glowing warm amber, a circular balcony, and a glass lantern room at the top. Place the scene during a violent {argument name=\"storm type\" default=\"thunderstorm\"} at night: diagonal sheets of heavy rain, purple-black storm clouds, bright branching lightning bolts behind the dragon and tower, and turbulent ocean waves exploding against the cliff below in white foam. Use a low-angle cinematic composition, the lighthouse centered, the dragon wrapping around it in an S-curve, the wing silhouetted against lightning, with intense contrast between cold blue-purple storm light and warm lantern glow. Render in highly detailed fantasy realism with dramatic lighting, sharp textures, wet stone, reflective scales, sea spray, motion in the rain, epic scale, and a dark atmospheric mood.",
+      "tags": [
+        "dragon",
+        "lighthouse",
+        "fantasy-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-crimson-dragon-storm-lighthouse",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/crimson-dragon-storm-lighthouse.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AskVenice via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AskVenice/status/2052891336735342769#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07129",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-playful-animal-sketch",
+      "assetId": "goku-gpt-image-2-playful-animal-sketch",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Playful Animal Sketch"
+      },
+      "description": {
+        "en": "A production-ready image prompt for playful animal sketch, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Generate a square 1:1 hand-drawn playful animal illustration with a white or off-white paper background, with an animal character in the center performing an exaggerated pose. The character designs are extremely exaggerated, with unrealistic body proportions but very cute. The limbs can be stretched, flattened, twisted, or bent into interesting shapes, with exaggerated expressions and big round eyes, giving off a bit of cute, funny, and clever humor.\n\nThe drawing style references children's picture book sketches, light color ink paintings, humorous comics, and Eastern hand-drawn sketches. Use loose black ink lines to outline the lines, with hand-drawn shaking and a dry brush brush feel. The colors are mainly light watercolor grading, with accents of red, yellow, green, or blue-gray in some areas. Preserves paper texture, slight water stains, ink whitening, and hand-applied marks.\n\nThe composition should be simple, with characters occupying the main space in the frame, backgrounds should not be complicated, leaving only a small amount of ground shadows or simple props. The overall vibe is relaxed, humorous, playful, and healing, with the vibe of social media memes.\n\nAt the bottom of the screen, you can add a short handwritten Chinese sentence: \"[Chinese Short Sentence]\"\nNo complex backgrounds, no realistic photography feel, no 3D texture, no heavy shadows, no refined commercial illustration look.",
+      "tags": [
+        "whimsical-illustration",
+        "watercolor-sketch",
+        "cute-animal",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-playful-animal-sketch",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/playful-animal-sketch.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@XiaoKooeye via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/XiaoKooeye/status/2069980822879551681",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12098",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-impossible-city-knot-sculpture",
+      "assetId": "goku-gpt-image-2-impossible-city-knot-sculpture",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "title": {
+        "en": "Impossible City Knot Sculpture"
+      },
+      "description": {
+        "en": "A production-ready image prompt for impossible city knot sculpture, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a macro-lens studio photograph of a tabletop sculpture: a closed, continuous, self-intersecting impossible-city manifold shaped like a thick wooden knot or tangled torus, constructed entirely from pale, smooth architectural modeling wood. Uniformly map the urban center of {argument name=\"urban center\" default=\"Chicago\"} across every curved surface of the manifold, with the recognizable skyline, dense downtown blocks, gridded streets, raised rails, and bridge-like infrastructure physically extruded from the wood. Emphasize the spatial paradox that there is no true up direction: skyscrapers, rectangular buildings, street grids, and rail strips protrude inward into hollow openings, outward from the outer rim, and sideways along twisting bands simultaneously, while roads loop back onto themselves around the knot. The sculpture sits on a simple white gallery pedestal, undeniably small-scale and hand-built, with visible wood grain, precise laser-cut grooves, clean beveled edges, and miniature architectural details. Use pristine warm gallery illumination with sharp, complex intersecting shadows cast through the hollow gaps, a neutral taupe background, shallow depth of field, and a three-quarter view that reveals the central voids, overlapping ribbons, and impossible geometry. The mood is elegant, mathematical, architectural, and surreal, rendered as a highly realistic product-style museum photograph.",
+      "tags": [
+        "macro-photography",
+        "impossible-geometry",
+        "architectural-sculpture",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-impossible-city-knot-sculpture",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/impossible-city-knot-sculpture.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Gdgtify via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Gdgtify/status/2052213076288782802#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07650",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-chibi-witch-owl-figurine",
+      "assetId": "goku-gpt-image-2-chibi-witch-owl-figurine",
+      "model": "gpt-image-2",
+      "industry": "ecommerce-retail",
+      "category": "product-advertising",
+      "title": {
+        "en": "Chibi Witch Owl Figurine"
+      },
+      "description": {
+        "en": "A production-ready image prompt for chibi witch owl figurine, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a polished 3D stylized fantasy mascot on a pure white background: a cute chibi witch-owl creature sitting inside a carved wooden bucket or half-barrel, rendered like a collectible game figurine with soft studio lighting, rounded shapes, warm colors, high detail, ambient occlusion, and a clean isolated product-shot composition. The character has a squat round body covered in dark brown feathers, orange bird feet with 6 visible talons total, shaggy pale cream hair, a muted purple headscarf tied in a bow on the right side, pointed orange ears, and a strange square faceless area over the front of the head in a smooth brown gradient. The creature holds 1 straw broom upright in its right hand and has 1 small glowing lantern hanging from the front of the barrel. On the left side are 2 props: 1 black cauldron filled with bright green bubbling potion with white steam, and 1 black crow perched beside it. On the ground to the right are 3 props: 1 cream skull, 1 red mushroom cap with white spots and green stem, and 1 small wooden base/stone patch. Use a whimsical Halloween cottagecore fantasy style, miniature diorama proportions, glossy eyes on the crow, carved wood grain on the bucket, orange lantern glow, saturated but cozy palette, no text, no border, centered composition. Customize the character as {argument name=\"character type\" default=\"chibi witch-owl creature\"}, the headscarf as {argument name=\"headscarf color\" default=\"muted purple\"}, the potion as {argument name=\"potion color\" default=\"bright green\"}, the accessory animal as {argument name=\"animal companion\" default=\"black crow\"}, and the held prop as {argument name=\"held prop\" default=\"straw broom\"}.",
+      "tags": [
+        "3d-mascot",
+        "halloween",
+        "fantasy-figurine",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-chibi-witch-owl-figurine",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/chibi-witch-owl-figurine.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Livid via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Livid/status/2050727422635712658#reversed-1",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_06550",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-cozy-japanese-miniature-bathroom",
+      "assetId": "goku-gpt-image-2-cozy-japanese-miniature-bathroom",
+      "model": "gpt-image-2",
+      "industry": "ecommerce-retail",
+      "category": "product-advertising",
+      "title": {
+        "en": "Cozy Japanese Miniature Bathroom"
+      },
+      "description": {
+        "en": "A production-ready image prompt for cozy japanese miniature bathroom, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Adorable cozy isometric 3D miniature {argument name=\"room type\" default=\"bathroom\"} diorama, {argument name=\"color palette\" default=\"warm terracotta and beige\"} color palette, Japanese-style tiny bathroom scene viewed from a {argument name=\"viewing angle\" default=\"45-degree corner angle\"}. Cream ceramic subway tiles with warm wooden trim, vintage clawfoot bathtub filled with blue bubbly foam and a wooden bath tray holding an open laptop, green mug, soap, and lit candles. Small potted plant, golden brass curved shower rod with beige curtain, round wooden mirror above a white porcelain sink with wooden vanity cabinet and brass faucet. Toilet with wooden seat, wooden stool with rolled white towels and stacked books, green wine bottle, tiny bonsai plant, wall-mounted gold sconces glowing warmly. Light blue fluffy towel on wall hook, wicker laundry hamper full of colorful towels, round plush purple bath mat, checkered beige-white floor tiles. Soft warm golden hour lighting, cozy ambient glow, tilt-shift miniature photography effect, dollhouse aesthetic, 8k hyperdetailed, soft bokeh, extremely intricate miniature textures, trending on Artstation.",
+      "tags": [
+        "miniature",
+        "3d-diorama",
+        "bathroom",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cozy-japanese-miniature-bathroom",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cozy-japanese-miniature-bathroom.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@iamaiistudio via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/iamaiistudio/status/2065451323416617413",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_09543",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-dreamy-calligraphy-art",
+      "assetId": "goku-gpt-image-2-dreamy-calligraphy-art",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Dreamy Calligraphy Art Design"
+      },
+      "description": {
+        "en": "A production-ready image prompt for dreamy calligraphy art design, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "مخطوطة بالخط الحر بتكوين طولي كل كلمة في سطر باتزان متكافئ وخلفها هايلايت مذهل، الكلمات تكون حولها ستروك مع حليات بشكل هندسي جميل، في الخلفية بنمط مينيمال جميل ثنائي الابعاد بطابع الليستريشن رايزوقراف مع فايبرانت كلرز بدرجات البنفسجي والبرتقال و الابيض مع تاثير فيلم قرين ورايزوغراف، الجملة \"{argument name=\"الجملة\" default=\"حاربوا_من_أجل_أحلامكم\"}\" والجو العام بتاثير {argument name=\"النمط\" default=\"جماليات حكايات الاطفال\"} مع حدة في المخرجات ووضوع عاليا وابراز للتفاصيل بشكل مبهر",
+      "tags": [
+        "calligraphy",
+        "illustration",
+        "design",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-dreamy-calligraphy-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/dreamy-calligraphy-art.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@mostafaabodee8 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/mostafaabodee8/status/2065528313842749572",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_06947",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-object-prompt-pack",
+      "assetId": "goku-gpt-image-2-minimalist-object-prompt-pack",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Minimalist Object Prompt Pack"
+      },
+      "description": {
+        "en": "A production-ready image prompt for minimalist object prompt pack, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Minimalist Object Prompt Pack – Clean, Professional & Versatile This prompt pack generates high-quality square images of everyday objects, fruits, stationery, or pets, all perfectly centered on a clean white background. Each image has sharp details, realistic lighting, and a subtle shadow projected to the right side, creating a professional studio photo look.",
+      "tags": [
+        "minimalist",
+        "prompt-pack",
+        "product-photography",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-minimalist-object-prompt-pack",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-object-prompt-pack.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Aiwithkami via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Aiwithkami/status/2060062348975718486",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_06406",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-lost-ocean-civilization",
+      "assetId": "goku-gpt-image-2-lost-ocean-civilization",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "title": {
+        "en": "Surreal Lost Ocean Civilization Cinematic"
+      },
+      "description": {
+        "en": "A production-ready image prompt for surreal lost ocean civilization cinematic, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A surreal underwater cinematic character board from a lost ocean civilization. Floating ruins, glowing coral structures, and deep blue light rays cutting through water. Characters shown in elegant aquatic suits, bio-luminescent ornaments, and flowing fabric reacting like liquid. Full-body turnarounds feel weightless and dreamlike. Close-ups show bubbles, water distortion on skin, glowing tribal markings, and emotional serenity. Ultra cinematic underwater photography realism.",
+      "tags": [
+        "underwater",
+        "cinematic",
+        "surreal",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-lost-ocean-civilization",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/lost-ocean-civilization.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Mind_Boticni via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Mind_Boticni/status/2058392259125751846",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_03293",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-alpine-lake-village",
+      "assetId": "goku-gpt-image-2-alpine-lake-village",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "title": {
+        "en": "Breathtaking Alpine Lake Village Landscape"
+      },
+      "description": {
+        "en": "A production-ready image prompt for breathtaking alpine lake village landscape, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A breathtaking, hyper-realistic landscape of an {argument name=\"setting\" default=\"alpine lake village\"}. In the foreground, a {argument name=\"foreground element\" default=\"wooden pier with 1 empty bench\"} extends into the crystal-clear blue water from the bottom left, framed by vibrant {argument name=\"flower color\" default=\"bright pink and red\"} flowers on the left and tall green reeds on the right. The calm lake perfectly reflects the scenery and features exactly 1 small red rowboat floating on the left and 1 white sailboat on the right. On the right shoreline, a picturesque European village with 1 prominent pointed church spire and traditional houses is nestled at the base of lush green hills. Towering {argument name=\"mountain type\" default=\"snow-capped jagged peaks\"} dominate the background under a {argument name=\"weather\" default=\"bright sunny day with fluffy white clouds\"}. The lighting is vibrant, idyllic, and highly detailed.",
+      "tags": [
+        "alpine",
+        "landscape",
+        "village",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-alpine-lake-village",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/alpine-lake-village.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AINetworkTech via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AINetworkTech/status/2045186369920897037#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07332",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-baba-yaga-chicken-leg-hut",
+      "assetId": "goku-gpt-image-2-baba-yaga-chicken-leg-hut",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Baba Yaga Chicken Leg Hut Asset"
+      },
+      "description": {
+        "en": "A production-ready image prompt for baba yaga chicken leg hut asset, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a high-quality stylized 3D game asset of {argument name=\"subject\" default=\"a Baba Yaga chicken-leg hut\"}, centered on a transparent checkerboard background. The hut is an isometric three-quarter view facing slightly left, built from warm brown rounded log walls with visible circular log ends, a small arched wooden door on the front-right with a metal ring handle, and a small front window glowing orange from inside with open plank shutters. Add a short wooden ladder with three steps leading to the entrance. The roof is steep and whimsical, made of dark weathered wooden planks with green moss patches, curved golden-brown carved trim, an ornate peaked gable, and a chunky stone chimney near the back-right. The house stands on exactly two large bird-like legs with tan scaly texture, each ending in three forward toes and one rear toe with dark claws. Include small hanging charms on the right wall, including beads, bones, and a tiny skull. Use a polished fantasy miniature style, rounded shapes, hand-painted textures, soft ambient occlusion, subtle shadows, warm lighting, crisp edges, and no text.",
+      "tags": [
+        "fantasy",
+        "3d-asset",
+        "game-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-baba-yaga-chicken-leg-hut",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/baba-yaga-chicken-leg-hut.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Livid via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Livid/status/2050727422635712658#reversed-2",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_06549",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-red-cliff-ink-wash",
+      "assetId": "goku-gpt-image-2-red-cliff-ink-wash",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Red Cliff Ink Wash Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for red cliff ink wash art, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A photograph of a piece of aged, slightly textured paper featuring traditional Chinese calligraphy and an ink wash painting. The upper and left portions of the paper are filled with handwritten Chinese text in elegant running script, with the centered title \"{argument name=\"title text\" default=\"赤壁赋\"}\" and the author \"{argument name=\"author name\" default=\"苏轼\"}\" written next to it. The text flows across multiple lines, resembling a classical poem. Integrated into the bottom right section of the paper is a traditional Chinese ink wash painting depicting {argument name=\"painting subject\" default=\"a serene nighttime river scene with craggy, misty mountains\"}. A single pale full moon hangs in the sky, casting a shimmering reflection on the rippling water below. In the foreground, there is {argument name=\"boat details\" default=\"a small wooden boat with a woven canopy carrying 2 figures in traditional robes\"}. A single square red seal stamp is stamped in the extreme bottom right corner. The image has a warm, historical aesthetic, capturing the authentic look of ink on traditional rice paper.",
+      "tags": [
+        "calligraphy",
+        "ink-painting",
+        "su-shi",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-red-cliff-ink-wash",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/red-cliff-ink-wash.jpg",
+        "ratio": "73:80",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@GuangzhouY81070 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/GuangzhouY81070/status/2045093498798686335#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_09179",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-matte-black-ceramic-cup",
+      "assetId": "goku-gpt-image-2-matte-black-ceramic-cup",
+      "model": "gpt-image-2",
+      "industry": "ecommerce-retail",
+      "category": "product-advertising",
+      "title": {
+        "en": "Matte Black Ceramic Cup Product Photo"
+      },
+      "description": {
+        "en": "A production-ready image prompt for matte black ceramic cup product photo, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "{argument name=\"Subject\" default=\"Matte Black Ceramic Cup\"}, {argument name=\"Composition\" default=\"3/4 Overlook\"}, Left soft light band outline, {argument name=\"Ambience\" default=\"Minimalist White Background Cool Tone\"}, professional product photography style",
+      "tags": [
+        "ceramic-cup",
+        "product-photography",
+        "minimalist",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-matte-black-ceramic-cup",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/matte-black-ceramic-cup.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@gaoren7716 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/gaoren7716/status/2071873877949534595",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_09359",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-fresh-fruit-splash",
+      "assetId": "goku-gpt-image-2-fresh-fruit-splash",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "commercial",
+      "title": {
+        "en": "Fresh Fruit Splash High Speed Capture"
+      },
+      "description": {
+        "en": "A production-ready image prompt for fresh fruit splash high speed capture, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A fresh {argument name=\"food item\" default=\"fruit/food item\"} dropping onto a surface, creating a subtle splash or bounce effect, particles and juice droplets suspended mid-air, vibrant color contrast, studio lighting, high-speed capture, crisp focus, minimal background.",
+      "tags": [
+        "fruit",
+        "splash",
+        "highspeed",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-fresh-fruit-splash",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/fresh-fruit-splash.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@SPEEDAI07 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/SPEEDAI07/status/2053340950513254750",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_08559",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-whale-shark-deep-blue-encounter",
+      "assetId": "goku-gpt-image-2-whale-shark-deep-blue-encounter",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Whale Shark Deep Blue Encounter"
+      },
+      "description": {
+        "en": "A production-ready image prompt for whale shark deep blue encounter, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a realistic wide-angle underwater wildlife photograph of a {argument name=\"main animal\" default=\"whale shark\"} swimming diagonally through deep blue ocean water, viewed from slightly above and in front so its broad spotted head dominates the lower-left foreground and its tapering body and tail recede toward the lower-right. The whale shark should have accurate white polka-dot and stripe markings across gray-blue skin, visible gill slits, pectoral fins, dorsal fins, and a graceful slow-swimming posture. A single scuba diver silhouette with fins and tank appears far above the shark near the upper center, small for scale. A warm golden sunbeam cuts diagonally from the upper-right toward the lower-left, illuminating suspended particles, bubbles, and plankton in the water. Use natural light, deep turquoise-to-navy color grading, soft underwater haze, realistic caustic glow, cinematic depth, subtle motion blur in drifting particles, and an immersive documentary feel. No text, no borders, no artificial aquarium setting.",
+      "tags": [
+        "whale-shark",
+        "underwater-photography",
+        "ocean-documentary",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-whale-shark-deep-blue-encounter",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/whale-shark-deep-blue-encounter.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AskVenice via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AskVenice/status/2052891378040877469#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_06711",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-negative-space-animal-art",
+      "assetId": "goku-gpt-image-2-negative-space-animal-art",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Negative Space Animal Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for negative space animal art, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "[Theme and Animals] cleverly illustrated negative space, hidden forms revealed through blank spaces, exquisite visual design, minimalist execution, high-end signature artistic aesthetics, white background",
+      "tags": [
+        "negative-space",
+        "minimalist",
+        "logo-design",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-negative-space-animal-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/negative-space-animal-art.jpg",
+        "ratio": "16:9",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@aleenaamiir via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/aleenaamiir/status/2067973958973133064",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12259",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-bichon-shop-squircle-icon",
+      "assetId": "goku-gpt-image-2-bichon-shop-squircle-icon",
+      "model": "gpt-image-2",
+      "industry": "ecommerce-retail",
+      "category": "product-advertising",
+      "title": {
+        "en": "Bichon Shop Squircle Icon"
+      },
+      "description": {
+        "en": "A production-ready image prompt for bichon shop squircle icon, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS App Store style. Only one icon.",
+      "tags": [
+        "app-icon",
+        "skeuomorphic",
+        "squircle",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-bichon-shop-squircle-icon",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/bichon-shop-squircle-icon.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@iamaiistudio via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/iamaiistudio/status/2071923809788285125",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_15649",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-clay-3d-render",
+      "assetId": "goku-gpt-image-2-minimalist-clay-3d-render",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Minimalist Clay 3D Render"
+      },
+      "description": {
+        "en": "A production-ready image prompt for minimalist clay 3d render, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A minimalist 3D render of a {argument name=\"subject\" default=\"[SUBJECT]\"}, featuring a soft, smooth clay-like texture, centered and subtly floating. Set against a solid pastel {argument name=\"background color\" default=\"[COLOR]\"} background. Illuminated with soft, diffused studio lighting to enhance clean lines and simple forms. The composition emphasizes a modern, uncluttered aesthetic with a cheerful, approachable tone. High resolution, square format (1:1 aspect ratio)",
+      "tags": [
+        "3d-render",
+        "clay-style",
+        "minimalist",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-minimalist-clay-3d-render",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-clay-3d-render.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Ciri_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Ciri_ai/status/2048388516665852371",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_03771",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-iced-coffee-trendy-ad",
+      "assetId": "goku-gpt-image-2-iced-coffee-trendy-ad",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "commercial",
+      "title": {
+        "en": "Iced Coffee Trendy Ad"
+      },
+      "description": {
+        "en": "A production-ready image prompt for iced coffee trendy ad, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create an ad for {argument name=\"product\" default=\"iced coffee\"}. A stylish and modern design of {argument name=\"country\" default=\"Japan\"}. The Latin font is dynamically laid out. {argument name=\"target\" default=\"10s~30s\"}. Aspect ratio 1:1.",
+      "tags": [
+        "iced-coffee",
+        "modern-design",
+        "youth-market",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-iced-coffee-trendy-ad",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/iced-coffee-trendy-ad.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@kawai_design via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/kawai_design/status/2046727724455354395",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_00434",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-harbor-isometric-cross-section",
+      "assetId": "goku-gpt-image-2-harbor-isometric-cross-section",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "title": {
+        "en": "Harbor Isometric Cross Section Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for harbor isometric cross section art, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Isometric 3D cross-section of {argument name=\"district\" default=\"HARBOR\"} district. Above: cranes/dockside market/fishing boats. Below-water: fish/anchor/barnacle pilings/bedrock. Navy+ochre+rust palette, crisp outlines, tiny humans. 1:1.",
+      "tags": [
+        "harbor",
+        "isometric",
+        "illustration",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-harbor-isometric-cross-section",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/harbor-isometric-cross-section.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@crayon1267 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/crayon1267/status/2055094374393168089",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_08135",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-nature-body-fusion-art",
+      "assetId": "goku-gpt-image-2-nature-body-fusion-art",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Nature Body Fusion Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for nature body fusion art, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "[Main Body] Seamlessly blends with elegant plant leaves, vines, and flowers, featuring exquisite structural illustrations, contemporary masterpieces inspired by nature, pure white backgrounds, breathable negative spaces, and refined minimalism",
+      "tags": [
+        "botanical-art",
+        "minimalism",
+        "organic-design",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-nature-body-fusion-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/nature-body-fusion-art.jpg",
+        "ratio": "16:9",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@aleenaamiir via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/aleenaamiir/status/2071080298175934808",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14514",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-medieval-knight-helmet-woodcut",
+      "assetId": "goku-gpt-image-2-medieval-knight-helmet-woodcut",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Medieval Knight Helmet Woodcut"
+      },
+      "description": {
+        "en": "A production-ready image prompt for medieval knight helmet woodcut, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A centered black-and-white vintage ink illustration of a medieval knight’s helmet and upper neck guard, shown as a bust on a plain light gray background with lots of negative space. The helmet is angled slightly to the left in three-quarter view, with a rounded domed top, a narrow horizontal visor slit, and a faceplate featuring 6 vertical ventilation slits. Include a riveted gorget with visible metal studs and a draped cloth or cape falling over the right shoulder. Render it in an engraved woodcut or etching style with bold black outlines, dense stippling, scratchy crosshatching, and high contrast shading, like an old heraldic emblem or antique book illustration. Clean isolated composition, no text, no border, no additional objects.",
+      "tags": [
+        "knight-helmet",
+        "vintage-woodcut",
+        "heraldic-illustration",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-medieval-knight-helmet-woodcut",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/medieval-knight-helmet-woodcut.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ethanhaveron via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ethanhaveron/status/2046975968355512829#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_04203",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-vintage-sewing-oil-painting",
+      "assetId": "goku-gpt-image-2-vintage-sewing-oil-painting",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Vintage Sewing Oil Painting Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for vintage sewing oil painting art, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Old master style realistic oil artwork, delicate lady with {argument name=\"hair color\" default=\"wavy brown hair\"}, soft downcast eyes as she sews fabric, {argument name=\"machine style\" default=\"retro teal ornate metal sewing machine\"} with brass details on worn wooden cabinet, {argument name=\"table details\" default=\"multiple beige thread rolls\"} spread across the wooden table, aged distressed painterly canvas texture, muted antique sage and sepia color palette, soft gentle ambient light, subtle crackle paint texture, peaceful vintage craft atmosphere.",
+      "tags": [
+        "oil-painting",
+        "vintage-sewing",
+        "classical-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-vintage-sewing-oil-painting",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vintage-sewing-oil-painting.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Naiknelofar788 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Naiknelofar788/status/2076890504294531302",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_21420",
+        "captured_at": "2026-10-15"
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-blind-pressed-paper-minimalism",
+      "assetId": "goku-gpt-image-2-blind-pressed-paper-minimalism",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "illustration",
+      "title": {
+        "en": "Blind Pressed Paper Minimalism"
+      },
+      "description": {
+        "en": "A production-ready image prompt for blind pressed paper minimalism, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "[SUBJECT] Presented as a blindly pressed paper artwork, with only subtle raised textures, no ink, monochrome white-to-white composition, elegant shadows, luxurious stationery aesthetics, and museum-level minimalism.",
+      "tags": [
+        "blind-embossing",
+        "minimalism",
+        "paper-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-blind-pressed-paper-minimalism",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/blind-pressed-paper-minimalism.jpg",
+        "ratio": "16:9",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@aleenaamiir via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/aleenaamiir/status/2070865322698031173",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12013",
+        "captured_at": "2026-10-15"
       },
       "status": "published"
     }

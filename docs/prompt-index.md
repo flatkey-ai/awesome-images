@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **196**
-Demo assets: **204**
+Published templates: **221**
+Demo assets: **229**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -651,6 +651,88 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 
 - [Chubby Spherical Animal Cute](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 
+## 电商与零售
+
+- [Crumple Chair Design Breakdown](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 媒体与娱乐
+
+- [Cyberpunk Noir Waterfront Market](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Crimson Dragon Storm Lighthouse](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Playful Animal Sketch](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Impossible City Knot Sculpture](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 电商与零售
+
+- [Chibi Witch Owl Figurine](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Cozy Japanese Miniature Bathroom](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 创作者与社交
+
+- [Dreamy Calligraphy Art Design](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 媒体与娱乐
+
+- [Minimalist Object Prompt Pack](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Surreal Lost Ocean Civilization Cinematic](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Breathtaking Alpine Lake Village Landscape](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 媒体与娱乐
+
+- [Baba Yaga Chicken Leg Hut Asset](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Red Cliff Ink Wash Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 电商与零售
+
+- [Matte Black Ceramic Cup Product Photo](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 食品与饮料
+
+- [Fresh Fruit Splash High Speed Capture](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 媒体与娱乐
+
+- [Whale Shark Deep Blue Encounter](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Negative Space Animal Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 电商与零售
+
+- [Bichon Shop Squircle Icon](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 创作者与社交
+
+- [Minimalist Clay 3D Render](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 食品与饮料
+
+- [Iced Coffee Trendy Ad](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 旅游与酒店
+
+- [Harbor Isometric Cross Section Art](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 媒体与娱乐
+
+- [Nature Body Fusion Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Medieval Knight Helmet Woodcut](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Vintage Sewing Oil Painting Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Blind Pressed Paper Minimalism](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -859,3 +941,28 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Pug Sprinting Through Alpine Trail](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pug-alpine-trail-run.jpg) — 媒体与娱乐
 - [Parisian Sangria Summer Bliss](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/parisian-sangria-summer.jpg) — 食品与饮料
 - [Chubby Spherical Animal Cute](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/chubby-spherical-animal.jpg) — 媒体与娱乐
+- [Crumple Chair Design Breakdown](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/crumple-chair-design.jpg) — 电商与零售
+- [Cyberpunk Noir Waterfront Market](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cyberpunk-noir-waterfront-market.jpg) — 媒体与娱乐
+- [Crimson Dragon Storm Lighthouse](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/crimson-dragon-storm-lighthouse.jpg) — 媒体与娱乐
+- [Playful Animal Sketch](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/playful-animal-sketch.jpg) — 创作者与社交
+- [Impossible City Knot Sculpture](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/impossible-city-knot-sculpture.jpg) — 旅游与酒店
+- [Chibi Witch Owl Figurine](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/chibi-witch-owl-figurine.jpg) — 电商与零售
+- [Cozy Japanese Miniature Bathroom](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cozy-japanese-miniature-bathroom.jpg) — 电商与零售
+- [Dreamy Calligraphy Art Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/dreamy-calligraphy-art.jpg) — 创作者与社交
+- [Minimalist Object Prompt Pack](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-object-prompt-pack.jpg) — 媒体与娱乐
+- [Surreal Lost Ocean Civilization Cinematic](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/lost-ocean-civilization.jpg) — 旅游与酒店
+- [Breathtaking Alpine Lake Village Landscape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/alpine-lake-village.jpg) — 旅游与酒店
+- [Baba Yaga Chicken Leg Hut Asset](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/baba-yaga-chicken-leg-hut.jpg) — 媒体与娱乐
+- [Red Cliff Ink Wash Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/red-cliff-ink-wash.jpg) — 媒体与娱乐
+- [Matte Black Ceramic Cup Product Photo](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/matte-black-ceramic-cup.jpg) — 电商与零售
+- [Fresh Fruit Splash High Speed Capture](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/fresh-fruit-splash.jpg) — 食品与饮料
+- [Whale Shark Deep Blue Encounter](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/whale-shark-deep-blue-encounter.jpg) — 媒体与娱乐
+- [Negative Space Animal Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/negative-space-animal-art.jpg) — 创作者与社交
+- [Bichon Shop Squircle Icon](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/bichon-shop-squircle-icon.jpg) — 电商与零售
+- [Minimalist Clay 3D Render](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-clay-3d-render.jpg) — 创作者与社交
+- [Iced Coffee Trendy Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/iced-coffee-trendy-ad.jpg) — 食品与饮料
+- [Harbor Isometric Cross Section Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/harbor-isometric-cross-section.jpg) — 旅游与酒店
+- [Nature Body Fusion Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/nature-body-fusion-art.jpg) — 媒体与娱乐
+- [Medieval Knight Helmet Woodcut](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/medieval-knight-helmet-woodcut.jpg) — 创作者与社交
+- [Vintage Sewing Oil Painting Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vintage-sewing-oil-painting.jpg) — 创作者与社交
+- [Blind Pressed Paper Minimalism](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/blind-pressed-paper-minimalism.jpg) — 创作者与社交
