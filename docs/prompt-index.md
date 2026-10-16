@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **221**
-Demo assets: **229**
+Published templates: **246**
+Demo assets: **254**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -733,6 +733,43 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Vintage Sewing Oil Painting Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 - [Blind Pressed Paper Minimalism](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 
+## 媒体与娱乐
+
+- [Crimson & Jade Fashion Editorial](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Luxury Korean Fashion Editorial Series](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Ethereal Gaze in Teal Fields](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Orange Studio Streetwear Portrait Series](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Korean Editorial Fashion Grid](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Stargazer Romantic Couple Poster Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Porcelain Beauty in Orange Glow](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Pakistan Pastel Paper Collage Landscape](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 创作者与社交
+
+- [Peach Glow Oil Painting Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 媒体与娱乐
+
+- [Sunlit Lover's Backward Glance](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Albino Python Fashion Editorial Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Nine Portrait Poses for Sky Selfies](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Queen of the Seas Premiere](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Mothers Day Flower Gift Promo](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Sunset Rooftop Basketball Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Desert Sapphire Blue Fashion Editorial](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Four-Panel Commercial Ad Puzzle](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Night Goblin Berserker Rampage](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Rainy Tokyo Night Melancholy](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Iron Receptionist's Professional Grace](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Dragon Gate Swordsman's Deadly Sandstorm](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Surreal Teddy Bear Mona Lisa Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Wet Hair Beach Temptation](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Blue Studio Streetwear Fashion Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Midnight Invasion Escape](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -966,3 +1003,28 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Medieval Knight Helmet Woodcut](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/medieval-knight-helmet-woodcut.jpg) — 创作者与社交
 - [Vintage Sewing Oil Painting Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vintage-sewing-oil-painting.jpg) — 创作者与社交
 - [Blind Pressed Paper Minimalism](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/blind-pressed-paper-minimalism.jpg) — 创作者与社交
+- [Crimson & Jade Fashion Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/crimson-jade-fashion-editorial.jpg) — 媒体与娱乐
+- [Luxury Korean Fashion Editorial Series](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/korean-fashion-editorial-series.jpg) — 媒体与娱乐
+- [Ethereal Gaze in Teal Fields](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/ethereal-gaze-teal-fields.jpg) — 媒体与娱乐
+- [Orange Studio Streetwear Portrait Series](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/orange-studio-streetwear-portrait.jpg) — 媒体与娱乐
+- [Korean Editorial Fashion Grid](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/korean-editorial-fashion-grid.jpg) — 媒体与娱乐
+- [Stargazer Romantic Couple Poster Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/stargazer-romantic-couple-poster.jpg) — 媒体与娱乐
+- [Porcelain Beauty in Orange Glow](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/porcelain-beauty-orange-glow.jpg) — 媒体与娱乐
+- [Pakistan Pastel Paper Collage Landscape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pakistan-pastel-paper-collage.jpg) — 旅游与酒店
+- [Peach Glow Oil Painting Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/peach-glow-oil-painting-portrait.jpg) — 创作者与社交
+- [Sunlit Lover's Backward Glance](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/sunlit-lovers-backward-glance.jpg) — 媒体与娱乐
+- [Albino Python Fashion Editorial Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/albino-python-fashion-editorial.jpg) — 媒体与娱乐
+- [Nine Portrait Poses for Sky Selfies](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/nine-portrait-poses-sky-backdrop.jpg) — 媒体与娱乐
+- [Queen of the Seas Premiere](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/queen-of-the-seas-premiere.jpg) — 媒体与娱乐
+- [Mothers Day Flower Gift Promo](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/mothers-day-flower-gift.jpg) — 媒体与娱乐
+- [Sunset Rooftop Basketball Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/sunset-rooftop-basketball-portrait.jpg) — 媒体与娱乐
+- [Desert Sapphire Blue Fashion Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/desert-sapphire-fashion-editorial.jpg) — 媒体与娱乐
+- [Four-Panel Commercial Ad Puzzle](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/four-panel-commercial-ad.jpg) — 媒体与娱乐
+- [Night Goblin Berserker Rampage](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/night-goblin-berserker.jpg) — 媒体与娱乐
+- [Rainy Tokyo Night Melancholy](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/rainy-tokyo-night-melancholy.jpg) — 媒体与娱乐
+- [Iron Receptionist's Professional Grace](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/iron-receptionist-fantasy-cover.jpg) — 媒体与娱乐
+- [Dragon Gate Swordsman's Deadly Sandstorm](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/dragon-gate-swordsman-sandstorm.jpg) — 媒体与娱乐
+- [Surreal Teddy Bear Mona Lisa Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/teddy-bear-mona-lisa.jpg) — 媒体与娱乐
+- [Wet Hair Beach Temptation](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/wet-hair-beach-temptation.jpg) — 媒体与娱乐
+- [Blue Studio Streetwear Fashion Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/blue-studio-streetwear-portrait.jpg) — 媒体与娱乐
+- [Midnight Invasion Escape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/midnight-invasion-escape.jpg) — 媒体与娱乐
