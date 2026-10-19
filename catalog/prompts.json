@@ -9380,6 +9380,956 @@
       },
       "status": "published",
       "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-crystal-prism-fashion-chronicle",
+      "assetId": "goku-gpt-image-2-crystal-prism-fashion-chronicle",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Crystal Prism Fashion Chronicle"
+      },
+      "description": {
+        "en": "A production-ready image prompt for crystal prism fashion chronicle, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A luxury fashion blockbuster, where a giant crystal prism acts as a visual time capsule for modern global fashion. Inside the prism appeared the iconic heroic portrait of the international fashion muse. Around it, dozens of floating Polaroid snapshots capture fashion moments from around the world, blending luxury street style, high-end fashion editorials, runway energy, and coveted lifestyle imagery. The composition evokes the feeling of personal fashion diaries collected in Paris, Milan, New York, London, Berlin, Amsterdam, and Copenhagen. Crystal refraction scatters vibrant light within the scene, while Polaroid snapshots create a sense of movement, emotion, and narrative depth. VOGUE cover quality, luxury advertising masterpieces, contemporary European fashion aesthetics, cinematic lighting effects, sophisticated color harmony, refined luxury atmosphere, global fashion culture, surrealist editorial photography, highly visually appealing compositions, and award-winning campaign design.",
+      "tags": [
+        "luxury-fashion",
+        "global-style",
+        "visual-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-crystal-prism-fashion-chronicle",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/crystal-prism-fashion-chronicle.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Mind_Boticni via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Mind_Boticni/status/2069998105492398261",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13418",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-six-camera-angles-fashion",
+      "assetId": "goku-gpt-image-2-six-camera-angles-fashion",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Six Camera Angles Fashion Shoot"
+      },
+      "description": {
+        "en": "A production-ready image prompt for six camera angles fashion shoot, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Ultra-realistic stylish edited composite images with 6-panel grid layout (3 rows, 2 columns), each panel clearly labeled with minimalist and clean layout: \"EYE LEVEL,\" \"LOW ANGLE,\" \"HIGH ANGLE,\" \"DUTCH ANGLE,\" \"BIRD'S EYE VIEW,\" \"WORM'S EYE VIEW.\"\n\nAll panels feature the same professional female model, matching facial identity, sharp jawline, natural makeup, slightly wavy dark hair, androgynous expression.\n\nClothing: Minimalist beige sports underwear paired with high-waisted leggings, a clean luxurious sporty casual fashion style.\n\nThe studio setup features a soft beige seamless background, high-end stylish photography lighting, soft shadows, and a minimalist and clean aesthetic.\n\nEach panel displays a different camera angle:\n\nEye Level: Positively balanced portrait\nLow Angle: The camera looks up from below, giving a strong sense of presence\nHigh Angle: The camera looks down from above\nDutch Angle: Tilted image, dynamic diagonal composition\nBird's Eye View: A top-down view, with the model looking up\nWorm's Eye View: Extremely low ground perspective, dramatic upward shots\n\nCinematic fashion magazine quality, ultra-realistic skin textures, 8K detail, sharp focusing, symmetrical grid alignment, premium editing layout, clean edges between panels, and a modern luxury look.",
+      "tags": [
+        "fashion-photography",
+        "camera-angles",
+        "editorial",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-six-camera-angles-fashion",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/six-camera-angles-fashion.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Mind_Boticni via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Mind_Boticni/status/2064180049486766359",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14841",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-cinematic-bw-film-portrait",
+      "assetId": "goku-gpt-image-2-cinematic-bw-film-portrait",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Cinematic B&W Film Portrait"
+      },
+      "description": {
+        "en": "A production-ready image prompt for cinematic b&w film portrait, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a vertical 4:5 black-and-white film portrait.\n\n[Main Participants]\nAdult young women, [describing race / facial features / hairstyle / mood], wearing [black turtleneck sweater / black wool coat / black trench coat / minimalist dark outfit].\n\n[The Second Character]\nAn adult young man, [blurred profile in the foreground / blurred outline in the background / reflection of a person / a nearby figure with blurred movement], wearing dark clothing. He should exist as an emotional entity, not as a clear second main subject.\n\n[Scene]\n[Windy seaside / Foggy wasteland / Empty coastal road / Rooftop in strong winds / Rainy night streets filtering through glass] Minimalist background, low contrast grayscale, thin mist, wind, cinematic graininess, and emotional tension.\n\nVery important: use layered focus, not global blur.\n\nThe center of a woman's face must remain relatively clear and discernible, especially the eyes, bridge of the nose, lips, and the centerline of the face.\n\nMotion blur should only appear in hair, hair ends, coat edges, shoulders, moving contours, and background lines.\n\nThe second character must be severely out of focus, blurred, or rendered as a silhouette.\n\nMist, haze, rain, and soft sensing affect foreground, background, and edges, but should not overshadow women's emotional expressions.\n\nStyle:\nBlack-and-white cinematography, old film scans texture, visible grain, low contrast grayscale, soft highlights, deep but detailed shadows, hair blown by the wind, slow shutter motion blur, shallow depth of field, imperfect composition, artistic film atmosphere, emotional distance, unresolved relationship tension.\n\nAvoid:\nGlobal soft focus, overly sharp commercial fashion photography, clean studio lighting, smooth advertising appearance, sweet couple photos, overly staged model expressions, plastic-like skin, AI beauty faces, colorful elements, text, logos.",
+      "tags": [
+        "blackandwhite",
+        "cinematic",
+        "portrait",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cinematic-bw-film-portrait",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cinematic-bw-film-portrait.jpg",
+        "ratio": "819:1024",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@MrLarus via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/MrLarus/status/2065064092252188947",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12141",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-sunset-beach-portrait-grid",
+      "assetId": "goku-gpt-image-2-sunset-beach-portrait-grid",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Sunset Beach Romantic Portrait Grid"
+      },
+      "description": {
+        "en": "A production-ready image prompt for sunset beach romantic portrait grid, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Sunset Beach portrait grid — 4×4 vertical layout\nCinematic editorial portrait series, blues moment beach setting. Soft peach to lavender skies, calm reflective seas, gentle waves along the shore. A romantic and luxurious vacation atmosphere, with all 16 frames of the frame unified in color tone.\nMain subject: Young East Asian woman with porcelain-white skin with a warm golden undertone, almond-shaped eyes, soft oval face, glossy pink lips, and a natural dewy makeup look. Her long wavy black hair drifted in the sea breeze.\nOutfit: Ivory lace evening gown, floral embroidery, ruffled skirt, sleeveless cut, subtle waist details. The lightweight fabric moves with the wind. Pearl earrings, minimalist gold necklace.\nPhotography: Equivalent 85mm, shallow depth of field, ambient sunset + soft fill light, smooth skin rendering, delicate cinematic grain, warm-toned highlights/cool-toned shadow balance.\nGrid posture (from left to right, top to bottom):\nClose-up with chin rested, dreamy gaze\nHands on head, bust, ocean horizon\nTwo-thirds of the side glanced back from behind, lifting her skirt\nHer whole body leaned sideways along the shore, wearing a flowing skirt\nShyly covering her mouth and smiling, snapping a photo\nBeautiful shots of hair flowing over the shoulder\nTouch your lips with your fingers beside the shallow waves\nProfile, hands on head, sunset silhouette light\nThe waterfront facing the side gives an elegant posture\nOpen your arms, tilt your head up to the sky, and be happy\nClose-up of sitting posture, warm smiles, and gentle eye contact\nWalking along the shore with complete carefree care\nWalking toward the camera, her skirt trailing on the floor\nBack view, over-the-shoulder glances, details of the backless dress\nCross your arms, turn to your side, and quietly express your emotions\nLooking up, a breeze in her hair, cinematic jawline shadows\nEnvironment: Tropical beach evening, moist sand reflections, distant island silhouettes, coastal mist, clean and minimalist background.",
+      "tags": [
+        "beach-portrait",
+        "cinematic-photography",
+        "golden-hour",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-sunset-beach-portrait-grid",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/sunset-beach-portrait-grid.jpg",
+        "ratio": "767:1024",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@doctorwasif via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/doctorwasif/status/2058185779751555573",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14544",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-haute-couture-petal-collage-portrait",
+      "assetId": "goku-gpt-image-2-haute-couture-petal-collage-portrait",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Haute Couture Petal Collage Portrait"
+      },
+      "description": {
+        "en": "A production-ready image prompt for haute couture petal collage portrait, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Hyper-realistic IMAX-level luxury fashion magazine collage portraits, square 1:1 composition, structured as an elegant multi-frame petal-shaped layout, with soft petal-shaped and oval cut-out panels, radiating outward from the central circular beauty portrait—all frames depict the same beautiful young woman, dressed in different haute couture outfits, with consistent facial features: expressive almond-shaped eyes, sculpted eyebrows, soft, full lips, smooth back-combed updo, translucent and delicate skin, and a calm, confident magazine expression\nCenter frame: intimate glamorous close-ups, exquisite high-jewelry earrings, flawless, soft, alluring makeup, direct camera looks, cinematic studio lighting with soft facial highlights\nEach surrounding frame showcases different haute couture silhouettes and poses—all designed in rich dark tones: obsidian black, charcoal gray, midnight blue, deep espresso, deep burgundy red, deep emerald—presented as sculptural strapless gowns, dramatic single-shoulder silhouettes, sheer heavy-duty decorative evening gowns, flowing drooping column gowns, custom structured sleeve jumpsuits, ruffled haute couture ball gowns—each garment displays different textured details: silk satin, duchess satin, organza overlay, hand-beaded mesh, velvet, metallic jacquard\nCross-frame poses: magazine-style sitting and leaning, standing two-thirds sideways, glances back, flowing dynamic poses, and stylish close-up cuts—all panels converge on a unified styling language, unified through smooth hairstyles and consistent beauty looks\nBackground: Soft and warm beige cream with luxurious artistic paper texture, layered three-dimensional petal and leaf shapes, subtle projections between frames, clean white negative space, and delicate magazine grid structure\nLighting: Soft surround cinema studio halo, gentle mirrored highlights, feathered contour light, deep shadow contrast on dark clothing, HDR balanced exposure\nTone: Creamy neutral background tones contrast sharply with deep, saturated haute couture colors, bright warm tones highlight skin, high-end magazine color temperatures, and cinematic shadow depth\nRendering quality: 8K ultra-realistic production, ultra-fine fabric texture details, master-level magazine composition, global illumination, top-tier fashion portrait optics, HDR rendering",
+      "tags": [
+        "fashion-magazine",
+        "haute-couture",
+        "collage-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-haute-couture-petal-collage-portrait",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/haute-couture-petal-collage-portrait.jpg",
+        "ratio": "256:381",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@HaniaAi12 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/HaniaAi12/status/2070820163814150433",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14732",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-butterfly-fantasy-wet-hair-portrait",
+      "assetId": "goku-gpt-image-2-butterfly-fantasy-wet-hair-portrait",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Butterfly Fantasy Wet Hair Portrait"
+      },
+      "description": {
+        "en": "A production-ready image prompt for butterfly fantasy wet hair portrait, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A light, dreamy, and fantastical portrait of a young woman with long, wet reddish-brown hair, loosely wavy in wet waves, adorned with delicate translucent blue butterfly hair ornaments and hanging crystal beads. She has porcelain-like skin that radiates a soft, hydrated glow, rosy cheeks, rosy lips, and her eyes a dreamy light gray-blue with subtle shimmering makeup. She wore a sparkling deep sapphire strapless gown with a fine glitter texture, elegantly draped to the floor. Multiple long strands of white pearls hang luxuriously around her neck and waist in a luxurious layered fashion. The woman sits gracefully on a reflective, moist surface, supporting her body with one hand and a soft reflection visible below. The background is dark, foggy, and atmospheric, with cool blue cinematic lighting, soft mist, and a magical underwater inspirational atmosphere. Hyper-realistic editorial fantasy cinematography, dramatic melancholic lighting, soft focus depth, cinematic blues color grading, luxurious fashion styling, elegant wet hair aesthetic, richly detailed skin textures, reflective flooring, and dreamlike composition.",
+      "tags": [
+        "fantasy-portrait",
+        "wet-hair-aesthetic",
+        "cinematic-blue",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-butterfly-fantasy-wet-hair-portrait",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/butterfly-fantasy-wet-hair-portrait.jpg",
+        "ratio": "143:256",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@mizq06 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/mizq06/status/2053872679988641817",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12636",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-rainy-phone-booth-portrait",
+      "assetId": "goku-gpt-image-2-rainy-phone-booth-portrait",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Rainy Night Phone Booth Portrait"
+      },
+      "description": {
+        "en": "A production-ready image prompt for rainy night phone booth portrait, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Late Heisei Japanese private portrait style, American woman, Fujifilm transparency atmosphere, damp and melancholic medium shots, a phone booth scene in the rain late at night, warm yellow tungsten lamps mixed with street neon lights, a slightly tipsy vibe, wet hair sticking to the face, messy strands hanging down partially covering the eyes, the wet texture of skin after rain, delicate water droplets on the face, shoulders, and collarbone, strong mirrored highlights at the collarbone, cinematic light and shadow. She stands in a classic Japanese public phone booth, holding a black telephone receiver close to her ear, gently leaning against the phone, leaning slightly toward the camera, head down, but eyes looking upward at the audience, with a hazy, tired, yet captivating gaze. Lips slightly parted, subtle heavy breathing expression, natural makeup with a fake bare face, glossy, moist lips, soft brown eyeshadow, cool fair skin reflecting warm ambient light, a high-end nightclub blending Japanese private photo shoot vibes. The background glass is covered with raindrops and colorful neon reflections, creating a documentary feel for candid shots, capturing authentic moments, with a 35mm close-up wide-angle lens, shallow depth of field, film grain, high ISO noise, slight softening blur, realistic ambient lighting, and imperfect composition. A deep electric red slip dress, a black leather jacket half-sliding down the shoulders. The main body occupies most of the frame, with naturally extended lines of the chest and shoulders, and the body's curves creating a strong perspective compression on the lens. Warm brown tones in the shadows create a translucent, delicate skin tone, avoiding a plastic-looking look. Japanese photographic aesthetics, a lazy and alluring atmosphere, hyper-realistic photography, cinematic lighting effects, AR 3:4",
+      "tags": [
+        "japaneseportrait",
+        "rainynight",
+        "filmgrain",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-rainy-phone-booth-portrait",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/rainy-phone-booth-portrait.jpg",
+        "ratio": "1143:2048",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@KeorUnreal via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/KeorUnreal/status/2060454308991451337",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13303",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-vitamin-c-glow-serum-luxury-ad",
+      "assetId": "goku-gpt-image-2-vitamin-c-glow-serum-luxury-ad",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Vitamin C Glow Serum Luxury Ad"
+      },
+      "description": {
+        "en": "A production-ready image prompt for vitamin c glow serum luxury ad, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Scene: Luxury skincare advertisement, centered on a vitamin C essence bottle placed on a polished marble base. Behind the bottle is a huge warm peach-beige circular background, with oversized elegant serif font reading \"RADIANT SKIN,\" and handwritten \"Glow\" at the top. Fresh orange slices, lemon peel, white citrus blossoms, and crystal-clear golden essence droplets are arranged around the bottle to highlight the citrus ingredients and hydrating effect. Main product: Product type: Vitamin C Radiance Serum; Bottle material: Transparent glass bottle containing golden-orange essence; Dropper: White rubber dropper with a reflective metal gold ring; Tags: Minimalist luxury skincare labels using serif fonts, centered and neat. Composition: Shot: Centered hero shot; Camera angle: Slightly lower head-up angle to highlight a premium feel; Layout: Symmetrical product placement, balanced ingredient arrangement on both sides; Depth: shallow to medium depth of field, with clear product focus. Setting: Background: Soft creamy beige luxurious background with subtle marble textures and abstract gold curves; Surface: Polished marble base with soft reflection; Items: Orange half-sliced, lemon peel spiral, white citrus flower, floating golden essence liquid ball. Light and shadow: Type: Soft diffused studio lighting with a warm sunlight glow; Direction: Directional light in the upper left; Highlights: strong glass reflections and golden metallic luster; Atmosphere: fresh, radiant, luxurious, and clean. Style: Visual style: High-end beauty blockbuster; Rendering quality: hyper-realistic 3D rendering; Details: sharp glass refraction, real liquid bubbles, luxury skincare brands; Colors: Warm beige, soft peach, amber gold, citrus orange, cream white. Text element: Top title: Glow; Background Title: RADIANT SKIN; Side text: Brighten and renew with vitamin-rich care—smooth, radiant, and healthy skin; Action button: Buy now; Bottom text: Citrus Care Driven by Daily Radiance. Negative prompts: blurry products, low resolution, cropped bottles, harsh shadows, plastic-feeling materials, chaotic composition, oversaturated colors, distorted text, cheap advertising vibes. Settings: aspect ratio: 4:5; resolution: 1536x1920; Rendering engine: Photorealistic photo; Quality: Ultimate; Stylization: 250.",
+      "tags": [
+        "skincare-commercial",
+        "vitamin-c-serum",
+        "luxury-beauty",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-vitamin-c-glow-serum-luxury-ad",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vitamin-c-glow-serum-luxury-ad.jpg",
+        "ratio": "561:701",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Maercihh via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Maercihh/status/2071924190907896129",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13492",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-elegant-birthday-portrait",
+      "assetId": "goku-gpt-image-2-elegant-birthday-portrait",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Elegant Birthday Portrait Celebration"
+      },
+      "description": {
+        "en": "A production-ready image prompt for elegant birthday portrait celebration, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A young South Asian woman with thick, long dark brown wavy hair wears a white lace long-sleeve slim dress with a corset-style upper body, standing against a soft cream/beige pleated curtain background. A white ribbon was tied at the back of her hair. She wears small silver earrings and wears natural, refined makeup—defined eyebrows, soft brown eyeshadow, nude pink lips, and warm skin. She slightly raised a cluster of balloons in her right hand—including white, light pink, and a transparent confetti balloon containing red confetti dots. Her left arm holds a double-layered birthday cake, topped with pink gradient icing, decorative pearl-style piping, fine floral details, and a golden cake base at the bottom. The cake is inscribed with white letters: \"Happy Birthday Sarah.\" She tilted slightly to pose for the shot, her expression gentle and calm, looking tenderly at the camera. The overall atmosphere is soft, feminine, and festive. The lighting is warm and even, studio-style, with no harsh shadows. Portrait framing exudes a clean and elegant aesthetic. Realistic photography, high resolution, 4K quality.",
+      "tags": [
+        "birthday-portrait",
+        "elegant-woman",
+        "celebration-photography",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-elegant-birthday-portrait",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/elegant-birthday-portrait.jpg",
+        "ratio": "1365:2048",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@SyntheSarah via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/SyntheSarah/status/2066362447066485038",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14425",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-charming-ancient-portrait",
+      "assetId": "goku-gpt-image-2-charming-ancient-portrait",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Charming Ancient Style Portrait"
+      },
+      "description": {
+        "en": "A production-ready image prompt for charming ancient style portrait, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Generates highly completed realistic ancient-style portrait photography, vertical 9:16 composition.\n\n[Composition and Pose]\nThe composition features an intimate scene where both hands support the floor while sitting on the ground. The figure sits on a light-colored wooden floor, leaning against the wall, with hands naturally supporting the floor on either side of the body and legs stretched out. The camera is shot from above with a moderate overhead shot, with the person looking up directly at the camera. The composition includes the upper body, shoulders, collarbone, and part of the leg.\n\n[Character Design]\nAn Asian woman in her early twenties, with long straight black hair, delicate features, and a cool and aloof aura\n\n[Clothing Description]\nA burgundy semi-transparent vintage strapless top, paired with off-shoulder tulle, is thin and snug, creating a sexy shoulder and neck line\n\n[Mood and Atmosphere]\nCharming and charming, soft and alluring, with gentle eyes and a smile\n\n[Expressions and Eyes]\nHer expression is naturally soft, her gaze warm, creating a quiet yet intimate atmosphere.\n\n[Light and Texture]\nUsing natural direct flash light, the character's skin is softly brightened. The skin texture is authentic and delicate, revealing natural pores and fine textures, avoiding excessive smoothing.",
+      "tags": [
+        "ancient-portrait",
+        "realistic-photography",
+        "charming-mood",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-charming-ancient-portrait",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/charming-ancient-portrait.jpg",
+        "ratio": "9:16",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@MrLarus via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/MrLarus/status/2061346788875895292",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14199",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-porcelain-skin-beauty",
+      "assetId": "goku-gpt-image-2-luxury-porcelain-skin-beauty",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Luxury Porcelain Skin Beauty Campaign"
+      },
+      "description": {
+        "en": "A production-ready image prompt for luxury porcelain skin beauty campaign, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Top-tier luxury skincare beauty poster, soft light beige and blush aesthetic, elegant models with glowing porcelain skin, light makeup, shiny lips, subtle peach-colored blush, long wavy brown hair tied into a voluminous low ponytail with face-shaping strands, exquisite gold earrings and necklaces, sitting elegantly at a marble table with chin in hand, wearing a silky satin blush pink robe that naturally slides over shoulders, warm golden morning light, dreamy movie lighting, cream-colored blurred background, high-end fashion editorial photography style. A luxurious skincare product line is displayed on a transparent acrylic base, featuring pale pink and white makeup bottles, jars, and serum droppers with rose gold caps. The products are decorated with minimalist floral and pearl motifs, with a luxurious brand layout on the right side reading \"Glow Beauty\" and elegant serif fonts. The clean high-end advertising layout features soft shadows, radiant skin, a feminine luxury atmosphere, ultra-detailed and realistic, high-end commercial beauty ads, Vogue skincare blockbuster style, shallow depth of field, harmonious and elegant tones. Glossy reflection, refined composition, 8K quality, vertical poster format -- AR 4:5 -- Stylize 250 -- Quality 2",
+      "tags": [
+        "skincare-ad",
+        "luxury-beauty",
+        "fashion-editorial",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-luxury-porcelain-skin-beauty",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-porcelain-skin-beauty.jpg",
+        "ratio": "1149:1369",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@auqibhabib via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/auqibhabib/status/2056221204055536072",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14726",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-mens-editorial-icon",
+      "assetId": "goku-gpt-image-2-luxury-mens-editorial-icon",
+      "model": "gpt-image-2",
+      "industry": "ecommerce-retail",
+      "category": "product-advertising",
+      "title": {
+        "en": "Luxury Men's Editorial Icon Poster"
+      },
+      "description": {
+        "en": "A production-ready image prompt for luxury men's editorial icon poster, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Ultra-realistic luxury men's editorial collage poster, 4:3 aspect ratio, stylish young man wearing black sunglasses, confident and composed expression. On the left is a large main portrait wearing an open pale black linen shirt, showcasing a relaxed luxury style. Wearing a delicate chain necklace, natural skin texture, and a defined jawline, the face locks in to maintain a consistent identity. On the right side are four horizontal rounded rectangular black-and-white photo strips of the same style with different candid poses, including one sitting in a car wearing sunglasses and gazing at the sea. Casual leaning and an outdoor lifestyle posture, the layout uses a simple asymmetrical magazine design with a strong negative spatial feel. The background is a delicately textured deep charcoal black paper, the left side uses elegant serif font, and the text reads \"BE YOUR OWN ICON.\" The main portrait is illuminated by warm natural light, with soft shadows and sophisticated editorial contrasts. The black-and-white panel has a film-grainy and cinematic tonal depth, with a low-key luxurious tone featuring pale pink highlights and deep black. Warm skin tones and black-and-white contrast, main view using 85mm portrait effect, shallow depth of field, high-end fashion event aesthetics, premium catalog layout, DSLR image quality, realistic fabric textures, clear skin details without excessive processing, negative prompts: messy collage, distorted faces, inconsistent identities, cheap layout, overexposed skin, cartoon, CGI, plastic skin, blurred panels, unnecessary text, watermarks.",
+      "tags": [
+        "mens-fashion",
+        "editorial-poster",
+        "luxury-style",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-luxury-mens-editorial-icon",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-mens-editorial-icon.jpg",
+        "ratio": "4:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@imGopalTiwari via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/imGopalTiwari/status/2053633688391557587",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13466",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-premium-fashion-portrait",
+      "assetId": "goku-gpt-image-2-premium-fashion-portrait",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Premium Fashion Editorial Portrait Series"
+      },
+      "description": {
+        "en": "A production-ready image prompt for premium fashion editorial portrait series, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A premium fashion editorial portrait series featuring a stylish young man photographed inside a {argument name=\"background\" default=\"minimalist studio with warm beige walls\"} and soft natural window light. The collection consists of nine unique portraits arranged in a clean 3×3 grid, each showing a different relaxed pose and expression while maintaining a cohesive luxury editorial aesthetic.\nThe model has thick messy wavy dark hair, defined facial features, and wears an {argument name=\"wardrobe\" default=\"elegant monochrome wardrobe consisting entirely of black clothing\"}, including fitted black shirts, tailored black trousers, lightweight knitwear, plain black t shirts, and a structured black blazer. A silver wristwatch subtly completes several looks.\nEach portrait captures a different emotion and pose. Resting his chin on his hand while sitting sideways on a wooden chair. Sleeping across the chair back in a quiet introspective moment. Looking away with a sharp jawline highlighted by side lighting. Reclining casually with one hand through his hair. Leaning forward with elbows on knees and an intense gaze. Resting his face against his hand in a thoughtful pose. Looking back over his shoulder while seated. Sitting with one fist against his lips in black and white. Relaxing with an open collar and confident posture.\nSoft diffused daylight enters from a large window, creating smooth shadows and subtle highlights that emphasize facial structure and fabric textures. The backgrounds remain clean and uncluttered with warm neutral tones throughout.\nShot on an {argument name=\"lens\" default=\"85mm\"} full frame lens at f/2.2, shallow depth of field, soft editorial lighting, muted color palette, subtle film grain, luxury magazine photography, photorealistic, ultra detailed skin texture, premium fashion campaign, minimalist composition, 8K HDR.",
+      "tags": [
+        "fashion",
+        "portrait",
+        "editorial",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-premium-fashion-portrait",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/premium-fashion-portrait.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@harboriis via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/harboriis/status/2071068008341262538",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_03165",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-futuristic-streetwear-vision",
+      "assetId": "goku-gpt-image-2-futuristic-streetwear-vision",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Futuristic Streetwear Campaign Vision"
+      },
+      "description": {
+        "en": "A production-ready image prompt for futuristic streetwear campaign vision, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a premium futuristic streetwear campaign poster featuring a confident {argument name=\"gender\" default=\"young male\"} model in a modern studio setup. Full body pose, relaxed but powerful stance, one foot placed on a metallic cube, hands inside jacket pockets, head tilted slightly upward with a calm bold expression. Lean physique, textured messy hair, sharp jawline. Outfit includes an oversized silver bomber jacket, black fitted tee, wide leg cargo trousers, layered chain accessories, and chunky sneakers. Clean luxury styling with subtle branding details. Background is a smooth matte gray studio wall with giant bold condensed typography reading “{argument name=\"text\" default=\"VISION\"}” stretched vertically across the backdrop behind the model. Text should dominate the frame while the subject stands centered in front. Floor is glossy reflective concrete style surface with subtle reflections and soft shadows. Metallic props placed around the floor for depth and fashion campaign energy. Lighting is dramatic studio lighting with soft directional highlights, crisp contrast, polished commercial finish. Sharp focus, ultra realistic fabric texture, cinematic mood, premium fashion ad quality. Style should feel bold, modern, luxury, minimal, urban editorial campaign, clean composition, high contrast tones, sleek branding aesthetic, high resolution, {argument name=\"format\" default=\"square\"} format.",
+      "tags": [
+        "streetwear",
+        "fashion-campaign",
+        "futuristic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-futuristic-streetwear-vision",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/futuristic-streetwear-vision.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Shorelyn_ via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Shorelyn_/status/2048020327490544013",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_08831",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-shattered-mirror-demon",
+      "assetId": "goku-gpt-image-2-shattered-mirror-demon",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Shattered Mirror Demon"
+      },
+      "description": {
+        "en": "A production-ready image prompt for shattered mirror demon, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A vertical horror movie poster in ultra-realistic cinematic style. A young woman in her mid-20s with long messy black hair, pale skin, and a terrified expression looks upward into the darkness. Her face is dramatically lit from below with a cold blue-white light, casting deep shadows across her features. Her lips are slightly parted, eyes glistening with fear. She wears a torn dark dress. Wind appears to blow her hair across her face.\nThe entire poster is framed by a massive shattered mirror — jagged glass shards explode outward from the center in all directions. In the broken reflection fragments on her left side, her mirror image appears demonic — blackened eyes, blood streaking down her cheeks, mouth stretched unnaturally wide. In the dark background, a shadowy faceless figure stands far behind her, barely visible through the broken glass.\nLarge horror typography dominates the lower half. Title text reads: \"{argument name=\"movie title\" default=\"WHEN DARKNESS WEARS YOUR FACE\"}\" — letters appear carved from cracked bone and dried blood, with deep fractures running through each character. \"WHEN\" sits small at the top, \"DARKNESS\" bold and large in the middle, \"{argument name=\"subtitle\" default=\"WEARS YOUR FACE\"}\" largest at the bottom with blood dripping from the letters like open wounds.\nSmall elegant serif text at the very top reads: \"A VOIDCREST FILMS PRODUCTION.\" A standard fictional movie credit block runs along the bottom in tiny white text listing {argument name=\"credits\" default=\"fictional names: directed by MARCUS HALLOWAY, produced by ELARA VOSS, starring NADIA CROSS\"}. Color grade: deep blacks, desaturated teal shadows, crimson blood accents, single cold key light. Style: photorealistic, ultra-detailed, 4K professional horror movie poster, vertical 9:16 aspect ratio.",
+      "tags": [
+        "horror-poster",
+        "demonic-mirror",
+        "cinematic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-shattered-mirror-demon",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/shattered-mirror-demon.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@RuzainaMeer via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/RuzainaMeer/status/2055273187961655357",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_02457",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-clumsy-cat-doodle",
+      "assetId": "goku-gpt-image-2-clumsy-cat-doodle",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Clumsy Cat Doodle Meme Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for clumsy cat doodle meme art, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A deliberately clumsy, childlike digital doodle of a happy cat named {argument name=\"character name\" default=\"Shiro\"}, drawn in a chaotic scribbly meme style on a plain white background. The cat is centered and shown in a playful mid-leap stretch, facing right, with a simple rounded white body, short legs, oversized paws, a curved upright tail, triangular ears with pale pink inner ear coloring, closed smiling eyes, a tiny pink nose, black whiskers, and a simple cartoon mouth. Give the cat a bright red collar with a round yellow name tag that reads {argument name=\"tag text\" default=\"SHIRO\"} in hand-drawn black letters. Use intentionally imperfect black outlines, uneven proportions, and a naive hand-drawn look as if made quickly in a paint app. Behind the cat, add a large circular tornado of messy scribbles made of many overlapping strokes in {argument name=\"main swirl color\" default=\"bright green\"} and {argument name=\"secondary swirl color\" default=\"lime green\"}, with scattered white oval gaps and exactly 6 short curved red accent strokes embedded around the swirl. The overall feeling is cute, goofy, chaotic, and playful, like a viral clumsy redraw trend, with flat color fills, no shading, and rough freehand brush lines.",
+      "tags": [
+        "doodle",
+        "cat",
+        "meme",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-clumsy-cat-doodle",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/clumsy-cat-doodle.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@defivanessar via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/defivanessar/status/2050141192604500378#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07180",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-pirate-captain-storm-command",
+      "assetId": "goku-gpt-image-2-pirate-captain-storm-command",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Pirate Captain's Storm Command"
+      },
+      "description": {
+        "en": "A production-ready image prompt for pirate captain's storm command, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Goal: Create a gritty black-and-white comic storyboard page for a pirate game scene, like a scanned manga/graphic novel production panel.\n\nCanvas: Vertical comic page crop, grayscale only, with a dark surrounding workspace/background and a white page border. Add a small production label at the top left reading {argument name=\"panel code\" default=\"A6 - 4\"}. The main visible panel occupies almost the entire canvas, with a thick white gutter and the top edges of two smaller panels barely visible at the bottom.\n\nMain panel layout: A rain-lashed pirate ship deck during a violent thunderstorm. Center the composition on one tall pirate captain in a dramatic low-angle pose, standing full body from thighs upward, fist thrust toward the viewer. His face is obscured by a soft rectangular gray blur/censor box. He has long wet curly hair, a heavy black captain’s coat with many buttons, layered shirt and sash, belts, chains, pistols or tools at the waist, and ragged wet fabric. Behind him is a rowdy crew of exactly 5 visible pirates: 1 shouting pirate on the left midground partly covered by a gray blur box, 1 hunched pirate at the lower left partly covered by a gray blur box, 1 shouting pirate just right of center behind the captain, 1 hat-wearing pirate near the right side, and 1 bearded pirate at the far right holding a flintlock pistol with a gray blur box over part of his torso/face area. Add exactly 1 large parrot or raven-like bird flying in the upper right with wings spread. Include ship rigging, wooden beams, ropes, lantern glow on the left, rain streaks, sea spray, lightning, and chaotic crowd energy.\n\nText and effects: Include exactly 3 speech balloons and exactly 3 sound-effect captions. Speech balloon 1, upper left, says “AWAY, ME SEA-DOGS! TO WRECKER’S REACH!!”. Speech balloon 2, right center, says “AYE! TO THE HEARTSTONE!!!”. Speech balloon 3 is only partially visible in the bottom cropped panel and begins “YOU’D BETTER BE,”. Sound effect 1, large bold tilted letters on the left, says “AAAYE!”. Sound effect 2, upper right near lightning, says “HEARTSTONE!”. Sound effect 3, near the bird, says “BRAWK!”. Use hand-lettered comic typography, white speech balloons with black outlines, bold outlined sound effects, and dynamic placement.\n\nVisual style: High-detail monochrome ink illustration, dense crosshatching, wet glossy blacks, harsh contrast, splashy white highlights, scratchy rain lines, cinematic fantasy pirate action, dramatic perspective, heavy texture, energetic comic-book rendering, no color except grayscale.\n\nCustomizable details: The pirate destination can be {argument name=\"destination name\" default=\"Wrecker’s Reach\"}; the magical object or rallying cry can be {argument name=\"relic name\" default=\"Heartstone\"}; the captain’s command can be {argument name=\"captain command\" default=\"AWAY, ME SEA-DOGS! TO WRECKER’S REACH!!\"}; the crew response can be {argument name=\"crew response\" default=\"AYE! TO THE HEARTSTONE!!!\"}.\n\nConstraints: Keep the image as a single dramatic comic page crop, preserve exactly 5 visible crew pirates plus the central captain and exactly 1 bird, preserve exactly 4 soft gray censor/placeholder rectangles over characters, preserve the thick white comic borders, and do not add extra readable text beyond the specified labels, balloons, and sound effects.",
+      "tags": [
+        "pirate-comic",
+        "storyboard",
+        "game-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-pirate-captain-storm-command",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pirate-captain-storm-command.jpg",
+        "ratio": "600:583",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Jakekrajewski via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Jakekrajewski/status/2061295223850803310#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_11108",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-doodle-ghost-ninja-mascot",
+      "assetId": "goku-gpt-image-2-doodle-ghost-ninja-mascot",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Doodle Ghost Ninja Mascot Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for doodle ghost ninja mascot art, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a deliberately clumsy, childlike doodle illustration on a plain white background of a cute ghost-like ninja mascot named {argument name=\"character name\" default=\"Gold Mitama\"}. The character is bright {argument name=\"body color\" default=\"golden yellow\"}, with a rounded floating ghost body, a curled wisp of hair on top, a tapering ghost tail curling to the left, and simple thick black uneven outlines. Draw it in an intentionally bad MS Paint scribble style: shaky jagged lines, uneven coloring, visible white gaps, rough marker-like scribbles, flat colors, no realistic shading, low-detail amateur fan-art energy. The mascot wears a black ninja headband across the forehead with a tied knot and two flapping black cloth ends on the left; the front plate is gray and contains exactly 3 small triangular black symbols. Give the face half-lidded green eyes and a bored expression, with a skewer of exactly 3 dango balls held horizontally in the mouth: pink, white, and green. Add a purple scarf around the neck, with a colorful chest emblem made of overlapping rainbow-like blocks of blue, cyan, yellow, red, and green. On the left side behind the character, place a small sheathed sword or short ninja weapon with a brown handle and purple wrapping. On the lower right, show the character holding exactly 1 gray four-point shuriken with a circular hole in the center. Keep the composition centered, square, playful, messy, and intentionally poorly drawn, like a funny rough doodle generated from text only.",
+      "tags": [
+        "doodle",
+        "ninja",
+        "mascot",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-doodle-ghost-ninja-mascot",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/doodle-ghost-ninja-mascot.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ippei00011 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ippei00011/status/2050741827712790910#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07456",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-quad-arm-silent-mercenary",
+      "assetId": "goku-gpt-image-2-quad-arm-silent-mercenary",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Quad-Arm Silent Mercenary"
+      },
+      "description": {
+        "en": "A production-ready image prompt for quad-arm silent mercenary, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A dramatic dark fantasy light-novel cover illustration in a square format, featuring a fierce female warrior centered in a dynamic lunging pose inside a dim, ruined, cathedral-like or industrial gothic interior with a smoky blurred background and warm floating embers. She has long silver-white hair in a high ponytail whipping violently to the right, pale skin, and a deliberately obscured or featureless face. Her body is enhanced with four black mechanical arms in total, built from intricate clockwork and segmented metal joints, extending spider-like around her. She wears a tattered black dress-like battle outfit with armored corset detailing, belts, straps, a garter on one thigh, and biomechanical leg armor. Count exactly 4 arms visible: 2 upper arms and 2 lower arms; count exactly 4 glowing energy blades, one held in each hand, translucent neon blue with crystalline edges and magical circuitry-like light patterns. Emphasize the contrast between matte black metal, torn fabric, pale skin, and electric cyan weapons. The composition should feel cinematic, high-detail, intense, and heroic, with sharp focus on the character and soft depth-of-field in the background. Add ornate Japanese cover typography in metallic gold with subtle beveling and glow: at the top, small genre text 《バトルアクション》; below it, a large main title {argument name=\"headline text\" default=\"クアッドアームの静寂\"}; beneath that, a smaller subtitle ～四本腕の女傭兵と錆びついた世界の約束～. Near the bottom, add a large centered quote in gold Japanese text {argument name=\"quote\" default=\"「僕は君の未来を高値で買いに来た」\"}; directly below it, a smaller line ——時計仕掛けの運命が、今動き出す. At the very bottom center, place the author name {argument name=\"author name\" default=\"ざっ\"} in large gold text with elegant ornamental divider lines on both sides. Use a luxurious fantasy-book-cover layout, moody sepia-and-charcoal palette with bright cyan highlights, ultra-detailed anime-inspired realism, and a polished GPT-image-2 editorial illustration style.",
+      "tags": [
+        "dark-fantasy",
+        "light-novel",
+        "cyberpunk-warrior",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-quad-arm-silent-mercenary",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/quad-arm-silent-mercenary.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@hyzatu via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/hyzatu/status/2048784433076195518#reversed-2",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_08680",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-moonlit-balcony-renaissance-romance",
+      "assetId": "goku-gpt-image-2-moonlit-balcony-renaissance-romance",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Moonlit Balcony Renaissance Romance"
+      },
+      "description": {
+        "en": "A production-ready image prompt for moonlit balcony renaissance romance, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "{\n  \"scene_name\": \"Moonlit Balcony Embrace\",\n  \"visual_style\": {\n    \"genre\": \"romantic period drama\",\n    \"look\": \"classic cinematic realism\",\n    \"era_feel\": \"Renaissance-inspired costume drama\",\n    \"mood\": \"tender, dreamy, intimate, poetic\",\n    \"color_palette\": [\n      \"deep midnight blue\",\n      \"soft warm gold\",\n      \"muted cream\",\n      \"forest green\",\n      \"shadow black\"\n    ],\n    \"film_texture\": \"soft 35mm film grain, vintage cinematic softness\"\n  },\n  \"setting\": {\n    \"location\": \"garden balcony or stone terrace at night\",\n    \"environment\": \"lush greenery, ivy-covered stone wall, dark garden background\",\n    \"time_of_day\": \"night\",\n    \"atmosphere\": \"quiet, romantic, slightly magical, moonlit\"\n  },\n  \"characters\": {\n    \"male_character\": {\n      \"age_range\": \"late teens to early twenties\",\n      \"appearance\": \"{argument name=\"male appearance\" default=\"soft youthful face, medium-length brown hair, gentle smile\"}\",\n      \"wardrobe\": \"dark blue Renaissance-style velvet doublet with gold trim, period costume\",\n      \"pose\": \"leaning close, arms around the female character, relaxed and affectionate expression\",\n      \"emotion\": \"warm, happy, safe, deeply connected\"\n    },\n    \"female_character\": {\n      \"age_range\": \"late teens to early twenties\",\n      \"appearance\": \"long dark brown hair, soft youthful face, expressive eyes, natural makeup\",\n      \"wardrobe\": \"{argument name=\"female dress\" default=\"cream-gold embroidered Renaissance gown with delicate beading and flowing skirt\"}\",\n      \"pose\": \"seated on the stone balcony edge, holding the male character close\",\n      \"emotion\": \"tender, thoughtful, slightly surprised, emotionally absorbed\"\n    }\n  },\n  \"composition\": {\n    \"framing\": \"medium close-up portrait framing\",\n    \"camera_angle\": \"slightly low eye-level angle\",\n    \"subject_position\": \"two characters centered, bodies close together, surrounded by dark garden background\",\n    \"depth_of_field\": \"shallow depth of field, soft blurred foliage behind them\",\n    \"focus\": \"sharp focus on faces and costumes, background softly defocused\",\n    \"visual_balance\": \"female character slightly higher and more central, male character leaning from the left\"\n  },\n  \"lighting\": {\n    \"main_light\": \"soft warm key light from front-right\",\n    \"back_light\": \"subtle moonlit rim light on hair and shoulders\",\n    \"ambient_light\": \"deep blue night shadows with soft green highlights from foliage\",\n    \"lighting_style\": \"dreamy theatrical night lighting, romantic glow, gentle contrast\"\n  },\n  \"camera_details\": {\n    \"lens\": \"50mm or 70mm portrait lens\",\n    \"aperture\": \"wide aperture, shallow focus\",\n    \"shot_type\": \"medium close-up\",\n    \"camera_quality\": \"cinematic film still, high detail, soft vintage texture\"\n  },\n  \"image_prompt\": \"A romantic Renaissance-inspired period drama scene on a moonlit garden balcony at night. A young man in a dark blue velvet doublet with gold trim leans close with a gentle smile, embracing a young woman seated on a stone terrace. She wears a cream-gold embroidered gown with delicate beading \"",
+      "tags": [
+        "renaissance",
+        "romance",
+        "cinematic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-moonlit-balcony-renaissance-romance",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/moonlit-balcony-renaissance-romance.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@bmx_ai13 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/bmx_ai13/status/2053037761280581675",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_06016",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-midnight-aroma-wall-romance",
+      "assetId": "goku-gpt-image-2-midnight-aroma-wall-romance",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Midnight Aroma Melts His Wall"
+      },
+      "description": {
+        "en": "A production-ready image prompt for midnight aroma melts his wall, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A cinematic anime-style vertical book-cover illustration for a romantic comedy light novel with slight fantasy atmosphere, split by a thin apartment wall down the center. On the left side, a warm, cozy kitchen glows in amber light from a hanging pendant lamp. A {argument name=\"female character name\" default=\"Nanako Iida\"}, age 28, stands in three-quarter view holding a deep plate of freshly cooked food with visible steam rising in elegant curls. She has dark hair tied in a messy bun, soft bangs, a gentle mature expression, and wears a lavender knit sweater under a white apron. The kitchen contains exact visible details: 1 hanging lamp, 1 upper shelf with cookware, 5 hanging utensils, 1 cutting board, 1 knife block, and 6 small bottles or jars lined across the foreground counter. On the right side, a dim, cool-toned bachelor bedroom is lit in blue shadows. A {argument name=\"male character name\" default=\"Sota Ninomiya\"}, age 26, slim but muscular, with tousled dark hair and a fitted charcoal T-shirt, leans one hand against the wall as if sensing the aroma through it. His room contains 1 bed, 1 bookshelf, 1 desk lamp, and 1 wall poster. A ribbon of steam drifts from the dish across the center wall into his side, visually connecting them. The mood is intimate, sensual, and slightly teasing, emphasizing the contrast between warm home cooking and lonely nighttime restraint. Add elegant Japanese vertical catch copy on the wall and upper right, small white serif-style name labels beside both characters with their ages, and a large bold Japanese title block across the lower middle. Include these exact text elements: left name label \"Nanako Iida 28歳\", right name label \"Sota Ninomiya 26歳\", vertical wall text \"その香りが、ふたりの距離を、そっと溶かしていく。\", upper-right vertical text \"隣人は、優しい香りと、秘密のレシピ。\", large center title \"《飯テロ恋愛小説》\\n夜中に読まないでください〜\\n〜お隣のストイックくんは、\\n隣のお姉さんの愛の飯テロに勝てない〜\", and bottom tagline \"毎晩続く深夜の罪な料理の香り。\\n壁一枚の距離と心を溶かす\". Highly polished promotional cover art, soft bloom lighting, detailed fabric folds, realistic steam, romantic tension, glossy illustrated publishing design.",
+      "tags": [
+        "romcom",
+        "food-romance",
+        "neighbors",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-midnight-aroma-wall-romance",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/midnight-aroma-wall-romance.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@hyzatu via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/hyzatu/status/2048784433076195518#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_08679",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-owl-nebula-deep-space",
+      "assetId": "goku-gpt-image-2-owl-nebula-deep-space",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Owl Nebula Deep Space Wonder"
+      },
+      "description": {
+        "en": "A production-ready image prompt for owl nebula deep space wonder, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A majestic deep-space scene of an owl-shaped nebula floating in a black starfield, centered composition, the cosmic gas and dust naturally forming the clear face of an owl. Two large glowing circular eyes with bright electric-blue star cores, a narrow pointed beak of amber light between them, and two long upward-sweeping ear tufts made of burnt-orange and golden-brown nebula pillars. The body is formed from layered translucent clouds of warm copper, sepia, ivory, and cool smoky blue, with soft luminous edges and intricate filament textures. Surround the figure with many sharp stars of varying sizes, including several bright blue-white stars with subtle diffraction spikes. Make the owl shape unmistakable but still fully made of astronomical nebula structures, realistic space photography aesthetic, dramatic contrast, ultra-detailed, ethereal glow, inspired by a {argument name=\"animal silhouette\" default=\"owl\"} formed from a {argument name=\"cosmic subject\" default=\"nebula\"}, with {argument name=\"primary glow color\" default=\"amber and blue\"} tones, portrait orientation, centered and symmetrical, cinematic and awe-inspiring.",
+      "tags": [
+        "nebula",
+        "space-photography",
+        "cosmic-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-owl-nebula-deep-space",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/owl-nebula-deep-space.jpg",
+        "ratio": "109:120",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@cooldude6688 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/cooldude6688/status/2046415445645791361#reversed-2",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07055",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-mom-takes-over-kitchen",
+      "assetId": "goku-gpt-image-2-mom-takes-over-kitchen",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Mom Takes Over The Kitchen"
+      },
+      "description": {
+        "en": "A production-ready image prompt for mom takes over the kitchen, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A 14-second cute 3D-style animated comedy short film with extremely rich details, vibrant colors, warm cinematic lighting, smooth 24fps animation, exaggerated expressions and physical effects, rich emotion and a touch of humor.\n\nShot 1 (0.00–1.00s) – Panoramic transition, eye level, slowly pushed in: a comfortable modern apartment dining room, warm lighting, family portraits on the wall, a small dining table. A 30-year-old Chinese daughter (her dark long hair tied in a messy bun, dressed in a casual T-shirt and apron, looking nervous but full of anticipation) stood by the table, smiling proudly as she lifted the lid to serve her mother. A 60-year-old Chinese mother (with a short perm and some silver strands, wearing a comfortable cardigan and glasses, with a kind face) sits at the table, looking at her daughter with a warm and understanding smile. An open kitchen can be faintly seen in the background.\n\nLens 2 (1.00–2.00s) – Close-up, high-angle, fixed shot: beautifully plated but slightly flawed home-style dishes (pan-fried fish, stir-fried vegetables, rice) served on a minimalist ceramic plate. In the background, the daughter's hands are visible.\n\nShot 3 (2:00–3:00s) – Close-up of a 60-year-old mother's face, eye level: she takes a bite with her chopsticks, her eyes widen in surprise, then mischievously squint. As she chewed, she glanced sideways at her daughter with a kind and understanding gaze, raising one eyebrow and a faint smile at the corner of her mouth.\n\nShot 4 (3:00–4:00s) – Close-up of her 30-year-old daughter's face, gaze at high elevation, slightly pushed in: her proud smile instantly freezes, turning into astonished shock, mouth open, eyebrows raised. She stared in disbelief.\n\nShot 5 (4:00–5:00s) – Another close-up of the mother's face: she slightly sets down her chopsticks, this time with a mischievous and loving smile, her eyes flashing mischievously as she looks straight ahead.\n\nShot 6 (5:00–6:00s) – Family kitchen panorama, low angle: A 60-year-old mother now wears a slightly loose colorful apron, confidently standing in front of the stove in the foreground. The daughter stood at the door behind her, looking surprised and confused. The mother stood with her hands on her hips, her expression firm and warm.\n\nShot 7 (6:00–7:00s) – Same kitchen panorama, dynamic downward-tilted: an orange flame dramatically ignites in a wok. The mother leaned forward with focus, her eyes filled with intense and loving focus, ready to start cooking.\n\nShot 8 (7:00–8:00s) – Dynamic close-up, low angle: The mother dramatically raises a large kitchen knife, her expression fierce and considerate, with beef slices and vegetables flying in the foreground supporting her like an action movie.\n\nShot 9 (8:00–9:00s) – Close-up, low angle, fast-paced scene: fresh ginger, garlic, and scallions sliced, juice and pieces flying in slow motion around the blade, along with floating bok choy, cherry tomatoes, and peppers.\n\nShot 10 (9:00–10:00s) – Kitchen center view, eye level: Mother is fully focused on stirring a sizzling wok with a spatula, steam rising, flames burning below. Her face showed extreme focus and confidence, accompanied by a faint, warm smile.\n\nShot 11 (10:00–11:00s) – Close-up, high angle: Her hands elegantly use a spoon to ladle perfectly cooked dishes (glossy stir-fried beef, vibrant vegetables, rich sauces) from the pan to plate.\n\nShot 12 (11:00–12:00s) – Medium shot of two at the dining table, eye level: A mother proudly serves her daughter a prepared dish. The 30-year-old daughter took a big bite with her chopsticks, her eyes bulging with extreme joy and surprise.\n\nShot 13 (12:00–13:00s) – Close-up of a pair: The mother leans forward, wearing a deeply satisfied and loving smile, gently gesturing with her hand as if to say to her daughter, \"See that?\" ”。\n\nShot 14 (13:00–14:00s) – Close-up of the daughter's face: She suddenly sheds tears of happiness, large comic-style droplets sliding down her cheeks, holding chopsticks.\n\nShot 15 (14:00s – end) – Final panorama, eye level, slowly zoomed in: mother stands triumphantly at the table, hands pressed together, wearing a warm, slightly satisfied smile. The daughter sat down, head slightly lowered, lost in happiness, one hand dramatically holding her forehead, still shedding tears of joy.",
+      "tags": [
+        "cooking",
+        "comedy",
+        "animation",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-mom-takes-over-kitchen",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/mom-takes-over-kitchen.jpg",
+        "ratio": "16:9",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@OlivioSarikas via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/OlivioSarikas/status/2054484446892675369",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13751",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-cockatiel-owner-mess",
+      "assetId": "goku-gpt-image-2-cockatiel-owner-mess",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Cockatiel Owner's Disaster Morning"
+      },
+      "description": {
+        "en": "A production-ready image prompt for cockatiel owner's disaster morning, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A single-panel Japanese comic-style illustration on a light wooden floor, drawn in a soft, detailed, slightly vintage manga-anime style with clean ink outlines and muted warm colors. In the center, a young woman kneels on the floor in a gray cockatiel kigurumi pajama suit with a white belly panel and small gray wings, while wearing an oversized yellow cockatiel hood shaped like a bird’s head with crest, round black eyes, orange cheek patches, and a beak above her forehead. She holds both sides of the hood in shock, her posture frozen and guilty, with a large rectangular censor block covering the center of her face. Across the floor in front of her is a huge mess of spilled birdseed: mixed grains, pellets, shells, and seeds scattered widely in a dense irregular pile. On the left lies 1 overturned white seed cup spilling its contents, and in the lower left corner 1 vacuum cleaner floor head points toward the mess, with part of the hose visible at the lower right edge. On the right stands 1 real cockatiel, small and curious, with a yellow face, orange cheeks, pale body, gray wings, and a raised crest, looking toward the kneeling woman; next to the bird is 1 small speech bubble containing a question mark. The background is simple indoor flooring with dramatic dark vertical stress lines filling the upper half to heighten panic. Add 4 Japanese text elements integrated like manga lettering: a huge sound effect 「ガーン」 at the upper left, 1 vertical thought bubble on the left reading 「やっちゃった…」, 1 large vertical spiky speech bubble on the upper right reading 「これ…掃除機かけるの…？無理ゲーすぎる…！」, and 1 beige caption box at the bottom right reading 「オカメ飼い、あるある。」. The mood is comedic embarrassment and domestic disaster, as if illustrating a relatable bird-owner mistake.",
+      "tags": [
+        "cockatiel",
+        "manga-art",
+        "pet-life",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cockatiel-owner-mess",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cockatiel-owner-mess.jpg",
+        "ratio": "587:600",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@lunarium09 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/lunarium09/status/2046969565117366769#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_05458",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-snow-leopard-silver-energy-ad",
+      "assetId": "goku-gpt-image-2-snow-leopard-silver-energy-ad",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Snow Leopard Silver Energy Luxury Ad"
+      },
+      "description": {
+        "en": "A production-ready image prompt for snow leopard silver energy luxury ad, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Ultra-premium advertising posters designed for luxury energy drink brands. A solemn white snow leopard is set in a perfectly symmetrical studio composition, facing the camera. The snow leopard closed its eyes slightly, creating an expression that was calm and powerful. Its mouth was slightly open, revealing sharp ivory-colored fangs, and between its teeth was a sleek can of silver energy drink firmly held in its mouth.\n\nThe can features a metallic aluminum texture, subtle frost texture, embossed brand logos, premium typography, and realistic reflective effects. The product is perfectly arranged at the snow leopard's mouth, serving as a visual focal point. Ultra-realistic fur details, individual strands are clearly visible, featuring natural black spots, soft whiskers, highly detailed nose texture, and lifelike teeth.\n\nClean minimalist luxury advertising aesthetics. A cool-toned monochrome palette made up of silver, white, light gray, and subtle blue accents. Smooth gradient studio backgrounds with soft atmospheric lighting. The product name is displayed in huge oversized fonts in the background, using bold capital letters, partially hidden behind the animal, presenting a high-end editorial design feel. Modern sans-serif text elegantly layers over the composition.\n\nProfessional commercial product photography, luxury beverage promotion, centered composition, perfect symmetry, shallow depth of field, ultra-sharp focus, soft diffuse studio lighting, subtle contour light around snow leopard fur, realistic shadows, high-end magazine advertising, top branding, and award-winning creative direction.\n\nPhoto-level realism, 8K resolution, ultra-fine detail, HDR, global illumination, realistic hair rendering, high-end commercial retouching, luxurious poster design, editorial ads, clean white space, cinematic texture, flawless product placement, modern minimalist marketing campaigns, vertical 4:5 aspect ratio.",
+      "tags": [
+        "energy-drink",
+        "snow-leopard",
+        "luxury",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-snow-leopard-silver-energy-ad",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/snow-leopard-silver-energy-ad.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@harboriis via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/harboriis/status/2069628391326982224",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13482",
+        "captured_at": "2026-10-19"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
     }
   ]
 }

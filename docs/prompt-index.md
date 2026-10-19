@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **246**
-Demo assets: **254**
+Published templates: **271**
+Demo assets: **279**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -769,6 +769,37 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Wet Hair Beach Temptation](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 - [Blue Studio Streetwear Fashion Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 - [Midnight Invasion Escape](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Crystal Prism Fashion Chronicle](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Six Camera Angles Fashion Shoot](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Cinematic B&W Film Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Sunset Beach Romantic Portrait Grid](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Haute Couture Petal Collage Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Butterfly Fantasy Wet Hair Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Rainy Night Phone Booth Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Vitamin C Glow Serum Luxury Ad](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Elegant Birthday Portrait Celebration](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Charming Ancient Style Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Luxury Porcelain Skin Beauty Campaign](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 电商与零售
+
+- [Luxury Men's Editorial Icon Poster](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 媒体与娱乐
+
+- [Premium Fashion Editorial Portrait Series](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Futuristic Streetwear Campaign Vision](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Shattered Mirror Demon](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Clumsy Cat Doodle Meme Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Pirate Captain's Storm Command](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Doodle Ghost Ninja Mascot Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Quad-Arm Silent Mercenary](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Moonlit Balcony Renaissance Romance](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Midnight Aroma Melts His Wall](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Owl Nebula Deep Space Wonder](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Mom Takes Over The Kitchen](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Cockatiel Owner's Disaster Morning](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Snow Leopard Silver Energy Luxury Ad](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 
 ## Demo assets
 
@@ -1028,3 +1059,28 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Wet Hair Beach Temptation](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/wet-hair-beach-temptation.jpg) — 媒体与娱乐
 - [Blue Studio Streetwear Fashion Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/blue-studio-streetwear-portrait.jpg) — 媒体与娱乐
 - [Midnight Invasion Escape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/midnight-invasion-escape.jpg) — 媒体与娱乐
+- [Crystal Prism Fashion Chronicle](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/crystal-prism-fashion-chronicle.jpg) — 媒体与娱乐
+- [Six Camera Angles Fashion Shoot](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/six-camera-angles-fashion.jpg) — 媒体与娱乐
+- [Cinematic B&W Film Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cinematic-bw-film-portrait.jpg) — 媒体与娱乐
+- [Sunset Beach Romantic Portrait Grid](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/sunset-beach-portrait-grid.jpg) — 媒体与娱乐
+- [Haute Couture Petal Collage Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/haute-couture-petal-collage-portrait.jpg) — 媒体与娱乐
+- [Butterfly Fantasy Wet Hair Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/butterfly-fantasy-wet-hair-portrait.jpg) — 媒体与娱乐
+- [Rainy Night Phone Booth Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/rainy-phone-booth-portrait.jpg) — 媒体与娱乐
+- [Vitamin C Glow Serum Luxury Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vitamin-c-glow-serum-luxury-ad.jpg) — 媒体与娱乐
+- [Elegant Birthday Portrait Celebration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/elegant-birthday-portrait.jpg) — 媒体与娱乐
+- [Charming Ancient Style Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/charming-ancient-portrait.jpg) — 媒体与娱乐
+- [Luxury Porcelain Skin Beauty Campaign](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-porcelain-skin-beauty.jpg) — 媒体与娱乐
+- [Luxury Men's Editorial Icon Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-mens-editorial-icon.jpg) — 电商与零售
+- [Premium Fashion Editorial Portrait Series](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/premium-fashion-portrait.jpg) — 媒体与娱乐
+- [Futuristic Streetwear Campaign Vision](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/futuristic-streetwear-vision.jpg) — 媒体与娱乐
+- [Shattered Mirror Demon](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/shattered-mirror-demon.jpg) — 媒体与娱乐
+- [Clumsy Cat Doodle Meme Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/clumsy-cat-doodle.jpg) — 媒体与娱乐
+- [Pirate Captain's Storm Command](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pirate-captain-storm-command.jpg) — 媒体与娱乐
+- [Doodle Ghost Ninja Mascot Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/doodle-ghost-ninja-mascot.jpg) — 媒体与娱乐
+- [Quad-Arm Silent Mercenary](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/quad-arm-silent-mercenary.jpg) — 媒体与娱乐
+- [Moonlit Balcony Renaissance Romance](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/moonlit-balcony-renaissance-romance.jpg) — 媒体与娱乐
+- [Midnight Aroma Melts His Wall](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/midnight-aroma-wall-romance.jpg) — 媒体与娱乐
+- [Owl Nebula Deep Space Wonder](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/owl-nebula-deep-space.jpg) — 媒体与娱乐
+- [Mom Takes Over The Kitchen](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/mom-takes-over-kitchen.jpg) — 媒体与娱乐
+- [Cockatiel Owner's Disaster Morning](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cockatiel-owner-mess.jpg) — 媒体与娱乐
+- [Snow Leopard Silver Energy Luxury Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/snow-leopard-silver-energy-ad.jpg) — 媒体与娱乐
