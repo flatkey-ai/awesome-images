@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **271**
-Demo assets: **279**
+Published templates: **296**
+Demo assets: **304**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -801,6 +801,58 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Cockatiel Owner's Disaster Morning](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 - [Snow Leopard Silver Energy Luxury Ad](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 
+## 旅游与酒店
+
+- [Paper City Journey](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [City Name Travel Poster](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 创作者与社交
+
+- [Paper Collage Travel Celebration Poster](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 媒体与娱乐
+
+- [Dragon Coiling Storm Lighthouse](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [City Flavor Archive](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 媒体与娱乐
+
+- [Royal Kashmir Wazwan Luxury Ad](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Vintage Travel Poster Collage](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [City Stamp Art Collection](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Minimalist City Travel Poster](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 媒体与娱乐
+
+- [Surreal Watch Visual Concept](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Royal Princess Luxury Bedroom](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Changsha Morning Light](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Luxury Minimalist Architecture Poster](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Apple Specimen Print](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Silk Road Echoes Exhibition](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Bali Retro Travel Poster Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Vintage City Travel Poster](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 媒体与娱乐
+
+- [Dreamy Cloud Fantasy Worlds](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Cinematic Steamed Momo Food Photography](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Embers Not Yet Cool](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Istanbul Retro Travel Poster Design](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Vintage Rustic Farmers Market Poster](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Moonlit Shrine of Dancing Cranes](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Revolution Cuisine Diorama Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Restaurant Tote Bag Branding](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -1084,3 +1136,28 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Mom Takes Over The Kitchen](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/mom-takes-over-kitchen.jpg) — 媒体与娱乐
 - [Cockatiel Owner's Disaster Morning](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cockatiel-owner-mess.jpg) — 媒体与娱乐
 - [Snow Leopard Silver Energy Luxury Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/snow-leopard-silver-energy-ad.jpg) — 媒体与娱乐
+- [Paper City Journey](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/paper-city-journey.jpg) — 旅游与酒店
+- [City Name Travel Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/city-name-travel-poster.jpg) — 旅游与酒店
+- [Paper Collage Travel Celebration Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/paper-collage-travel-celebration.jpg) — 创作者与社交
+- [Dragon Coiling Storm Lighthouse](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/dragon-storm-lighthouse.jpg) — 媒体与娱乐
+- [City Flavor Archive](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/city-flavor-archive.jpg) — 旅游与酒店
+- [Royal Kashmir Wazwan Luxury Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/royal-kashmir-wazwan-luxury-ad.jpg) — 媒体与娱乐
+- [Vintage Travel Poster Collage](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vintage-travel-poster-collage.jpg) — 媒体与娱乐
+- [City Stamp Art Collection](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/city-stamp-art-collection.jpg) — 旅游与酒店
+- [Minimalist City Travel Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-city-travel-poster.jpg) — 旅游与酒店
+- [Surreal Watch Visual Concept](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/surreal-watch-concept.jpg) — 媒体与娱乐
+- [Royal Princess Luxury Bedroom](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/royal-princess-luxury-bedroom.jpg) — 媒体与娱乐
+- [Changsha Morning Light](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/changsha-morning-greeting.jpg) — 媒体与娱乐
+- [Luxury Minimalist Architecture Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-minimalist-architecture-poster.jpg) — 媒体与娱乐
+- [Apple Specimen Print](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/apple-specimen-print.jpg) — 媒体与娱乐
+- [Silk Road Echoes Exhibition](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/silk-road-echoes-exhibition.jpg) — 媒体与娱乐
+- [Bali Retro Travel Poster Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/bali-retro-travel-poster.jpg) — 媒体与娱乐
+- [Vintage City Travel Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vintage-city-travel-poster.jpg) — 旅游与酒店
+- [Dreamy Cloud Fantasy Worlds](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cloud-fantasy-worlds.jpg) — 媒体与娱乐
+- [Cinematic Steamed Momo Food Photography](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cinematic-steamed-momo-food-photography.jpg) — 媒体与娱乐
+- [Embers Not Yet Cool](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/embers-not-yet-cool.jpg) — 媒体与娱乐
+- [Istanbul Retro Travel Poster Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/istanbul-retro-travel-poster.jpg) — 媒体与娱乐
+- [Vintage Rustic Farmers Market Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vintage-rustic-farmers-market-poster.jpg) — 媒体与娱乐
+- [Moonlit Shrine of Dancing Cranes](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/moonlit-shrine-dancing-cranes.jpg) — 媒体与娱乐
+- [Revolution Cuisine Diorama Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/revolution-cuisine-diorama-art.jpg) — 媒体与娱乐
+- [Restaurant Tote Bag Branding](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/restaurant-tote-bag-branding.jpg) — 媒体与娱乐

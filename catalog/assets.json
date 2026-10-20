@@ -3550,6 +3550,331 @@
       "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/snow-leopard-silver-energy-ad.jpg",
       "prompt": "Ultra-premium advertising posters designed for luxury energy drink brands. A solemn white snow leopard is set in a perfectly symmetrical studio composition, facing the camera. The snow leopard closed its eyes slightly, creating an expression that was calm and powerful. Its mouth was slightly open, revealing sharp ivory-colored fangs, and between its teeth was a sleek can of silver energy drink firmly held in its mouth.\n\nThe can features a metallic aluminum texture, subtle frost texture, embossed brand logos, premium typography, and realistic reflective effects. The product is perfectly arranged at the snow leopard's mouth, serving as a visual focal point. Ultra-realistic fur details, individual strands are clearly visible, featuring natural black spots, soft whiskers, highly detailed nose texture, and lifelike teeth.\n\nClean minimalist luxury advertising aesthetics. A cool-toned monochrome palette made up of silver, white, light gray, and subtle blue accents. Smooth gradient studio backgrounds with soft atmospheric lighting. The product name is displayed in huge oversized fonts in the background, using bold capital letters, partially hidden behind the animal, presenting a high-end editorial design feel. Modern sans-serif text elegantly layers over the composition.\n\nProfessional commercial product photography, luxury beverage promotion, centered composition, perfect symmetry, shallow depth of field, ultra-sharp focus, soft diffuse studio lighting, subtle contour light around snow leopard fur, realistic shadows, high-end magazine advertising, top branding, and award-winning creative direction.\n\nPhoto-level realism, 8K resolution, ultra-fine detail, HDR, global illumination, realistic hair rendering, high-end commercial retouching, luxurious poster design, editorial ads, clean white space, cinematic texture, flawless product placement, modern minimalist marketing campaigns, vertical 4:5 aspect ratio.",
       "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-paper-city-journey",
+      "assetId": "goku-gpt-image-2-paper-city-journey",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Paper City Journey"
+      },
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/paper-city-journey.jpg",
+      "prompt": "Create a sophisticated wide-format landscape tourism poster illustration for [City Name]. Core Concept: Depict the city as a serene, elegant, highly stylized paper collage artwork in soft tones, combining the city&#39;s most iconic landmarks and most recognizable modes of transportation within a single, harmonious composition. The illustration should have the effect of a high-quality museum-quality travel poster, a refined editorial artwork, a collector&#39;s item print, and a handcrafted paper miniature. Style: Minimalist, soft-toned paper collage illustration, layered paper-cutting art, flat geometric color blocks, clean silhouettes, subtle 3D paper relief, soft paper texture, gentle paper-cutting shadows, visible paper grain, matte watercolor poster texture, non-photorealistic, non-realistic rendering, non-CGI, non-gloss materials, no excessive detail. Composition: Wide banner format. A large, open sky occupies approximately 40-50% of the image. Clear separation of foreground, middle ground, and background. Balanced negative space. Relaxed, transparent composition. Never crowded. Foreground: Use [Iconic Modes of Transportation] as the main subject in the foreground. Vehicles should occupy approximately 25-35% of the composition. They must be simplified into elegant paper-cut forms while maintaining high recognizability. Surround them with a few elements: • Flower beds • Benches • Miniature pedestrians • Cyclists • Streetlights • Local urban details. Midground: Create a simplified urban scene using the following elements: [Local buildings] [Local street scenes] [Local parks or waterfront areas] [Local cultural details]. Keep the forms simplified and graphic. Background: Present layered paper-cut silhouettes of the following elements: [Main landmarks] [Secondary landmarks]. The skyline should gradually fade into a soft atmospheric layer. Use only simplified landmark forms that maintain high recognizability. Sky: A large area of ​​calm, soft-toned sky. 2-5 simple paper clouds. Small paper birds. Ample breathing space. Never busy. Color Palette: Soft sky blue, warm cream, light beige, pale slate gray, tranquil sage green, pink mint green, gray coral, soft peach, milky white, plus a city-specific accent color: [Accent Color] Light and Shadow: Bright, soft morning sunlight. Soft diffused lighting. Soft shadows. A clear atmosphere. A warm and optimistic mood. Typography: Top left: [City Name] Below: [Local Language Name] · [English Name] Subheading: [City Slogan] Uses a white geometric sans-serif font with wide character spacing. Minimalist and elegant. Mood: Dreamy, collectible, culturally rich, optimistic, understated, elegant travel inspiration, modern fantasy, refined. Avoid: Photographic realism, overly complex architecture, heavy outlines, crowded scenes, readable advertising, brand logos, watermarks, neon colors, cyberpunk aesthetics, dim lighting, cluttered composition. Final result: A delicate, soft-toned paper collage city poster, using [iconic vehicles] and [major landmarks] as the two main visual pillars, employing tactile paper textures, clean geometric layers, ample white space, and a refined modern travel illustration aesthetic.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-city-name-travel-poster",
+      "assetId": "goku-gpt-image-2-city-name-travel-poster",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "City Name Travel Poster"
+      },
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/city-name-travel-poster.jpg",
+      "prompt": "Create a clean, modern font travel poster, with the city name itself as the composition. Present city names in large, bold, and uppercase sans-serif letters spanning the width of the work. Seamlessly incorporate the city's most iconic landmarks, buildings, monuments, streets, transportation, cultural symbols, cafés, bridges, parks, skylines, sculptures, waterfronts, historic buildings, and detailed details into the alphabet, surroundings, and interior. Allow landmarks to interact naturally with fonts while maintaining recognizability.\nUsing an elegant flat vector illustration style, it features clear geometric shapes, minimalist details, clean outlines, subtle shadows, and sophisticated editorial aesthetics. Maintain limited shades of deep navy blue, warm beige, soft red, and pale gray-blue to create a timeless travel poster look.\nAdd small decorative elements as needed, such as streetlights, trees, clouds, birds, benches, bicycles, fountains, trams, ferries, or other city-specific items. Maintains plenty of negative space, keeps the background clean, and perfectly balances the composition.\nEnsure that every landmark, architectural style, vehicle, sign, and cultural element accurately corresponds to the selected city—avoid using generic or incorrect landmarks. If needed, add a small elegant slogan (such as a famous nickname or slogan) under the city name, using minimalist fonts.\nStyle: Advanced flat vector, minimalist travel posters, geometric illustration, editorial design, travel branding, clean typography, high contrast, ultra-sharp lines, museum-quality printing, modern graphic design, centered composition, scalable vector graphic (SVG) aesthetics, 8K resolution.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-paper-collage-travel-celebration",
+      "assetId": "goku-gpt-image-2-paper-collage-travel-celebration",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Paper Collage Travel Celebration Poster"
+      },
+      "industry": "creator-social",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/paper-collage-travel-celebration.jpg",
+      "prompt": "{\n  \"Style\": {\n    \"Type\": \"Paper sculpture collage illustration with mixed photographic elements\",\n    \"Visual tone\": \"Playful, vibrant, inspired by tourism posters\",\n    \"Atmosphere\": \"Celebration, adventure, uplifting\",\n    \"Applicable for\": [\"Event Poster\", \"Travel Promotion\", \"Anniversary Visual Effects\", \"Travel Advertisement\", \"Holiday Promotion\"]\n  },\n  \"Composition\": {\n    \"Layout\": \"Layered collage with a central title and surrounding illustrated landmarks\",\n    \"Main body placement\": \"Main font centered, visual elements arranged radially around it\",\n    \"Foreground\": \"Roads, vehicles, flowers with strong cut-out edges\",\n    \"Middle View\": \"Architectural Landmarks and Attractions\",\n    \"Background\": \"Soft sky with clouds and minimalist gradients\",\n    \"Depth\": \"Multiple layers of overlapping paper-cutting elements create a sense of depth,\"\n    \"Balance\": \"Asymmetrical but achieved visual balance through distributed elements\"\n  },\n  \"Lens\": {\n    \"Angle\": \"Slightly elevated perspective and frontal composition\",\n    \"Framing\": \"Capturing a wide poster frame with multiple elements\",\n    \"Lens Effect\": \"Flat perspective with slight depth simulation\",\n    \"Depth of field\": \"Most elements are clear\"\n  },\n  \"Illumination\": {\n    \"Type\": \"Bright Daylight\",\n    \"Direction\": \"Soft light from the top front\",\n    \"Effect\": \"Uniform lighting with minimal hard shadows\",\n    \"Shadow Style\": \"Subtle projections to enhance the paper-cutting effect\"\n  },\n  \"Color scheme\": {\n    \"Main Colors\": [\"Sky Blue\", \"Duck Egg Blue\", \"White\"],\n    \"Accent Colors\": [\"Green\", \"Yellow\", \"Red Accents\", \"Earth Tones\"],\n    \"Contrast\": \"Medium contrast with bright highlights\",\n    \"Overall Impression\": \"Fresh, clean, and full of energy\"\n  },\n  \"Layout\": {\n    \"Style\": \"Bold sans with rounded corners and playful distortion\",\n    \"Place\": \"Center and layer with the cutout background shape\",\n    \"Hierarchy\": \"Large heading, medium subheading, smaller informational text\",\n    \"Readability\": \"High readability, with strong contrast and spacing\"\n  },\n  \"Graphic element\": {\n    \"Effect\": [\"Paper Tear Edge\", \"Paper Cut Outline\", \"Projection\"],\n    \"Texture\": [\"Paper Texture\", \"Fine Particles\"],\n    \"Layer\": [\"Cloud Layer\", \"Soft Gradient\"],\n    \"Decorative Elements\": [\"Icons, Birds, Signs, Flowers\"]\n  },\n  \"Layout prompt\": \"Create a layered paper sculpture collage poster, with a bold title placed in the center on an irregular white cutout shape. Semicircular travel-themed elements are arranged around the text. Includes foreground elements such as roads or vehicles, mid-point landmarks, and soft sky backgrounds. Use projection and torn paper edges to enhance depth. \",\n  \"Universal prompt\": \"A vibrant paper sculpture collage-style poster, boldly centered on a torn white shape, surrounded by layered travel-inspired elements such as landmarks, vehicles, and nature. Bright daylight lighting, soft sky backgrounds with clouds, playful compositions, strong sans-serif typography, subtle shadows and paper textures, rich and balanced color tones, dynamic and festive atmosphere, high detail, professional advertising design.\"\n  \"Negative prompts\": \"Realistic single scene, minimalism, dim lighting, monochrome, flat design without layers, heavy shadows, messy typography, low contrast, blurred elements, lack of depth, realistic perspective without collage effects\"\n}",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-dragon-storm-lighthouse",
+      "assetId": "goku-gpt-image-2-dragon-storm-lighthouse",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Dragon Coiling Storm Lighthouse"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/dragon-storm-lighthouse.jpg",
+      "prompt": "Create a dark fantasy concept art scene of a colossal {argument name=\"dragon color\" default=\"red\"} dragon coiled tightly around a weathered medieval stone lighthouse on a jagged sea cliff. The dragon has enormous outstretched batlike wings spanning nearly the full width of the image, leathery torn membranes, black horned spines along its head and neck, sharp claws gripping the tower, and a serpentine body wrapped in a spiral around the lighthouse. Its head bends downward beside the tower with a fierce predatory expression, glowing eyes, ridged scales, and wet highlights from heavy rain. The lighthouse is ancient gray stone with small arched windows, ruined battlements and castle-like masonry at its base, and a bright warm lantern glowing at the top, partially encircled by the dragon. Set the scene during a violent {argument name=\"storm type\" default=\"thunderstorm\"} at night, with a dramatic purple-black sky filled with multiple branching lightning bolts behind the dragon, diagonal sheets of rain, mist, and storm clouds illuminated from within. Below, huge ocean waves crash against the rocky cliff, sending white spray upward; the sea is dark navy with foaming surf. Add distant rocky silhouettes and faint ruined coastal structures on the horizon for scale. Use cinematic vertical-square composition, high contrast, epic fantasy realism, painterly digital concept art, intricate scale detail, moody violet and crimson color palette, backlit lightning, wet reflective surfaces, volumetric atmosphere, dramatic perspective, no text, no border.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-city-flavor-archive",
+      "assetId": "goku-gpt-image-2-city-flavor-archive",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "City Flavor Archive"
+      },
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/city-flavor-archive.jpg",
+      "prompt": "Generate a series poster for the \"City Flavor Archive\" series with the theme \"One City, One Dish / One City, One Dish.\"\n\nCity: [City Name]\nSignature Dish: [Dish Name]\nBrand Name: [Brand Name]\nMain Title: [City Name] Hello\nSlogan: [Slogan Copy]\nSeal Text: [Seal Text]\nEnglish supplement: HELLO [City English Name] / ONE CITY ONE DISH\nAspect ratio: 4:5 vertical format\n\nGraphics requirements:\nPlace a real, appetizing, and clear [dish name] in the foreground, serving as the main visual subject and occupying the lower half. The texture of ingredients, sauces, steam, ingredients, and utensils should be more distinct, and the dish should be more prominent than the background.\n\nThe background uses a representative landmark building complex of 【City Name】, featuring a layered structure of \"main landmark + semi-transparent sub-landmark + city distant view,\" creating an atmosphere of old city shadows and landmark clusters. The background features old paper, old walls, half-tone dots, grainy prints, mottled textures, and vintage poster textures, but these textures mainly affect the background and don't overshadow the dishes.\n\nThe text retains only core information: the main title \"[City Name] Hello\", dish name, brand name, handwritten slogan, small red stamp, and a small amount of English supplements. Don't show the date, don't pile up small print. The main title should use bright off-white or warm white calligraphy to create a strong contrast with the background.\n\nOverall style: high-end dining brand posters, urban flavor visual archives, local culture, vintage printing, landmark overlays, authentic food photography, fashionable and professional, layered. Do not make menus, cheap promotional images, cartoon images, four-grid grids, or multi-image combinations.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-royal-kashmir-wazwan-luxury-ad",
+      "assetId": "goku-gpt-image-2-royal-kashmir-wazwan-luxury-ad",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Royal Kashmir Wazwan Luxury Ad"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/royal-kashmir-wazwan-luxury-ad.jpg",
+      "prompt": "Create an extremely luxurious cinematic Kashmir Wazwan ad poster, inspired by popular high-end AI brand campaigns on X/Twitter. The purpose of this advertisement is to showcase Kashmir's royal culture, hospitality, emotions, and timeless heritage through its traditional Wazwan dishes. This poster was created to let viewers feel that Kashmiri Wazwan is not just food, but a royal experience and cultural identity presented with pride.\n\nAdvertising is designed with luxurious black gold aesthetics, featuring cinematic storytelling and elegant brand building. Using a high-end collage layout featuring multiple premium sections, it showcases authentic Kashmiri Wazwan dishes such as Rogan Josh, Rista, Gushtaba, Tabak Maaz, kebabs, and other traditional delicacies served on carved tramis plates and royal vessels.\n\nSet within the magnificent Kashmiri palace, featuring carved walnut interiors, Mughal-style arches, intricate Islamic patterns, antique decorations, candlelight ambiance, warm golden lighting, and luxurious Kashmiri textures. Add the magnificent backdrop of Dal Lake, featuring royal houseboats and the snow-capped Himalayas under golden sunsets.\n\nFood should look surreal, rich, juicy, and steaming, and professionally shot with cinematic lighting, glossy textures, depth of field, realistic shadows, flickering reflections, and ultra-fine details.\n\nAdd sophisticated typography and elegant design elements, such as decorative boundaries, icons, luxurious text sections, heritage-inspired symbols, and emotional storytelling copywriting reminiscent of international luxury food events.\n\nThe advertisement should visually explain how Kashmiri Wazwan is meticulously crafted through tradition, slow cooking, royal recipes, authentic spices, and a cultural heritage passed down through generations. The overall poster should be emotional, royal, majestic, cinematic, and memorable.\n\nSurreal 8K quality, masterful composition, luxurious editorial photography style, cinematic color grading, highly detailed textures, and professional advertising design.\n\nAdd elegant luxurious text lines, such as:\n\"It's not just food—it's a royal experience in Kashmir.\"\n\"Built over several generations.\"\n\"Experience the taste of heritage.\"\n\nFinally, add this emotional luxury question with elegant layout:\n\"Have you ever experienced royal style in the pan?\"",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-vintage-travel-poster-collage",
+      "assetId": "goku-gpt-image-2-vintage-travel-poster-collage",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Vintage Travel Poster Collage"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vintage-travel-poster-collage.jpg",
+      "prompt": "Generate a vintage travel poster collage style main visual for \"[Country Name] Travel Poster.\"\n\nOverall Layout:\n- Vintage beige paper background\n- The country name is boldly displayed in large format at the top (e.g., JAPAN / ITALY / FRANCE)\n- Central Subtitle:\n  “TRAVEL POSTERS FROM AROUND THE WORLD.”\n  “CREATED ENTIRELY WITH CHATGPT USING JUST ONE PROMPT.”\n- Bottom: 2x3 six-grid poster layout\n- Each grid represents a different city/region\n- There are thin white borders between the posters\n- The overall style combines high-end vintage travel magazine covers with mid-century travel poster designs\n\nVisual style:\n- Scandinavian travel poster style\n- Midcentury Modern\n- Vintage editing design\n- Vintage travel advertisements\n- High-end minimalist layout\n- Warm golden sunset lighting effects\n- Antique print textures\n- Cinematic lighting effects\n- No cartoonish feel\n- High resolution with exquisite detail\n- Soft vintage tones (beige, caramel, amber gold, dark brown)\n- Emphasize typography and cinematic composition\n- Poster layout aesthetics\n\nEach poster panel must include:\n- City English Name (Extra Large Font)\n- Name of a country\n- Short slogans\n- Geographic coordinate numbers\n- Minimalist icons\n- Representative local landmarks\n- Retro tourism poster composition\n\nPlease generate the following six city themes:\n1. [City 1] — [Representative Attractions/Atmosphere]\n2. [City 2] — [Representative Attractions/Atmosphere]\n3. [City 3] — [Representative Attractions/Atmosphere]\n4. [City 4] — [Representative Attractions/Atmosphere]\n5. [City 5] — [Representative Attractions/Atmosphere]\n6. [City 6] — [Representative Attractions/Atmosphere]\n\nNote: All text content must be in English.\n\nOverall artistic orientation: high-end vintage travel advertising posters, editorial layout design, vintage travel promotional videos, luxury magazine aesthetics, warm cinematic sunset feel, hyper-realistic details, 8K resolution, clean typography, museum gallery quality.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-city-stamp-art-collection",
+      "assetId": "goku-gpt-image-2-city-stamp-art-collection",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "City Stamp Art Collection"
+      },
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/city-stamp-art-collection.jpg",
+      "prompt": "Designing a 4:5 scale high-end collectible-grade stamp poster for [CITY], the entire composition is a giant luxury stamp occupying a full format, like a rare national artwork. The stamp should occupy the main canvas, featuring large tactile perforated edges, elegant carved borders, and an immersive object-oriented composition. \n\nStyle: Handmade gouache illustrations combine screen printing poster aesthetics, editorial travel art, and museum-grade minimalist printing effects. Works should capture the city's authentic atmosphere through architecture, skyline rhythm, transportation, landscape, cultural symbols, climate, geometric shapes, and environmental signage, interpreted in elegant graphic form rather than outdated travel postcard form. \n\nThe composition should be dynamic and asymmetrical. A dominant urban element should slant across the stamp, with secondary forms flowing around it to create depth and movement. Deliberate blank space should be left to create a sense of high-end refinement. Avoid clutter and overly realistic details. \n\nTypography is the core part of the design. The city name \"[CITY]\" must be directly integrated into stamp art in a grand form, like a luxurious cover, interacting with the illustration through masking, overlapping, or depth. The typography style should naturally suit the city's personality: historic cities use refined serif fonts, futuristic cities use sleek modern sans-serif fonts (Grotesk), coastal or tropical cities use soft, flowing forms, and artistic cities use expressive handwritten fonts. \n\nSecondary typography maintains minimalism and authenticity: tiny denomination numbers, AIR MAIL/POST text, release year, serial number, micro postmarks, engraved information strips, and subtle postmark details integrated into the frame do not interfere with the composition of the image. \n\nLight and shadow should have a high-end, collectible-grade printed photography texture: soft directional highlights to show tactile matte paper texture, raised ink edges, subtle printing pressure, delicate shadows at perforated edges, and delicate ink density. No dramatic cinematic lighting. \n\nThe color tone must intelligently adapt to the city, while remaining restrained, elegant, and atmospheric: \n• Coastal → cyan, coral, faded cream\n• Desert → Terracotta, Saffron, Gray-Pink\n• Neon Mega City → Cobalt Blue, Magenta, Deep Sea Blue\n• Sense of History→ Olive green, parchment color, burgundy\n• Tropical → Emerald, Mango, Sea Blue\n• Northern Snowy City → Ice Blue, Dark Pine Green, Silver Gray\n\nThe final effect should resemble the extremely rare commemorative stamps sold in a luxury museum design shop—exquisite, tactile, immersive, collectible, and timeless. \n\nNegative Tips: Mediocre travel posters, floating landmarks, souvenir aesthetics, crowded collages, excessive typography, fake vintage and distressed looks, stock library vector icons, random gradients, low-detail illustrations, centered layouts, mediocre stamp prototypes, noisy textures, over-rendered realism.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-city-travel-poster",
+      "assetId": "goku-gpt-image-2-minimalist-city-travel-poster",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Minimalist City Travel Poster"
+      },
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-city-travel-poster.jpg",
+      "prompt": "A high-end minimalist flat vector travel poster created for [CITY_NAME], 3:4 vertical scale. Create a fresh, elegant travel illustration with city-specific characteristics, centered on the city's iconic landmarks, incorporating local transportation, everyday moments, native natural details, and unique compositions. Japanese stationery aesthetics, luxury sticker illustrations, clean fine outlines, flat colors, and soft, minimalist shapes. Place [CITY_NAME] in the top left corner, paired with advanced typography and a short, refined title. Only 3-6 small natural figures for city-specific activities are used. Color palette: pink, sky blue, cream, beige, sage green, with subtle pink accents. Calm, transparent, and high-end postcard style. No realism, no watercolor, no gradients, no heavy shadows, no crowded scenes, no generic visitor collages, no repetitive layouts.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-surreal-watch-concept",
+      "assetId": "goku-gpt-image-2-surreal-watch-concept",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Surreal Watch Visual Concept"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/surreal-watch-concept.jpg",
+      "prompt": "Centers on {argument name=\"主體\" default=\"수수\"}.\nCreate a visual concept never seen before.\nThe subject breaks through the scale of reality and physical rules.\nAdopt international advertising award-level creative thinking.\nEmphasis is placed on visual metaphor, scale contrast, spatial illusion, and storytelling.\nThe composition is simple yet highly memorable.\nIt combines artistry, commercial appeal, and visual impact.\nUnforgettable at first glance.\n\nExtremely creative, with exceptional aesthetics.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-royal-princess-luxury-bedroom",
+      "assetId": "goku-gpt-image-2-royal-princess-luxury-bedroom",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Royal Princess Luxury Bedroom"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/royal-princess-luxury-bedroom.jpg",
+      "prompt": "Create an ultra-luxurious royal princess bedroom interior in a film editorial style, meticulously crafted like world-class architectural visualizations and high-end luxury magazine shoots. Elegant courtly inspiration aesthetics, blending modern luxury with timeless royal charm. The grand interior features high ceilings, curved architectural walls, decorative lines, royal arches, massive palace windows, glossy marble floors, oversized crystal chandeliers, flowing silk curtains, luxurious velvet furniture, and intricate metal details.\n\nA stunning princess bed is the centerpiece of the piece, featuring layered satin fabric, oversized haute couture pillows, embroidered textures, dramatic canopy drapes, and high-end luxury bedding. Exquisite color palettes inspired by royal elegance—soft blush, ivory, champagne gold, lavender, magenta, deep plum, midnight blue, silver, nude beige, or luxurious platinum tones. Ambient cinematic lighting, featuring warm sunlight beams, moonlight, neon aurora reflections, candlelight ambiance, and soft volumetric light, creates a dreamlike atmosphere.\n\nUltra-realistic textures, glossy luxurious surfaces, floating dust particles, dreamy smoke, rich shadows, cinematic depth, symmetrical composition, premium hospitality design, Pinterest luxury aesthetics, Vogue-style interior photography, ultra-detailed 8K realism, refined styling, atmospheric lighting, and professionally designed renderings that feel luxurious, desirable, and visually unforgettable.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-changsha-morning-greeting",
+      "assetId": "goku-gpt-image-2-changsha-morning-greeting",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Changsha Morning Light"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/changsha-morning-greeting.jpg",
+      "prompt": "Around any subject object, a clear, transparent visual is generated. At first glance, a large-scale Chinese theme text and a slender flowing line together create a memorable point: the text is arranged in a tall, slender, relaxed style with a blank writing feel, with misalignment, interweaving, and breathing space between the characters. Fine lines enter from the edges of the image, bypassing the main title and the subject or environment, then gently looping together, as if gently linking the text, air, and thematic content. The main subject remains small and clear, placed in a visually low or mid-low position against an open background. The background carries emotions through real or realistic natural spaces, material spaces, and light and shadow spaces. The foreground may have slightly blurred plants, textures, or thematic derived details to form layers. A strong information-carrying area is set at the bottom, with large elegant serif English short sentences, slender handwriting, and short explanatory text forming the rhythm. The information layer should be clear but not overshadow the sense of air above. Color is extracted from the subject's own materials, scenes, seasons, and moods, mapped into large areas of high-brightness, ventilated base colors, clean main colors, a small amount of clear accent colors, transparent shadow layers, and high-contrast text, maintaining a bright, light, clear, and distinct mood; Even if the subject needs darker colors, use clear shadows and glowing edges, avoiding muddy, stale, ash, or dirty yellow. The overall finish is as refined as a blend of daily slips and landscape photography. The edges of the frame feature faint white paper or brush marks for the top binding effect, small circular seal-style information markers serve as secondary rhythm points, and all text and lines appear carefully arranged, creating a quiet, ceremonial atmosphere like a gentle greeting.\n\n——————\nTopic: Good Morning Greetings from Changsha Elements, 2026-06-22\nRatio: 9:10",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-minimalist-architecture-poster",
+      "assetId": "goku-gpt-image-2-luxury-minimalist-architecture-poster",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Luxury Minimalist Architecture Poster"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-minimalist-architecture-poster.jpg",
+      "prompt": "Design a luxury minimalist poster centered on a famous architectural landmark of your choice ([building name]). The focal element is an illustrated rendering of the building. Behind it, place one giant bold English word in a design-forward typeface whose character matches the building's identity, with smaller body copy nearby describing its design philosophy. The composition should read as an ultra high-end art poster. Use a restrained, low-key color palette where graphic elements interlock with the architecture, appearing as if they form part of its structural components or extend outward from its silhouette.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-apple-specimen-print",
+      "assetId": "goku-gpt-image-2-apple-specimen-print",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Apple Specimen Print"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/apple-specimen-print.jpg",
+      "prompt": "Generate a vertical printed poster around the specific theme, first translating the theme into an enlarged tactile main specimen or mass of the main material, placing it in the center or lower middle of the image, giving it clear recognizable edges, soft volume, localized high-density details, and tactile material variations. The main body is not displayed in isolation but is combined by giant titles, edge text, hard-edged board modules, and low-contrast explanatory text; Titles use weighty, clearly structured fonts that serve as the top, bottom, or side edges, participating in composition like walls, bases, or side railings. Text first forms the structure, then carries meaning. Let the outline of the subject, subsidiary fragments, material edges, or symbolic fragments partially overshadow the title, vertical text, and geometric blocks, creating a clear yet restrained hierarchy before and after, allowing images and layouts to interweave rather than avoid each other. The background is a whole warm, low-noise, printable paper field, featuring fine paper textures, fibers, grains, and a slight ink absorption to unify the realistic subject, flat text, and geometric color blocks; The background maintains a sense of breath and medium, without creating a real space. Color is layered according to duty, with the bottom occupying the largest area, the main body retaining the finest emotional tones, soft gradients, and partial saturation. Titles, edge text, or checkerboard use flatter, more stable structural colors, while main text and notes are retreated to the paper surface with low contrast. Overall, there is a clear balance of area, brightness order, and sweetness suppressed by the structure. One or two hard-edged board modules are placed at the corners as flat rhythm anchors. They have no perspective or projection, printed directly on paper to balance the main curve, title volume, and blank pressure. The small body text should not be like standalone instruction cards, but compressed into a compact information texture, embedded in the blank gaps around the main body, keeping line spacing short, restraining colors, and providing a sense of editing instructions. The main details are focused only where they best convey touch and the identity of the subject; the remaining auxiliary edges allow for cropping, obscuring, or slight softening, keeping the composition primary. The final surface is retro printed with a passivated effect, slightly soft text edges, ink deposits in color blocks, and paper patterns passing through all layers without obscuring the main details, presenting a carefully typeset hybrid of editorial posters, packaging plates, and specimen descriptions.\n\nThis topic: {argument name=\"Poster Theme\" default=\"Apple Promotion Poster\"}\nRatio{argument name=\"Screen ratio\" default=\"9:10\"}",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-silk-road-echoes-exhibition",
+      "assetId": "goku-gpt-image-2-silk-road-echoes-exhibition",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Silk Road Echoes Exhibition"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/silk-road-echoes-exhibition.jpg",
+      "prompt": "Please generate a finished Chinese poster in a vertical 3:4 format, with the theme [Fill in Theme].\n\nThe overall direction is \"Oriental ancient mural temperament + contemporary Chinese exhibition poster design.\" The painting needs to retain the traces of time from ancient murals, the weathered old walls, mineral pigment effects, low-saturation Oriental color schemes, landscape landscapes, ancient buildings, figure activities, bridge paths, trees, cloud patterns, water ripples, and decorative edges, but must be redesigned with entirely new poster logic.\n\nThe illustration is neither an ordinary ancient-style illustration nor a relic restoration painting, but a highly accomplished contemporary cultural poster. Perform a major visual reconstruction of the original inspiration: rearrange mountains, caves, architecture, characters, paths, patterns, blank spaces, and title placement to give the image a clear visual center, complete hierarchy of information, and a poster-like feel suitable for communication.\n\nVisual style requirements:\n1. The lingering charm of ancient Eastern murals.\n2. Old paper texture, wall peeling, and mottled particles.\n3. Low-saturation mineral colors: earth yellow, ochre, bean sand red, misty blue, mineral green, pale blue-gray, off-white, and gray powder.\n4. Landscape, architecture, and character narrative should have layers.\n5. Can add motifs such as travelers, camels, flying apsaras, ancient trees, covered bridges, caves, mural fragments, auspicious clouds, water ripples, and border decorations.\n6. Composition can use large blank spaces, collage layering, partial cropping, long-scroll narrative, or exhibition poster layout.\n7. The overall design should be restrained, sophisticated, and quiet, embodying Eastern cultural flair and contemporary design sensibility.\n\nLayout requirements:\n1. Must have a clear Chinese main title: [Fill in the main title]\n2. Must have a Chinese subtitle: [Fill in the subtitle]\n3. Add a short Chinese description text: [Fill in the description copy]\n4. Exhibition information, location, curatorial information, and signature information can be added.\n5. If a date is involved, use the [Current Date] uniformly; do not mention old or random years.\n6. Signature may be written as: XXX.\n7. Chinese must be clear and accurate, no garbled text or typos.\n8. A small amount of English auxiliary small text can be added, but it cannot be dominated by English.\n\nThe images should look like real posters for an exhibition of Eastern aesthetics, not just simple illustration backgrounds. No watermarks, no real brand logos, no e-commerce vibes, no cheap Chinese trendy looks, no overly bright colors, no complicated or cluttered styles.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-bali-retro-travel-poster",
+      "assetId": "goku-gpt-image-2-bali-retro-travel-poster",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Bali Retro Travel Poster Art"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/bali-retro-travel-poster.jpg",
+      "prompt": "A minimalist, ultra-high-resolution retro travel poster illustration of Bali, Indonesia, shows the iconic Ulun Danu Beratan Temple floating on a tranquil tropical lake, surrounded by dense jungle vegetation and towering palm trees. In the background, a majestic volcano rises through soft mist, creating a tranquil cinematic atmosphere. Traditional Balinese pagoda-style temple architecture with layered black roofs is beautifully reflected in the turquoise lake. Small wooden fishing boats glide calmly across the lake, while tropical flowers and exotic plants sketch the outline.\nThe artwork features a minimalist vintage modern travel poster style, featuring flat vector heuristic shading, smooth gradients, soft tropical pastel tones, and elegantly simplified shapes. Warm sunlight, atmospheric haze, and subtle depth create a serene paradise aesthetic. The large minimalist typesetting at the bottom reads \"BALI,\" while below it is a smaller, refined modern sans-serif font \"INDONESIA.\"\nStyle: Luxury minimalist travel poster • Retro travel illustration • Cinematic tropical paradise • Flat vector aesthetics • Soft pastel palette • High-detail digital art • Elegant composition • Vintage travel advertisement • Tranquil island atmosphere • 3:4 aspect ratio • Minimalist design • Gallery-level illustration.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-vintage-city-travel-poster",
+      "assetId": "goku-gpt-image-2-vintage-city-travel-poster",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Vintage City Travel Poster"
+      },
+      "industry": "travel-hospitality",
+      "category": "cinematic",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vintage-city-travel-poster.jpg",
+      "prompt": "Create a minimalist vintage travel poster illustration for [City/Destination], inspired by modern editorial travel art and Japanese travel magazine covers. Soft pastel tones, clean vector-style lines, delicate textures, and elegant flat shadows are used. The composition should feel calm, light, and charming, with plenty of negative space and refined typography.\n\nScene:\nShowcasing the destination's most iconic landmarks from a beautiful wide-angle perspective. Visitors are included to stroll around, take photos, relax, sketch, ride, or enjoy coffee, creating a peaceful atmosphere for daily life. Add lush vegetation, flowers, palm trees (if in the tropics), calm reflections on the water, birds, soft clouds, and bright natural daylight.\n\nStyle:\nMinimalist vector illustration, Scandinavian + Japanese editorial design, high-end travel poster, soft and low-saturation tones, ultra-clean geometric architecture, smooth gradients, delicate paper grain textures, balanced composition, high-end magazine aesthetic, comfortable and elegant.\n\nLayout:\nLarge elegant serif title in the upper left corner:\n\"[City Name]\"",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-cloud-fantasy-worlds",
+      "assetId": "goku-gpt-image-2-cloud-fantasy-worlds",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Dreamy Cloud Fantasy Worlds"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cloud-fantasy-worlds.jpg",
+      "prompt": "A massive sailboat made entirely of clouds drifts under a golden sunset sky, featuring highly detailed cloud textures, cinematic lighting effects, a fantasy atmosphere, hyper-realistic, and 8K.\n\nA futuristic city built from clouds, glowing cloud-filled skyscrapers, flying vehicles, a dreamlike cyber fantasy world, hyper-realistic, cinematic aerial perspectives.\n\nA cloud whale swims between floating islands, with sunset colors, fantasy adventures, astonishing scale, and extremely detailed cinematic scenes.\n\nA huge tree made of clouds, with floating cloud-like leaves, roots stretching across the sky, creating a magical fantasy landscape with volume sunlight.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-cinematic-steamed-momo-food-photography",
+      "assetId": "goku-gpt-image-2-cinematic-steamed-momo-food-photography",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Cinematic Steamed Momo Food Photography"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cinematic-steamed-momo-food-photography.jpg",
+      "prompt": "Cinematic food photography of freshly {argument name=\"food item\" default=\"steamed momos (dumplings)\"} stacked on a {argument name=\"surface\" default=\"rustic weathered wooden board\"}. The dumplings have glossy dough with intricate handmade pleats and a subtle oil sheen, with thick dramatic steam rising. Split scene showing a deconstructed view: floating dumpling wrappers, balls of spiced minced filling, and scattered fresh herbs suspended in air.\n\nFrozen-in-time effect with flour particles mid-air, motion-frozen spices, and a dramatic slow-motion splash. Wispy swirling steam and falling herb leaves add atmosphere.\n\n{argument name=\"setting\" default=\"Dark moody rustic kitchen setting\"}. Weathered wooden cutting board with visible wood grains and cracks.\n\nCinematic studio lighting with warm inviting tones, high contrast and deep shadows for a professional editorial look. Macro photography, 8K resolution, hyper-detailed textures, shallow depth of field with blurred background and crisp sharp focus on the ingredients.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-embers-not-yet-cool",
+      "assetId": "goku-gpt-image-2-embers-not-yet-cool",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Embers Not Yet Cool"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/embers-not-yet-cool.jpg",
+      "prompt": "To generate a vertical 3:4 Chinese minimalist movie concept poster, it must be a finished poster with Chinese layout completed.\n\nThe background is a warm off-white or ivory white old paper background, clean and restrained overall, with slight paper grain and soft shadows. The images retain a lot of blank space, such as art film festival posters or independent film main visuals.\n\nA solitary [red object] is placed at the top of the image, slightly tilted or inverted, creating a strong visual focal point. A red trail flows downward beneath the object, which can be melting, dripping, pouring, smearing, seeping, or liquid trail. Red marks should be like emotional metaphors—not too dirty or messy, but cinematic and poetic.\n\nThe top background features a large light gray Chinese title text, with large and light text serving as the visual layer of the background. Add a trumpet-style film review short sentence in the middle. Below are fictional award texts, simplified laurel symbols, Chinese film titles, director information, and dates.\n\nThe overall layout is sophisticated, restrained, and full of blank space, like a nonexistent art movie poster. Chinese must be clear and accurate, with no garbled text.\n\nReplaceable variables:\n\n[Red Items]: Red popsicle / deep red lipstick / poured wine glass / red candle / red paint tube / red ribbon / red envelope / red balloon\n\n[Main Title]: Melting Voice / Hypothermic Lips / Drunken Void / Embers Not Yet Cool / Red Exit / The Last Drop / Silent Development\n\n[Short Film Review Quotes]: A gentle allegory about summer, silence, and exit. / After the city's noise fades, what remains are the unfinished words on the lips. / When night falls, silence begins to emerge. / Not all farewells have time to be extinguished.\n\nNo real movie logos, no real festival logos, no real brand names, no watermarks, no e-commerce ads, no complex backgrounds, no cartoons, no 3D.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-istanbul-retro-travel-poster",
+      "assetId": "goku-gpt-image-2-istanbul-retro-travel-poster",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Istanbul Retro Travel Poster Design"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/istanbul-retro-travel-poster.jpg",
+      "prompt": "Create a modern AI-generated travel poster inspired by the aesthetics of Wild Fever Studio on Etsy, centered around (city). Combining the city's local character with minimalist architectural illustrations, simplified geometric shapes, and refined contemporary visual systems. Highlight iconic landmarks such as Hagia Sophia, the Blue Mosque, the Galata Tower, the Bosphorus Ferry, colorful streets, Turkish cafés, seagulls, tulips, and warm sunset tones. Using a balanced editorial style composition, soft grained textures, bold typography, the vibrancy of retro-modern travel posters, soft yet cinematic colors, and clean negative spaces. The atmosphere should be artistic, refined, nostalgic, and culturally rich, combining the warmth of the Mediterranean with modern design aesthetics, suitable for city travel posters that align with Pinterest's aesthetic.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-vintage-rustic-farmers-market-poster",
+      "assetId": "goku-gpt-image-2-vintage-rustic-farmers-market-poster",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Vintage Rustic Farmers Market Poster"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/vintage-rustic-farmers-market-poster.jpg",
+      "prompt": "Vintage rustic farmers market poster featuring {argument name=\"fruit or product\" default=\"FRUIT OR PRODUCT\"}, overflowing wicker baskets filled with {argument name=\"main subject\" default=\"MAIN SUBJECT\"}, arranged on a weathered wooden table with {argument name=\"props\" default=\"PROPS\"}, glass jars, preserves, wildflowers, burlap cloth and country market details, aged parchment background, ornate Victorian typography reading \"{argument name=\"title text\" default=\"TITLE TEXT\"}\", distressed paper edges, warm harvest color palette, rich earthy tones, highly detailed painterly illustration, antique food advertisement, nostalgic farmhouse aesthetic, dense still-life composition, vintage packaging artwork, commercial print design, ultra detailed, masterpiece.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-moonlit-shrine-dancing-cranes",
+      "assetId": "goku-gpt-image-2-moonlit-shrine-dancing-cranes",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Moonlit Shrine of Dancing Cranes"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/moonlit-shrine-dancing-cranes.jpg",
+      "prompt": "Create an ultra-detailed square fantasy anime landscape illustration of a dreamlike Japanese shrine realm at night, centered on a glowing traditional Shinto-style shrine with red pillars and ornate curved blue roofs, perched on a floating cherry-blossom-covered island above a moonlit ocean. Behind it, place an enormous luminous full moon filling much of the sky, with visible craters and a radiant halo; the sky is deep indigo and violet, full of stars, nebula-like clouds, and sparkling magical particles. Surround the scene with abundant {argument name=\"flowering tree type\" default=\"pink cherry blossoms\"} branches framing the upper left, right edge, and lower corners, with petals drifting through the air. Include exactly eight visible white cranes: one large crane in the lower left foreground, one crane flying upward near the lower center, one crane at mid-left in front of the moonlit clouds, one crane crossing the center near the shrine, one crane at mid-right near the clouds, one large crane in the upper right corner, and two smaller distant cranes silhouetted near the moon and upper sky. Include exactly six red torii gates: one large gate on the right foreground island, one small gate on the left misty hillside, one small gate below the shrine near the center, two small gates receding into the right-middle distance, and one small gate at the far lower right. Add warm glowing lanterns hanging from branches and shrine eaves, soft golden lights on the shrine stairs, and a tiny boat with a single seated figure on the shining water near the bottom center for scale. The ocean should be dark blue with sparkling highlights, foamy waves, and a bright moon reflection leading toward the boat. Use a highly polished cinematic fantasy art style with intricate architectural detail, volumetric clouds, romantic lighting, pastel pinks and purples, luminous blues, golden accents, ethereal mist, and a sense of sacred wonder. Main mood: {argument name=\"mood\" default=\"magical, serene, and awe-inspiring\"}. Main setting: {argument name=\"setting\" default=\"a celestial Japanese shrine floating among clouds and sea under a giant moon\"}. Avoid text, logos, borders, modern objects, or photorealistic harshness.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-revolution-cuisine-diorama-art",
+      "assetId": "goku-gpt-image-2-revolution-cuisine-diorama-art",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Revolution Cuisine Diorama Art"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/revolution-cuisine-diorama-art.jpg",
+      "prompt": "2x2 grid, perform this for the cuisines of 4 famous revolutions and their corresponding countries: select * from culinary_food_art_gallery where historical_subject = '[Event Name]' and culinary_medium = '[Food Type]' and physical_constraints = '100% purely edible ingredients' and plating_base = ( select appropriate_dishware from plating_db where style = '[Food Type]' ) and diorama_assets = array[ (select base_terrain from subject_db where event = '[Event Name]' format as 'Inferr staple carbs ( [Food Type])'), (select primary_structure from subject_db where event = '[Event Name]' format as 'Inferr the main protein ([Food Type])'), (select human_figures from subject_db where event = '[Event Name]' format as 'Inferr vegetables and side dishes([ Food type])') ] and render_engine = 'Macro Food Studio Lighting';",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-restaurant-tote-bag-branding",
+      "assetId": "goku-gpt-image-2-restaurant-tote-bag-branding",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Restaurant Tote Bag Branding"
+      },
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/restaurant-tote-bag-branding.jpg",
+      "prompt": "Generate a vertical 3:4 scale visual system proposal diagram for restaurant brand tote bag packaging.\n\nBrand Type: [Brand Type]\nChinese Brand Name: [Chinese Brand Name]\nEnglish Brand Name: [English Brand Name]\nProduct Direction: [Product Direction]\nMain Color: [Main Color]\nAuxiliary Color: [Auxiliary Color]\nAccent Color: [Accent Color]\nNumber of displays: [12 / 16]\nIP or Brand Symbol: [IP or Brand Symbol]\n\nThe image shows a high-end design portfolio-style display board against a dark background, showcasing the design of the 【12/16】 tote bag from the same brand. At the top, there is a design-inspired title area, including large numbers, English titles, English subtitles, and Chinese brand descriptions, making the overall look like a brand packaging proposal page.\n\nThe main design is a neatly arranged mesh tote bag, with a unified brand identity for each bag, but the layout differs, including large logos, minimalist blank space, large English text, vertical text, IP characters, product illustrations, stamps, graphic elements, sidebar labels, bottom horizontal stripes, mixed Chinese-English layout, and more.\n\nOverall style: Boutique restaurant brand packaging design, flat vector design, modern editing layout, strong brand sense, unified colors, clear grid, commercially viable.\n\nAvoid tacky templates, messy layouts, excessive colors, dense text, distorted bags, cheap feel, excessive cartoonishness, excessive 3D, and realistic photography scenes.",
+      "source": "model-detail"
     }
   ]
 }
