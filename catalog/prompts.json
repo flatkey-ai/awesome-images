@@ -11280,6 +11280,956 @@
       },
       "status": "published",
       "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-futuristic-metro-engineering-handbook",
+      "assetId": "goku-gpt-image-2-futuristic-metro-engineering-handbook",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Futuristic Metro Engineering Handbook"
+      },
+      "description": {
+        "en": "A production-ready image prompt for futuristic metro engineering handbook, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a premium square “reference-style urban transportation infographic” centered around a futuristic modern metro system called the {METRO_NAME}, designed as a beautifully curated transit-engineering handbook page rather than a public transport advertisement.\n\nThe composition should feel like a modern visual encyclopedia mixed with an elite railway infrastructure field guide and high-end editorial infographic system.\n\nVisual Direction:\n\n• 1:1 square composition\n• Dark premium urban-tech background with subtle railway schematics, metro maps, and futuristic blueprint overlays\n• Elegant palette using deep navy, matte black, steel gray, electric blue accents, and soft white lighting\n• Refined editorial typography hierarchy with modern transportation aesthetics\n• Rounded modular information cards with clean spacing\n• Gentle realistic reflections and premium HUD-style dividers\n• Minimal transit-system iconography\n• Extremely detailed central metro train render viewed in dramatic three-quarter perspective inside a futuristic underground station\n• Thin precision annotation lines pointing toward transportation systems and smart engineering features\n• Clean, organized “knowledge-first” layout with high information density but breathable spacing\n\nMain Subject Presentation:\n\nA stunning ultra-detailed realistic render of the {METRO_NAME} modern metro train placed at the center, featuring sleek aerodynamic train design, glowing destination displays, realistic stainless-steel textures, illuminated station lighting, smart glass windows, premium urban-environment realism, and futuristic rail infrastructure.\n\nSurround the metro with scientific and engineering callouts explaining:\n\n• regenerative braking system\n• smart signalling & CBTC control\n• electric propulsion system\n• passenger information systems\n• safety and surveillance technology\n• platform screen doors\n• energy-efficient design\n• smart ventilation systems\n• accessibility features\n• track and infrastructure engineering\n\nInclude modular infographic sections such as:\n\n• Metro System Overview\n• Technical Specifications\n• Train Dimensions & Layout\n• Passenger Capacity & Flow\n• Smart Control Systems\n• Sustainability Features\n• Track & Infrastructure Engineering\n• Signalling & Automation\n• Station Design & Facilities\n• Safety & Emergency Systems\n• Passenger Experience Features\n• Urban Connectivity & Network Map\n• Energy Efficiency Comparison\n• Construction & Expansion Timeline\n• “Top 5 Smart Innovations” section\n• Built for Future Smart Cities\n\nAdd small premium visualization modules like:\n\n• metro network maps\n• train blueprint diagrams\n• station layout graphics\n• passenger flow visualizations\n• signalling workflow diagrams\n• energy-efficiency comparison charts\n• train configuration illustrations\n• smart-city connectivity graphics\n• platform safety diagrams\n• infrastructure cross-section visuals\n\nStyle Keywords:\n\n“premium urban mobility encyclopedia”\n“editorial metro engineering handbook”\n“high-end transportation infographic”\n“scientific railway infrastructure poster”\n“museum-quality transit reference page”\n“modular smart-city knowledge system”\n“clean transportation editorial design”\n“ultra-detailed metro visualization”\n\nAvoid:\n\n• cluttered public advertisement aesthetics\n• cartoon transportation styling\n• unrealistic sci-fi levitating trains\n• excessive cyberpunk neon overload\n• chaotic city scenes\n• generic subway poster layouts\n\nThe final result should resemble a professionally published railway infrastructure reference-book page created for transit enthusiasts, architects, engineers, urban planners, transportation designers, and educational infrastructure archives.",
+      "tags": [
+        "metro-engineering",
+        "transit-infographic",
+        "smart-railway",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-futuristic-metro-engineering-handbook",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/futuristic-metro-engineering-handbook.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@j_smeaton99 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/j_smeaton99/status/2056950969083343077",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_15590",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-psychedelic-rock-poster",
+      "assetId": "goku-gpt-image-2-psychedelic-rock-poster",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Psychedelic Rock Poster Generator"
+      },
+      "description": {
+        "en": "A production-ready image prompt for psychedelic rock poster generator, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a square 1960s psychedelic concert poster in a Wes Wilson-inspired San Francisco rock poster style, with dense hand-drawn warped typography, high-contrast screenprint texture, rough ink grain, and a dark navy background. The headline at the very top should read {argument name=\"band name\" default=\"COSMIC DRIFT\"} in huge hot-pink melting bubble letters that stretch across the width and curl into spiral terminals. Center the composition on a black silhouette of a curly-haired guitarist in a dramatic bent-knee pose, holding an electric guitar, set in front of a giant orange-yellow melting eyeball sun with a green iris and red vein details; add orange flame-like waves radiating from both sides. Include exactly 6 distinct text blocks: 1) top headline \"COSMIC DRIFT\", 2) left venue location block \"LIVE IN SAN FRANCISCO\", 3) right date block \"SATURDAY JUNE 21 1969\", 4) small central block \"AT THE\", 5) large lower venue block \"ELECTRIC OWL BALLROOM SAN FRANCISCO\", and 6) bottom supporting act banner \"WITH VELVET HAZE AND THE BURNING MONKS\". Use saturated hot pink, burnt orange, acid green, mustard yellow, and deep indigo, with ornate vine-like flourishes, swirling borders, paisley corners, and tightly packed negative space. Make the lettering intentionally wavy, distorted, and hand-rendered but still mostly readable, like a vintage 1969 concert bill printed on slightly worn paper. The venue should be {argument name=\"venue name\" default=\"The Electric Owl Ballroom\"}, the city should be {argument name=\"city\" default=\"San Francisco\"}, the date should be {argument name=\"concert date\" default=\"Saturday June 21 1969\"}, and the supporting acts should be {argument name=\"supporting acts\" default=\"Velvet Haze and The Burning Monks\"}.",
+      "tags": [
+        "psychedelic",
+        "concert-poster",
+        "screenprint",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-psychedelic-rock-poster",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/psychedelic-rock-poster.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AskVenice via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AskVenice/status/2052891364170268710#reversed-1",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07236",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-food-character-miniature-art",
+      "assetId": "goku-gpt-image-2-food-character-miniature-art",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Food Character Miniature Art"
+      },
+      "description": {
+        "en": "A production-ready image prompt for food character miniature art, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Hyper-realistic macro still life photography, featuring a humanized miniature character made from [ingredients], whose identity is [Artwork Name], and is currently in [Pose/Action].      \n\nThe entire character must be made entirely of natural structures of real [ingredients], not human skin, toys, clay, or plastic. The head is made up of [head food parts], the body is formed by stacking or wrapping [body food parts], arms and legs are naturally extended from [limb food parts], and clothing, cloaks, hair, or beards are formed from [skin / fibers / roots / flakes / debris].\n\nPreserving the true texture of the ingredients: surface texture, natural cracks, fibers, wrinkles, moisture on the cut surface, translucent thin skin, rough edges, irregular shapes, and a genuine sense of weight. The characters' postures are natural, movements are [action details], emotions are [emotional atmosphere], and they have a quiet, humorous, fairy-tale-like miniature world.\n\nThe scene is located in the [Scene Environment], surrounded by [similar food fragments / skins / slices / powders / props], resembling handmade ingredient sculptures on a real dining table. Low-angle close-up shooting, shallow depth of field, soft background blur, warm natural window light, soft side light, realistic shadows, food photography texture, cinematic-level still life composition, ultra-high-definition details.\n\nphotorealistic macro still life photography, realistic handmade food sculpture, anthropomorphic miniature character, natural organic food texture, shallow depth of field, warm natural window light, soft shadows, cinematic composition, highly detailed, whimsical miniature world",
+      "tags": [
+        "macro-photography",
+        "food-sculpture",
+        "miniature-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-food-character-miniature-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/food-character-miniature-art.jpg",
+        "ratio": "561:701",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Stellakjbk via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Stellakjbk/status/2066024060560244936",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13940",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-emerging-through-mist",
+      "assetId": "goku-gpt-image-2-emerging-through-mist",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Emerging Through Mist"
+      },
+      "description": {
+        "en": "A production-ready image prompt for emerging through mist, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "To generate a vertical 3:4 Chinese minimalist concept poster, it must be a finished poster with Chinese formatting completed.\n\nThe overall style is: minimalist exhibition posters, frosted glass visuals, semi-transparent borders, contemporary art festival visuals, modern graphic design, a sense of sophistication, quiet restrained, and ample blank space.\n\nThe background is light gray-white, off-white, or misty white, resembling frosted glass, translucent film, matte screen, or soft fog borders. The background must be clean, with plenty of blank space, and no clutter.\n\nThe subject of the painting is a [subject], like the other side of a matte glass or semi-transparent film, slowly penetrating, emerging, and outlining its contours.\n\nThe subject cannot be fully clearly exposed; it must present:\nLocalized clarity + large areas of blur + soft diffusion + penetration + indentation effect.\n\nThis can make a specific part of the subject clearer, for example:\nThe hands, feet, legs, and shoulders of the figure;\nAnimals' heads, eyes, ears, paws, legs;\nHandles, earpieces, cables, edges, and bottom structures of objects.\n\nThe whole body must seem to be slowly arriving from another space. Edges are softened, contours are blurred, with slight shadows and vaporized diffusion. The overall atmosphere is quiet, mysterious, and restrained, with the feel of a contemporary art exhibition poster.\n\nThe screen includes full Chinese formatting:\n\nThe main title should be \"[Main Title]\"\nThe subtitle reads: \"[Subcopy]\"\n\nThe information section reads:\n\"[Event Type]\"\n\"[City / Venue]\"\n「2026.06.25」\n\"Thursday 10:00 - 20:00\"\n\"[Address]\"\n\"Exhibitions / Workshops / Performances / Forums\"\n\nKey Requirements:\nAll dates must only appear as \"2026.06.25\".\nDon't make it into 2024.\nDon't show up in 2025.\nDon't bring up other old dates.\nDo not generate garbled dates.\nDon't write the date wrong.\nDo not use real brand logos.\nNo watermarks.\n\nLayout style:\nThe main title uses bright yellow large font, with a simple, modern, and eye-catching font.\nSubtitles and event information should be written in small black or dark gray text.\nThe entire information block can be placed on the left or right side, creating a staggered composition with the main body.\nThe layout should resemble a real contemporary art exhibition poster—clear information, with blank space and order.\n\nVisual Keywords:\nMinimalist, frosted glass, semi-transparent borders, transparency, soft focus, hazy, locally clear, subject emerges, light gray-white background, large areas of blank space, bright yellow title, black and gray small print, contemporary exhibition poster, quiet and sophisticated.\n\nDon't:\nNo cartoons, no 3D plastic-like looks, no e-commerce style, no complex backgrounds, no strong cyber style, no low-end promotional posters, no real brand logos, no watermarks, no garbled text",
+      "tags": [
+        "minimalist-poster",
+        "contemporary-art",
+        "frosted-glass",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-emerging-through-mist",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/emerging-through-mist.jpg",
+        "ratio": "3:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@YangOnchain via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/YangOnchain/status/2070018567958048788",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13606",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-glassmorphism-ui-component-showcase",
+      "assetId": "goku-gpt-image-2-glassmorphism-ui-component-showcase",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Glassmorphism UI Component Showcase"
+      },
+      "description": {
+        "en": "A production-ready image prompt for glassmorphism ui component showcase, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "{\"type\":\"glassmorphism UI component showcase\",\"style\":\"premium minimalist neumorphic interface kit, frosted translucent white acrylic, soft shadows, subtle reflections, rounded corners, clean white background, teal green and orange accent colors, ultra-detailed 3D product render, top-down view\",\"palette\":{\"background\":\"soft light gray-white\",\"primary\":\"deep teal green\",\"secondary\":\"bright orange\",\"material\":\"milky translucent glass with satin plastic details\"},\"layout\":{\"composition\":\"single canvas with evenly spaced floating UI widgets arranged in a clean design-system presentation\",\"sections\":[{\"title\":\"large dial\",\"position\":\"top left\",\"count\":1,\"labels\":[\"circular rotary knob with radial tick marks and one orange indicator\"]},{\"title\":\"direction pad\",\"position\":\"upper center\",\"count\":1,\"labels\":[\"round four-way control with center button and four arrow icons\"]},{\"title\":\"play button\",\"position\":\"upper center-right\",\"count\":1,\"labels\":[\"round button with teal play triangle and orange progress arc\"]},{\"title\":\"toggle switch\",\"position\":\"upper right\",\"count\":1,\"labels\":[\"horizontal pill toggle switched on\"]},{\"title\":\"favorite button\",\"position\":\"mid upper center-left\",\"count\":1,\"labels\":[\"rounded square tile with heart outline\"]},{\"title\":\"status dot\",\"position\":\"mid upper center-right\",\"count\":1,\"labels\":[\"small circular button with orange center dot\"]},{\"title\":\"stepper\",\"position\":\"mid upper right\",\"count\":1,\"labels\":[\"horizontal pill with minus and plus symbols\"]},{\"title\":\"audio slider\",\"position\":\"middle left\",\"count\":1,\"labels\":[\"long horizontal volume slider with speaker icon on left and waveform emboss on right\"]},{\"title\":\"percentage gauge\",\"position\":\"middle center-right\",\"count\":1,\"labels\":[\"round gauge showing 60 % with radial ticks\"]},{\"title\":\"notification tile\",\"position\":\"middle right\",\"count\":1,\"labels\":[\"rounded square tile with bell outline\"]},{\"title\":\"music card\",\"position\":\"lower middle-left\",\"count\":1,\"labels\":[\"media card with forest thumbnail, title {argument name=\\\"track title\\\" default=\\\"Forest Drive\\\"}, subtitle {argument name=\\\"track subtitle\\\" default=\\\"Ambient Journey\\\"}, progress bar, and circular play button\"]},{\"title\":\"utility icons\",\"position\":\"lower left-center\",\"count\":4,\"labels\":[\"sliders settings icon\",\"search icon\",\"share icon\",\"more menu icon\"]},{\"title\":\"compass\",\"position\":\"lower center\",\"count\":1,\"labels\":[\"large circular compass with N E S W markings and teal-orange needle\"]},{\"title\":\"vertical slider\",\"position\":\"lower right-center\",\"count\":1,\"labels\":[\"tall rounded slider with teal track, teal knob, orange endpoint, and small speaker icon\"]},{\"title\":\"bottom navigation\",\"position\":\"bottom left\",\"count\":1,\"labels\":[\"pill navigation bar with 4 icons: home, bar chart, compass, profile\"]},{\"title\":\"call to action\",\"position\":\"bottom center-right\",\"count\":1,\"labels\":[\"pill button labeled {argument name=\\\"button text\\\" default=\\\"Explore\\\"} with orange circular arrow segment\"]},{\"title\":\"biometric tile\",\"position\":\"bottom right\",\"count\":1,\"labels\":[\"rounded square tile with fingerprint icon\"]}]},\"rendering\":{\"lighting\":\"soft studio lighting from upper left\",\"shadow\":\"diffuse layered shadows for floating depth\",\"finish\":\"high-end consumer electronics aesthetic, polished yet minimal\",\"quality\":\"sharp, clean, realistic 3D interface mockup suitable for a design system hero image\"}}",
+      "tags": [
+        "glassmorphism",
+        "ui-design",
+        "3d-render",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-glassmorphism-ui-component-showcase",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/glassmorphism-ui-component-showcase.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@alanlovelq via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/alanlovelq/status/2047839178042523691#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_09847",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-lava-dark-chocolate-ice-cream",
+      "assetId": "goku-gpt-image-2-lava-dark-chocolate-ice-cream",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Lava Dark Chocolate Ice Cream Ad"
+      },
+      "description": {
+        "en": "A production-ready image prompt for lava dark chocolate ice cream ad, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "{\n  \"type\": \"premium square food advertisement poster\",\n  \"format\": \"1:1 social media ad, high-end dessert brand campaign\",\n  \"style\": \"luxury dark chocolate photography with elegant editorial typography, realistic studio lighting, glossy textures, warm cocoa-and-gold palette, shallow depth of field, sophisticated confectionery branding\",\n  \"main product\": {\n    \"name\": \"{argument name=\\\"product name\\\" default=\\\"LAVA ICE CREAM\\\"}\",\n    \"flavor line\": \"{argument name=\\\"flavor text\\\" default=\\\"CHOCOLATE\\\"}\",\n    \"tagline\": \"{argument name=\\\"tagline\\\" default=\\\"INDULGE IN THE DARK\\\"}\",\n    \"centerpiece\": \"a glass dessert coupe filled with a large scoop of dark chocolate ice cream split open in the middle, revealing a thick molten chocolate core pouring down like lava over the rim and stem of the glass\",\n    \"toppings\": \"dark chocolate drizzle, chocolate chunks, brownie pieces, cocoa crumbs, glossy melted chocolate highlights\"\n  },\n  \"composition\": {\n    \"background\": \"soft smoky gray gradient backdrop with subtle vignette, brighter behind the ice cream and darker at the edges\",\n    \"foreground\": \"white-gray tabletop scattered with brownie cubes, broken brownie crumbs, chocolate squares, and a small bowl of whipped glossy chocolate ganache on the right\",\n    \"lighting\": \"dramatic softbox highlights on the chocolate, reflective shine on the glass bowl, appetizing macro food-photography contrast\",\n    \"camera\": \"front-facing hero shot, centered product, slight low angle, crisp details on the ice cream and molten core\"\n  },\n  \"text layout\": {\n    \"top headline\": \"large centered serif typography reading CHOCOLATE above enormous LAVA, with ICE CREAM below and thin gold divider lines\",\n    \"script slogan\": \"right side handwritten script reading Deep. Decadent. Irresistible.\",\n    \"premium badge\": \"top-right circular dark badge with gold border and cocoa bean icon, text reads MADE WITH PREMIUM COCOA\",\n    \"brush label\": \"right-lower black brush-stroke label reading PERFECT FOR / DESSERT LOVERS / CHOCOLATE CRAVINGS / SPECIAL MOMENTS with a small heart underneath\",\n    \"bottom signature\": \"bottom-right handwritten text reading Scoop into Happiness\"\n  },\n  \"feature callouts\": {\n    \"count\": 4,\n    \"position\": \"vertical column on the left with circular gold line icons and dotted leader lines pointing toward the ice cream\",\n    \"items\": [\n      {\n        \"label\": \"RICH & CREAMY\",\n        \"description\": \"Luxuriously smooth chocolate ice cream\",\n        \"icon\": \"cocoa bean\"\n      },\n      {\n        \"label\": \"MOLTEN CORE\",\n        \"description\": \"Warm, gooey chocolate lava in every bite\",\n        \"icon\": \"chocolate bar grid\"\n      },\n      {\n        \"label\": \"BROWNIE BITES\",\n        \"description\": \"Soft, fudgy brownie pieces for the perfect chocolatey crunch\",\n        \"icon\": \"brownie cube\"\n      },\n      {\n        \"label\": \"CHOCOLATE DRIZZLE\",\n        \"description\": \"Silky chocolate sauce for an extra layer of indulgence\",\n        \"icon\": \"dripping chocolate swirl\"\n      }\n    ]\n  },\n  \"bottom benefits bar\": {\n    \"count\": 4,\n    \"style\": \"dark chocolate horizontal footer panel with rounded top corners, thin gold borders and dividers, gold line icons, small uppercase white text\",\n    \"items\": [\n      \"PREMIUM INGREDIENTS with leaf icon\",\n      \"NO ARTIFICIAL FLAVORS with laboratory flask icon\",\n      \"MADE FRESH & CHILLED with snowflake icon\",\n      \"Scoop into Happiness in gold handwritten script\"\n    ]\n  },\n  \"typography\": \"high-contrast luxury serif for the main title, spaced uppercase sans serif for supporting copy, elegant cursive script for emotional slogans, all text clean and legible\",\n  \"color palette\": \"deep espresso brown, glossy dark chocolate, warm caramel gold, cream white, smoky charcoal gray\",\n  \"rendering notes\": \"make the molten chocolate flow thick, reflective, and appetizing; preserve exact visible text; create a polished commercial dessert poster suitable for a premium ice cream launch\"\n}",
+      "tags": [
+        "dark-chocolate",
+        "ice-cream",
+        "food-photography",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-lava-dark-chocolate-ice-cream",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/lava-dark-chocolate-ice-cream.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@dreyart01 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/dreyart01/status/2052088188257108280#reversed-3",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07406",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-cozy-cafe-moments",
+      "assetId": "goku-gpt-image-2-cozy-cafe-moments",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Cozy Café Moments Together"
+      },
+      "description": {
+        "en": "A production-ready image prompt for cozy café moments together, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a delicate illustration of modern Japanese lifestyle, filled with a warm atmosphere of everyday moments.\n\nArtistic style\nHand-drawn pen sketch illustrations, delicate and expressive lines, loose and imperfect contours, minimalist editorial artworks, soft watercolor grading, subtle paper textures, elegant negative spaces, sketchbook aesthetics, modern Japanese independent illustrations, light and transparent composition, contemporary café art style, emotions warm and intimate.\n\nPerson\nTwo young people with soft, simplified facial features and natural expressions. Wearing casual silhouettes, relaxed body language, genuine interactions, and authentic everyday moments. The face is rendered with delicate lines for minimalist rendering, rather than detailed realism.\n\nEnvironment\nA comfortable indoor environment, such as a café, coffee shop, apartment, studio, bookstore, kitchen corner, or creative workspace. This includes wooden furniture, coffee cups, indoor plants, bookshelves, books, windows, soft decorative details, and everyday small items. The environment should feel alive but not cluttered.\n\nComposition\nFull-body or three-quarters full-body view. The figures naturally sit, facing each other. A balanced asymmetrical layout. Large areas of clean negative space. Narrative is made through posture and atmosphere rather than movement. Editorial illustration composition. Head-up and perspective.\n\nPalette\nLimited to soft and low-saturation colors:\n• Gray-blue\n• Warm cream color\n• Soft beige\n• Light gray\n• Sage green\n• Warm brown\n• Off-white\n\nJust add a small area of accent color, such as red socks, red shoes, red mugs, or a small red object.\n\nLight and shadow\nSoft natural daylight streaming in through the windows. Gentle ambient lighting. No intense shadows. A warm, tranquil, and calm tone.\n\nRendering\nMinimalist Shadow. Sparse details. Watercolor-style fillers within the delicate ink outlines. A sketch texture with a slightly unfinished feel. High-quality illustrations with visible hand-drawn imperfections. Soft edges and subtle textures.\n\nEmotions\nComfortable, quiet, nostalgic, peaceful, intimate, cozy, everyday happiness, slow living, café culture, thoughtful conversations, gentle interpersonal connections.\n\nAvoid\nAnime screenshots, comic frames, cel shadows, digital painting, hyperrealism, photorealism, 3D rendering, glossy surfaces, vivid, saturated colors, cinematic effects, dramatic lighting, excessive detail, sharp contours, heavy shadows, complex backgrounds.\n\nScene:\n[Insert your scene description here]\n\nThe final image should feel like a high-end illustration of Japanese lifestyle found in an art book, coffee magazine, design journal, or independent sketchbook collection.",
+      "tags": [
+        "japanese-illustration",
+        "cafe-lifestyle",
+        "intimate-moments",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cozy-cafe-moments",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cozy-cafe-moments.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@oggii_0 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/oggii_0/status/2069469184787198164",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12296",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-movie-poster",
+      "assetId": "goku-gpt-image-2-minimalist-movie-poster",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Minimalist Movie Poster Design"
+      },
+      "description": {
+        "en": "A production-ready image prompt for minimalist movie poster design, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A striking minimalist movie poster design with a solid color [background color] textured background. The massive distressed [main word or title] typography dominates the composition, using oversized bold compact letters that occupy most of the image, featuring subtle vintage vintage textures. Small subtitles read as \"[Slogan]\" are cleverly integrated above or inside giant letters.\n\nStanding in front of the typography is a small full-body silhouette of a [character/subject], dressed in [costume description], holding [props/weapons/items], dramatically positioned at the lower right or lower center of the frame. The main body casts an oversized, elongated shadow that spans and interacts with the typography, becoming the main visual narrative element.\n\nHigh-contrast graphic design, cinematic negative space, editorial poster composition, strong proportional contrast between text and characters, subtle paper graininess, worn print texture, longitudinal lighting, dramatic shadow effects, ultra-clean layout, premium movie poster aesthetics, modern minimalist brand sense, centered composition, sharp edges, high resolution, no clutter, no unnecessary elements, strong visual impact.",
+      "tags": [
+        "minimalist",
+        "poster-design",
+        "cinematic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-minimalist-movie-poster",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-movie-poster.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ZephyraLeigh via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ZephyraLeigh/status/2069131289022877827",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13591",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-mystic-tiger-totem",
+      "assetId": "goku-gpt-image-2-mystic-tiger-totem",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Mystic Tiger Totem"
+      },
+      "description": {
+        "en": "A production-ready image prompt for mystic tiger totem, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Generate a square 1:1 Chinese vintage animal symbol poster, which must be a complete single poster—no grids, no puzzles, no collections.\n\nThe overall style includes: retro graphic posters, Eastern animal symbols, old paper textures, black silhouettes, solar rays, star-dot textures, classical typography, Chinese title design, and contemporary visual reconstruction.\n\nThe background features warm brown old paper, kraft paper, or yellowed Xuan paper texture, with slight wear, graininess, creases, mottled prints, and the texture of an old book cover. The overall color scheme is mainly black, dark brown, beige, and old paper tones, with a small amount of cinnabar red stamps or fine lines added for decoration.\n\nThe main subject of the painting is a black silhouette of an animal subject; avoid realistic photo-like or cartoonish looks. Animals should be designed as simple, powerful, and totemically shaped, with clear outlines, and can incorporate fine lines, star dots, track points, decorative patterns, body textures, or symbolic structures inside.\n\nA circular sun, moon ring, halo, or radiating line is added behind the animal, creating a strong visual center. Light can spread outward from a circle or overlap with the animal's outline. The overall look should be like a retro oriental graphic poster, not just an ordinary animal illustration.\n\nThe screen must have a Chinese main title:\n\"[Main Title]\"\n\nAdd Chinese subtitle:\n\"[Subtitle]\"\n\nAdd a short Chinese sentence:\n\"[Short Sentence]\"\n\nAdded attribution:\n\"Signature\"\n\nLayout requirements:\nThe main Chinese title should be prominent, placed on the left, right, or above, with fonts that resemble old book titles, inscriptions, Song dynasty style, or bold black printing.\nSecondary text should be restrained, using fine lines, borders, dots, stamps, and small text to create hierarchies of information.\nYou can add fine borders around the edges, and the borders should look like old prints or exhibition posters—not too modern.\nChinese must be clear and accurate, without garbled text or typos.\n\nComposition can vary:\nLeft text and right image, right text and left image, central totem, vertical segmentation, diagonal composition, symmetrical composition, blank space composition, partial cropping of animals, circular wraparound composition.\n\nVisual Temperament:\nAntique, mysterious, quiet, powerful, Oriental symbols, old paper aesthetics, vintage graphics, totem feel, exhibition poster feel.\n\nNo watermarks, no real brand logos, no QR codes, no complex backgrounds.",
+      "tags": [
+        "vintage-poster",
+        "oriental-totem",
+        "animal-symbol",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-mystic-tiger-totem",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/mystic-tiger-totem.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@YangOnchain via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/YangOnchain/status/2072147763664728221",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_14305",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-modern-villa-architectural-board",
+      "assetId": "goku-gpt-image-2-modern-villa-architectural-board",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Modern Villa Architectural Presentation Board"
+      },
+      "description": {
+        "en": "A production-ready image prompt for modern villa architectural presentation board, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A polished architectural presentation board for a {argument name=\"building type\" default=\"modern minimalist villa\"}, shown as a photorealistic dusk exterior rendering of a symmetrical two-story luxury house. The main hero image fills the upper portion: a front-facing contemporary home with a clean white and charcoal facade, broad overhanging roof, full-width balcony with glass railing, floor-to-ceiling warm-lit windows, centered dark entry door, landscaped lawn, paved path, subtle garden lights, and visible solar panels covering most of the roof. The mood is elegant, high-end, calm evening blue hour lighting with warm interior glow, realistic materials, soft shadows, and premium real-estate visualization quality. The lower portion is a clean presentation layout on a white background with Chinese labels and thin divider lines, like an architecture concept board. On the left is a text block with 1 title and 3 specification lines: the title reads {argument name=\"headline text\" default=\"现代极简风格别墅\"}, followed by area text, dimensions text, and structure/features text in Chinese. In the center are 2 labeled floor plans, each drawn in grayscale architectural plan style with furniture and room outlines: one labeled \"一层平面图\" and one labeled \"二层平面图\", both marked with dimensions 13000 by 10000. On the right side is a vertical column of 4 interior perspective thumbnails, each with Chinese room labels: \"客厅\", \"餐厅\", \"主卧\", \"主卧\". Along the bottom is a horizontal strip of 4 additional perspective thumbnails labeled \"厨房\", \"楼梯间\", \"卫生间\", \"阳台\". Total thumbnail renders: 8, total floor plans: 2, total major layout sections: 4. The interior thumbnails should match the same house design language: warm neutral palette, beige and wood tones, minimalist luxury furniture, integrated lighting, clean cabinetry, modern staircase, hotel-like bathroom, and scenic balcony seating. Overall style is a premium developer sales board or architect concept sheet, crisp grid layout, balanced margins, editorial presentation, ultra-detailed, photorealistic, high resolution.",
+      "tags": [
+        "architectural-visualization",
+        "real-estate",
+        "minimalist-design",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-modern-villa-architectural-board",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/modern-villa-architectural-board.jpg",
+        "ratio": "600:553",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@zhoupanjjp via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/zhoupanjjp/status/2049742341989093689#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_10268",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-summer-76-road-trip-polaroid",
+      "assetId": "goku-gpt-image-2-summer-76-road-trip-polaroid",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Summer '76 Road Trip Polaroid"
+      },
+      "description": {
+        "en": "A production-ready image prompt for summer '76 road trip polaroid, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a square 1970s instant Polaroid photograph with a thick off-white border and slightly rounded blackened edges, showing exactly 2 young adult friends standing in front of a sun-faded turquoise vintage Chevrolet pickup truck at a Route 66 roadside gas station in the American Southwest. The left friend leans casually against the driver-side front area wearing a blue denim jacket, light button-down shirt, faded jeans, and a belt; the right friend leans on the hood wearing a dark vintage rock band T-shirt, faded jeans, and a belt. Both have shoulder-length wavy {argument name=\"hair color\" default=\"brown\"} hair and relaxed road-trip body language, with softly blurred faces like an old snapshot. Behind them is a low gas station building with a corrugated roof, old fuel pumps, a visible Route 66 shield sign above the canopy, dusty desert hills and washed-out sky in the distance. Use sun-bleached warm cyan-and-yellow color grading, heavy vintage film grain, slight lens softness, faded contrast, dust specks, tiny scratches, uneven exposure, and a strong yellow-orange light leak blooming from the upper left. Add handwritten blue ink text centered on the bottom Polaroid border reading {argument name=\"handwritten caption\" default=\"Summer 76\"}. Make it feel like an authentic found 1976 vacation photo shot on instant film, nostalgic, imperfect, candid, and weathered.",
+      "tags": [
+        "polaroid",
+        "route66",
+        "vintage",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-summer-76-road-trip-polaroid",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/summer-76-road-trip-polaroid.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AskVenice via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AskVenice/status/2052891347552469088#reversed-1",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07248",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-eggs-benedict-miniature-collector-box",
+      "assetId": "goku-gpt-image-2-eggs-benedict-miniature-collector-box",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Eggs Benedict Miniature Collector Box"
+      },
+      "description": {
+        "en": "A production-ready image prompt for eggs benedict miniature collector box, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A premium artisan food photography image of a clear acrylic collector box displayed on a rustic wooden table, shot in a clean 4:5 product style with soft natural light and shallow depth of field. The box contains a miniature kitchen diorama dedicated to {argument name=\"dish name\" default=\"Eggs Benedict\"}, with a tiny chef figurine in a white toque and white uniform with a red neckerchief standing at center, mid-preparation, pouring glossy hollandaise sauce over a stacked eggs benedict on an English muffin half. Inside the center kitchen area, include 1 miniature stove, 1 frying pan, 1 small saucepan in the chef’s hand, 1 wooden prep table, 2 knives on the table, 3 hanging metal utensils, 2 stacked plates on the lower shelf, 1 small white bowl, and 2 seasoning mills beneath the table. Surround the center scene with exactly 12 clear ingredient compartments built into the acrylic box walls: top row has 4 compartments containing 2 English muffins, 3 butter cubes, 3 lemon slices, and 3 whole eggs; left side has 4 compartments containing 3 round slices of Canadian bacon, 2 sprigs of parsley, 1 whole egg, and 2 condiment bottles; right side has 4 compartments containing 1 origin map card labeled USA with a red map of the United States and a tiny NYC mark, 1 compartment of chopped chives, 2 spice jars, and 3 cracked egg yolks. The acrylic packaging has bold red, white, and blue trim bands around the top and bottom edges, evoking American flag colors. Add a front label plaque reading {argument name=\"front label\" default=\"EGGS BENEDICT\"} with smaller text {argument name=\"origin and date\" default=\"USA - 1894\"}. Keep the miniature highly detailed, realistic, polished, and luxurious, like a museum-grade culinary collectible or upscale toy packaging, with crisp transparent reflections and a warm editorial tabletop background.",
+      "tags": [
+        "miniature-food",
+        "product-photography",
+        "artisan-craft",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-eggs-benedict-miniature-collector-box",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/eggs-benedict-miniature-collector-box.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Gdgtify via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Gdgtify/status/2048800842191700194#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_05522",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-electric-bus-engineering-encyclopedia",
+      "assetId": "goku-gpt-image-2-electric-bus-engineering-encyclopedia",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Electric Bus Engineering Encyclopedia"
+      },
+      "description": {
+        "en": "A production-ready image prompt for electric bus engineering encyclopedia, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a premium square “reference-style sustainable transportation infographic” centered around a futuristic electric city bus called the {E_BUS_NAME}, designed as a beautifully curated urban-mobility handbook page rather than a commercial vehicle advertisement.\n\nThe composition should feel like a modern visual encyclopedia mixed with an elite public-transit engineering guide and high-end editorial infographic system.\n\nVisual Direction\n\n• 1:1 square composition\n• Premium smart-city background with subtle transportation blueprints, circuit-inspired overlays, and urban infrastructure schematics\n• Elegant palette using deep navy, graphite black, electric green, steel gray, and soft cyan accents\n• Refined editorial typography hierarchy\n• Rounded modular information cards with clean spacing\n• Gentle realistic reflections and premium transit-system dividers\n• Minimal transportation engineering iconography\n• Extremely detailed central electric bus render viewed in dramatic three-quarter perspective driving through a futuristic smart-city boulevard\n• Thin precision annotation lines pointing toward key systems and technologies\n• Clean, organized “knowledge-first” layout with high information density but breathable spacing\n\nMain Subject Presentation\n\nA stunning ultra-detailed realistic render of the {E_BUS_NAME} placed at the center, featuring:\n\n• sleek aerodynamic body design\n• panoramic windshield\n• illuminated destination display\n• low-floor accessibility layout\n• futuristic LED lighting systems\n• premium electric drivetrain details\n• realistic urban reflections\n• smart-city transportation realism\n\nSurround the bus with engineering callouts explaining:\n\n• battery pack technology\n• electric motor system\n• regenerative braking system\n• charging infrastructure compatibility\n• smart fleet management systems\n• passenger accessibility features\n• thermal battery management\n• energy-efficiency technologies\n• safety monitoring systems\n• intelligent driver assistance features\n\nInclude Modular Sections\n\n• E-Bus Overview\n• Technical Specifications\n• Vehicle Dimensions & Capacity\n• Powertrain & Energy System\n• Battery Technology Breakdown\n• Charging Solutions\n• Passenger Comfort Features\n• Safety & Reliability Systems\n• Fleet Management Technology\n• Environmental Impact Analysis\n• Operating Cost Comparison\n• Construction & Material Engineering\n• Sustainability Lifecycle Assessment\n• Smart-City Integration\n• Global Adoption Trends\n• “Did You Know?” Facts Section\n• Future of Electric Public Transport\n\nAdd Premium Visualization Modules\n\n• battery architecture diagrams\n• charging workflow graphics\n• energy-consumption charts\n• passenger-capacity visualizations\n• smart-city integration maps\n• drivetrain cutaway illustrations\n• environmental impact comparisons\n• fleet-management dashboards\n• vehicle blueprint dimensions\n• lifecycle sustainability graphics\n\nStyle Keywords\n\n“premium transportation encyclopedia”\n“editorial electric mobility handbook”\n“high-end public transit infographic”\n“scientific transportation poster”\n“museum-quality electric bus reference page”\n“modular smart-city knowledge system”\n“clean engineering editorial design”\n“ultra-detailed mobility visualization”\n“future transportation showcase”\n“sustainable urban mobility design”\n\nAvoid\n\n• generic vehicle advertisements\n• cluttered commercial brochure layouts\n• cartoon transportation styling\n• unrealistic flying-bus concepts\n• excessive cyberpunk neon overload\n• low-detail stock-vehicle renders\n\nFinal Goal\n\nThe final result should resemble a professionally published transportation-engineering reference-book page created for urban planners, transportation engineers, sustainability researchers, architects, public-transit authorities, and smart-city enthusiasts, combining technical accuracy, sustainability insights, and premium editorial design.",
+      "tags": [
+        "smart-transit",
+        "electric-bus",
+        "sustainable-mobility",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-electric-bus-engineering-encyclopedia",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/electric-bus-engineering-encyclopedia.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@j_smeaton99 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/j_smeaton99/status/2062365258984177766",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_15636",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-neon-geometric-confetti-chaos",
+      "assetId": "goku-gpt-image-2-neon-geometric-confetti-chaos",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Neon Geometric Confetti Chaos"
+      },
+      "description": {
+        "en": "A production-ready image prompt for neon geometric confetti chaos, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a square abstract maximalist digital painting with a chaotic confetti explosion composition. Fill the entire canvas edge to edge with hundreds of overlapping flat geometric shapes on a dominant saturated red background: countable foreground element types include many circles and dots in different sizes, many hexagons and polygon blobs, many long thin diagonal rectangles and slashes, and scattered paint-splatter marks. Use extremely vivid neon colors including {argument name=\"background color\" default=\"saturated red\"}, electric blue, cyan, lime green, hot pink, bright yellow, orange, purple, black, and white. The image should feel like 1980s Memphis design mixed with action painting and generative abstract art. Include approximately 18 large circular disks, 20 medium circles, 80+ tiny dots, 14 prominent hexagons or polygon shapes, and 35+ thin diagonal bars crossing at different angles; do not arrange them symmetrically. Layer shapes densely so almost no empty space remains, with frequent overlaps, sharp clean vector edges, and occasional rough splatter-like fragments. Add several high-contrast white diagonal streaks, black short bars and dots, yellow slashes, blue slashes, and magenta slashes for rhythm. No recognizable objects, no people, no readable text, no shadows, no gradients, no borders; keep it flat, bright, noisy, playful, and intensely colorful.",
+      "tags": [
+        "abstract-art",
+        "memphis-design",
+        "maximalism",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-neon-geometric-confetti-chaos",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/neon-geometric-confetti-chaos.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ginzanights100 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ginzanights100/status/2060412317226160168#reversed-1",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_09353",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-mystic-glaze-imperial-porcelain",
+      "assetId": "goku-gpt-image-2-mystic-glaze-imperial-porcelain",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Mystic Glaze: Imperial Porcelain"
+      },
+      "description": {
+        "en": "A production-ready image prompt for mystic glaze: imperial porcelain, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Generate a poster for a high-end Oriental Museum exhibition.\n\nTopic: [Theme Name]\nChinese Title: [Main Chinese Title]\nSubtitle: [Chinese Subtitle]\nEnglish Subtitle: [English Subtitle]\nExhibition Period: [2026.xx.xx — 2026.xx.xx]\nLocation: [Museum / Art Gallery · Exhibition Hall]\nMain Items: [Porcelain / Bronze / Tea ware / Bird-and-flower paintings / Jade / Lacquerware / Ancient books, etc.]\nBackground colors: [Deep Peacock Green / Deep Indigo / Dark Gold Dark Green / Dark Tea Brown Red / Dark Black, etc.]\nBackground line drawing: [Lotus / Branches and Vines / Cloud Patterns / Taotie Pattern / Bamboo Leaves / Plum Branches / Outline of Objects]\nRatio: vertical 3:4\n\nThe overall style is a high-end Oriental Museum exhibition poster, with a dark paper background, fine grains, old paper texture, and a realistic printed poster texture.\n\nPlace an oversized Chinese main title on the left or upper left, using Song type, Ming typeface, or ancient book title font, in old gold or beige gold. Titles must feature subtle gradients, paper grains, gold powder grains, slight mottling, and artificially aged edges; do not use solid flat font.\n\nThe main object is a museum-level hero object, beautifully shaped, richly patterned, exquisitely made from materials, and possessing artistic collectible value. Use partial cropping, large crop in the lower right corner, circular windows, or partially exposed images; do not pose the entire product.\n\nThe background features clearly distinct low-contrast line art decorations, such as lotus flowers, vines, cloud patterns, taotie motifs, bamboo leaves, plum branches, and the outlines of objects. Line drawing should be complete and structured, not too light or vague.\n\nThe layout includes: large Chinese title, English subtitle, date module in the upper right corner, exhibition introduction / opening hours / organizer / academic support at the bottom, and other small print information. The overall design should have blank space, layering, rhythm, and a real visual texture of the museum's main visual experience.\n\nAvoid cheap Guochao (Chinese trend) trends, travel posters, e-commerce ads, cartoon-like looks, neon effects, titles lacking texture, space-based backgrounds, overly faint line drawings, crude objects, garbled text, crowded layouts, and low resolution.",
+      "tags": [
+        "museum",
+        "porcelain",
+        "oriental",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-mystic-glaze-imperial-porcelain",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/mystic-glaze-imperial-porcelain.jpg",
+        "ratio": "3:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@MrLarus via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/MrLarus/status/2069296654352515390",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_12945",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-switzerland-vintage-travel-poster",
+      "assetId": "goku-gpt-image-2-switzerland-vintage-travel-poster",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Switzerland Vintage Travel Poster"
+      },
+      "description": {
+        "en": "A production-ready image prompt for switzerland vintage travel poster, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a highly detailed vintage-inspired illustrated travel poster and infographic for {argument name=\"country name\" default=\"Switzerland\"}, shown as a sculpted 3D relief map centered on a clean light gray background. At the top, place a huge bold black sans-serif title reading {argument name=\"headline text\" default=\"SWITZERLAND\"}, with smaller uppercase text below reading TRAVEL GUIDE, flanked by thin horizontal divider lines and a tiny red shield emblem with a white cross. The centerpiece is a raised topographic map of Switzerland rendered like a miniature diorama, with rocky borders, green valleys, snowy alpine peaks, blue lakes, winding white roads, and a few rail lines. Mark exactly 12 destinations on the map with black dot markers and bold black capsule labels with white uppercase text: BASEL, ZÜRICH, ST. GALLEN, LUCERNE, BERN, INTERLAKEN, CHUR, ST. MORITZ, LUGANO, ZERMATT, GENEVA, and LAUSANNE. Integrate miniature landmark buildings and scenery directly onto the map, including churches, old town towers, waterfront structures, castles, and mountain villages, plus two small red trains moving through the landscape. Add surrounding travel ephemera arranged around the map: 1 worn brown vintage suitcase with travel stickers and a red Swiss-cross badge in the upper left, 1 antique brass compass rose on the left, 1 postage stamp in the upper right reading TRAVEL TO SWITZERLAND with mountain art and postal cancellation marks, 1 realistic Swiss flag on a pole in the top right corner, 1 tilted polaroid photo in the lower left with snowy mountains and the caption {argument name=\"photo caption\" default=\"Swiss Alps\"}, and 4 faceted heart-shaped crystal charms total, with 2 clear/silver hearts and 2 red hearts placed around the composition. On the right side, add a vertical sightseeing list with icon illustrations and thin separators, containing exactly 12 city entries with headings and short attraction lines: ZÜRICH — Bahnhofstrasse; Old Town (Altstadt); Lake Zurich. LUCERNE — Chapel Bridge; Lion Monument; Lake Lucerne. INTERLAKEN — Jungfraujoch; Harder Kulm; Lake Brienz & Thun. ZERMATT — Matterhorn; Gornergrat Railway; Skiing & Hiking. GENEVA — Jet d'Eau; United Nations; Lake Geneva. LAUSANNE — Olympic Museum; Lausanne Cathedral; Lake Geneva. BERN — Federal Palace; Zytglogge Clock Tower; Bear Park. ST. MORITZ — St. Moritz Lake; Skiing; Luxury Shopping. LUGANO — Lake Lugano; Monte Brè; Swiss-Italian Culture. ST. GALLEN — Abbey Library; St. Gallen Cathedral; Textile Museum. CHUR — Old Town; Bishop's Palace; Rhine Valley. BASEL — Kunstmuseum; Basel Minster; Rhine River. Use a premium editorial travel-brand aesthetic, combining realistic miniature map rendering, crisp typography, soft studio shadows, subtle drop shadows under objects, and a polished tourism campaign look.",
+      "tags": [
+        "travel-poster",
+        "relief-map",
+        "vintage-illustration",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-switzerland-vintage-travel-poster",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/switzerland-vintage-travel-poster.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Naiknelofar788 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Naiknelofar788/status/2047135588378362280#reversed-1",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_04070",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-technical-teardown-infographic",
+      "assetId": "goku-gpt-image-2-technical-teardown-infographic",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Technical Teardown Infographic"
+      },
+      "description": {
+        "en": "A production-ready image prompt for technical teardown infographic, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a square 1080x1080 technical infographic for {argument name=\"object\" default=\"OBJECT\"}, shown from a 45-degree isometric 3D angle so the object is slightly tilted and its depth, dimensions, and internal architecture are easy to read.\n\nBlend a realistic photoreal product render with precise black-ink engineering annotations on a pure white background. Include labeled key components with color-coded callout boxes, transparent or cutaway areas that reveal internal parts, exact measurements and scale markers, material notes with quantities, and function-flow arrows using red for power or battery, blue for data or connectivity, orange for thermal or processor systems, and green for sensors or haptics.\n\nAdd small schematic views or cross-section diagrams wherever they help explain the object. Place the title \"{argument name=\"object title\" default=\"OBJECT\"}\" inside a hand-drawn technical label box in the top-left corner.\n\nStyle the artwork like a professional product teardown manual with architectural pen linework: sketched but accurate, clean, crisp, and educational. Keep the object clearly visible, use balanced negative space, make black the dominant color, and limit accents to about 10-15% of the composition.\n\nOverall mood: clean museum exhibit, premium engineering manual, ultra-crisp social-feed infographic, white background, sharp details, high clarity.",
+      "tags": [
+        "engineering",
+        "product-design",
+        "isometric",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-technical-teardown-infographic",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/technical-teardown-infographic.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@iamaiistudio via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/iamaiistudio/status/2061796007021814087",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_06063",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-italian-cuisine-poster",
+      "assetId": "goku-gpt-image-2-minimalist-italian-cuisine-poster",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Minimalist Italian Cuisine Poster"
+      },
+      "description": {
+        "en": "A production-ready image prompt for minimalist italian cuisine poster, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "A minimalistic advertising poster about food in a modern Italian style with Japanese layout aesthetics, preserving the exact compositional structure: two large rounded vertical geometric color blocks arranged diagonally along the composition, food photography with a view from above. The upper left block is a hero dish: {argument name=\"first dish\" default=\"fresh tagliatelle pasta with truffle cream and parmesan cheese on a light ceramic plate\"}, with thin slices of black truffle, olive oil and microgreens, premium restaurant service. The lower right block is the second hero dish: {argument name=\"second dish\" default=\"slow—stewed ossobuco with saffron risotto on a matte dark plate\"}, with rich sauce, gremolata and fresh herbs, modern author's Italian cuisine. Floating side dishes and appliances are neatly arranged around each dish: vintage cutlery, linen napkins, sprigs of rosemary and thyme, cherry tomatoes, slices of parmesan, miniature saucepans with olive oil, fresh handmade focaccia, olives and spices. Large typography in modern Italian style is aligned to the upper right, the text is entirely in English : the name of the restaurant, the names of the dishes and the prices. Small text with prices is placed next to each dish. Airy editorial is a negative space system, a soft pastel commercial palette with shades of cream, terracotta, olive, sage and graphite. Clear asymmetrical visual hierarchy, premium restaurant branding aesthetics, cinematic soft shadows, modern menu presentation in poster format. The subtle signature in the footer is naturally integrated into the bottom of the composition. Pure vertical composition, ultra detailed, premium branding, realistic food styling, soft cinematic dim green lighting, Italian cuisine editorial poster design, minimalism.",
+      "tags": [
+        "food-poster",
+        "italian-cuisine",
+        "minimal-design",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-minimalist-italian-cuisine-poster",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-italian-cuisine-poster.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@im_shahid7 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/im_shahid7/status/2067835275695534326",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_04734",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-perfume-bottle",
+      "assetId": "goku-gpt-image-2-luxury-perfume-bottle",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Luxury Perfume Bottle Photography"
+      },
+      "description": {
+        "en": "A production-ready image prompt for luxury perfume bottle photography, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a photorealistic luxury product photograph of a square glass perfume bottle centered on wet black marble, with a clear thick transparent rectangular bottle, warm amber perfume liquid inside, and a reflective metallic gold rectangular cap covered in tiny water droplets. The front label reads {argument name=\"brand name\" default=\"MAISON LUMIÈRE\"} with smaller text {argument name=\"product type\" default=\"EAU DE PARFUM\"}. Use {argument name=\"lighting style\" default=\"golden hour backlight\"} shining directly from behind the cap, producing a bright sun flare, glowing amber highlights through the liquid, elegant caustic light patterns inside the bottle, and shimmering gold reflections on the wet marble surface. Add many realistic water droplets and condensation beads on the glass, cap, and tabletop, with small puddles and marble veining visible around the base. The background is softly blurred with warm vertical architectural shapes and circular bokeh lights, creating a premium high-end fragrance campaign mood. Shoot from a slightly low eye-level angle with shallow depth of field, crisp focus on the bottle edges and label, dramatic contrast, cinematic warm tones, ultra-detailed commercial product photography, 1:1 square composition.",
+      "tags": [
+        "perfume",
+        "luxury",
+        "commercial",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-luxury-perfume-bottle",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-perfume-bottle.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@AskVenice via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/AskVenice/status/2052891324588654603#reversed-1",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_07157",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-corporate-workflow-automation",
+      "assetId": "goku-gpt-image-2-corporate-workflow-automation",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Corporate Workflow Automation Illustration"
+      },
+      "description": {
+        "en": "A production-ready image prompt for corporate workflow automation illustration, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a clean isometric corporate website illustration on a white background, showing a stylized laptop at the center with a workflow automation diagram on its screen. A human figure in a red sweater, black pants, and white shoes stands to the right of the laptop, reaching forward and pressing a red rounded-square node on the screen. Use a modern vector/3D hybrid style with thick black outlines, soft gray shadows, white surfaces, and a limited palette of orange, red, black, and light gray. Include exactly 7 distinct surrounding objects connected by black circuit-like lines with small orange circular junctions: 1 large orange gear in the upper left behind the laptop screen, 1 small red gear on the right, 1 white rounded cube with an orange top tile in the upper right, 1 white/red rounded cube with a pie-chart icon in the lower left, 1 small white rounded cube with an orange check mark at the bottom center, 1 stacked white server-like cube with an orange top and small orange/red dots in the lower right, and 1 central laptop with a visible keyboard and trackpad. On the laptop screen include exactly 5 workflow UI elements: 2 red rounded-square nodes with white circular centers, 1 orange rounded rectangle in the middle, 1 white rounded rectangle with three small colored dots, and 1 black curved connector leading to the right red node. Keep the composition airy, minimal, friendly, and suitable as a corporate site hero asset for {argument name=\"business theme\" default=\"automation and digital workflow\"}. No text, no logos, no photorealism, no clutter.",
+      "tags": [
+        "automation",
+        "workflow",
+        "corporate",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-corporate-workflow-automation",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/corporate-workflow-automation.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@husky__create via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/husky__create/status/2072216489688781194#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_10613",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-smart-form-builder",
+      "assetId": "goku-gpt-image-2-smart-form-builder",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Smart Form Builder Feature Update"
+      },
+      "description": {
+        "en": "A production-ready image prompt for smart form builder feature update, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "{\"type\":\"SaaS feature update banner infographic\",\"style\":\"clean modern Japanese tech marketing visual, soft gradient abstract background, premium UI showcase, minimal flat illustration, rounded cards, subtle shadows, crisp typography\",\"language\":\"Japanese\",\"canvas\":{\"aspect_ratio\":\"1:1\",\"background\":\"white base with soft purple gradient waves, faint dotted halftone accents, light geometric sparkles in the corners\"},\"headline\":{\"main\":\"{argument name=\\\"headline text\\\" default=\\\"自由にカスタマイズ\\\"}\",\"sub\":\"{argument name=\\\"subheadline text\\\" default=\\\"6種類の入力形式で項目設計\\\"}\",\"main_style\":\"very large bold Japanese sans-serif, deep blue to violet gradient fill\",\"sub_style\":\"medium bold Japanese sans-serif, teal and dark navy text with small decorative sparkle icons and thin divider lines on both sides\"},\"layout\":{\"composition\":\"two-column product feature banner\",\"sections\":[{\"title\":\"input type list\",\"position\":\"left\",\"count\":6,\"labels\":[\"テキスト入力\",\"ラジオボタン（単一選択）\",\"チェックボックス（複数選択）\",\"段落テキスト\",\"日付・日時\",\"画像アップロード\"],\"container\":\"vertical stack of 6 rounded white pill cards with soft shadow\",\"icon_style\":\"large simple colored icons inside pale circular badges\",\"colors\":[\"purple\",\"teal\",\"teal\",\"purple\",\"teal\",\"orange\"]},{\"title\":\"form builder UI\",\"position\":\"right\",\"count\":6,\"labels\":[\"お名前\",\"性別\",\"興味のあるサービス\",\"ご要望・お悩み\",\"ご来店希望日時\",\"参考画像（任意）\"],\"container\":\"large rounded white application window with purple-blue header bar\",\"header_text\":\"{argument name=\\\"panel title\\\" default=\\\"カルテ項目を作成\\\"}\",\"field_types\":[\"single-line text input\",\"radio buttons\",\"checkbox group\",\"multiline text area\",\"date and time picker\",\"image upload dropzone\"]}],\"connector\":\"teal dotted bracket-like guide visually linking the left feature list to the form builder panel\"},\"ui_details\":{\"badges_count\":3,\"badges\":[\"必須\",\"必須\",\"必須\"],\"sample_values\":{\"name_placeholder\":\"例) 山田 花子\",\"radio_options\":[\"男性\",\"女性\",\"その他\"],\"checkbox_options\":[\"カット\",\"カラー\",\"トリートメント\",\"その他\"],\"textarea_placeholder\":\"ご自由にご記入ください\",\"date_value\":\"2024/05/12\",\"time_value\":\"14:00\",\"upload_hint\":\"タップして画像を選択\"},\"window_controls\":\"minimal dots and drag handles, clean form rows with thin light gray borders\"},\"color_palette\":{\"primary\":\"violet to royal blue gradient\",\"secondary\":\"teal\",\"accent\":\"orange\",\"surface\":\"white\",\"text\":\"navy and gray\"},\"quality\":\"high-resolution polished startup marketing graphic, balanced spacing, elegant Japanese SaaS promotional banner for announcing customizable form input types\"}",
+      "tags": [
+        "form",
+        "saas",
+        "customization",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-smart-form-builder",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/smart-form-builder.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Satohide1994 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Satohide1994/status/2047941571748995546#reversed-3",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_11272",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-gourmet-kachori-commercial",
+      "assetId": "goku-gpt-image-2-gourmet-kachori-commercial",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Gourmet Kachori Commercial Shoot"
+      },
+      "description": {
+        "en": "A production-ready image prompt for gourmet kachori commercial shoot, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Ultra-premium commercial food photography, hero shot of a {argument name=\"subject\" default=\"freshly baked crispy stuffed puff pastry (kachori)\"} placed on a smooth geometric platform, one pastry cut open revealing {argument name=\"filling\" default=\"richly textured spicy filling\"}, golden flaky crust with visible crumbs scattered naturally around it. {argument name=\"background\" default=\"Minimalist pastel mint-green background\"} with seamless color harmony. Professional advertising photography, soft directional studio lighting from camera-left, clean shadows, ultra-sharp focus, macro food detail, realistic textures, luxury packaging campaign aesthetic, shallow depth of field, Hasselblad medium-format camera, 100mm macro lens, f/5.6, ISO 100, photorealistic, vibrant yet natural colors, elegant composition, negative space, premium food branding, magazine-quality product shot, hyperrealistic, 8K resolution.",
+      "tags": [
+        "food-photography",
+        "commercial-ad",
+        "macro-detail",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-gourmet-kachori-commercial",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/gourmet-kachori-commercial.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@im_shahid7 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/im_shahid7/status/2064655760223809777",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_05472",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-dark-studio-sneaker-campaign",
+      "assetId": "goku-gpt-image-2-dark-studio-sneaker-campaign",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Dark Studio Sneaker Campaign"
+      },
+      "description": {
+        "en": "A production-ready image prompt for dark studio sneaker campaign, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a premium, highly realistic 1:1 campaign poster for {argument name=\"brand\" default=\"DIMOND\"}, a modern performance sneaker brand. Show one {argument name=\"item\" default=\"hero sneaker\"} as the main focus in a dark studio with a glossy reflective floor, dramatic cinematic lighting, subtle motion energy, and a sleek athletic feel. Add bold, minimal typography with the brand name {argument name=\"brand\" default=\"DIMOND\"} and a short campaign headline. Make it feel like a real high-end sportswear ad, clean composition, sharp detail, realistic materials, modern and polished, cool dark tones with subtle metallic accents, no clutter, no collage.",
+      "tags": [
+        "sneaker",
+        "premium-ad",
+        "dark-studio",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-dark-studio-sneaker-campaign",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/dark-studio-sneaker-campaign.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ecomchasedimond via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ecomchasedimond/status/2048511311148089784",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_03566",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-earthy-burger",
+      "assetId": "goku-gpt-image-2-minimalist-earthy-burger",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Minimalist Earthy Burger Photography"
+      },
+      "description": {
+        "en": "A production-ready image prompt for minimalist earthy burger photography, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Minimalist earth-style gourmet burger product photography, placed on a country-style wooden table, with a warm beige-textured plaster wall background, soft natural light on the sides, shallow depth of field, cinematic shadows, organic aesthetic style, small dried flowers scattered beside the burger, and ceramic bowls filled with stones. Behind the burger floats a whimsical white hand-painted graffiti fairy character with magical bubbles and sparkles, a clean premium brand atmosphere, comfortable eco-friendly ambiance, hyperrealistic, editorial food ads, soft brown and cream tones, high detail, soft focus, 1:1 composition",
+      "tags": [
+        "burger",
+        "minimalist",
+        "food-photography",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-minimalist-earthy-burger",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-earthy-burger.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Sairah_0 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Sairah_0/status/2057029302445809958",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_13557",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-futuristic-samurai-portrait",
+      "assetId": "goku-gpt-image-2-futuristic-samurai-portrait",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "illustration",
+      "title": {
+        "en": "Futuristic Samurai Dark Fantasy Portrait"
+      },
+      "description": {
+        "en": "A production-ready image prompt for futuristic samurai dark fantasy portrait, with clear composition, lighting, and art-direction cues."
+      },
+      "prompt": "Create a cinematic dark fantasy portrait of a futuristic samurai warrior standing in a smoky interior, framed from mid-torso upward and turned slightly three-quarters to the viewer's left. The warrior wears {argument name=\"armor color\" default=\"matte black\"} tactical samurai armor with layered shoulder plates, small metal charms and engraved plaques, leather straps, buckles, braided rope cords, and a chest plate marked with a {argument name=\"chest emblem\" default=\"red horned crescent clan symbol\"}. The helmet is a modernized kabuto with tall sweeping crescent antlers, a round crest medallion on the brow, scuffed black metal, and a full respirator gas mask with twin circular filters, angular face plating, and a dark tinted visor that hides the eyes. Use richly textured black brocade fabric under the armor, subtle red stitching and accents, worn edges, scratches, dust, and realistic metal reflections. Behind the figure, place one vertical red-orange banner on the left side with large blurred black Japanese calligraphy, reading {argument name=\"banner text\" default=\"赤砂鬼\"}, while the rest of the background fades into deep charcoal shadow. Atmosphere should be moody and cinematic with drifting smoke at the lower left, warm red rim light from the banner side, cool dim fill light from the right, shallow depth of field, high-detail photorealistic rendering, dramatic contrast, square composition, no visible face, no extra characters, no readable text except the banner calligraphy.",
+      "tags": [
+        "samurai",
+        "dark-fantasy",
+        "cinematic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-futuristic-samurai-portrait",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/futuristic-samurai-portrait.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ethanhaveron via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ethanhaveron/status/2052467209163706842#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_id": "GI2_11081",
+        "captured_at": "2026-10-21"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
     }
   ]
 }

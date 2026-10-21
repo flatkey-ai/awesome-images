@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **296**
-Demo assets: **304**
+Published templates: **321**
+Demo assets: **329**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -852,6 +852,31 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Moonlit Shrine of Dancing Cranes](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 - [Revolution Cuisine Diorama Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 - [Restaurant Tote Bag Branding](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Futuristic Metro Engineering Handbook](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Psychedelic Rock Poster Generator](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Food Character Miniature Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Emerging Through Mist](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Glassmorphism UI Component Showcase](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Lava Dark Chocolate Ice Cream Ad](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Cozy Café Moments Together](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Minimalist Movie Poster Design](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Mystic Tiger Totem](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Modern Villa Architectural Presentation Board](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Summer '76 Road Trip Polaroid](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Eggs Benedict Miniature Collector Box](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Electric Bus Engineering Encyclopedia](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Neon Geometric Confetti Chaos](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Mystic Glaze: Imperial Porcelain](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Switzerland Vintage Travel Poster](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Technical Teardown Infographic](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Minimalist Italian Cuisine Poster](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Luxury Perfume Bottle Photography](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Corporate Workflow Automation Illustration](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Smart Form Builder Feature Update](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Gourmet Kachori Commercial Shoot](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Dark Studio Sneaker Campaign](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Minimalist Earthy Burger Photography](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Futuristic Samurai Dark Fantasy Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 
 ## Demo assets
 
@@ -1161,3 +1186,28 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Moonlit Shrine of Dancing Cranes](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/moonlit-shrine-dancing-cranes.jpg) — 媒体与娱乐
 - [Revolution Cuisine Diorama Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/revolution-cuisine-diorama-art.jpg) — 媒体与娱乐
 - [Restaurant Tote Bag Branding](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/restaurant-tote-bag-branding.jpg) — 媒体与娱乐
+- [Futuristic Metro Engineering Handbook](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/futuristic-metro-engineering-handbook.jpg) — 媒体与娱乐
+- [Psychedelic Rock Poster Generator](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/psychedelic-rock-poster.jpg) — 媒体与娱乐
+- [Food Character Miniature Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/food-character-miniature-art.jpg) — 媒体与娱乐
+- [Emerging Through Mist](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/emerging-through-mist.jpg) — 媒体与娱乐
+- [Glassmorphism UI Component Showcase](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/glassmorphism-ui-component-showcase.jpg) — 媒体与娱乐
+- [Lava Dark Chocolate Ice Cream Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/lava-dark-chocolate-ice-cream.jpg) — 媒体与娱乐
+- [Cozy Café Moments Together](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cozy-cafe-moments.jpg) — 媒体与娱乐
+- [Minimalist Movie Poster Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-movie-poster.jpg) — 媒体与娱乐
+- [Mystic Tiger Totem](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/mystic-tiger-totem.jpg) — 媒体与娱乐
+- [Modern Villa Architectural Presentation Board](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/modern-villa-architectural-board.jpg) — 媒体与娱乐
+- [Summer '76 Road Trip Polaroid](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/summer-76-road-trip-polaroid.jpg) — 媒体与娱乐
+- [Eggs Benedict Miniature Collector Box](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/eggs-benedict-miniature-collector-box.jpg) — 媒体与娱乐
+- [Electric Bus Engineering Encyclopedia](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/electric-bus-engineering-encyclopedia.jpg) — 媒体与娱乐
+- [Neon Geometric Confetti Chaos](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/neon-geometric-confetti-chaos.jpg) — 媒体与娱乐
+- [Mystic Glaze: Imperial Porcelain](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/mystic-glaze-imperial-porcelain.jpg) — 媒体与娱乐
+- [Switzerland Vintage Travel Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/switzerland-vintage-travel-poster.jpg) — 媒体与娱乐
+- [Technical Teardown Infographic](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/technical-teardown-infographic.jpg) — 媒体与娱乐
+- [Minimalist Italian Cuisine Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-italian-cuisine-poster.jpg) — 媒体与娱乐
+- [Luxury Perfume Bottle Photography](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/luxury-perfume-bottle.jpg) — 媒体与娱乐
+- [Corporate Workflow Automation Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/corporate-workflow-automation.jpg) — 媒体与娱乐
+- [Smart Form Builder Feature Update](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/smart-form-builder.jpg) — 媒体与娱乐
+- [Gourmet Kachori Commercial Shoot](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/gourmet-kachori-commercial.jpg) — 媒体与娱乐
+- [Dark Studio Sneaker Campaign](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/dark-studio-sneaker-campaign.jpg) — 媒体与娱乐
+- [Minimalist Earthy Burger Photography](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-earthy-burger.jpg) — 媒体与娱乐
+- [Futuristic Samurai Dark Fantasy Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/futuristic-samurai-portrait.jpg) — 媒体与娱乐
