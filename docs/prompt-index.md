@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **321**
-Demo assets: **329**
+Published templates: **346**
+Demo assets: **354**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -878,6 +878,91 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Minimalist Earthy Burger Photography](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 - [Futuristic Samurai Dark Fantasy Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 
+## 软件与 SaaS
+
+- [Bio-Inspired Office Quartet](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 媒体与娱乐
+
+- [Surreal Cliff Street Illusion](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 旅游与酒店
+
+- [Elegant Watercolor Fashion Travel Art](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+- [Giant Orange Puffer Tenting Iceland Bus Stop](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 时尚与服饰
+
+- [Jewel Beetle Haute Couture Gown Design](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 媒体与娱乐
+
+- [Time Travelers' Neon Food Market](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Felted Miniature World Craft](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 教育与培训
+
+- [Major Religions Architectural Dioramas](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Cute Hamster Infographic Poster](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 时尚与服饰
+
+- [Golden Sunset Fashion Editorial](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 出版
+
+- [Phoenix Rebirth Typography](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 旅游与酒店
+
+- [Pakistan Floating Island Map Masterpiece](../catalog/model-detail-assets.json) — travel-poster · gpt-image-2
+
+## 教育与培训
+
+- [Rosemary Chronicle: Twelve Stages](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Four-Panel Science Educational Poster](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 时尚与服饰
+
+- [Surreal Flower Fashion Editorial](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 出版
+
+- [Knitted Wool Cinematic Poster](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 时尚与服饰
+
+- [Holographic Fashion Cube Portrait](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+
+## 教育与培训
+
+- [Magnus Effect Explained Visually](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Chengdu Food Walking Map](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+- [City Lovers Watercolor Travel Poster](../catalog/model-detail-assets.json) — travel-poster · gpt-image-2
+
+## 电商与零售
+
+- [Zero Gravity Sleep Cloud](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 游戏
+
+- [Gothic Fantasy Miniature Atelier](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 时尚与服饰
+
+- [Crimson Hanfu Fantasy Portrait](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 软件与 SaaS
+
+- [Minimal Taxi App Isometric Illustration](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Edible Miniature Beijing Cityscape](../catalog/model-detail-assets.json) — city-miniature · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -1211,3 +1296,28 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Dark Studio Sneaker Campaign](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/dark-studio-sneaker-campaign.jpg) — 媒体与娱乐
 - [Minimalist Earthy Burger Photography](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimalist-earthy-burger.jpg) — 媒体与娱乐
 - [Futuristic Samurai Dark Fantasy Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/futuristic-samurai-portrait.jpg) — 媒体与娱乐
+- [Bio-Inspired Office Quartet](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/bio-inspired-office-quartet.jpg) — 软件与 SaaS
+- [Surreal Cliff Street Illusion](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/surreal-cliff-street.jpg) — 媒体与娱乐
+- [Elegant Watercolor Fashion Travel Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/watercolor-fashion-travel.jpg) — 旅游与酒店
+- [Giant Orange Puffer Tenting Iceland Bus Stop](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/giant-orange-puffer-iceland-bus-stop.jpg) — 旅游与酒店
+- [Jewel Beetle Haute Couture Gown Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/jewel-beetle-haute-couture-gown.jpg) — 时尚与服饰
+- [Time Travelers' Neon Food Market](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/time-travelers-neon-food-market.jpg) — 媒体与娱乐
+- [Felted Miniature World Craft](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/felted-miniature-world.jpg) — 媒体与娱乐
+- [Major Religions Architectural Dioramas](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/four-religions-architectural-dioramas.jpg) — 教育与培训
+- [Cute Hamster Infographic Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/cute-hamster-infographic.jpg) — 教育与培训
+- [Golden Sunset Fashion Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/golden-sunset-fashion-editorial.jpg) — 时尚与服饰
+- [Phoenix Rebirth Typography](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/phoenix-rebirth-poster.jpg) — 出版
+- [Pakistan Floating Island Map Masterpiece](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/pakistan-floating-island-map.jpg) — 旅游与酒店
+- [Rosemary Chronicle: Twelve Stages](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/rosemary-chronicle-twelve-stages.jpg) — 教育与培训
+- [Four-Panel Science Educational Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/four-panel-science-educational-poster.jpg) — 教育与培训
+- [Surreal Flower Fashion Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/surreal-flower-fashion-editorial.jpg) — 时尚与服饰
+- [Knitted Wool Cinematic Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/knitted-wool-cinematic-poster.jpg) — 出版
+- [Holographic Fashion Cube Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/holographic-fashion-cube-portrait.jpg) — 时尚与服饰
+- [Magnus Effect Explained Visually](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/magnus-effect-infographic.jpg) — 教育与培训
+- [Chengdu Food Walking Map](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/chengdu-food-walking-map.jpg) — 旅游与酒店
+- [City Lovers Watercolor Travel Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/city-lovers-watercolor-travel-poster.jpg) — 旅游与酒店
+- [Zero Gravity Sleep Cloud](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/zero-gravity-sleep-cloud.jpg) — 电商与零售
+- [Gothic Fantasy Miniature Atelier](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/gothic-fantasy-miniature-atelier.jpg) — 游戏
+- [Crimson Hanfu Fantasy Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/crimson-hanfu-fantasy-portrait.jpg) — 时尚与服饰
+- [Minimal Taxi App Isometric Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimal-taxi-app-illustration.jpg) — 软件与 SaaS
+- [Edible Miniature Beijing Cityscape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/edible-mini-beijing.jpg) — 旅游与酒店
