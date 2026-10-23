@@ -13180,6 +13180,621 @@
       },
       "status": "published",
       "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-bold-thermal-receipt-lamp-poster",
+      "assetId": "goku-gpt-image-2-bold-thermal-receipt-lamp-poster",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "poster-design",
+      "title": {
+        "en": "Bold Thermal Receipt Lamp Poster"
+      },
+      "description": {
+        "en": "A production-ready image prompt for bold Thermal Receipt Lamp Poster, reviewed against its published output."
+      },
+      "prompt": "Goal: Create a bold experimental product poster for a design-object announcement, combining an extreme cropped typography background with a thermal receipt layout overlay.\n\nCanvas: Vertical poster, 4:5 aspect ratio, off-white outer margin around a saturated hot-pink rectangular field. Use a clean print-design composition with slight risograph/thermal-paper grain and subtly imperfect ink edges.\n\nLayout: Place one huge cream-white uppercase background title reading {argument name=\"product name\" default=\"TABLE LAMP\"}, spanning nearly the full width across the upper third; crop the letters heavily at the left and right edges so the title feels oversized and partially hidden. Center-right, overlay exactly one tall narrow cream thermal receipt running from near the top to near the bottom, with zigzag torn edges at the top and bottom. Add one thin vertical microtext line beside the receipt, rotated 90 degrees, reading like an archive/design ID. Along the bottom of the pink field place exactly two separate cream barcode blocks, one at bottom left and one at bottom right. The receipt itself contains exactly one black barcode near its bottom.\n\nReceipt details: The receipt header has a large condensed black title {argument name=\"receipt header\" default=\"TABLE LAMP\"}. Under it, include the subtitle “AESTHETICS, SWITCHED ON”. Fill the receipt with monospaced thermal-printer text, dashed divider lines, and pseudo-transaction metadata. Include design-spec lines such as design registration number, date, time, terminal, transaction, attendant, product, object type, form study, material study, surface finish, light quality, curve ratio, form revision, assembly check, aesthetic value, archive index, subtotal, tax, payment method, authorization, thank-you note, return policy, and “KEEP THIS LIGHT RECEIPT”. Highlight exactly one line in a translucent pink marker strip: “GRAND TOTAL--BEAUTY, SWITCHED ON”.\n\nSubject image on receipt: At the lower half of the receipt, print exactly one cute glossy flower-shaped table lamp illustration with a pink fluted pedestal stem, six rounded pink petals, a blue inner glow, a small orange-red circular center, and a thin pale power cord trailing left. Keep it centered above the receipt barcode.\n\nTypography and style: Use condensed bold sans-serif for the massive background title, monospaced receipt type for all receipt text, black ink on warm cream paper, and a fashionable editorial graphic-design aesthetic. Main colors are {argument name=\"background color\" default=\"hot pink\"}, cream white, black, soft pink, blue, and orange-red. The image should feel like a modern poster generated from the structural idea of a thermal-paper receipt, not a realistic store receipt photo.\n\nConstraints: Use exactly 3 visible barcodes total: 2 large background barcode blocks and 1 receipt barcode. Use exactly 1 receipt, exactly 1 product illustration, and exactly 1 highlighted grand-total line. Do not add people, logos, watermarks, QR codes, extra products, or extra receipts.",
+      "tags": [
+        "poster",
+        "typography",
+        "product-design",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-bold-thermal-receipt-lamp-poster",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-bold-thermal-receipt-lamp-poster.jpg",
+        "ratio": "3:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@nono_ai_archive via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/nono_ai_archive/status/2086958915770876121#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_20425",
+        "published_at": "2026-08-10T23:32:33.998Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-yueyang-tower-literature-teaching-poster",
+      "assetId": "goku-gpt-image-2-yueyang-tower-literature-teaching-poster",
+      "model": "gpt-image-2",
+      "industry": "education-training",
+      "category": "historical-infographic",
+      "title": {
+        "en": "Yueyang Tower Literature Teaching Poster"
+      },
+      "description": {
+        "en": "A production-ready image prompt for yueyang Tower Literature Teaching Poster, reviewed against its published output."
+      },
+      "prompt": "Goal: Create a vertical ancient-Chinese style literature teaching PPT poster analyzing {argument name=\"work title\" default=\"登岳阳楼记\"}, with an ink-wash historical illustration, dense text-and-image layout, and Song/Yuan classroom handout aesthetics.\n\nCanvas: Portrait 3:4 poster, warm off-white rice paper background with subtle fibers, gray ink stains, light cloud textures, aged edges, and muted black, sepia, red seal, and pale blue-gray tones. High information density but elegant and readable.\n\nLayout: Top third contains a huge expressive black brush-calligraphy title across the page, with a small red seal and a vertical author label at the upper right. Under the title, place two centered subtitle lines in small serif Chinese type: “洞庭天下水，岳阳天下楼” and “以楼观湖，以景寄志，以文见心”. The left column is a structured knowledge-analysis panel; the center contains three large quoted key sentences; the right half is dominated by a dramatic Yueyang Tower illustration above cliffs and Dongting Lake. Bottom third contains comparison cards, a location map, two small literary reference cards, an author-ideal card, and a keyword strip.\n\nMain illustration: Paint Yueyang Tower as a multi-eaved traditional wooden pavilion on a high rocky cliff, facing a vast misty lake at sunset. Include layered mountains, drifting clouds, birds, tiny boats on the lake, water reflections, rugged rocks, pine-like vegetation, and mist rising from the cliff. At lower right, show one robed ancient Chinese scholar seen from behind in gray ink, standing on rocks and looking toward the tower. Add a vertical inscription beside the tower reading “洞庭天下水 / 岳阳天下楼” with a small red seal.\n\nLeft knowledge panel: Use a vertical heading in a gray ink blot reading “知识解析”. Include exactly 8 numbered analysis items, each with a circled number and short Chinese body text: 1 Author, 2 Text genre, 3 Creative background, 4 Place, 5 Famous sentence, 6 Structural features, 7 Emotional layers, 8 Cultural meaning. Add one small red boxed date label near item 3 reading “庆历六年”. Keep all text compact, like a teaching slide.\n\nCenter quote section: Add a narrow vertical label reading “核心引文”. Include exactly 3 large quoted excerpts, separated by thin decorative horizontal rules with small red dots: “先天下之忧而忧，后天下之乐而乐。”; “此则岳阳楼之大观也。”; “览物之情，得无异乎？”.\n\nBottom middle comparison card: Draw a bordered cream card titled “情景对照：景随情转，借由景生”. Inside it, create exactly 2 contrasting columns: left column “阴雨霏霏” describing gloomy rain, waves, and melancholy; right column “春和景明” describing bright spring, calm waves, and joy. Put a round center badge reading “对照”, with small ink cloud and sun doodles.\n\nBottom information row: Create exactly 4 boxed sections from left to right. Section 1 is a “位置示意” location card with a simplified map of Hunan and a red dot labeled “湖南·岳阳”. Section 2 is a Dongting Lake card titled “洞庭湖” with a small sailboat illustration and brief notes about vast lake water and mist. Section 3 is a reference card titled “巴陵胜状（节选）” with a small mountain-water sketch and brief excerpt text. Section 4 is a card titled “士大夫人格理想” explaining concern for the world, responsibility, and moral character.\n\nBottom keyword strip: Add a red label “关键词”, followed by exactly 6 keyword groups separated by slashes and small icons: “岳阳楼”, “洞庭湖”, “忧乐精神”, “家国情怀”, “北宋散文”, “千古名篇”. Add two small red square seal stamps at the bottom right.\n\nTypography and style: Combine bold wild brush calligraphy for the title, neat traditional Chinese serif type for educational notes, and thin line dividers. Use ink-wash realism mixed with PPT infographic layout. Keep all visible text in Chinese, crisp and legible. Avoid modern sans-serif UI styling, neon colors, cartoon effects, watermarks, or English text.",
+      "tags": [
+        "education",
+        "ink-wash",
+        "infographic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-yueyang-tower-literature-teaching-poster",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-yueyang-tower-literature-teaching-poster.jpg",
+        "ratio": "283:400",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@xiaoxiaodong01 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/xiaoxiaodong01/status/2048355959555191210#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_20426",
+        "published_at": "2026-04-26T10:58:12.028Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-japanese-mystery-game-website-mockup",
+      "assetId": "goku-gpt-image-2-japanese-mystery-game-website-mockup",
+      "model": "gpt-image-2",
+      "industry": "software-saas",
+      "category": "game-ui",
+      "title": {
+        "en": "Japanese Mystery Game Website Mockup"
+      },
+      "description": {
+        "en": "A production-ready image prompt for japanese Mystery Game Website Mockup, reviewed against its published output."
+      },
+      "prompt": "Goal: Create a polished website mockup for a Japanese mystery game or story archive titled {argument name=\"site title\" default=\"月蝕綺譚\"}, shown as a responsive design preview with one desktop browser window on the left and one smartphone screen on the right.\n\nCanvas: Wide 16:9 presentation image on a light gray background. Place a large desktop browser mockup occupying about 75% of the width on the left, and a tall smartphone mockup occupying about 22% of the width on the right. Use realistic device frames with soft shadows.\n\nVisual style: Elegant Japanese literary horror, quiet mystery, archival documents, moonlit darkness. Palette of ivory paper, black ink, deep navy-black, muted gray, and one strong vermilion red accent. Use serif Japanese typography, thin ruled lines, ticket-like borders, subtle paper texture, old manuscript imagery, and faint crescent-orbit line graphics. The overall mood should feel like a premium official website for a narrative game.\n\nDesktop layout: Show a browser window with a dark top bar and three small window dots. Inside the page, use an ivory header with the site title {argument name=\"site title\" default=\"月蝕綺譚\"} on the left, a small red seal mark, and exactly 5 horizontal navigation items: 「お知らせ」, 「開発記録」, 「ご意見箱」, 「アーカイブ」, and a dark navy button labeled 「メールで会員になる」. The hero section below is a wide dark moon-eclipse visual with the vertical title 「月蝕綺譚」 centered over a glowing crescent/eclipse. Overlay a translucent archive UI card with old Japanese documents and exactly 5 small collectible/document cards along the bottom of that overlay. Along the very bottom of the hero image, include exactly 5 horizontal thumbnail strips showing: a night street, a blueprint-like room, a dark folder or object, old handwritten papers, and a desk/workspace map.\n\nDesktop right signup card: To the right of the hero, place a large cream ticket-shaped membership card with clipped semicircle notches and a thin decorative border. It includes the small label 「入会札」, a stamp emblem, headline 「メールで会員になる」, an envelope icon, short explanatory text, one email input field with placeholder 「メールアドレスを入力」, and a red CTA button labeled 「登録する」 with a right arrow. Include tiny privacy-policy text beneath.\n\nDesktop lower content: Under the hero, make a two-column-feeling section. On the left, a large Japanese tagline {argument name=\"tagline text\" default=\"物語の続きを、いちばん近くで。\"} with a thin vertical red line and a small descriptive paragraph. On the right, place exactly 3 article cards in a row. The 3 cards are: 1) 「月蝕綺譚 最新便」 with a moon image, a small red NEW label, title 「大型アップデート『○○』を公開しました」, date 2024.05.20; 2) 「開発記録」 with a notebook and pen image, title 「開発記録 #12：環境音の調整について」, date 2024.05.18; 3) 「ご意見箱」 with a dark mailbox image, title 「ご意見・ご感想をお聞かせください」, date 2024.05.16. Each card has a thin border, a small arrow in the header, and gray placeholder summary lines.\n\nDesktop footer: Add a dark navy footer spanning the bottom with exactly 6 footer links: 「お知らせ」, 「開発記録」, 「ご意見箱」, 「アーカイブ」, 「利用規約」, 「プライバシーポリシー」. Include a crescent moon icon and copyright 「© 2024 月蝕綺譚」 on the right.\n\nMobile layout: On the right smartphone, show the same site adapted to mobile. Status bar time reads 9:41. Header contains the title 「月蝕綺譚」 and a hamburger menu icon. Below it, show a compact dark hero with the eclipse and vertical title, then exactly 5 small horizontal thumbnails. Continue with the tagline 「物語の続きを、いちばん近くで。」, then the same ticket-shaped email signup card, then the first news card 「月蝕綺譚 最新便」 with moon image and red NEW label. The mobile view should be vertically scrollable-looking but contained within the phone screen.\n\nConstraints: Keep all visible interface text in Japanese as specified. Use clean, high-fidelity UI mockup rendering, crisp typography, subtle shadows, and no extra logos or watermarks. The design should look like a finished web/app mock generated for implementation planning.",
+      "tags": [
+        "website",
+        "responsive-design",
+        "mystery",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-japanese-mystery-game-website-mockup",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-japanese-mystery-game-website-mockup.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@IHayato via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/IHayato/status/2075521767305834981#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_20466",
+        "published_at": "2026-07-10T10:05:25.312Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-tanabata-morning-wish",
+      "assetId": "goku-gpt-image-2-tanabata-morning-wish",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "editorial-portrait",
+      "title": {
+        "en": "Tanabata Morning Wish"
+      },
+      "description": {
+        "en": "A production-ready image prompt for tanabata Morning Wish, reviewed against its published output."
+      },
+      "prompt": "主題：\n{argument name=\"主題\" default=\"七夕\"}\n\n人物・表情：\n{argument name=\"年代\" default=\"20代\"}女性。やわらかい卵型の顔立ち、透明感のある自然な肌、控えめな日式メイク。暗めのブラウンヘアを低めのゆるいまとめ髪にし、後れ毛が朝の光で細く透ける。小さな紫系の髪飾りを耳の後ろに添える。顔は少し上向き、視線は右上の短冊へ向け、静かに願いを結ぶような穏やかな表情。\n\n服装・ポーズ：\n{argument name=\"衣服\" default=\"白地に青い花柄の浴衣\"}、濃紺の帯。浴衣の袖は自然にたわみ、布の透け感とシワを丁寧に表現する。体は画面右上へ軽く伸びる姿勢。人物自身の右腕を高く上げ、画面右上のピンクの短冊にそっと触れる。人物自身の左腕は体の近くに自然に下ろし、腰まわりの帯と浴衣の重なりが見える。指先は力を入れすぎず、短冊をつまむ直前の繊細な動き。\n\n背景・光：\n日本の七夕飾りが並ぶ朝の神社参道または商店街の一角。頭上には笹の葉と色とりどりの短冊が重なり、ピンク、黄色、水色、薄紫の紙が朝風で軽く揺れている。背景にはぼんやりした提灯と屋台の気配を残すが、夜ではなく明るい朝。主光源は画面左上奥から差し込む低めの朝日。人物の髪の縁、頬、肩、上げた腕に強めの白いハイライトを作り、背景は淡い緑と白のボケで明るく抜ける。短冊と笹の影が浴衣や肌に薄く落ちる。\n\n構図・カメラ：\n縦構図。上半身中心のポートレートで、人物は画面下中央から右寄りに配置し、上部に短冊と笹の飾りを大きく入れる。カメラは胸の高さより少し低め、人物を見上げるような軽いローアングル。35mm相当の自然な広がり、人物と短冊の距離感が伝わる構図。ピントは人物の顔と右手の指先、背景の提灯や奥の参道は浅めの被写界深度で柔らかくぼかす。\n\n質感・スタイル：\n実写写真風。朝の逆光を活かした明るいハイキー寄りのポートレート。肌は過度に磨かず、自然な毛穴、細い髪の乱れ、浴衣の綿素材、短冊の紙の薄さを残す。透明感のある白と淡い緑、浴衣の青を中心に、夏の朝らしい軽い色調。フィルム写真のような柔らかい粒子と自然なレンズフレアを少量入れる。\n\nネガティブ：\n不自然な顔や視線、余分または欠けた指、手首や肘の破綻、短冊との接触不良、浴衣の構造崩れ、帯の位置ずれ、過度な美肌補正、プラスチックのような肌、読めすぎる不自然な文字、文字化け、ロゴ、透かし、不要な人物、過剰な露出、背景と矛盾する影。",
+      "tags": [
+        "portrait",
+        "tanabata",
+        "lifestyle",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-tanabata-morning-wish",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-tanabata-morning-wish.jpg",
+        "ratio": "799:1200",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@CyberTotal2026 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/CyberTotal2026/status/2074259597544567260",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_20482",
+        "published_at": "2026-07-06T22:30:00.591Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-good-morning-city-poster-design",
+      "assetId": "goku-gpt-image-2-good-morning-city-poster-design",
+      "model": "gpt-image-2",
+      "industry": "travel-hospitality",
+      "category": "travel-poster",
+      "title": {
+        "en": "Good Morning City Poster Design"
+      },
+      "description": {
+        "en": "A production-ready image prompt for good Morning City Poster Design, reviewed against its published output."
+      },
+      "prompt": "围绕{argument name=\"主题\" default=\"早安+问候+GOOD MORNING+城市+金句+天气+2026-08-10\"}生成具有平面海报秩序与真实焦点形象的设计：先以一块占据上部的大面积鲜明高明度色场建立开阔留白，再在下部接入一块近乎等量、低饱和的浅色纸面区域，形成干净明确的水平色域交界；让主题的核心形态被转译成两组超大、低细节、厚重圆润的浅色字符化图形，横跨交界线并向左右边缘出血，保留清晰的内部空腔、粗细对比与被边界裁断的切口，图形不是装饰而是背景中的尺度标尺和视觉骨架。把主题主体或核心对象压缩为中小尺度的具象焦点，放在交界附近，局部遮挡巨型图形，使前景对象、图形轮廓与留白发生明确的前后穿插；焦点对象以自然摄影或高度具象的质感表现，保留真实表面细节、柔和的侧上方光线、接地的短而松散的投影，以及不喧宾夺主的中性深色层次。左侧靠近交界的区域放置主题相关的两行短标题，使用粗重、紧凑、几何感明确的无衬线大写字形，行距偏紧、字块整齐左对齐，以黑色或主题最深结构色形成小面积强锚点；在巨型图形上缘两侧加入极小号、宽字距的元信息与编号式短标签，形成稀疏的编辑设计节奏，但文字只承担秩序、尺度和信息提示，不复制固定文案。颜色由主题语义决定色相与材质来源，但维持高明度高纯度主色场对柔和浅底的面积、明度、饱和度和情绪张力关系，巨型图形使用比浅底更醒目或更中性的浅色，深色文字与焦点阴影只占少量；主题色温改变时仍保持大色块对比、清洁边界和有限强调色，不把颜色平均铺满。整体像在哑光纸上进行干净的平面印刷，纸张有细微均匀纤维与颗粒，浅底和色场存在轻微密度不匀，实拍对象边缘与印刷图形边缘清楚但不过度锐利，色块交界保持利落，避免厚重做旧、泛黄、脏污、额外装饰和现代渐变；让背景留白、巨型图形、短标题、微型标签、焦点对象和接地阴影共同形成从大色场到文字再到主体的阅读路径，若去掉图形遮挡、色域交界或尺度反差，画面应立即失去这种克制而有张力的设计识别度。",
+      "tags": [
+        "beijing",
+        "poster",
+        "city",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-good-morning-city-poster-design",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-good-morning-city-poster-design.jpg",
+        "ratio": "4:5",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@xiaoxiaodong01 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/xiaoxiaodong01/status/2086617422312968279",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_20549",
+        "published_at": "2026-08-10T00:55:35.613Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-tang-dynasty-four-scenes-portrait",
+      "assetId": "goku-gpt-image-2-tang-dynasty-four-scenes-portrait",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "editorial-portrait",
+      "title": {
+        "en": "Tang Dynasty Four Scenes Portrait"
+      },
+      "description": {
+        "en": "A production-ready image prompt for tang Dynasty Four Scenes Portrait, reviewed against its published output."
+      },
+      "prompt": "面部身份：\n使用附带的面部身份作为唯一面部参考。四张照片始终匹配相同的五官比例、肤色、年龄感与整体身份。\n\n身体：\n{argument name=\"人物年龄\" default=\"20岁出头的成年女性\"}。使用附带的身体参考作为唯一身体比例参考，保持真实解剖结构、自然曲线与皮肤纹理。\n主题：\n{argument name=\"主题场景\" default=\"盛唐娱乐四景\"}：曲江斗花、长安酒肆、乐坊舞毕、马球赛后。\n\n主体：\n分别生成四张独立的纵向2:3彩色写实照片，不要拼图。四张保持同一人物，但根据活动更换符合盛唐审美的发型、服装、表情和摄影语言。\n\n第一张「花隙里的胜负揭晓」：\n曲江斗花会刚揭晓结果。镜头隔着牡丹与彩幄拍摄人物大特写。她梳盛唐半翻髻，佩戴不对称簪花，穿浅杏白、石青与牡丹红组成的现代审美唐风齐胸襦裙。她循声转向朋友，眉梢轻抬，笑意刚刚出现。采用100–135mm远距观察、前景遮挡和低反差彩色负片质感。\n\n第二张「长安酒肆第七轮」：\n人物坐在胡姬酒肆的低案旁，刚放下鎏金耳杯便被同席朋友逗笑。乌发梳成乌蛮髻，穿孔雀蓝织锦内层、朱红半臂衣与深绯罗裙。采用35mm同席纪实视角，桌缘、胡瓶与宾客肩背自然进入前景。暖灯完整覆盖五官，背景人物分别投筹、交谈与听乐，不统一看镜头。\n\n第三张「乐坊舞毕后的彩色余息」：\n最后一支舞结束，人物在乐坊侧室罗帘旁停步调整呼吸。头发梳成唐代舞后高髻，一束发丝略微松散。暗红与孔雀绿舞衣采用不透明内层，披帛和袖缘保留轻盈层次。她循声望向帘外，嘴唇轻启，疲惫、满足与意外同时存在。采用50mm后台近景、柔雾彩色负片、暗红与灰蓝空间分层。\n\n第四张「马球越线后的回身」：\n盛唐女骑手下马后快步走向休息区，听见同伴呼喊便在步伐中回身。头发梳成左右清晰的双螺骑装髻，穿暗红内层、石青窄袖袍、深色分裁裙裤与皮革长靴。仅保留一只手握住从画面下缘进入的球杖杆身，另一只手不入镜。采用135mm长焦、约1/40秒彩色慢门追随，主体脸部清楚，马匹、旗幡与扬尘形成方向性色带。\n\n光线：\n四张均以宽面自然光或有罩室内灯连续照亮五官。环境色和灯笼只服务空间层次，不在脸部形成圆形光斑、碎光、花影或局部漂白。\n\n质感：\n真实彩色摄影，保留毛孔、细绒毛、自然血色、衣料重量和轻微胶片颗粒。借鉴经典彩色纪实、柔雾时装与运动摄影的画面组织方法，但不复制具体作品。拒绝黑白、近黑白和统一暖金商业滤镜。\n画面右下角加入低调小号手写签名「{argument name=\"签名\" default=\"Zhong\"}」。\n\n负面提示：\n拼图，多分镜，人物身份漂移，现代马尾，泛古风头冠，廉价影楼古装，统一摆拍表情，背景人物动作重复，复杂手势，双手承担多个动作，多余手臂，多余手指，错误手指，脸部光斑，彩色投影，塑料皮肤，黑白照片，现代场景，乱码文字，其他签名。",
+      "tags": [
+        "historical",
+        "portrait",
+        "tang-dynasty",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-tang-dynasty-four-scenes-portrait",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-tang-dynasty-four-scenes-portrait.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@drmrzhong via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/drmrzhong/status/2085542745373020205",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_20595",
+        "published_at": "2026-08-07T01:45:12.664Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-premium-mixed-media-ad",
+      "assetId": "goku-gpt-image-2-premium-mixed-media-ad",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "product-advertising",
+      "title": {
+        "en": "Premium Mixed Media Ad"
+      },
+      "description": {
+        "en": "A production-ready image prompt for premium Mixed Media Ad, reviewed against its published output."
+      },
+      "prompt": "[BRAND NAME]\n[HERO PRODUCT]\n[PRODUCT ARRANGEMENT]\n[ILLUSTRATED CHARACTER]\n[CHARACTER ACTION]\n[PRIMARY HEADLINE]\n[SUPPORTING LINE]\n[COLOR PALETTE]\n[ILLUSTRATION COLOR]\n[BACKGROUND COLOR]\n[GRAPHIC MOTIF]\n[IMAGE RATIO]\n\nCreate a premium mixed-media product advertisement in [IMAGE RATIO], combining photorealistic commercial product photography with one original hand-drawn editorial character.\n\nIf a product image is provided, preserve its shape, proportions, colors, materials, textures, packaging, labels, logo placement, and distinctive details. Remove the original background without redesigning the product.\n\nIf a person's photo is provided, preserve their recognizable features while translating them into a simplified editorial line illustration.\n\nIf no references are provided, generate [HERO PRODUCT] and [ILLUSTRATED CHARACTER] from the written specifications.\n\nCreate an original campaign for \"{argument name=\"brand name\" default=\"[BRAND NAME]\"}\" featuring {argument name=\"hero product\" default=\"[HERO PRODUCT]\"} as the hero object. Introduce [ILLUSTRATED CHARACTER] performing [CHARACTER ACTION] naturally on, beside, or around the product.\n\nUse a minimal asymmetrical composition with generous negative space. Place [HERO PRODUCT] in the lower-center foreground using [PRODUCT ARRANGEMENT], occupying approximately 40–55% of the canvas. Position the illustrated character interacting naturally with the product.\n\nUse {argument name=\"background color\" default=\"[BACKGROUND COLOR]\"} as the primary background and frame the composition with oversized cropped forms inspired by [GRAPHIC MOTIF].\n\nRender [HERO PRODUCT] with premium commercial realism, preserving realistic textures, highlights, shadows, proportions, and subtle imperfections. Multiple products should vary naturally in angle and position.\n\nCreate [ILLUSTRATED CHARACTER] in refined editorial line-art using [ILLUSTRATION COLOR] with subtle fills derived from [COLOR PALETTE]. Ensure anatomically correct interaction with the product.\n\nWrite the headline exactly:\n\"[PRIMARY HEADLINE]\"\n\nWrite the supporting line exactly:\n\"[SUPPORTING LINE]\"\n\nDisplay the headline in oversized bold geometric typography, arranged across one or two lines without covering the product. Use coordinated colors from [COLOR PALETTE]. Display the supporting line nearby using a clean sans-serif or subtle italic typeface.\n\nDisplay the brand name exactly:\n\"[BRAND NAME]\"\n\nPlace it subtly within the upper or lower margin. Do not add extra logos, websites, prices, or social media elements unless provided.\n\nUse [GRAPHIC MOTIF] only as cropped edge graphics without intersecting the headline, character, or product.\n\nApply soft directional studio lighting with realistic tonal depth and grounding shadows. Maintain clear separation between photorealistic and illustrated elements while preserving a unified campaign aesthetic.\n\nStyle: Premium mixed-media advertising, photorealistic hero product, editorial hand-drawn character, modern typography, minimal negative-space composition, contemporary lifestyle branding, Behance-quality commercial art direction",
+      "tags": [
+        "food",
+        "advertising",
+        "mixed-media",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-premium-mixed-media-ad",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-premium-mixed-media-ad.jpg",
+        "ratio": "4:5",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Goodmanprotocol via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Goodmanprotocol/status/2080163152134836702",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_20618",
+        "published_at": "2026-07-23T05:28:37.688Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-dark-dryad-warlock-rpg-card",
+      "assetId": "goku-gpt-image-2-dark-dryad-warlock-rpg-card",
+      "model": "gpt-image-2",
+      "industry": "gaming",
+      "category": "game-ui",
+      "title": {
+        "en": "Dark Dryad Warlock RPG Card"
+      },
+      "description": {
+        "en": "A production-ready image prompt for dark Dryad Warlock RPG Card, reviewed against its published output."
+      },
+      "prompt": "Goal: Create a highly detailed fantasy RPG character card for {argument name=\"character name\" default=\"Kris\"}, styled like a premium collectible game card from a dark woodland fantasy universe.\n\nCanvas: Vertical portrait card, roughly 4:5 aspect ratio, centered on a black background. The card fills almost the entire canvas and has an ornate carved frame made of dark metal, twisted vines, moss, leaves, branches, and pink-purple forest flowers.\n\nMain subject: A female dryad warlock, half human and half tree spirit, shown from the waist up in a dense enchanted forest. She has glowing green eyes, cracked bark-like olive skin, long tangled dark brown hair mixed with vines and moss, and a crown of leaves and magenta flowers. Her expression is calm, serious, and mystical. She wears organic armor made of bark, roots, leaves, vines, and natural textures, with small glowing green magical accents. Warm sunlight filters through tall trees behind her, creating a dramatic green-gold forest glow.\n\nCard frame and decorative UI: Use a gothic fantasy game-card layout with metallic filigree, curled roots, ivy, moss, and floral ornaments. Include three circular emblems across the top: left circle shows “LVL” above “45”; center small circle shows a glowing green leaf icon; right circle shows a larger green leaf emblem. The border includes many natural decorations, especially vines and exactly 10 prominent pink-purple flowers: 4 clustered near the upper left border, 2 near the upper right border, 1 midway down the left border, 1 midway down the right border, and 2 large flowers at the bottom corners.\n\nName and class area: Place the large centered name {argument name=\"character name\" default=\"Kris\"} in elegant serif fantasy lettering near the lower middle. Directly beneath it write {argument name=\"character class\" default=\"WARLOCK\"} in spaced green capital letters, flanked by small leaf ornaments. Below that, add a narrow title plaque reading “Dryad • Guardian of the Grove”.\n\nLeft stat panel: Add a dark translucent vertical stat box at lower left with exactly 5 rows, each row containing a small colored fantasy icon, a three-letter stat label, and a number. The rows are: STR 38 with a red weapon icon, INT 92 with a green nature icon, WIS 87 with a purple magic icon, DEX 64 with a gold bow icon, CON 76 with a blue endurance icon.\n\nRight stat panel: Add a matching dark translucent vertical stat box at lower right with exactly 5 rows, each row containing a small colored shield/gem icon and a number. The rows are: red HP icon 1,140; blue MP icon 920; gray DEF icon 412; purple RES icon 489; gold SPD icon 72.\n\nAbility panel: At the bottom center, create exactly 4 horizontal ability rows with square icons on the left and text on the right. Row 1: “Grove Ward” with description “Summon vines to shield allies.” Row 2: “Nature’s Grasp” with description “Entangle enemies with ancient roots.” Row 3: “Verdant Renewal” with description “Heal and cleanse allies over time.” Row 4: “Sporebloom” with description “Release toxic spores to weaken foes.” Use glowing green and purple nature-magic icons.\n\nFooter: Add a small centered flavor quote at the very bottom: “✦ Rooted in silence. I rise. ✦” and a small round green leaf medallion beneath it.\n\nVisual style: Ultra-detailed dark fantasy digital painting, cinematic lighting, realistic textures, intricate UI, collectible RPG card design, sharp focus, high contrast, emerald green and warm gold palette with magenta floral accents. Make the typography crisp and readable. Avoid extra characters, extra stat rows, modern logos, watermarks, or misspelled text.",
+      "tags": [
+        "rpg",
+        "card-design",
+        "fantasy",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-dark-dryad-warlock-rpg-card",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dark-dryad-warlock-rpg-card.jpg",
+        "ratio": "4:5",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@icreatelife via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/icreatelife/status/2081787071102910970#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_20628",
+        "published_at": "2026-07-27T17:01:30.141Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-fingertips-chasing-bubbles-in-yukata",
+      "assetId": "goku-gpt-image-2-fingertips-chasing-bubbles-in-yukata",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "editorial-portrait",
+      "title": {
+        "en": "Fingertips Chasing Bubbles In Yukata"
+      },
+      "description": {
+        "en": "A production-ready image prompt for fingertips Chasing Bubbles In Yukata, reviewed against its published output."
+      },
+      "prompt": "主題：\n泡を追う指先\n\n主体：\n縦長3:4の写真。畳敷きの和室に座る一人の女性を画面中央に大きく配置し、頭頂から腰付近までを収める。人物は画面の約75％を占め、両手をカメラへ差し出しながら、目の前を漂うシャボン玉に触れようとしている。\n\n人物・表情：\n自然な透明感を持つ女性。髪は濃いダークブラウンの肩につくミディアムボブで、毛先は軽く外側へ動き、薄い前髪が額へ自然に落ちる。顔まわりには細い後れ毛を残す。頭をわずかに傾け、澄んだ瞳でカメラの少し上を見る。唇は軽く開き、静かな驚きと好奇心が混ざった表情。淡いコーラル系メイク、自然な肌理、頬に控えめな血色。\n\n服装・ポーズ：\n{argument name=\"衣装\" default=\"白地に淡い青と桃色の小花を散らした軽やかな浴衣\"}。腰には{argument name=\"帯の色\" default=\"くすんだローズピンクの帯\"}。身体は正面を向き、肩の力を抜いて座る。両肘を曲げ、左右の手をレンズ方向へ伸ばし、指を大きく自然に開く。手のひらはやや内側を向き、中央のシャボン玉を包み込もうとする瞬間。手は顔より手前にあり、遠近感によって大きく見える。\n\n背景・光：\n左側に木枠の障子、右奥に開いた縁側と緑豊かな庭。畳の左下には青い栓の透明なラムネ瓶を一本置く。大小さまざまなシャボン玉が前景・人物周辺・背景に漂い、表面に虹色の反射が入る。右後方の庭側から暖かな自然光が差し込み、髪の輪郭、頬、肩、手の甲を照らす。障子側は柔らかな影となり、庭の反射光が顔の影を穏やかに持ち上げる。\n\n構図・カメラ：\n人物の目線とほぼ同じ高さから撮影した近距離ポートレート。顔に主焦点を置き、手と前景のシャボン玉は軽くぼかす。中央下に両手、その奥に顔を配置した三角形構図。頭上には少量の余白、左右には障子と庭を残す。85mm相当、浅い被写界深度、背景は大きく柔らかな玉ボケ。\n\n質感・スタイル：\n夏の午後を感じる日系写真表現。やや暖色寄りの自然な色調、柔らかなコントラスト、繊細なフィルム粒子。肌は過度に加工せず、細かな産毛や光の透過を残す。シャボン玉の薄膜、浴衣の綿の質感、髪の細い一本一本まで自然に描写する。\n\nネガティブ：\n不自然な顔、不自然な視線、左右非対称な瞳、余分な指、欠けた指、指の融合、硬すぎる手、不自然な関節、浴衣の構造破綻、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。",
+      "tags": [
+        "portrait",
+        "summer",
+        "bubbles",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-fingertips-chasing-bubbles-in-yukata",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-fingertips-chasing-bubbles-in-yukata.jpg",
+        "ratio": "799:1200",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@CyberTotal2026 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/CyberTotal2026/status/2077274462148563108",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_20738",
+        "published_at": "2026-07-15T06:10:00.326Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-serene-cafe-moment-with-hat",
+      "assetId": "goku-gpt-image-2-serene-cafe-moment-with-hat",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "editorial-portrait",
+      "title": {
+        "en": "Serene Cafe Moment With Hat"
+      },
+      "description": {
+        "en": "A production-ready image prompt for serene Cafe Moment With Hat, reviewed against its published output."
+      },
+      "prompt": "主題：\n\n帽子越しの休息\n\n主体：\n{argument name=\"カフェの雰囲気\" default=\"日本の街角にある落ち着いたカフェ\"}で、木製の椅子に座り{argument name=\"飲み物\" default=\"アイスコーヒー\"}を手にする、自然な大人の女性を描いた縦長3:4のリアルなファッションポートレート。人物は画面中央からやや右を大きく占め、頭部から太腿までを収める。テーブルの丸い縁を右下に入れ、窓際の客席と通りの景色を左奥へ続ける。\n\n人物・表情：\n{argument name=\"髪の色\" default=\"黒に近いダークブラウン\"}のロングヘア。毛先にはゆるい波があり、頬の横に細い後れ毛を残す。淡いブルーのキャップを深めにかぶり、顔を少し右下へ傾けて飲み物へ視線を落とする。落ち着いた眉、繊細なまつ毛、薄いコーラルチーク、自然な涙袋、ツヤを抑えたローズベージュのリップ。静かで穏やかな表情。\n\n服装・ポーズ：\n{argument name=\"服装\" default=\"白い細リブ素材の半袖クロップドヘンリーネックトップ\"}。腰骨の少し上で終わる短い丈で、前ボタンは上部を二つだけ自然に開ける。淡いブルーのハイウエストデニムショートパンツ、小さなシルバーネックレスを合わせる。人物自身の左腕を曲げて手を後頭部へ添え、肘を画面左へ張る。右手は透明なカップの下部を包み、指先を自然に沿わせる。脚は椅子の上で軽く交差させ、身体の重心を右腰側へ預ける。\n\n背景・光：\n日本の小さな路面カフェ。右側に濃い木目の収納棚と観葉植物、中央奥に手書き風の日本語メニューがある黒板。左奥には大きな窓、木製カウンター、背を向けて座る客、街路樹とぼかされた車を配置する。午前中の明るい日差しが左上の窓から差し込み、腕、頬、白いトップス、太腿の左側を柔らかく照らす。床には葉の影が落ち、右側には木材からの暖かな反射光を入れる。\n\n構図・カメラ：\n縦長3:4、やや高い目線から撮影した腰掛け姿のミディアムショット。人物の顔を上部中央、カップを右下の三分割線付近に置く。キャップ上部には適度な余白を残し、太腿は画面下端で自然に裁切する。35〜50mm相当の自然な遠近感、人物の顔と上半身に焦点を合わせ、背景は内容が分かる程度に穏やかにぼかす。\n\n質感・スタイル：\n高性能フルサイズデジタルカメラで撮影した自然なカフェスナップ。細かな髪の毛、コットンリブの凹凸、デニムの色落ち、カップの結露、木目を繊細に描写する。肌は明るく滑らかだが、毛穴や陰影を適度に残す。暖色寄りのナチュラルカラー、控えめなコントラスト、透明感のあるハイライト。\n\nネガティブ：\n不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、カップとの接触不良、歪んだ椅子、誤った遠近法、光源と矛盾する影、読めない不自然な文字、ブランドロゴ、透かし、過度な美肌補正、プラスチックのような肌。",
+      "tags": [
+        "portrait",
+        "cafe",
+        "lifestyle",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-serene-cafe-moment-with-hat",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-serene-cafe-moment-with-hat.jpg",
+        "ratio": "3:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@CyberTotal2026 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/CyberTotal2026/status/2078711933788635232",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_20748",
+        "published_at": "2026-07-19T05:22:00.272Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-intimate-cinematic-couple-skin-portrait",
+      "assetId": "goku-gpt-image-2-intimate-cinematic-couple-skin-portrait",
+      "model": "gpt-image-2",
+      "industry": "media-entertainment",
+      "category": "editorial-portrait",
+      "title": {
+        "en": "Intimate Cinematic Couple Skin Portrait"
+      },
+      "description": {
+        "en": "A production-ready image prompt for intimate Cinematic Couple Skin Portrait, reviewed against its published output."
+      },
+      "prompt": "Use the exact same faces from both reference images and generate the most intimately detailed cinematic couple skin portrait ever conceived — two faces impossibly close, the entire frame consumed by the micro-universe of two human faces sharing the same breath. Two faces filling the entire frame together — cheek almost against cheek, foreheads nearly touching, noses at the same level, the gap between them a charged centimeter of warm air. No posed perfection — just two real faces existing in the same private space, completely unguarded. The woman's face angled very slightly toward the man, his face turned gently toward hers — the natural gravitational pull of two people completely comfortable in each other's presence. Both expressions carrying the same quiet warmth — eyes half lidded and soft, the faintest natural smile sitting at the corners of both mouths without fully arriving, the specific expression of two people so deeply comfortable together that happiness requires no effort or performance. Completely real, completely human. Skin on both faces rendered at absolute forensic obsession level simultaneously — every individual pore on both faces with unique diameter, depth, shadow and wall structure visible. The woman's skin showing its own unique texture — smoother zones at the cheeks, natural pore distribution across the nose, subtle natural freckles, fine peach fuzz catching the warm light individually, natural lip skin texture at the vertical line level, delicate under-eye skin thinness. The man's skin showing its completely different biological texture — larger pores, individual stubble hairs at follicle level each casting its own micro-shadow, coarser skin surface, the natural roughness of male skin under the same warm light. The beautiful contrast of two completely different skin textures existing within the same frame and the same light — feminine smoothness against masculine texture, the biological difference between two people rendered at microscopic detail level. The space between their faces — that sacred charged gap — catching the warm light and making the air between them visible and alive. Where their skin comes closest the detail is most intense — the cheekbones almost touching, the warmth of proximity creating a very subtle natural flush on both faces in that zone. Lighting is a {argument name=\"lighting source\" default=\"single warm candle-like source\"} from slightly below and between them — intimate and alive, catching both skin textures simultaneously from the same angle, micro-shadows behind every pore on both faces at once. The light so warm and human it feels like it exists between them rather than above them. No artificial studio sources — just the most intimate light possible on the most intimate possible distance between two faces. Background is {argument name=\"background\" default=\"pure warm black void\"} — nothing exists except these two faces and the light between them. Color grading forensically warm and honest — true",
+      "tags": [
+        "portrait",
+        "cinematic",
+        "close-up",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-intimate-cinematic-couple-skin-portrait",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-intimate-cinematic-couple-skin-portrait.jpg",
+        "ratio": "83:120",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Ozayrr_irl via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Ozayrr_irl/status/2078298145491185711",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_20807",
+        "published_at": "2026-07-18T01:57:45.454Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-mastering-manga-page-turns",
+      "assetId": "goku-gpt-image-2-mastering-manga-page-turns",
+      "model": "gpt-image-2",
+      "industry": "publishing",
+      "category": "illustration",
+      "title": {
+        "en": "Mastering Manga Page Turns"
+      },
+      "description": {
+        "en": "A production-ready image prompt for mastering Manga Page Turns, reviewed against its published output."
+      },
+      "prompt": "共通キャラクター設定+描画ルール:\n登場人物2名のキャラクターデザインを厳守すること。\n\n先生({argument name=\"先生の名前\" default=\"ミドリ先生\"}): 黒髪ストレートのポニーテール、髪に薄い緑のメッシュが一筋。メガネ。ダボダボの体操ジャージの上に、サイズの合っていない大きめの白衣を羽織っている。表情豊かで元気、わんぱくな雰囲気だが教師としての誇りがある。動きが大きく、身振り手振りで熱く語る。\n生徒({argument name=\"生徒の名前\" default=\"ピンクちゃん\"}): 薄いピンク色の髪、猫背、頭頂部にアホ毛が一本。常に眠そうな半目。おっとりした雰囲気で動作が遅い。机の上に液晶ペンタブレット(枕にする癖がある)、飲みかけのいちごミルク、うさぎのぬいぐるみ型ペンケースが置いてある。\n\n画風・仕上げ指定:フルカラーで生成すること(モノクロ・グレースケール不可)。彩度はコメディ漫画らしく明るめ、ミドリ先生の髪は黒に薄い緑メッシュ、ピンクちゃんの髪は薄いピンクをはっきり発色させること。\nコマ内にコマ番号(1、2、3などの数字ラベル)は一切表示しないこと。以下の「1コマ目」等の表記は指示用ラベルであり、画像内には描かない。\n日本の商業漫画の正しい読み順に従い、コマ配置とキャラクターの視線・動作の向きは右から左へ流れるように厳守すること(右上のコマから開始し、右→左、上→下の順)。吹き出しの位置もこの読み順を妨げないよう配置する。\nコマ枠は太めの黒線。セリフは日本語、読みやすく大きめ。舞台は漫画教室(ホワイトボード、机、液タブがある部屋)。\n\n【1ページ目】縦長(3:4)、6コマ、右から左・上から下の順で配置:\n1コマ目(右上、開始コマ・横長でページ幅いっぱい): タイトルコマ。手書き風の大きな文字で「{argument name=\"タイトル\" default=\"『めくり』を制する者は漫画を制す\"}」。ミドリ先生が単行本を1冊持ち、ページをめくる動作を大げさに実演している。ピンクちゃんは机で頬杖、半目。\n2コマ目(2段目・右側): ピンクちゃんが気だるく質問。吹き出し「めくり…?ページをめくるだけのことに、名前があるんですかぁ…?」。頭上に「?」。\n3コマ目(2段目・左側): ミドリ先生がメガネキラーンで食いつく。吹き出し「あるの!左ページ最後のコマ→めくる→右ページ最初のコマ。この橋渡しを『めくり』と呼んで、漫画家は技術の限りを尽くすの!」。背景に集中線。\n4コマ目(3段目・横長、このページの主役コマとして大きく): 図解コマ。ホワイトボードに描かれた見開き構造の模式図: 開いた本の絵で、左ページの一番左下のコマに「引き!(次に何か起きそう)」のラベルと矢印、ページの間に「めくる=読者の目が紙面から完全に離れる時間」のラベル、右ページの一番右上のコマに「期待に応える良い絵・良いセリフ!」のラベルと矢印。矢印は読み順(右→左、めくって次ページ)に沿って描く。ミドリ先生がマーカーで模式図をビシッと指す。\n5コマ目(4段目・右側): 比喩の解説コマ。ミドリ先生が胸に手を当てて語る。吹き出し「コマ割りのテンポは、人間の会話の口調と同じ。畳みかけるところと、ゆっくり話すところがある。その中で『めくり』は——息継ぎなの」。背景に音楽の休符のような柔らかいモチーフ。\n6コマ目(4段目・左側): ピンクちゃんが半目のままぽつり。吹き出し「息継ぎ…わたしの人生、ずっと息継ぎみたいなものですねぇ…」。ミドリ先生の小さいツッコミ吹き出し「あなたのは潜水!(寝てる)」。\n\n【2ページ目】縦長(3:4)、7コマ、右から左・上から下の順で配置:\n1コマ目(右上、開始コマ・横長): ミドリ先生が解説の続き。吹き出し「めくりの間で読者の意識が離れちゃう。だから左ページの最後は『次に何か起きそうなコマ』か『自然な場面転換』を置くの!」。横に小さな例示イラスト: 漫画のコマ風に、キャラが何かに気づいてハッと振り向く「引き」のコマ。\n2コマ目(2段目・横長): 続きの解説。吹き出し「そしてめくった先、右ページの最初のコマ。間があいた分、読者の期待値は上がってる。だからそれにふさわしい良いセリフ、良い絵を入れる!つまりめくりは——印象的なシーンの前の『タメ』!」。横に例示イラスト: めくった先で見開きのドーンとした決めゴマが現れるイメージ。\n3コマ目(3段目・右側): ミドリ先生が実演を始める。単行本をピンクちゃんの前に置いて、わくわく顔。吹き出し「実際に体感してみて!ここ、左ページの最後のコマ…どう?めくりたくなるでしょ?」。\n4コマ目(3段目・左側): ピンクちゃんが珍しく身を乗り出し、半目が少し開いて、ページに手をかける。吹き出し「あ…ほんとだ…ちょっと気になります…先が…」。瞳に小さなハイライトが一粒。\n5コマ目(4段目・横長): ミドリ先生が感動と熱弁のピーク。白衣バサバサ。吹き出し「それ!!その『先が気になる』が積み重なると、\"ページをめくる手が止まらない\"作品になるの!!めくりは読者へのプレゼントなの!!」。背景に暖色の熱気トーン。\n6コマ目(最下段・右側): ふと見ると、ピンクちゃんが開いた単行本に顔を突っ伏して熟睡している。本がそのまま枕になっている(いつもの液タブではなく)。頬ぷにっ、アホ毛ふよふよ、「すぴー…」。めくりかけのページが頬の下で少し折れている。\n7コマ目(最下段・左側、締めコマ): がっくり崩れ落ちるミドリ先生。吹き出し「今日もか〜〜!!しかも本が枕!!」。倒れながら小さい吹き出し「…めくる手が、止まっちゃったわね…」。",
+      "tags": [
+        "manga",
+        "education",
+        "comic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-mastering-manga-page-turns",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mastering-manga-page-turns.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@tryholonica via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/tryholonica/status/2078818022761124118",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_21036",
+        "published_at": "2026-07-19T12:23:33.854Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-summer-festival-under-shooting-stars",
+      "assetId": "goku-gpt-image-2-summer-festival-under-shooting-stars",
+      "model": "gpt-image-2",
+      "industry": "creator-social",
+      "category": "editorial-portrait",
+      "title": {
+        "en": "Summer Festival Under Shooting Stars"
+      },
+      "description": {
+        "en": "A production-ready image prompt for summer Festival Under Shooting Stars, reviewed against its published output."
+      },
+      "prompt": "主題：\n{argument name=\"主題\" default=\"流星を灯す夜\"}\n\n主体：\n縦長2:3の夏祭りポートレート。濡れた石畳の上で、浴衣姿の女性が低くしゃがみ、左右の手に線香花火を一本ずつ持っている。人物は画面中央やや左から下半分を占め、広く残した夜空に色彩の異なる大輪の花火と、明瞭な流星が広がる。\n\n人物・表情：\n自然で現実感のある若い女性。黒髪を低めのゆるいまとめ髪にし、薄い前髪と頬にかかる後れ毛を残す。耳の後ろに淡い桃色と白の花飾りを添える。顔を画面右からカメラへ静かに振り向け、穏やかな目線と控えめな微笑みを見せる。線香花火と提灯の光が頬、鼻筋、唇に柔らかく触れる。\n\n服装・ポーズ：\n乳白色に近い淡い桜色の浴衣。桃色、薄紫、灰青色の小花と葉を散らした可憐な柄で、背中にはくすみピンクの大きな文庫結びの帯。足元は赤茶色の鼻緒を付けた木製の下駄。両足を揃えて深くしゃがみ、体は画面右へ向けながら上半身だけをカメラ側へひねる。人物自身の右手を胸の前へ少し高く上げ、左手を膝の横へ低く伸ばす。それぞれの手に線香花火を一本だけ自然につまみ、指の本数、握り方、手首の角度を正確に描く。\n\n背景・光：\n深い紺色の星空。左上には花びらのように湾曲して開く大きな桃色の花火、右上には金色と淡い青白色が放射状に伸びる大輪、左中段には青と桃色が混じる小さな花火を配置する。周囲には控えめな小型花火を数輪だけ散らし、密集させない。空を斜めに横切る流星を4〜5本描き、白く鋭い光点と長く透明感のある尾をはっきり見せる。画面左奥には暖色の提灯が遠近に沿って並び、右奥の水辺には朱色の鳥居と暗い山並みが見える。濡れた石畳に提灯、花火、線香花火の金色や桃色が長く反射する。主光は手元の線香花火、左側から提灯の暖かな補助光、上方から花火の淡い輪郭光を加える。\n\n構図・カメラ：\n縦2:3。低い位置から人物の目線付近を見上げるローアングルで、全身と下駄まで収める。人物の頭頂は画面中央付近、上半分以上を夜空の余白として確保する。左の提灯列が奥へ導く斜線を作り、右奥の鳥居と釣り合う構成。35mm相当の自然な広角感。人物と手元の線香花火に正確にピントを合わせ、背景は輪郭が分かる程度に柔らかくぼかす。\n\n質感・スタイル：\n実写感の高い映画的な夜景写真。自然な肌理、浴衣の薄い綿布の織り、帯の立体的な折り目、濡れた石の光沢を丁寧に表現する。深い紺、淡い桃色、金色を中心に、彩度は上品に抑える。微細なフィルム粒子、滑らかな階調、透明感のある発光表現。過度な美肌補正を避け、現実的な光量と反射を保つ。",
+      "tags": [
+        "festival",
+        "fireworks",
+        "portrait",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-summer-festival-under-shooting-stars",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-summer-festival-under-shooting-stars.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@CyberTotal2026 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/CyberTotal2026/status/2078043027025825885",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_21038",
+        "published_at": "2026-07-17T09:04:00.472Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-pachinko-debug-visualization-layout",
+      "assetId": "goku-gpt-image-2-pachinko-debug-visualization-layout",
+      "model": "gpt-image-2",
+      "industry": "gaming",
+      "category": "game-ui",
+      "title": {
+        "en": "Pachinko Debug Visualization Layout"
+      },
+      "description": {
+        "en": "A production-ready image prompt for pachinko Debug Visualization Layout, reviewed against its published output."
+      },
+      "prompt": "Goal: Create a dark technical debug visualization of a pachinko machine playfield layout, showing ball lanes, collision rails, pegs, named gameplay regions, and simulated ball trajectories.\n\nCanvas: Square-ish 4:5 technical diagram on a nearly black burgundy background, with a transparent-engineering-overlay feel. Use a dark maroon grid of blocky rectangular obstacle silhouettes behind the layout.\n\nMain layout: Draw a large pachinko board occupying almost the full canvas. The board is formed by thick angular golden-brown rails: one large outer oval/octagonal loop around the perimeter, one large inner polygonal ring around an empty central dark void, and several short rail segments near the bottom and lower-right. Keep the rails chunky, beveled, and slightly translucent, like debug collision geometry.\n\nTrajectory paths: Add exactly 5 thin neon ball-path traces over the rails and lanes: 1 cyan path hugging the far-left launch lane, 1 hot pink path weaving near the left edge and bottom exit, 1 lime green path that curves from the upper-left across the mid-left and down to the bottom, 1 red path that crosses sharply through the left-middle and upper-left, and 1 yellow path following the outer left arc. The paths should overlap and look like simulated pachinko ball travel, with sharp turns and curved segments.\n\nDebug regions: Draw dashed cyan rectangular region boxes with small cyan labels. Include exactly 7 labeled regions: \"region:JACKPOT_1\" at left-middle, \"region:STATIC\" near the lower-left/middle, \"region:START\" centered lower-middle, \"region:LUCKY\" right-lower-middle, \"region:LAUNCHER\" bottom-right, \"region:OUT\" lower-left exit area, and one tall dashed launch/channel region along the left side.\n\nPegs and labels: Add exactly 15 small green square peg markers with green debug labels. Place them around the central playfield: 2 near the upper-left labeled \"peg-left-top-1\" and \"peg-left-top-2\"; 3 near the top center labeled \"peg-center-top-1\", \"peg-center-top-2\", and \"peg-1\"; 3 on the upper-right labeled \"peg-right-top-1\", \"peg-right-top-2\", and \"peg-right-path-2\"; 3 on the lower-right/lower-middle labeled \"peg-right-path-1\", \"peg-lucky-guide\", and \"peg-right-pocket-1\"; 4 in the lower-left/lower-middle labeled \"peg-left-path-1\", \"peg-left-pocket-1\", \"peg-start-left\", and \"peg-start-right\". Make labels small, thin, and green, as if from a game-engine editor overlay.\n\nAdditional details: Include one tiny cyan number box reading \"19\" near the left-middle jackpot area. Add a few small red guide triangles and line fragments near the top-left lane. The diagram should look like a GPT-generated game-layout review screenshot rather than polished UI art.\n\nVisual style: Low-light debug render, dark maroon and black palette, golden collision rails, cyan dashed UI overlays, green peg annotations, neon trajectory lines. No photorealism, no characters, no real pachinko machine cabinet, no decorative anime art.\n\nCustomizable concept: Build the layout as a {argument name=\"machine type\" default=\"pachinko\"} physics debug map titled by implication around {argument name=\"gameplay focus\" default=\"ball trajectory and lane review\"}. Use rail color {argument name=\"rail color\" default=\"muted golden brown\"}, background color {argument name=\"background color\" default=\"near-black burgundy\"}, and trajectory colors {argument name=\"trajectory colors\" default=\"cyan, hot pink, lime green, red, yellow\"}.",
+      "tags": [
+        "visualization",
+        "debugging",
+        "game-design",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-pachinko-debug-visualization-layout",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-pachinko-debug-visualization-layout.jpg",
+        "ratio": "481:600",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Maoku via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Maoku/status/2076296169307967967#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_21191",
+        "published_at": "2026-07-12T13:22:37.137Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
+    },
+    {
+      "slug": "goku-gpt-image-2-cinematic-coffee-journey-storyboard",
+      "assetId": "goku-gpt-image-2-cinematic-coffee-journey-storyboard",
+      "model": "gpt-image-2",
+      "industry": "food-beverage",
+      "category": "cinematic-storyboard",
+      "title": {
+        "en": "Cinematic Coffee Journey Storyboard"
+      },
+      "description": {
+        "en": "A production-ready image prompt for cinematic Coffee Journey Storyboard, reviewed against its published output."
+      },
+      "prompt": "Goal: Create a premium cinematic coffee commercial storyboard as a single static image, showing the full journey from coffee seed to finished latte. Use a dark minimalist studio look with pure black backgrounds, dramatic low-key lighting, shallow depth of field, macro photography realism, rich brown coffee tones, glossy highlights, and elegant white captions.\n\nCanvas: 16:9 widescreen storyboard sheet, divided into exactly 10 vertical panels arranged in a 2-row by 5-column grid. Use thin dark gray dividers between panels. Each panel should feel like a high-end commercial still frame, with black negative space and a subject lit by a narrow soft spotlight.\n\nLayout: Top row contains panels 1–5 with centered white caption text near the lower third but no visible numbers. Bottom row contains panels 6–10 with small white timing labels at the top left of each panel and centered white caption text near the bottom. Keep all typography clean, modern, sans-serif, white, and unobtrusive.\n\nStoryboard panels, exactly 10:\n1. A roasted-looking coffee seed partly embedded in dark soil, lit from the side, caption: “The coffee seed meets the soil.”\n2. A coffee seed cracking open with a curved green sprout emerging upward from dark soil, caption: “The first sprout breaks through.”\n3. A young coffee seedling with two fresh green leaves and thin pale roots visible in the soil, caption: “New life grows in the darkness.”\n4. A taller green coffee sprout flanked by two split brown seed halves, caption: “The seed transforms, shaped by nature.”\n5. A glossy green coffee cherry hanging from a thin branch in darkness, with a small droplet beneath it, caption: “The cherry ripens in silence.”\n6. Bottom-left panel with top-left label “6   5.0 - 6.0s”; show a ripe red coffee cherry split open to reveal a pale bean inside, growing from dark soil, caption: “The bean is born, rich and whole.”\n7. Top-left label “7   6.0 - 7.0s”; show a single roasted coffee bean floating or isolated against black, very close macro detail, caption: “From nature’s work to harvest.”\n8. Top-left label “8   7.0 - 8.0s”; show finely ground coffee falling from a grinder into a portafilter held by a hand, caption: “Ground to perfection.”\n9. Top-left label “9   8.0 - 9.0s”; show espresso extraction with two thin streams pouring from a portafilter into a dark cup below, caption: “Extracted with precision.”\n10. Top-left label “10   9.0 - 10.0s”; show a barista hand pouring steamed milk from a metal pitcher into a cup of espresso, forming clean latte art, caption: “Crafted into a perfect harmony.”\n\nText customization: Use {argument name=\"brand mood\" default=\"premium cinematic coffee commercial\"} styling. The main caption tone should be poetic and minimal. Optionally replace the final caption with {argument name=\"final caption\" default=\"Crafted into a perfect harmony.\"} while preserving the same placement.\n\nVisual constraints: Keep exactly 10 panels, exactly 5 panels per row, and preserve the numbered timing labels only on panels 6 through 10. Do not add logos, watermarks, extra icons, extra panels, decorative borders, or unrelated text. Maintain realistic coffee textures, dark soil particles, deep blacks, warm highlights, and a luxurious commercial atmosphere.",
+      "tags": [
+        "coffee",
+        "storyboard",
+        "commercial",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cinematic-coffee-journey-storyboard",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-coffee-journey-storyboard.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ElsaSofia__AI via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ElsaSofia__AI/status/2085189877919084888#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_21231",
+        "published_at": "2026-08-06T02:23:02.507Z",
+        "captured_at": "2026-10-23",
+        "collected_at": "2026-10-23T02:44:58.469Z"
+      },
+      "status": "published",
+      "file": "catalog/model-detail-assets.json"
     }
   ]
 }

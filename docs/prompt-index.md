@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **346**
-Demo assets: **354**
+Published templates: **361**
+Demo assets: **369**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -963,6 +963,63 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 
 - [Edible Miniature Beijing Cityscape](../catalog/model-detail-assets.json) — city-miniature · gpt-image-2
 
+## 营销与广告
+
+- [Bold Thermal Receipt Lamp Poster](../catalog/model-detail-assets.json) — poster-design · gpt-image-2
+
+## 教育与培训
+
+- [Yueyang Tower Literature Teaching Poster](../catalog/model-detail-assets.json) — historical-infographic · gpt-image-2
+
+## 软件与 SaaS
+
+- [Japanese Mystery Game Website Mockup](../catalog/model-detail-assets.json) — game-ui · gpt-image-2
+
+## 创作者与社交
+
+- [Tanabata Morning Wish](../catalog/model-detail-assets.json) — editorial-portrait · gpt-image-2
+
+## 旅游与酒店
+
+- [Good Morning City Poster Design](../catalog/model-detail-assets.json) — travel-poster · gpt-image-2
+
+## 媒体与娱乐
+
+- [Tang Dynasty Four Scenes Portrait](../catalog/model-detail-assets.json) — editorial-portrait · gpt-image-2
+
+## 食品与饮料
+
+- [Premium Mixed Media Ad](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 游戏
+
+- [Dark Dryad Warlock RPG Card](../catalog/model-detail-assets.json) — game-ui · gpt-image-2
+
+## 创作者与社交
+
+- [Fingertips Chasing Bubbles In Yukata](../catalog/model-detail-assets.json) — editorial-portrait · gpt-image-2
+- [Serene Cafe Moment With Hat](../catalog/model-detail-assets.json) — editorial-portrait · gpt-image-2
+
+## 媒体与娱乐
+
+- [Intimate Cinematic Couple Skin Portrait](../catalog/model-detail-assets.json) — editorial-portrait · gpt-image-2
+
+## 出版
+
+- [Mastering Manga Page Turns](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Summer Festival Under Shooting Stars](../catalog/model-detail-assets.json) — editorial-portrait · gpt-image-2
+
+## 游戏
+
+- [Pachinko Debug Visualization Layout](../catalog/model-detail-assets.json) — game-ui · gpt-image-2
+
+## 食品与饮料
+
+- [Cinematic Coffee Journey Storyboard](../catalog/model-detail-assets.json) — cinematic-storyboard · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -1321,3 +1378,18 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Crimson Hanfu Fantasy Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/crimson-hanfu-fantasy-portrait.jpg) — 时尚与服饰
 - [Minimal Taxi App Isometric Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/minimal-taxi-app-illustration.jpg) — 软件与 SaaS
 - [Edible Miniature Beijing Cityscape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/edible-mini-beijing.jpg) — 旅游与酒店
+- [Bold Thermal Receipt Lamp Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-bold-thermal-receipt-lamp-poster.jpg) — 营销与广告
+- [Yueyang Tower Literature Teaching Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-yueyang-tower-literature-teaching-poster.jpg) — 教育与培训
+- [Japanese Mystery Game Website Mockup](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-japanese-mystery-game-website-mockup.jpg) — 软件与 SaaS
+- [Tanabata Morning Wish](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-tanabata-morning-wish.jpg) — 创作者与社交
+- [Good Morning City Poster Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-good-morning-city-poster-design.jpg) — 旅游与酒店
+- [Tang Dynasty Four Scenes Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-tang-dynasty-four-scenes-portrait.jpg) — 媒体与娱乐
+- [Premium Mixed Media Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-premium-mixed-media-ad.jpg) — 食品与饮料
+- [Dark Dryad Warlock RPG Card](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dark-dryad-warlock-rpg-card.jpg) — 游戏
+- [Fingertips Chasing Bubbles In Yukata](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-fingertips-chasing-bubbles-in-yukata.jpg) — 创作者与社交
+- [Serene Cafe Moment With Hat](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-serene-cafe-moment-with-hat.jpg) — 创作者与社交
+- [Intimate Cinematic Couple Skin Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-intimate-cinematic-couple-skin-portrait.jpg) — 媒体与娱乐
+- [Mastering Manga Page Turns](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mastering-manga-page-turns.jpg) — 出版
+- [Summer Festival Under Shooting Stars](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-summer-festival-under-shooting-stars.jpg) — 创作者与社交
+- [Pachinko Debug Visualization Layout](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-pachinko-debug-visualization-layout.jpg) — 游戏
+- [Cinematic Coffee Journey Storyboard](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-coffee-journey-storyboard.jpg) — 食品与饮料
