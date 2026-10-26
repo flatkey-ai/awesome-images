@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **361**
-Demo assets: **369**
+Published templates: **399**
+Demo assets: **407**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -1020,6 +1020,146 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 
 - [Cinematic Coffee Journey Storyboard](../catalog/model-detail-assets.json) — cinematic-storyboard · gpt-image-2
 
+## architecture-real-estate
+
+- [Luxury Arctic Glass Dome Aurora Retreat](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+
+## 时尚与服饰
+
+- [Tiny Man Beach Adventures](../catalog/model-detail-assets.json) — collage-art · gpt-image-2
+
+## 媒体与娱乐
+
+- [Porcelain Armored Knight in Autumn Forest](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Crimson Forest Cinematic Landscape](../catalog/model-detail-assets.json) — sci-fi-landscape · gpt-image-2
+
+## architecture-real-estate
+
+- [Luxurious Futuristic Rooftop Garden Scene](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+
+## 媒体与娱乐
+
+- [Moon Rabbit Apothecary Fantasy Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 出版
+
+- [Scarlet Macaw Magazine Cover](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## architecture-real-estate
+
+- [Home Gym Wall Makeover Design](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+
+## 媒体与娱乐
+
+- [Retro Pixel Art Motel Sunset](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## architecture-real-estate
+
+- [Magical Autumn Garden Pop-Up Book](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+
+## 教育与培训
+
+- [Dual Modulation Optical Setup Diagram](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+- [Director Storyboard Thinking Guide](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+
+## 出版
+
+- [AAA 3D Technical Writer Character Concept](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 时尚与服饰
+
+- [Fashion Model 9 Panel Reference Sheet](../catalog/model-detail-assets.json) — editorial-portrait · gpt-image-2
+
+## 教育与培训
+
+- [Piano MV Previsualization Blueprint](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+
+## 时尚与服饰
+
+- [Stylish Portrait Collage](../catalog/model-detail-assets.json) — collage-art · gpt-image-2
+
+## 食品与饮料
+
+- [Steampunk Cyberpunk Indie Tech City](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 媒体与娱乐
+
+- [Noah Chronos Sci-Fi Character Sheet](../catalog/model-detail-assets.json) — sci-fi-illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Cinematic Mountain Valley Night](../catalog/model-detail-assets.json) — sci-fi-landscape · gpt-image-2
+
+## 媒体与娱乐
+
+- [Sengoku Warrior Character Reference Sheet](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 时尚与服饰
+
+- [Neon Paint Explosion Street Art](../catalog/model-detail-assets.json) — editorial-portrait · gpt-image-2
+
+## 教育与培训
+
+- [Cat Breed Encyclopedia Guide](../catalog/model-detail-assets.json) — historical-infographic · gpt-image-2
+
+## 出版
+
+- [French Notebook Planning Layout](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Kuro Black Cat Creature Design](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 教育与培训
+
+- [Core Empowerment Platform Blueprint](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+
+## 食品与饮料
+
+- [Bakery Product Shot Template](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Vintage Omelette Cooking Tutorial](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Tea Brand Mascot Character Design Sheet](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 出版
+
+- [Aerial Interface Design System](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 食品与饮料
+
+- [Gannan Golden Week Escape](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 出版
+
+- [Embroidered Patches Flat Lay Collection](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 教育与培训
+
+- [Ancient Kung Fu Manual Page](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+
+## 出版
+
+- [Philosophical Idea Machine](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 教育与培训
+
+- [Chinese Civilization Panoramic Timeline](../catalog/model-detail-assets.json) — historical-infographic · gpt-image-2
+
+## 时尚与服饰
+
+- [Autumn Fashion Lifestyle Ad Collage](../catalog/model-detail-assets.json) — collage-art · gpt-image-2
+
+## 媒体与娱乐
+
+- [Office Drama Manga](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 时尚与服饰
+
+- [Occult Cyber-Gothic Ritual Collage Poster](../catalog/model-detail-assets.json) — collage-art · gpt-image-2
+
+## 食品与饮料
+
+- [Reading Lesson Design Infographic](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -1393,3 +1533,41 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Summer Festival Under Shooting Stars](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-summer-festival-under-shooting-stars.jpg) — 创作者与社交
 - [Pachinko Debug Visualization Layout](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-pachinko-debug-visualization-layout.jpg) — 游戏
 - [Cinematic Coffee Journey Storyboard](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-coffee-journey-storyboard.jpg) — 食品与饮料
+- [Luxury Arctic Glass Dome Aurora Retreat](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-arctic-glass-dome-aurora-luxury.jpg) — architecture-real-estate
+- [Tiny Man Beach Adventures](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-tiny-man-beach-collage.jpg) — 时尚与服饰
+- [Porcelain Armored Knight in Autumn Forest](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-porcelain-knight-autumn.jpg) — 媒体与娱乐
+- [Crimson Forest Cinematic Landscape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-crimson-forest-cinematic.jpg) — 旅游与酒店
+- [Luxurious Futuristic Rooftop Garden Scene](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-futuristic-rooftop-garden.jpg) — architecture-real-estate
+- [Moon Rabbit Apothecary Fantasy Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-moon-rabbit-apothecary.jpg) — 媒体与娱乐
+- [Scarlet Macaw Magazine Cover](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-scarlet-macaw-cover.jpg) — 出版
+- [Home Gym Wall Makeover Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-home-gym-wall-makeover.jpg) — architecture-real-estate
+- [Retro Pixel Art Motel Sunset](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-retro-pixel-motel-sunset.jpg) — 媒体与娱乐
+- [Magical Autumn Garden Pop-Up Book](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-autumn-garden-popup-book.jpg) — architecture-real-estate
+- [Dual Modulation Optical Setup Diagram](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dual-modulation-optical-setup.jpg) — 教育与培训
+- [Director Storyboard Thinking Guide](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-director-storyboard-thinking.jpg) — 教育与培训
+- [AAA 3D Technical Writer Character Concept](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-3d-technical-writer-character-concept.jpg) — 出版
+- [Fashion Model 9 Panel Reference Sheet](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-fashion-model-reference-sheet.jpg) — 时尚与服饰
+- [Piano MV Previsualization Blueprint](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-piano-mv-previs-blueprint.jpg) — 教育与培训
+- [Stylish Portrait Collage](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-stylish-portrait-collage.jpg) — 时尚与服饰
+- [Steampunk Cyberpunk Indie Tech City](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-steampunk-cyberpunk-indie-tech-city.jpg) — 食品与饮料
+- [Noah Chronos Sci-Fi Character Sheet](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-noah-chronos-sci-fi-character-sheet.jpg) — 媒体与娱乐
+- [Cinematic Mountain Valley Night](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mountain-valley-night.jpg) — 旅游与酒店
+- [Sengoku Warrior Character Reference Sheet](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-sengoku-warrior-reference-sheet.jpg) — 媒体与娱乐
+- [Neon Paint Explosion Street Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-neon-paint-explosion-street-art.jpg) — 时尚与服饰
+- [Cat Breed Encyclopedia Guide](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cat-breed-encyclopedia.jpg) — 教育与培训
+- [French Notebook Planning Layout](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-french-notebook-planning.jpg) — 出版
+- [Kuro Black Cat Creature Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kuro-black-cat-creature-design.jpg) — 出版
+- [Core Empowerment Platform Blueprint](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-empowerment-platform-blueprint.jpg) — 教育与培训
+- [Bakery Product Shot Template](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-bakery-product-shot-template.jpg) — 食品与饮料
+- [Vintage Omelette Cooking Tutorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-omelette-tutorial.jpg) — 食品与饮料
+- [Tea Brand Mascot Character Design Sheet](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-tea-mascot-character-design.jpg) — 食品与饮料
+- [Aerial Interface Design System](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-aerial-interface-design-system.jpg) — 出版
+- [Gannan Golden Week Escape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-gannan-golden-week-guide.jpg) — 食品与饮料
+- [Embroidered Patches Flat Lay Collection](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-embroidered-patches-flat-lay.jpg) — 出版
+- [Ancient Kung Fu Manual Page](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ancient-kung-fu-manual.jpg) — 教育与培训
+- [Philosophical Idea Machine](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-philosophical-idea-machine.jpg) — 出版
+- [Chinese Civilization Panoramic Timeline](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chinese-civilization-panoramic-timeline.jpg) — 教育与培训
+- [Autumn Fashion Lifestyle Ad Collage](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-autumn-fashion-collage.jpg) — 时尚与服饰
+- [Office Drama Manga](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-office-drama-manga.jpg) — 媒体与娱乐
+- [Occult Cyber-Gothic Ritual Collage Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-occult-cyber-gothic-ritual.jpg) — 时尚与服饰
+- [Reading Lesson Design Infographic](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-reading-lesson-design-infographic.jpg) — 食品与饮料
