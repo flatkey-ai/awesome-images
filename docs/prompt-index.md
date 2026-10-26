@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **399**
-Demo assets: **407**
+Published templates: **411**
+Demo assets: **419**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -1159,6 +1159,36 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 ## 食品与饮料
 
 - [Reading Lesson Design Infographic](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Premium Food Product Photography](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 时尚与服饰
+
+- [Cinematic Business Portrait](../catalog/model-detail-assets.json) — editorial-portrait · gpt-image-2
+
+## 旅游与酒店
+
+- [Neo-Tokyo Grand Strategy](../catalog/model-detail-assets.json) — sci-fi-landscape · gpt-image-2
+
+## 营销与广告
+
+- [High End Product Design Board](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Surreal Movie Poster Collection](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 出版
+
+- [Aesthetic Bookshelf Arrangement](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 时尚与服饰
+
+- [Dada Collage Anime Portrait](../catalog/model-detail-assets.json) — collage-art · gpt-image-2
+- [Playful Girl Fashion Editorial](../catalog/model-detail-assets.json) — editorial-portrait · gpt-image-2
+- [Claude Inner World Moodboard Collage](../catalog/model-detail-assets.json) — collage-art · gpt-image-2
+
+## 媒体与娱乐
+
+- [Trading Card Art Generator](../catalog/model-detail-assets.json) — game-ui · gpt-image-2
+- [Rebirth Log Reincarnated Lady](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Find Kyle In Seoul Market Alley](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 
 ## Demo assets
 
@@ -1571,3 +1601,15 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Office Drama Manga](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-office-drama-manga.jpg) — 媒体与娱乐
 - [Occult Cyber-Gothic Ritual Collage Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-occult-cyber-gothic-ritual.jpg) — 时尚与服饰
 - [Reading Lesson Design Infographic](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-reading-lesson-design-infographic.jpg) — 食品与饮料
+- [Premium Food Product Photography](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-premium-food-photography.jpg) — 食品与饮料
+- [Cinematic Business Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-business-portrait.jpg) — 时尚与服饰
+- [Neo-Tokyo Grand Strategy](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-neo-tokyo-grand-strategy.jpg) — 旅游与酒店
+- [High End Product Design Board](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-high-end-product-design-board.jpg) — 营销与广告
+- [Surreal Movie Poster Collection](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-movie-poster-grid.jpg) — 营销与广告
+- [Aesthetic Bookshelf Arrangement](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-aesthetic-bookshelf-arrangement.jpg) — 出版
+- [Dada Collage Anime Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dada-collage-anime-boy.jpg) — 时尚与服饰
+- [Playful Girl Fashion Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-playful-girl-fashion-editorial.jpg) — 时尚与服饰
+- [Claude Inner World Moodboard Collage](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-claude-inner-world-moodboard.jpg) — 时尚与服饰
+- [Trading Card Art Generator](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-trading-card-art-generator.jpg) — 媒体与娱乐
+- [Rebirth Log Reincarnated Lady](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-reincarnated-lady-rebirth.jpg) — 媒体与娱乐
+- [Find Kyle In Seoul Market Alley](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-find-kyle-seoul-market.jpg) — 媒体与娱乐
