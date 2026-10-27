@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **411**
-Demo assets: **419**
+Published templates: **461**
+Demo assets: **469**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -1190,6 +1190,59 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Rebirth Log Reincarnated Lady](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 - [Find Kyle In Seoul Market Alley](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 
+## 营销与广告
+
+- [Pink Soft-Serve Spoon Close-Up](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Sci-Fi Ship Lands in Ancient Forest](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Red Cliffs Inferno: Burning Fleet](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Empty Fort Strategy Dawn](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+- [Fisheye Rainforest Clearing Wonder](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Vintage Village Bioscope Nostalgia](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Shanghai Bund Four Seasons](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Traditional Meticulous Heavy Color Painting](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+- [LEGO Plaza de España Canal Scene](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Neon Pop Anime Background](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Sunset Megacity Beyond Tomorrow](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+- [Yang Elder Ink Mark](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [AI Cost-Cutting Taoist Talisman](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Golden Bay City Skyline](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+- [Hand-Drawn Vintage Ramen Recipe](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+- [Eastern Ink Blooms Commercial Art](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Ink Wash Mecha Mountain Landscape](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+- [Sci-Fi Pilot Character Board](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Robot Tea Master Ink](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Moon Night Market Clay Diorama](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+- [Imperial Jadeite Court Beads Design](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Floating Sphere Surreal Still-Life](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Dreamy Glass Orb Keyboard](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Golden Alpine Lake at Sunset](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Vintage Blue Peacock Floral Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Folk Doodle Illustration Style](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Lotus City Oriental Commercial Art](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Cute Kawaii Coffee Break](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Cute Country Sticker Pack Design](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Premium Pour Perfection](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Mint Green Luxury Skincare Ad](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Hyper-Realistic Chameleon Macro Jungle](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Mango Coconut Drink Hand Drawn Style](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Manhattan Skyline Millennium Evolution](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+- [Palm-Sized World Travel Diorama](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Natural Light Product Photography Secrets](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Minimalist Everyday Objects Collection](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Organic Mushroom Ambient Desk Lamp](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Nest Weave Lounge Chair](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Rain Whispers Under Lotus](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Pavilion in Amber Dusk](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+- [Chang'an Game Main City](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+- [Solar Desert Epoch](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+- [Su Shi's Silent Moon](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+- [Giant Koi in Dreamy Nebula](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Premium 3D App Icon Design](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Strawberry Milk Shower Gel Ad](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Western Art Evolution Museum](../catalog/model-detail-assets.json) — architecture-infographic · gpt-image-2
+- [Graffiti Sketch AI Builder](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Gongbi Bookmark Art Collection](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -1613,3 +1666,53 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Trading Card Art Generator](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-trading-card-art-generator.jpg) — 媒体与娱乐
 - [Rebirth Log Reincarnated Lady](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-reincarnated-lady-rebirth.jpg) — 媒体与娱乐
 - [Find Kyle In Seoul Market Alley](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-find-kyle-seoul-market.jpg) — 媒体与娱乐
+- [Pink Soft-Serve Spoon Close-Up](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-pink-soft-serve-spoon-close-up.jpg) — 营销与广告
+- [Sci-Fi Ship Lands in Ancient Forest](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-sci-fi-ship-lands-in-ancient-forest.jpg) — 营销与广告
+- [Red Cliffs Inferno: Burning Fleet](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-red-cliffs-inferno-burning-fleet.jpg) — 营销与广告
+- [Empty Fort Strategy Dawn](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-empty-fort-strategy-dawn.jpg) — 营销与广告
+- [Fisheye Rainforest Clearing Wonder](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-fisheye-rainforest-clearing-wonder.jpg) — 营销与广告
+- [Vintage Village Bioscope Nostalgia](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-village-bioscope-nostalgia.jpg) — 营销与广告
+- [Shanghai Bund Four Seasons](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-shanghai-bund-four-seasons.jpg) — 营销与广告
+- [Traditional Meticulous Heavy Color Painting](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-traditional-meticulous-heavy-color-painting.jpg) — 营销与广告
+- [LEGO Plaza de España Canal Scene](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lego-plaza-de-espan-a-canal-scene.jpg) — 营销与广告
+- [Neon Pop Anime Background](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-neon-pop-anime-background.jpg) — 营销与广告
+- [Sunset Megacity Beyond Tomorrow](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-sunset-megacity-beyond-tomorrow.jpg) — 营销与广告
+- [Yang Elder Ink Mark](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-yang-elder-ink-mark.jpg) — 营销与广告
+- [AI Cost-Cutting Taoist Talisman](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ai-cost-cutting-taoist-talisman.jpg) — 营销与广告
+- [Golden Bay City Skyline](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-bay-city-skyline.jpg) — 营销与广告
+- [Hand-Drawn Vintage Ramen Recipe](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-hand-drawn-vintage-ramen-recipe.jpg) — 营销与广告
+- [Eastern Ink Blooms Commercial Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-eastern-ink-blooms-commercial-art.jpg) — 营销与广告
+- [Ink Wash Mecha Mountain Landscape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ink-wash-mecha-mountain-landscape.jpg) — 营销与广告
+- [Sci-Fi Pilot Character Board](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-sci-fi-pilot-character-board.jpg) — 营销与广告
+- [Robot Tea Master Ink](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-robot-tea-master-ink.jpg) — 营销与广告
+- [Moon Night Market Clay Diorama](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-moon-night-market-clay-diorama.jpg) — 营销与广告
+- [Imperial Jadeite Court Beads Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-imperial-jadeite-court-beads-design.jpg) — 营销与广告
+- [Floating Sphere Surreal Still-Life](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-floating-sphere-surreal-still-life.jpg) — 营销与广告
+- [Dreamy Glass Orb Keyboard](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dreamy-glass-orb-keyboard.jpg) — 营销与广告
+- [Golden Alpine Lake at Sunset](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-alpine-lake-at-sunset.jpg) — 营销与广告
+- [Vintage Blue Peacock Floral Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-blue-peacock-floral-art.jpg) — 营销与广告
+- [Folk Doodle Illustration Style](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-folk-doodle-illustration-style.jpg) — 营销与广告
+- [Lotus City Oriental Commercial Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lotus-city-oriental-commercial-art.jpg) — 营销与广告
+- [Cute Kawaii Coffee Break](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cute-kawaii-coffee-break.jpg) — 营销与广告
+- [Cute Country Sticker Pack Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cute-country-sticker-pack-design.jpeg) — 营销与广告
+- [Premium Pour Perfection](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-premium-pour-perfection.jpg) — 营销与广告
+- [Mint Green Luxury Skincare Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mint-green-luxury-skincare-ad.jpg) — 营销与广告
+- [Hyper-Realistic Chameleon Macro Jungle](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-hyper-realistic-chameleon-macro-jungle.jpg) — 营销与广告
+- [Mango Coconut Drink Hand Drawn Style](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mango-coconut-drink-hand-drawn-style.jpg) — 营销与广告
+- [Manhattan Skyline Millennium Evolution](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-manhattan-skyline-millennium-evolution.jpg) — 营销与广告
+- [Palm-Sized World Travel Diorama](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-palm-sized-world-travel-diorama.jpg) — 营销与广告
+- [Natural Light Product Photography Secrets](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-natural-light-product-photography-secrets.jpg) — 营销与广告
+- [Minimalist Everyday Objects Collection](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-everyday-objects-collection.jpg) — 营销与广告
+- [Organic Mushroom Ambient Desk Lamp](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-organic-mushroom-ambient-desk-lamp.jpeg) — 营销与广告
+- [Nest Weave Lounge Chair](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-nest-weave-lounge-chair.jpeg) — 营销与广告
+- [Rain Whispers Under Lotus](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rain-whispers-under-lotus.jpg) — 营销与广告
+- [Pavilion in Amber Dusk](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-pavilion-in-amber-dusk.jpg) — 营销与广告
+- [Chang'an Game Main City](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chang-an-game-main-city.jpeg) — 营销与广告
+- [Solar Desert Epoch](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-solar-desert-epoch.jpeg) — 营销与广告
+- [Su Shi's Silent Moon](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-su-shi-s-silent-moon.jpg) — 营销与广告
+- [Giant Koi in Dreamy Nebula](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-giant-koi-in-dreamy-nebula.jpeg) — 营销与广告
+- [Premium 3D App Icon Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-premium-3d-app-icon-design.jpg) — 营销与广告
+- [Strawberry Milk Shower Gel Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-strawberry-milk-shower-gel-ad.jpg) — 营销与广告
+- [Western Art Evolution Museum](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-western-art-evolution-museum.jpeg) — 营销与广告
+- [Graffiti Sketch AI Builder](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-graffiti-sketch-ai-builder.jpg) — 营销与广告
+- [Gongbi Bookmark Art Collection](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-gongbi-bookmark-art-collection.jpg) — 营销与广告
