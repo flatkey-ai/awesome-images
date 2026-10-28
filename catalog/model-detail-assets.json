@@ -3,7 +3,7 @@
   "kind": "image-model-detail-assets",
   "repository": "https://github.com/flatkey-ai/awesome-images",
   "generatedFrom": "new-api:d0835b1c6:website/src/lib/image-prompt-templates.ts",
-  "capturedAt": "2026-10-27",
+  "capturedAt": "2026-10-28",
   "entries": [
     {
       "slug": "model-detail-image-gpt-image-2-product-hero",
@@ -17261,6 +17261,2154 @@
         "published_at": "2026-04-19T02:40:17.009Z",
         "captured_at": "2026-10-27",
         "collected_at": "2026-10-27T03:17:18.787Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-realistic-3d-papercraft-art",
+      "assetId": "goku-gpt-image-2-realistic-3d-papercraft-art",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Realistic 3D Papercraft Art"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Convert {argument name=\"target\" default=\"this illustration\"} to a very precise and realistic {argument name=\"color\" default=\"white\"} paper {argument name=\"style\" default=\"papercraft\"} style. Express the sharp and precise cuts like laser-cut thick paper, fine creases, rich three-dimensionality from multiple layers, and the texture of paper fibers and natural shadows in high detail. By utilizing the paper's whiteness and subtle gradients from how light hits it, it creates a realistic, three-dimensional paper art that feels almost realistic. The whole thing is refined and has an artistic atmosphere. The original illustration composition and characters are faithfully preserved.",
+      "tags": [
+        "illustration",
+        "papercraft",
+        "laser-cut",
+        "paper-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-realistic-3d-papercraft-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-realistic-3d-papercraft-art.jpg",
+        "ratio": "53:75",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@notoro_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/notoro_ai/status/2052018043883319536",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_00032",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-straw-boats-borrowing-arrows-rainstorm",
+      "assetId": "goku-gpt-image-2-straw-boats-borrowing-arrows-rainstorm",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "cinematic",
+      "title": {
+        "en": "Straw Boats Borrowing Arrows Rainstorm"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A cinematic historical war scene from Romance of the Three Kingdoms depicting the straw boat borrowing arrows on a wide gray river during a violent rainstorm, viewed from a slightly elevated front angle. In the foreground, a convoy of 6 narrow wooden boats is lashed together in a line, each boat wrapped thickly with dense bundles of straw along the sides and bow, creating rough protective walls. Hundreds of black-feathered arrows are embedded all over the straw armor, sticking out in every direction, with more arrows flying diagonally through the air in heavy wind and rain. The lead boat dominates the frame; its cabin is covered with dark blue fabric curtains and blue roof panels. Standing calmly inside the front cabin are 2 robed ancient Chinese strategists, one in a pale white robe holding a feather fan and one darker-robed companion beside him, both composed and unhurried amid the chaos. Along the left side of the boats are clustered oarsmen and soldiers in dark period clothing, with several large war drums visible on the decks. In the background across the river, a massive enemy river fleet fills the misty distance: dozens of tall wooden warships, watchtowers, and platforms crowded with troops and archers. Multiple military banners bearing the single large Chinese character \"曹\" rise above the fleet, indicating Cao Cao's forces. The atmosphere is cold, desaturated, and epic, with fog, smoke, rain streaks, rough water, low contrast blue-gray lighting, and highly detailed realistic textures in wet wood, straw, fabric, and river spray. Ultra-detailed, photorealistic ancient Chinese battlefield tableau, dramatic scale, moody historical realism, vertical composition.",
+      "tags": [
+        "cinematic",
+        "three kingdoms",
+        "ancient war",
+        "naval battle",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-straw-boats-borrowing-arrows-rainstorm",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-straw-boats-borrowing-arrows-rainstorm.jpg",
+        "ratio": "4:5",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Saccc_c via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Saccc_c/status/2047211498838352177#reversed-3",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_00229",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-embossed-relief-style-illustration",
+      "assetId": "goku-gpt-image-2-embossed-relief-style-illustration",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Embossed Relief Style Illustration"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Please convert this illustration to a style like {argument name=\"type of processing\" default=\"embossed\"} with processing applied to {argument name=\"style\" default=\"premium cards and reliefs\"}. Emphasize the three-dimensional textures that look like paper or metal pressed and lifted, the texture that makes you want to touch, and the beautiful embossing effect created by light and shadow. The original illustration composition and characters are preserved.",
+      "tags": [
+        "illustration",
+        "embossed",
+        "relief",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-embossed-relief-style-illustration",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-embossed-relief-style-illustration.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@notoro_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/notoro_ai/status/2054143571335565809",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_00468",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-botanical-canvas-art-style",
+      "assetId": "goku-gpt-image-2-botanical-canvas-art-style",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Botanical Canvas Art Style"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Please convert this illustration to {argument name=\"Material\" default=\"Canvas\"} drawn with {argument name=\"dye\" default=\"Plant dye (leaves, stems, flowers, fruits, roots, etc.)\"} to {argument name=\"Style\" default=\"Botanical Painting Style\"}. Organic expression that makes the most of the soft bleeds of natural dye, gentle color unevenness, and the texture of canvas. Instead of chemical vividness, it emphasizes calm earth tones derived from plants and soft gradients, creating a warm, calm, and poetic botanical atmosphere. The plants used are not depicted. The original illustration composition and characters are fully preserved.",
+      "tags": [
+        "illustration",
+        "botanical art",
+        "plant dye",
+        "canvas texture",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-botanical-canvas-art-style",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-botanical-canvas-art-style.jpg",
+        "ratio": "141:200",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@notoro_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/notoro_ai/status/2051240426233885129",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_00533",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-nostalgic-lo-fi-art-style",
+      "assetId": "goku-gpt-image-2-nostalgic-lo-fi-art-style",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Nostalgic Lo-Fi Art Style"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Convert this illustration with {argument name=\"style\" default=\"Authentic Lo-Fi Art Style\"}. Add warm, slightly muted pastel tones, film grain, soft focus, light fading, and vignette to strongly express a nostalgic and chilly atmosphere. Soft natural light gently envelops the character, casting warm light and shadow on skin and hair. Finish the entire look with a relaxed, calm, nostalgic, and pleasant Lo-Fi mood. Completely preserve the original composition and character.",
+      "tags": [
+        "illustration",
+        "lofi",
+        "nostalgic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-nostalgic-lo-fi-art-style",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-nostalgic-lo-fi-art-style.jpg",
+        "ratio": "911:1199",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@notoro_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/notoro_ai/status/2053661484413313463",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_00550",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-cosmic-roots-astronaut-s-vigil",
+      "assetId": "goku-gpt-image-2-cosmic-roots-astronaut-s-vigil",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "cinematic",
+      "title": {
+        "en": "Cosmic Roots: Astronaut's Vigil"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "This is a cinematic, surreal space scene where an astronaut floats across the vast expanse of space, with the vast Earth beside them. Earth occupies the left side of the frame, the astronaut is on the right, with legs bent and float backward, one arm reaching toward Earth. The astronauts wear realistic white EVA-style spacesuits, equipped with dark reflective masks, backpack devices, and red, yellow, and green epaulettes. The Earth is viewed from the Atlantic Ocean, with North and South America clearly visible. Against a deep, dark, starry backdrop, the Earth's edge emits a cool blue halo. On continents and even oceans, faintly visible organic, branching root systems or neural veins spread across the surface, especially dense in North America and extending into South America, creating a dark biomechanical or \"living planet\" effect. It employs dramatic understated lighting, strong contrast, melancholic shadows, photo-quality textures, ultra-fine cinematic realism, a quiet and oppressive atmosphere, and wide-angle compositions with large areas of blank space.",
+      "tags": [
+        "cinematic",
+        "space",
+        "surreal",
+        "astronaut",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cosmic-roots-astronaut-s-vigil",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cosmic-roots-astronaut-s-vigil.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/14430_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_16520",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-orchid-pavilion-calligraphy",
+      "assetId": "goku-gpt-image-2-orchid-pavilion-calligraphy",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "landscape-architecture",
+      "title": {
+        "en": "Orchid Pavilion Calligraphy"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Combine the content in {argument name=\"Work content\" default=\"Wang Xizhi's Preface to the Orchid Pavilion Collection\"}, generate a calligraphy model image. The background must match {argument name=\"Background Artistic Conception\" default=\"The Artistic Conception of the Orchid Pavilion Collection Preface\"}. The background image can use a mask, and the foreground should be {argument name=\"Foreground Content\" default=\"Preface to the Orchid Pavilion Collection\"}",
+      "tags": [
+        "landscape-architecture",
+        "calligraphy",
+        "orchid-pavilion",
+        "wang-xizhi",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-orchid-pavilion-calligraphy",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-orchid-pavilion-calligraphy.jpg",
+        "ratio": "983:655",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@liyue_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/liyue_ai/status/2045137549149286858",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_00770",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-handmade-miniature-diorama-art",
+      "assetId": "goku-gpt-image-2-handmade-miniature-diorama-art",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "landscape-architecture",
+      "title": {
+        "en": "Handmade Miniature Diorama Art"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Please convert this illustration to a style like {argument name=\"style\" default=\"Handmade Miniature Diorama\"}. Emphasize the perspective of characters in a small model world, miniature textures with fine textures, soft lighting and shadow casting, and {argument name=\"atmosphere\" default=\"The unique charm of dioramas and a slightly unreal vibe\"}. Retain the original illustration {argument name=\"Keep\" default=\"Composition/Character\"}.",
+      "tags": [
+        "landscape-architecture",
+        "diorama",
+        "miniature",
+        "handmade",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-handmade-miniature-diorama-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-handmade-miniature-diorama-art.jpg",
+        "ratio": "149:200",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@notoro_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/notoro_ai/status/2054325449174700234",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_00965",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-goshuin-style-ink-illustration",
+      "assetId": "goku-gpt-image-2-goshuin-style-ink-illustration",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Goshuin Style Ink Illustration"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Using {argument name=\"character\" default=\"this character\"}, draw a goshuin-style illustration of a fictional {argument name=\"temple name\" default=\"temple\"}. The overall composition is simple, allowing you to feel the texture of washi paper. The painting is rendered in a brush-like ink-like style, using only black and vermilion colors. As a goshuin (temple stamp), include the name of the temple that was on the character, the main brush character {argument name=\"number of characters\" default=\"4 characters\"}, and the date. Date is arranged naturally in vertical writing. Characters are placed smaller so they blend into the goshuin (temple stamp). Poses should include praying or a quiet presence, creating a calm atmosphere. The overall layout is arranged to be as orderly as a real goshuin stamp, while the design is uniquely unique and memorable.",
+      "tags": [
+        "illustration",
+        "goshuin",
+        "ink-art",
+        "japanese",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-goshuin-style-ink-illustration",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-goshuin-style-ink-illustration.jpg",
+        "ratio": "4:5",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Eris_Create_Lab via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Eris_Create_Lab/status/2049689490030240056",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_01044",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-liquid-chrome-holographic-transformation",
+      "assetId": "goku-gpt-image-2-liquid-chrome-holographic-transformation",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Liquid Chrome Holographic Transformation"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Convert this illustration in a style like it was created with {argument name=\"material\" default=\"liquid chrome and holographic material\"}. Perfect mirror-like reflection, holographic effects that change rainbow colors depending on the angle, and a smooth texture that feels like flowing liquid metal all over the body. Express a futuristic and unreal beauty with intense metallic sheen and distorted reflections.",
+      "tags": [
+        "illustration",
+        "holographic",
+        "liquid-metal",
+        "futuristic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-liquid-chrome-holographic-transformation",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-liquid-chrome-holographic-transformation.jpg",
+        "ratio": "911:1199",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@notoro_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/notoro_ai/status/2056313849280872839",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_01304",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-successful-businessman-at-night",
+      "assetId": "goku-gpt-image-2-successful-businessman-at-night",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "title": {
+        "en": "Successful Businessman at Night"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Create a cinematic photorealistic scene of {argument name=\"subject\" default=\"a successful businessman\"} sitting alone in a sleek black leather lounge chair inside a luxurious high-rise penthouse office at night. He wears a {argument name=\"suit color\" default=\"deep navy tailored suit\"}, dark dress shirt, polished black shoes, and a wristwatch, seated with legs crossed while holding a phone to his ear in a calm, focused pose. His face is softly obscured and anonymous. Floor-to-ceiling windows dominate the left side, revealing a dramatic nighttime {argument name=\"city skyline\" default=\"New York City skyline with the Empire State Building brightly lit\"} under a dark blue stormy sky. A small round glass side table with a tumbler of water sits beside him. The interior is dark, modern, and expensive, with glossy black marble floors reflecting the city lights, recessed ceiling spotlights, a sofa in the background, illuminated shelving, and a large moody abstract wall artwork. Use low-key lighting, deep blue and charcoal tones, crisp reflections, high contrast, realistic architectural photography, executive luxury atmosphere, quiet success, solitude, ambition, 16:9 square-cropped composition, ultra-detailed, GPT Image 2 photorealism.",
+      "tags": [
+        "product-advertising",
+        "success",
+        "night",
+        "luxury office",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-successful-businessman-at-night",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-successful-businessman-at-night.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Itswsm105f via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Itswsm105f/status/2051845797189488785#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_01345",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-glitch-god-awakens",
+      "assetId": "goku-gpt-image-2-glitch-god-awakens",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Glitch God Awakens"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Convert this illustration to the {argument name=\"style\" default=\"Glitch Lord\"} style. The entire body is covered in extremely intense and beautiful glitches, with complete RGB destruction, data corruption, intense color inversion, and noise rendered at maximum output. Finish it as a broken, intimidating, divine, and overwhelmingly cool Iglitch entity.",
+      "tags": [
+        "illustration",
+        "glitch art",
+        "rgb corruption",
+        "cyberpunk",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-glitch-god-awakens",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-glitch-god-awakens.jpg",
+        "ratio": "227:300",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@notoro_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/notoro_ai/status/2058077499200790562",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_01494",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-summer-breeze-handwritten-art",
+      "assetId": "goku-gpt-image-2-summer-breeze-handwritten-art",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "title": {
+        "en": "Summer Breeze Handwritten Art"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Generate a fresh summer handwritten font visual around a specific theme: the background features a large area of fresh or bright color schemes derived from the theme. The main text uses a slender white handwritten font, with smooth strokes featuring long curves and a wind-like tail. Some fonts can be interspersed with small English and decorative lines. The center of the composition leaves the main character to breathe, with light, misplaced character shapes, making the overall look like wind, weather, or lifestyle brands. The colors retain a highly saturated yet clean main color base, bright white text, and a few light-colored fine lines, creating a clear, lively, and airy mood. The key is the direction of stroke movement and the blank space; don't write it as a heavy slogan.\n\nText:{argument name=\"Text\" default=\"Summer Breeze\"}\nNote: {argument name=\"Background Color\" default=\"Black background with white text\"}\nRatio {argument name=\"Ratio\" default=\"16:9\"}",
+      "tags": [
+        "product-advertising",
+        "handwritten",
+        "summer",
+        "fresh",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-summer-breeze-handwritten-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-summer-breeze-handwritten-art.jpg",
+        "ratio": "1199:675",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@xiaoxiaodong01 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/xiaoxiaodong01/status/2062720334571450688",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_01623",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-giemsa-stained-blood-cells-microscopy",
+      "assetId": "goku-gpt-image-2-giemsa-stained-blood-cells-microscopy",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Giemsa Stained Blood Cells Microscopy"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "create the image of lymphocytes, neutrophils and basophils as they would be seen under the microscope after giemsa staining",
+      "tags": [
+        "illustration",
+        "lymphocytes",
+        "neutrophils",
+        "basophils",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-giemsa-stained-blood-cells-microscopy",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-giemsa-stained-blood-cells-microscopy.jpg",
+        "ratio": "1199:959",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@DeryaTR_ via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/DeryaTR_/status/2047118537999655369",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_01781",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-imperial-art-silk-and-porcelain",
+      "assetId": "goku-gpt-image-2-imperial-art-silk-and-porcelain",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Imperial Art Silk and Porcelain"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A scarf with a thousand miles of rivers and mountains, surrounded by Wang Ximeng's green landscapes and silk texture with a soft glow\n\nFamille rose porcelain by Yang Guifei appreciating the flower, peony and butterfly famille rose, in the style of the imperial kiln",
+      "tags": [
+        "illustration",
+        "chinese painting",
+        "famille rose",
+        "silk scarf",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-imperial-art-silk-and-porcelain",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-imperial-art-silk-and-porcelain.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@songguoxiansen via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/songguoxiansen/status/2048046906585280977",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_01954",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-anime-warrior-whip-sword-action",
+      "assetId": "goku-gpt-image-2-anime-warrior-whip-sword-action",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Anime Warrior Whip Sword Action"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A dramatic high-action anime fantasy illustration of a young female warrior with {argument name=\"hair color\" default=\"jet black\"} hair and piercing {argument name=\"eye color\" default=\"bright blue\"} eyes, shown in a dynamic low-angle close-to-mid shot as she swings a long segmented metal whip-sword in a wide circular arc around her body. Her hair is long, voluminous, and blowing violently in the wind, with sharp glossy strands and detailed highlights. She has a focused, fierce expression and is looking directly toward the viewer over her shoulder. She wears ornate black, silver, and gold-trimmed armor with a fitted bodice, armored gauntlets, shoulder plates, thigh armor, and a short layered skirt with flowing blue-and-white fabric panels and metallic decorations. The weapon forms a bright spiral ring across the foreground and upper right of the composition, with reflective steel segments, motion blur, and sparkling highlights. Small rocks and debris are suspended in the air from the force of the attack. The setting is a ruined stone battlefield or castle courtyard with cracked ground, broken masonry, and several tall blue banners in the background beneath a cloudy daylight sky. Use cinematic action composition, strong foreshortening, intense sense of motion, ultra-detailed fantasy costume design, polished metallic textures, dramatic wind effects, crisp anime linework, painterly lighting, high contrast, and an epic heroic mood in the style of a premium fantasy key visual.",
+      "tags": [
+        "illustration",
+        "anime",
+        "fantasy",
+        "warrior",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-anime-warrior-whip-sword-action",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-anime-warrior-whip-sword-action.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@REd8358 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/REd8358/status/2046380070747644095#reversed-0",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_02002",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-planet-under-renovation",
+      "assetId": "goku-gpt-image-2-planet-under-renovation",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Planet Under Renovation"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "This user input topic:\n{argument name=\"Theme\" default=\"Knowledge Planet, Under Renovation\"}\n——————\nOther auxiliary information:\n{argument name=\"Auxiliary Information\" default=\"Xiao Xiaodong's Knowledge Planet has been approved by the platform. We hope to provide loyal fans with a suitable path, so we can use AI tools to solve pain points at work together\"}\n\nPlanet mainly positions: prompt tool experience, practical prompt workflow, skills, Chrome extension efficiency tool, sharing experiences to avoid detours, and some money-saving ideas to improve efficiency... Analysis of new gameplay.\n\n——————\nYou can understand these texts yourself for better polishing and presentation, rather than just output them as is, and output infographics logically\n\nI want it to be {argument name=\"style\" default=\"Korean Bright Background\"}.\n\nRatio 16:9\n\nThe main characters I hope are: 'planet'\nSecond, avoid QR code elements\nThe current year is 2026-05-15\nThis information point is also very important during renovation.",
+      "tags": [
+        "illustration",
+        "knowledge-planet",
+        "ai-efficiency",
+        "prompt-engineering",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-planet-under-renovation",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-planet-under-renovation.jpg",
+        "ratio": "1199:675",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@xiaoxiaodong01 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/xiaoxiaodong01/status/2055127976996749772",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_02348",
+        "published_at": "2026-07-02",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-knitted-yarn-miniature-city",
+      "assetId": "goku-gpt-image-2-knitted-yarn-miniature-city",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "landscape-architecture",
+      "title": {
+        "en": "Knitted Yarn Miniature City"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Vertical composition, 1080x1080. A miniature [city] made entirely in the knitted yarn art style. The city's iconic landmarks and buildings are made from soft yarn, emitting a warm glow inside. Woven buildings, yarn-textured streets, and yarn figures walk around. Comfortable wool texture, handmade realistic model appearance, shallow depth of field, and a highly detailed urban woven miniature world.",
+      "tags": [
+        "landscape-architecture",
+        "knitted art",
+        "miniature city",
+        "cozy aesthetic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-knitted-yarn-miniature-city",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-knitted-yarn-miniature-city.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@TechieBySA via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/TechieBySA/status/2067932662157738411",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_13216",
+        "published_at": "2026-06-19T11:29:01.646Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-amber-edo-style-maximalist-art",
+      "assetId": "goku-gpt-image-2-amber-edo-style-maximalist-art",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Amber Edo Style Maximalist Art"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Ratio: 9:16\nStyle: Edo-style Japanese printmaking + Japanese-style ancient paintings + meticulous fine drawing + Maximalism + Dunhuang brushwork style + anime fan illustration\nCharacter: {Amber in Stone Age}",
+      "tags": [
+        "illustration",
+        "amber",
+        "edo-print",
+        "anime-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-amber-edo-style-maximalist-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-amber-edo-style-maximalist-art.jpg",
+        "ratio": "941:1672",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@DracoVibeCoding via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/DracoVibeCoding/status/2067957746100773034",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_13219",
+        "published_at": "2026-06-19T13:08:42.124Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-angelic-prayer-line-art-masterpiece",
+      "assetId": "goku-gpt-image-2-angelic-prayer-line-art-masterpiece",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Angelic Prayer Line Art Masterpiece"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A highly detailed and intricate {argument name=\"art style\" default=\"Black and White Line Art Illustration\"}, with the subject {argument name=\"subject\" default=\"Anime Style Angel\"}. She sports flowing long wavy curls, wears {argument name=\"headpiece\" default=\"A crown of roses and lilies\"}, and gazes directly at the audience with large, expressive eyes. Her {argument name=\"pose\" default=\"Hands clasped in prayer\"}. She stretches out her back with huge feathered angel wings, wears an extremely gorgeous dress adorned with dense floral patterns, lace, and gold and silver threads, and adorns with exquisite jeweled necklaces and pendant earrings. Behind her head was a radiant ring with straight lines of sunlight. The entire background is filled with symmetrical Baroque-style flowers and vine gold and silver threads, creating a dense tapestry-like frame. The overall style strictly uses monochrome, resembling highly complex ink paintings, sculptures, or delicate adult coloring book pages, with extremely detailed line rendering.",
+      "tags": [
+        "illustration",
+        "line-art",
+        "baroque",
+        "angel",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-angelic-prayer-line-art-masterpiece",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-angelic-prayer-line-art-masterpiece.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13810_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15949",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-veloura-luxury-chocolate-packaging-design",
+      "assetId": "goku-gpt-image-2-veloura-luxury-chocolate-packaging-design",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "title": {
+        "en": "Veloura Luxury Chocolate Packaging Design"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A multi-image packaging design system was created for the luxury chocolate brand 'Veloura,' including box design, hot stamping logos, label variants, die-cut lines, brand elements, and realistic product models, deep and elegant tones, cinematic studio lighting, and photorealistic textures.",
+      "tags": [
+        "product-advertising",
+        "packaging design",
+        "branding",
+        "gold foil",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-veloura-luxury-chocolate-packaging-design",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-veloura-luxury-chocolate-packaging-design.jpeg",
+        "ratio": "1199:675",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@aleenaamiir via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/aleenaamiir/status/2046866266829553722",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_13401",
+        "published_at": "2026-04-22T08:18:41.605Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-qiongqi-eastern-aesthetic-art",
+      "assetId": "goku-gpt-image-2-qiongqi-eastern-aesthetic-art",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Qiongqi Eastern Aesthetic Art"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Minimalism, New Chinese style three-dimensional graphic design, with Kaijiang Chinese characters at the bottom of the image: \"Eastern Aesthetics\", \"2026/04/18\", signed \"CHINA\", and\n@LIYUE\n\"；\nFlat, pure white matte textured art paper is painted on a landscape creative painting full of Eastern poetic atmosphere, with irregular tear-off effects;\nChina's Mythical Beast: Qiongqi, with a complete body and pattern, magnificent beauty, soft and lively lines, bright and expressive eyes, a dignified expression, elegant posture, luxurious decorative art, traditional Chinese patterns;\nFluorescent blue lines, 0.5mm ultra-fine gold metallic outlining, bold brushstrokes splashed with white ink, color rendering, red background, and a romantic and poetic blue visual effect;\nA dreamy, beautiful scene where warm and cool light intertwine, a strong atmosphere of light and shadow contrast, the light dance of flowers narrating time, the east wind evokes Zen charm, the image features large areas of blank space, framing composition, and blank space at the bottom, with clear details.",
+      "tags": [
+        "illustration",
+        "qiongqi",
+        "chineseart",
+        "minimalism",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-qiongqi-eastern-aesthetic-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-qiongqi-eastern-aesthetic-art.jpeg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@liyue_ai via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/liyue_ai/status/2045506567735558336",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_13791",
+        "published_at": "2026-04-18T14:15:44.079Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-tokyo-mochi-night-market",
+      "assetId": "goku-gpt-image-2-tokyo-mochi-night-market",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "cinematic",
+      "title": {
+        "en": "Tokyo Mochi Night Market"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A vibrant Tokyo street food scene focused on Japanese mochi desserts, featuring dynamic Pinterest-style vertical collages (2:3 aspect ratio).\n\nStyle: A vibrant urban night market aesthetic, featuring neon lights, warm lantern halos, and cinematic contrasts. Rich colors (neon pink, red, yellow, deep blue). A mix of street photography and close-ups of food. Full of energy, a bit rugged, yet still appetizing.\n\nLayout:\nVertical collages with layered frames, slightly tilted images, resemble a street food photo spree.\n\nInclude elements:\n- Main visual image: Freshly made mochi at a street stall, vendors shaping mochi with their hands rising\n- Close-up:\n  • Mochi that is lightly grilled or seared (baked mochi style)\n  • Vendors stretch and fill mochi dough\n  • Mochi skewers or trays under warm lighting\n  • Cut open mochi ice cream with the filling visible\n- Background scenes: Tokyo night market stalls, Japanese signs, lanterns, blurred crowds\n\nIngredients / prep visuals:\n- Preparing rice dough in a street scene\n- Sprinkle starch on the mochi\n- Fill in red bean paste or custard\n\nText overlays (bold but minimal):\n\"Tokyo Street Desserts\"\n\"Fresh Handmade Mochi\"\n\"Soft + chewy\"\n\"Late-night snacks\"\n\nText styling:\nBold, modern sans-serif, mixed with subtle handwritten accents\n\nExtra details:\n- Paper lanterns, neon signs with Japanese characters\n- Wooden stalls, metal pallets, street vendor tools\n- Blurred pedestrian movement\n- Steam and smoke effects used to enhance the atmosphere\n- Small arrows or graffiti highlighting steps\n\nMood:\nA vibrant, authentic, and bustling street market atmosphere focused on warm food\n\nComposition:\nLayered, slightly cluttered but visually balanced, highly attractive and making you want to stop swiping\n\nHigh resolution, cinematic lighting, and realistic food textures",
+      "tags": [
+        "cinematic",
+        "street food",
+        "japanese dessert",
+        "night market",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-tokyo-mochi-night-market",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-tokyo-mochi-night-market.jpeg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@MrDasOnX via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/MrDasOnX/status/2050076049372004454",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_13792",
+        "published_at": "2026-05-01T04:53:13.398Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-nested-wisdom-wear",
+      "assetId": "goku-gpt-image-2-nested-wisdom-wear",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Nested Wisdom Wear"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "16:9, AI inference, 2x2 grid<instructions: Input: [TOPIC]. Generate an original witty micro-reflection (2-6 words). Place it in a series of nested geometric containers—circles, brackets, capsules, or architectural frames—each layer adding a layer of symbolism. AI selects tiny interior and exterior decorative patterns, giving the design a sense of layering, intelligence, and visual satisfaction. Only two inks are used: [AI-inferred Color 1] and [AI-inferred Color 2], minimalist yet meaningful, with clean edges and high-end garment sample lighting effects. Output: A sample of the front design of a T-shirt </instructions>",
+      "tags": [
+        "illustration",
+        "minimalist",
+        "geometric",
+        "ai-design",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-nested-wisdom-wear",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-nested-wisdom-wear.jpg",
+        "ratio": "4:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Gdgtify via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Gdgtify/status/2071904078255329289",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_13796",
+        "published_at": "2026-06-30T10:30:01.029Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-polar-cinematic-ice-cream-ad",
+      "assetId": "goku-gpt-image-2-polar-cinematic-ice-cream-ad",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "title": {
+        "en": "Polar Cinematic Ice Cream Ad"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Create an engaging ad image showcasing a box of ice cream called \"Polar Cinematic.\" Highlighting the silky texture of ice cream, vibrant colors, and refreshing allure, paired with a cool, icy backdrop reminiscent of polar regions. Dynamic lighting and cinematic effects are added to make the product stand out, featuring elegant text \"Polar Cinematic\" displayed in bold, striking fonts. Capturing the essence of indulgence and freshness in a visually striking way.",
+      "tags": [
+        "product-advertising",
+        "ice cream ad",
+        "polar theme",
+        "cinematic visual",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-polar-cinematic-ice-cream-ad",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-polar-cinematic-ice-cream-ad.jpg",
+        "ratio": "819:1024",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Zyrellix via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Zyrellix/status/2053407597525676543",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_14007",
+        "published_at": "2026-05-10T09:31:36.375Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-glory-of-kaiyuan-chang-an",
+      "assetId": "goku-gpt-image-2-glory-of-kaiyuan-chang-an",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Glory of Kaiyuan Chang'an"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Overlooking Chang'an during the prosperous Kaiyuan era, gazing out at Hanyuan Hall of Emperor Xuanzong Yang Guifei, the scene of flourishing envoys from all nations",
+      "tags": [
+        "illustration",
+        "tang dynasty",
+        "chang'an",
+        "history",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-glory-of-kaiyuan-chang-an",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-glory-of-kaiyuan-chang-an.jpeg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@songguoxiansen via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/songguoxiansen/status/2047296743168200910",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_14177",
+        "published_at": "2026-04-23T12:49:15.162Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-morning-light-singapore",
+      "assetId": "goku-gpt-image-2-morning-light-singapore",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Morning Light Singapore"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Around any subject, a clear, bright, and design-oriented image is generated: the image is supported by a large, clean, light-colored, airy background, which does not appear fully realistic, but is translated into several large halftone dot outlines, partially entering from the edges and cropped to create a light occlusion, misalignment, and blank space; A thinner linear structure passes through the main body from below or laterally, like the skeleton, path, or growth line of the subject, bearing direction and order; Additionally, a small-scale thematic derivative symbol is added as a visual pause, creating a breath between the large shape and the small dot. Color is drawn from the subject's own material, sense of season, cultural meaning, and mood, preserving a large high-brightness base color, clear main color dot matrix, small structural colors, and lightweight accent colors. Overall, it is bright, light, clean, and airy, with clear saturation but not excessive heaviness. The texture only presents a delicate paper surface and regular dots, without creating a sense of oldness, ash, or muddiness. The information layer adopts a restrained layout rhythm: the main title can be large enough to be close to the center of space, with relaxed spacing, and Chinese and Western or main and secondary messages forming a calm hierarchical contrast; Auxiliary information is scattered in tiny font sizes in corners or edges, like dates, numbers, and markings on printed materials, enhancing precision without overshadowing the main form. The overall effect should resemble a modern art print: first read the enlarged dot matrix theme outline and clean blank space, then the fine line structure, small symbols, and text order.\n\nTheme: Singaporean Elements of Good Morning Greetings + Philosophical Quotes + Weather Forecast + Blessings\n\nHealing color schemes\n\nRatio: 16:9",
+      "tags": [
+        "illustration",
+        "morning-greeting",
+        "singapore-design",
+        "healing-art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-morning-light-singapore",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-morning-light-singapore.jpg",
+        "ratio": "1672:941",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@xiaoxiaodong01 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/xiaoxiaodong01/status/2069195136047964604",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_14380",
+        "published_at": "2026-06-22T23:05:38.877Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-sniper-forest-360-panorama",
+      "assetId": "goku-gpt-image-2-sniper-forest-360-panorama",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Sniper Forest 360 Panorama"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Help me create an immersive 360-degree panoramic view, from the sniper's perspective lurking in a forest, with mountains, a river, and a bridge opposite, and eight target figures spread out",
+      "tags": [
+        "illustration",
+        "sniper",
+        "panorama",
+        "stealth",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-sniper-forest-360-panorama",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-sniper-forest-360-panorama.jpg",
+        "ratio": "2:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@cellinlab via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/cellinlab/status/2053738678158078030",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_14389",
+        "published_at": "2026-05-11T07:27:12.149Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-healing-wooden-toy-art",
+      "assetId": "goku-gpt-image-2-healing-wooden-toy-art",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Healing Wooden Toy Art"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "[subject]'s stylized wooden toy version, smooth carved wood texture, handcrafted Scandinavian toy aesthetics, rounded minimalist shapes, [doing action], a calm and healing atmosphere, painted with decorative colors of [color1], [color2], and [color3], soft natural light, subtle wood grain details, clean neutral background, charming handcrafted look, and exquisite high-resolution rendering",
+      "tags": [
+        "illustration",
+        "wooden toy",
+        "handcrafted",
+        "minimalist",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-healing-wooden-toy-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-healing-wooden-toy-art.jpg",
+        "ratio": "16:9",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@ZephyraLeigh via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/ZephyraLeigh/status/2056981406421537170",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_14510",
+        "published_at": "2026-05-20T06:12:38.814Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-sushi-recreates-iconic-history",
+      "assetId": "goku-gpt-image-2-sushi-recreates-iconic-history",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "title": {
+        "en": "Sushi Recreates Iconic History"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "2x2 grid, this operation is done for four famous historical events {[TENSOR_MULTIPLICATION_ENGINE]\n\nVECTOR_G(geometric scene) = [VARIABLE_HISTORICAL_EVENT]\nMATRIX_M (Material Palette) = [VARIABLE_CULINARY_MEDIUM]\n\nVariables:\n[VARIABLE_HISTORICAL_EVENT] = \"$input\"\n\n[VARIABLE_CULINARY_MEDIUM] = \"High-end Japanese sushi and sashimi\"\n\nEquation: VECTOR_G ⊗ MATRIX_M = RENDER_TARGET\n\n[Mapping constraints]\nThe AI must perform cross product by replacing 100% of the material in the VECTOR_G with MATRIX_M ingredients. Cheating is prohibited. No actual metal, fabric, or plastic can be present.\n- Structure inference: AI must logically deduce which food parts fit which structures (for example: raw salmon fillets for modular domes, seaweed strips for metal landing brackets, rice grains for textured lunar soil, fish roe for rocks).\n- Scale: Macro food photography. The entire scene must be presented as dishes placed on a pure black ceramic plate.\n\n[Visual Execution]\nRendering RENDER_TARGET.\nLighting: Spotlights overhead Michelin-starred restaurants.\nTexture: Sashimi has a high gloss, rice has a sticky texture. The illusion of the event must be perfect, but the edibility of the food must be undeniable. }",
+      "tags": [
+        "product-advertising",
+        "food art",
+        "historical recreation",
+        "gourmet plating",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-sushi-recreates-iconic-history",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-sushi-recreates-iconic-history.jpg",
+        "ratio": "43:24",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Gdgtify via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Gdgtify/status/2056770103837163634",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_14577",
+        "published_at": "2026-05-19T16:13:00.352Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-suspenseful-lemon-cold-brew-return-visual",
+      "assetId": "goku-gpt-image-2-suspenseful-lemon-cold-brew-return-visual",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "title": {
+        "en": "Suspenseful Lemon Cold Brew Return Visual"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "Generate a suspenseful cinematic main visual around any subject matter, placing the core image within a narrow visible channel cut by close-up obstructions, revealing only the part that best establishes emotion and identity; The first glance in the painting is the oppressive boundary formed by dark obstruction, and only the second glance reveals the subject clearly in the illuminated area in the gap. The occlusion layer should be close to the camera with slightly blurred edges, such as door frames, partitions, shadows, or semantic-derived occlusions to compress the visible area into a tense sense of voyeurism; The background retains only a small amount of vague information that illustrates the field, with depth stretched by warm light or light bands at the boundary of warm and cool light. The information layer appears restrained yet memorable: the main title uses rough, handwritten, scratch-like fonts, close to large dark areas, and remains separate from the main body; Auxiliary text is fine, narrow space, low contrast, and the bottom information forms a stable baseline, making the whole work look more like an official release than a regular illustration. Color is extracted from the subject's own material, mood, and narrative temperature, mapped to large areas of low-brightness structural dark fields, high-brightness theme light zones within gaps, a small amount of clear emphasis colors, and clean informational text; Maintain warm and cool tension, controlled saturation, clear and undirty dark areas, and warm yet taut lighting, creating feelings of intimacy, danger, and being seen through. The surface of the image is enhanced with fine film grains, slight scratches, edge light leakage, and localized glow. The texture serves suspense and a sense of age, preventing the subject from being overwhelmed by noise; The final effect should be like a key piece of evidence intercepted instantly after being obscured—restrained, tense, and clearly layered.\n\n——————\nStore listing image: vertical 3:4 scale, with a narrow gap between the coffee bar counter and the menu clip, showing only a cup of iced Americano, lemon slices, and the staff handing them over\nCup note content: Main text says \"Lemon Cold Brew is back,\" with small text next to \"Second cup before 14:00 on weekdays, half price\"\nPosting channels: Suitable for store group announcements and delivery platform header images. The drink should be recognizable, and the price information should not be too large",
+      "tags": [
+        "product-advertising",
+        "suspense",
+        "coffee",
+        "cinematic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-suspenseful-lemon-cold-brew-return-visual",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-suspenseful-lemon-cold-brew-return-visual.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@xiaoxiaodong01 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/xiaoxiaodong01/status/2064879177845940512",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_14579",
+        "published_at": "2026-06-11T01:15:34.255Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-typewriter-asymptote",
+      "assetId": "goku-gpt-image-2-typewriter-asymptote",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Typewriter Asymptote"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "2x2 grid, based on the famous novel, create the following: ƒ(x) = [VARIABLE_SUBJECT]\nlim (x → [VARIABLE_STATE]) ƒ(x)\n\nVariables: \n[VARIABLE_SUBJECT] = \"AI Inference Black Typewriter in AI Inference Environment\" \n[VARIABLE_STATE] = \"$Book miniature world containing villains and heroes\" \n\n[CALCULUS_EXECUTION]\nRender the exact threshold for the asymptote. \nOn the left is 100% [VARIABLE_SUBJECT] — metal buttons, ribbons, paper, dust, mechanical weight. \nNear the right is [VARIABLE_STATE] — miniature forests, castles, roads, characters, and weather systems emerging from the text. \nThis transformation is by no means ordinary fantasy effects. It must be a mathematical squeeze of language into physical reality. \nThe letters you type rise from the paper like black symbols, then unfold into trees, towers, birds, rivers, and tiny figures. \nThe asymptote should pass through the paper: on the left is text, on the right is the world. \nWarm lighting, rich details, magical realism, close-up perspectives",
+      "tags": [
+        "illustration",
+        "magical realism",
+        "miniature world",
+        "ai art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-typewriter-asymptote",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-typewriter-asymptote.jpg",
+        "ratio": "640:357",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@Gdgtify via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/Gdgtify/status/2053782165679194450",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_14686",
+        "published_at": "2026-05-11T10:20:00.382Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-two-sheep-grazing-on-endless-plain",
+      "assetId": "goku-gpt-image-2-two-sheep-grazing-on-endless-plain",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Two Sheep Grazing on Endless Plain"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "An aerial drone shot of an expansive, perfectly flat, {argument name=\"terrain color\" default=\"vibrant green\"} grassy plain stretching endlessly to a distant horizon. In the lower foreground, exactly two {argument name=\"animal\" default=\"fluffy white sheep\"} are standing and grazing. Bright, clear daylight casts sharp, dark shadows from the animals towards the left. Above the horizon is a {argument name=\"sky condition\" default=\"clear, pale blue sky with a few faint, wispy clouds\"}. The composition emphasizes the vast emptiness and scale of the landscape compared to the small animals.",
+      "tags": [
+        "illustration",
+        "aerial drone",
+        "grassland landscape",
+        "nature scenery",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-two-sheep-grazing-on-endless-plain",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-two-sheep-grazing-on-endless-plain.jpg",
+        "ratio": "5:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/14265_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_16377",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-cliff-edge-human-robot-standoff",
+      "assetId": "goku-gpt-image-2-cliff-edge-human-robot-standoff",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Cliff Edge Human Robot Standoff"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A still from a film from {argument name=\"movie era and genre\" default=\"1990s American sci-fi action film\"}. A tough male protagonist with a dirty face and a tattered brown leather jacket is currently {argument name=\"action\" default=\"hanging desperately at the edge of a rocky cliff\"}, clutching rough rocks tightly with both hands. Above him, a {argument name=\"female character description\" default=\"Pale-skinned, neat black bob hairstyle, and a female robot with prominent mechanical joints on her arms\" was calmly looking down at him, hands resting on the edge of the cliff. The background is {argument name=\"setting\" default=\"A vast, deep canyon where a river winds beneath a gloomy, dramatic sky\"}. Shot with 35mm film, the textures are lifelike and offer dramatic, cinematic light and shadow effects.",
+      "tags": [
+        "illustration",
+        "sci-fi",
+        "cinematic",
+        "suspense",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cliff-edge-human-robot-standoff",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cliff-edge-human-robot-standoff.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13885_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_16024",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-cat-fox-handshake-3d-scene",
+      "assetId": "goku-gpt-image-2-cat-fox-handshake-3d-scene",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Cat Fox Handshake 3D Scene"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A high-quality 3D animated movie shot shows a {argument name=\"left character\" default=\"Black-and-White Tuxedo-Cat Officer\"} holding out a hand wearing white gloves, ready to shake hands with a tall {argument name=\"right character\" default=\"Fashionable Anthropomorphic Blonde Fox\"}. The fox had a mischievous smile at the corner of her mouth, one hand in her pocket, wearing {argument name=\"fox outfit\" default=\"white T-shirt over a teal cardigan, white trousers, and a gold necklace\"}. They stood in a modern, luxurious office hall. On the left wall, a metallic 3D star-shaped sign reads \"{argument name=\"company name\" default=\"Paw Star ENTERTAINMENT\"}\", and below it is a stylish reception desk. The background features a black leather sofa, potted plants, and wall decorations, including {argument name=\"background decor\" default=\"3 framed gold records and 2 framed posters featuring fox images\"}. The visuals showcase delicate fur textures, realistic clothing materials, and the soft professional studio lighting commonly seen in modern animated feature films.",
+      "tags": [
+        "illustration",
+        "3d animation",
+        "anthropomorphic",
+        "cinematic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cat-fox-handshake-3d-scene",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cat-fox-handshake-3d-scene.jpg",
+        "ratio": "1199:675",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13917_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_16056",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-shanghai-line-art-postcard",
+      "assetId": "goku-gpt-image-2-shanghai-line-art-postcard",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Shanghai Line Art Postcard"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "[Chinese]\r\nDesign a Shanghai postcard in the style of black line art\r\n\r\n[English]\r\nDesign a Shanghai postcard in black line art style.",
+      "tags": [
+        "illustration",
+        "shanghai",
+        "lineart",
+        "postcard",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-shanghai-line-art-postcard",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-shanghai-line-art-postcard.jpg",
+        "ratio": "5:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@akokoi1 via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/akokoi1/status/2045693939584516441",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15409",
+        "published_at": "2026-04-19T02:40:17.009Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-fantasy-coastal-castle-panorama-art",
+      "assetId": "goku-gpt-image-2-fantasy-coastal-castle-panorama-art",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "landscape-architecture",
+      "title": {
+        "en": "Fantasy Coastal Castle Panorama Art"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A stunning panoramic view of {argument name=\"setting\" default=\"Fantasy Coastal City\"}. The main subject of the painting is a {argument name=\"prominent landmark\" default=\"Large stone castle on the mountaintop\"}, overlooking the deep blue ocean. Beneath the castle lies a bustling town, featuring {argument name=\"architecture style\" default=\"European half-timbered house\"} and a brown roof nestled among lush trees and palm groves. A clear turquoise river runs through the town center, with stone docks, beaches, and small wooden boats lining the riverbanks. In the distance, several large sailing ships sailed on the deep blue sea. The sky was clear and a deep blue, dotted with white clouds, presenting the scene of {argument name=\"time of day\" default=\"Bright Sunny Day\"}. The overall aesthetic style is {argument name=\"art style\" default=\"highly detailed digital illustration, classic RPG concept art\"}, featuring vibrant colors and intricate architectural details.",
+      "tags": [
+        "landscape-architecture",
+        "fantasy city",
+        "rpg concept art",
+        "coastal castle",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-fantasy-coastal-castle-panorama-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-fantasy-coastal-castle-panorama-art.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/14009_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_16148",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-seasonal-product-visual-campaign-grid",
+      "assetId": "goku-gpt-image-2-seasonal-product-visual-campaign-grid",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "title": {
+        "en": "Seasonal Product Visual Campaign Grid"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design\nPHASE 2 - GRID: 2x2 seasonal grid, four distinct brand worlds\nPHASE 3 - COMPOSITION: each quadrant a full campaign scene with props and environment\nPHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes\n\nSwap: [ITEM] / [MATERIAL] / [LABEL STYLE]",
+      "tags": [
+        "product-advertising",
+        "product-design",
+        "branding",
+        "seasonal-campaign",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-seasonal-product-visual-campaign-grid",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-seasonal-product-visual-campaign-grid.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@SRKDAN via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/SRKDAN/status/2048582939504431195",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15493",
+        "published_at": "2026-04-27T02:00:08.265Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-brand-envelope-ai-prompt",
+      "assetId": "goku-gpt-image-2-brand-envelope-ai-prompt",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "title": {
+        "en": "Brand Envelope AI Prompt"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "The Brand Envelope | GPT Image-2 Prompt #89\n\nThis takes any product photo and wraps it in your specific brand world. Different product each time. Same brand, every time.\n\nPHASE 1 / ANCHOR: Describe [BRAND IDENTITY] in 2 lines. Palette, texture, mood.\nPHASE 2 / INJECT: Place [PRODUCT] inside that brand world, not the reverse.\nPHASE 3 / FORMAT: Set [OUTPUT FORMAT]. Hero, square ad, or story.\nPHASE 4 / SIGNATURE: Apply [BRAND ELEMENT]. Grain, shadow, or overlay.\n\nSwap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]",
+      "tags": [
+        "product-advertising",
+        "ai prompt",
+        "branding",
+        "gpt image",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-brand-envelope-ai-prompt",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-brand-envelope-ai-prompt.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@SRKDAN via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://x.com/SRKDAN/status/2051482047248560393",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15534",
+        "published_at": "2026-05-05T02:00:09.414Z",
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-rooftop-sunset-comic-landscape",
+      "assetId": "goku-gpt-image-2-rooftop-sunset-comic-landscape",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Rooftop Sunset Comic Landscape"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A detailed {argument name=\"art style\" default=\"Ligne Claire comic illustration\"} depicts a view from a high rooftop view {argument name=\"setting\" default=\"suburban community\"}, with the time set to {argument name=\"time of day\" default=\"sunset\"}. The dense houses in the painting feature a variety of roof colors, including soft blue, red, and brown, interspersed with lush trees and vegetation. Utility poles and interlaced wires run through the middle frame. A winding dirt road can be seen on the right. The sky shows a smooth gradient of orange, pink, and light blue, with a bright full sun hanging low on the horizon and stylized, fluffy clouds in the background. The work uses flat colors and clear black outlines to create a nostalgic, tranquil atmosphere reminiscent of classic animated background art.",
+      "tags": [
+        "illustration",
+        "ligne claire",
+        "nostalgic scenery",
+        "sunset",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-rooftop-sunset-comic-landscape",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rooftop-sunset-comic-landscape.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13449_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15673",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-alien-caught-on-cctv-gas-station",
+      "assetId": "goku-gpt-image-2-alien-caught-on-cctv-gas-station",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Alien Caught on CCTV Gas Station"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A still image of a coarse, grainy black-and-white CCTV security surveillance shows a {argument name=\"subject\" default=\"classic gray alien with a big head and a small body\"} standing next to the fuel pump of {argument name=\"setting\" default=\"Late-night deserted gas station\"}. The top sunshade of the fuel pump is printed with the word \"UNLEADED,\" with a large number \"2\" on the side. The lower left corner is overlaid with a numeric timestamp, displayed as \"{argument name=\"camera label\" default=\"CAM 2\"}, \"{argument name=\"date\" default=\"OCT 27 2004\"}\", and \"12:04:16 AM\", with a vintage pixel font. The overall visual effect presents the authentic texture of early 21st-century surveillance footage, featuring strong noise, low contrast, and VHS-style artifacts.",
+      "tags": [
+        "illustration",
+        "alien",
+        "cctv",
+        "gas-station",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-alien-caught-on-cctv-gas-station",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-alien-caught-on-cctv-gas-station.jpg",
+        "ratio": "5:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13504_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15698",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-cowboy-rides-horse-on-moon",
+      "assetId": "goku-gpt-image-2-cowboy-rides-horse-on-moon",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "cinematic",
+      "title": {
+        "en": "Cowboy Rides Horse on Moon"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A cinematic, highly realistic image shows a cowboy riding a white horse on the lunar surface. The scene is presented from behind, with the figure wearing a classic cowboy hat and a long dust coat, overlooking a desolate, gray, crater-strewn lunar landscape. Above, in the dark, star-studded space, a massive, richly detailed Earth is clearly visible in the upper right corner. The dramatic, monochromatic foreground lighting highlights the terrain texture and the rider&#39;s coat, contrasting with the blue and white tones of the distant planet, creating a surreal and photorealistic science fiction Western scene.",
+      "tags": [
+        "cinematic",
+        "sci-fi western",
+        "space surrealism",
+        "cinematic art",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cowboy-rides-horse-on-moon",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cowboy-rides-horse-on-moon.jpg",
+        "ratio": "5:4",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13556_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15721",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-cat-riding-vacuum-in-space",
+      "assetId": "goku-gpt-image-2-cat-riding-vacuum-in-space",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Cat Riding Vacuum in Space"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A surreal sci-fi digital illustration depicts a white cat riding a robot vacuum cleaner, flying through deep space. Two large tuna-like structures on either side of the vacuum cleaner act as rocket boosters, their tails spewing bright flames. A ribbed metal hose connects the vacuum cleaner to the cat&#39;s neck. The background features glittering cosmic nebulae and high-speed streaks of light, with a planet exploding violently in the upper left corner. Vertical Japanese text on the right reads &quot;ネコと和解せよ&quot; (the first two characters are yellow, the rest white). At the bottom center is a large 3D metallic text, &quot;GERONEKO,&quot; below which is smaller white text reading &quot;Creator of the planet.&quot; Cinematic lighting effects and hyper-realistic textures.",
+      "tags": [
+        "illustration",
+        "sci-fi",
+        "surreal",
+        "space",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-cat-riding-vacuum-in-space",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cat-riding-vacuum-in-space.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13594_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15734",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-fantasy-castle-moonlight-mystery",
+      "assetId": "goku-gpt-image-2-fantasy-castle-moonlight-mystery",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Fantasy Castle Moonlight Mystery"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A high-quality illustration depicts a vast, fantastical castle complex at night. A deep blue sky is dotted with stars, and a giant full moon hangs in the upper left. The main buildings are constructed of light gray stone walls and feature eight prominent cylindrical towers topped with blue conical roofs. The main building is rectangular with a matching pitched roof. Warm yellow light shines through the windows, contrasting sharply with the cool tones of the night scene. A viaduct connects the towers. The central courtyard is paved with neatly arranged stone bricks, with a small white cube mysteriously placed in the center. The castles nestle in a dense, deep green forest, with the silhouette of distant mountain ranges gradually fading into the background.",
+      "tags": [
+        "illustration",
+        "fantasy castle",
+        "moonlit night",
+        "mystery cube",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-fantasy-castle-moonlight-mystery",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-fantasy-castle-moonlight-mystery.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13601_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15741",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-neural-network-data-pipeline-visualization",
+      "assetId": "goku-gpt-image-2-neural-network-data-pipeline-visualization",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "architecture-infographic",
+      "title": {
+        "en": "Neural Network Data Pipeline Visualization"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A clean, minimalist 3D rendering visualizes a neural network data processing pipeline. On the left, a white cable with a glowing blue tip branches into multiple thin, curved white bundles. These bundles converge into a linear sequence of 10 transparent, glass-like rectangular panels, vertically positioned on a sterile white stepped surface. Each glass panel uses white and blue geometric patterns to represent different transition stages. From left to right, the panels sequentially present: floating short horizontal lines, a 3x3 concentric circle grid, a dense dot matrix, scattered white pixel blocks, horizontal dashed lines, a fine grid, and finally, a 3D cube structure. The bright, soft, and high-key lighting creates a clean, corporate technological aesthetic, while the shallow depth of field gives the distant panels a soft, blurred appearance.",
+      "tags": [
+        "architecture-infographic",
+        "3d rendering",
+        "data visualization",
+        "tech aesthetic",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-neural-network-data-pipeline-visualization",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-neural-network-data-pipeline-visualization.jpg",
+        "ratio": "16:9",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13605_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15745",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-black-cat-rides-toy-go-kart",
+      "assetId": "goku-gpt-image-2-black-cat-rides-toy-go-kart",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "cinematic",
+      "title": {
+        "en": "Black Cat Rides Toy Go Kart"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A lifelike photograph shows a black cat standing on its hind legs, its front paws resting on the seat of a small, white, convertible toy car. The scene is set on an outdoor go-kart track with asphalt surface marked with white lines and orange and white railings. Above the cat and toy car is a cyan canopy structure with a blue sign that reads &quot;Go! Cart&quot; in red and yellow lettering, accompanied by a checkered flag pattern. The background is soft-focused, with trees, a blue fence, and another go-kart faintly visible in the distance. The image was taken in natural light.",
+      "tags": [
+        "cinematic",
+        "cat",
+        "gokart",
+        "cute",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-black-cat-rides-toy-go-kart",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-black-cat-rides-toy-go-kart.jpg",
+        "ratio": "2:3",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13606_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15746",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-soft-squishy-cloud-character-render",
+      "assetId": "goku-gpt-image-2-soft-squishy-cloud-character-render",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "title": {
+        "en": "Soft Squishy Cloud Character Render"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A 3D render of a cute kawaii {argument name=\"subject\" default=\"cloud\"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name=\"accent colors\" default=\"pink, blue, and purple\"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.",
+      "tags": [
+        "illustration",
+        "kawaii",
+        "3d render",
+        "minimalist",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-soft-squishy-cloud-character-render",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-soft-squishy-cloud-character-render.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/14218_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_16330",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-starry-comet-night-fate",
+      "assetId": "goku-gpt-image-2-starry-comet-night-fate",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "landscape-architecture",
+      "title": {
+        "en": "Starry Comet Night Fate"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A stunning and richly detailed landscape illustration using {argument name=\"art style\" default=\"Makoto Shinkai Anime Background Style\"}. The scene showcases a vast and magnificent night sky, twinkling stars, and the Milky Way radiating the dazzling light of {argument name=\"sky color palette\" default=\"Deep Blue, Purple, and Pink\"}. Two glowing comets, one bright blue and one smaller pink, streaked diagonally across the sky. In the center of the sky, the text \"{argument name=\"display text\" default=\"Your Name\"}\" is written in elegant glowing white cursive script, with a delicate pink glowing line below tied into a small bow, like a red thread of fate. Above the horizon, orange and pink sunset gradients reflect silhouettes of clouds. In the middle is a tranquil dark lake, reflecting city lights and the twilight sky, surrounded by silhouettes of mountains. In the foreground, the dark silhouette of grassy slopes and small purple flowers is visible.",
+      "tags": [
+        "landscape-architecture",
+        "shinkai style",
+        "starry sky",
+        "romantic landscape",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-starry-comet-night-fate",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-starry-comet-night-fate.jpg",
+        "ratio": "3:2",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13655_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15795",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-mars-ancient-slabs-rover-photo",
+      "assetId": "goku-gpt-image-2-mars-ancient-slabs-rover-photo",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "cinematic",
+      "title": {
+        "en": "Mars Ancient Slabs Rover Photo"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "A realistic, original space agency-style photo with a background {argument name=\"setting\" default=\"Martian topography\"}, featuring red soil, scattered rocks, and a hazy orange sky. In the middle ground, {argument name=\"objects\" default=\"Two dark stone slabs engraved with ancient hieroglyphs\"} protrude from the ground at a subtle angle. In the foreground, a clear {argument name=\"foreground element\" default=\"Mars rover shadow\"} is projected onto the rocky terrain, revealing the perspective of the photo. At the top edge of the image, there is a simple line of white text overlay, similar to the original filename, displayed as \"{argument name=\"overlay text\" default=\"ZCAM_0847_0734291854_678RAD_N0412172ZCAM08050_1100LUJ01.png\"}\". The lighting is strong and realistic, simulating the actual photographic effect of the extraterrestrial surface.",
+      "tags": [
+        "cinematic",
+        "mars exploration",
+        "alien artifact",
+        "space photography",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-mars-ancient-slabs-rover-photo",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mars-ancient-slabs-rover-photo.jpg",
+        "ratio": "1:1",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13766_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15905",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
+        "generation_model": "gpt-image-2@1.0",
+        "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
+      },
+      "status": "published"
+    },
+    {
+      "slug": "goku-gpt-image-2-stained-glass-jellyfish-macro-art",
+      "assetId": "goku-gpt-image-2-stained-glass-jellyfish-macro-art",
+      "model": "gpt-image-2",
+      "industry": "marketing-advertising",
+      "category": "cinematic",
+      "title": {
+        "en": "Stained Glass Jellyfish Macro Art"
+      },
+      "description": {
+        "en": "A reviewed GPT Image 2 prompt-and-image example with traceable CC BY 4.0 source attribution."
+      },
+      "prompt": "An ultra-detailed macro photograph capturing a {argument name=\"subject\" default=\"A semi-transparent jellyfish made entirely of stained glass\"}, suspended within {argument name=\"location\" default=\"Victorian Library\"}, refracting candlelight into a fractal rainbow passing through the floating ancient book, with a recognizable {argument name=\"text style\" default=\"Sanskrit text\"}, photo-level realism",
+      "tags": [
+        "cinematic",
+        "macro",
+        "stained-glass",
+        "surreal",
+        "gpt-image-2"
+      ],
+      "artifact": {
+        "assetId": "goku-gpt-image-2-stained-glass-jellyfish-macro-art",
+        "kind": "image",
+        "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-stained-glass-jellyfish-macro-art.jpg",
+        "ratio": "800:999",
+        "source": "public-web"
+      },
+      "source": {
+        "label": "@creator via Goku OpenLab",
+        "platform": "X / Hugging Face",
+        "url": "https://static.atlascloud.ai/prompt/gpt-image2/images/13853_1.jpg",
+        "license": "CC BY 4.0 (Goku OpenLab dataset)",
+        "dataset_url": "https://huggingface.co/datasets/Goku-OpenLab/gpt-image-2-prompts-datasets",
+        "dataset_revision": "5d347be762f9c8dc5bd0eaffb05778e47551855f",
+        "dataset_id": "GI2_15992",
+        "published_at": null,
+        "captured_at": "2026-10-28",
+        "collected_at": "2026-10-28T02:54:15.464Z",
         "generation_model": "gpt-image-2@1.0",
         "generation_model_evidence": "The source dataset row identifies model_info.model_name as gpt-image-2@1.0."
       },
