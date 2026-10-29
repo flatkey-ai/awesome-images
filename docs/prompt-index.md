@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **511**
-Demo assets: **519**
+Published templates: **533**
+Demo assets: **541**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -1292,6 +1292,28 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Starry Comet Night Fate](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
 - [Mars Ancient Slabs Rover Photo](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
 - [Stained Glass Jellyfish Macro Art](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Wooden Bookshelf Display](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Song Painting: Upright on the Path](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Cranes Among Chrysanthemums](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Kawaii Katsu Curry Delight](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [CCD Seaside Summer Energy](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Cake Slice Falling Frosting Scatters](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Forbidden City Aerial View](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+- [Stunning Scenery Calendar Design](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Handwritten Notebook On Desk](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Alpaca Music Coloring Doodle](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Sleepy Steampunk Witch Dreams](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Gothic Sanctuary of Haunting Masks](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Li Bai's 'Hard Road' Ink Scroll](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Su Shi Ding Feng Bo Calligraphy Scroll](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Cyberpunk Night Raid Operation](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Whimsical Cycling Bird Vector](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Solar System Ice Cream Art](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Grotesque Octopus Sandwich Dinner](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Skull-Borne Luminous Tree in Surreal Sphere](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Horseback Astronaut Moon Surrealism](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Disco Mirror Chameleon Fantasy](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
+- [Duel of Martial Arts Maidens](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 
 ## Demo assets
 
@@ -1816,3 +1838,25 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Starry Comet Night Fate](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-starry-comet-night-fate.jpg) — 营销与广告
 - [Mars Ancient Slabs Rover Photo](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mars-ancient-slabs-rover-photo.jpg) — 营销与广告
 - [Stained Glass Jellyfish Macro Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-stained-glass-jellyfish-macro-art.jpg) — 营销与广告
+- [Wooden Bookshelf Display](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-wooden-bookshelf-display.jpg) — 营销与广告
+- [Song Painting: Upright on the Path](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-song-painting-upright-on-the-path.jpg) — 营销与广告
+- [Cranes Among Chrysanthemums](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cranes-among-chrysanthemums.jpg) — 营销与广告
+- [Kawaii Katsu Curry Delight](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kawaii-katsu-curry-delight.jpg) — 营销与广告
+- [CCD Seaside Summer Energy](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ccd-seaside-summer-energy.jpg) — 营销与广告
+- [Cake Slice Falling Frosting Scatters](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cake-slice-falling-frosting-scatters.jpg) — 营销与广告
+- [Forbidden City Aerial View](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-forbidden-city-aerial-view.jpeg) — 营销与广告
+- [Stunning Scenery Calendar Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-stunning-scenery-calendar-design.jpg) — 营销与广告
+- [Handwritten Notebook On Desk](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-handwritten-notebook-on-desk.jpg) — 营销与广告
+- [Alpaca Music Coloring Doodle](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-alpaca-music-coloring-doodle.jpg) — 营销与广告
+- [Sleepy Steampunk Witch Dreams](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-sleepy-steampunk-witch-dreams.jpg) — 营销与广告
+- [Gothic Sanctuary of Haunting Masks](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-gothic-sanctuary-of-haunting-masks.jpg) — 营销与广告
+- [Li Bai's 'Hard Road' Ink Scroll](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-li-bai-s-hard-road-ink-scroll.jpg) — 营销与广告
+- [Su Shi Ding Feng Bo Calligraphy Scroll](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-su-shi-ding-feng-bo-calligraphy-scroll.jpg) — 营销与广告
+- [Cyberpunk Night Raid Operation](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cyberpunk-night-raid-operation.jpg) — 营销与广告
+- [Whimsical Cycling Bird Vector](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-whimsical-cycling-bird-vector.png) — 营销与广告
+- [Solar System Ice Cream Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-solar-system-ice-cream-art.jpg) — 营销与广告
+- [Grotesque Octopus Sandwich Dinner](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-grotesque-octopus-sandwich-dinner.jpg) — 营销与广告
+- [Skull-Borne Luminous Tree in Surreal Sphere](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-skull-borne-luminous-tree-in-surreal-sphere.jpg) — 营销与广告
+- [Horseback Astronaut Moon Surrealism](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-horseback-astronaut-moon-surrealism.jpg) — 营销与广告
+- [Disco Mirror Chameleon Fantasy](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-disco-mirror-chameleon-fantasy.jpg) — 营销与广告
+- [Duel of Martial Arts Maidens](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-duel-of-martial-arts-maidens.jpg) — 营销与广告
