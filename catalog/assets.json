@@ -6956,6 +6956,110 @@
       "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-duel-of-martial-arts-maidens.jpg",
       "prompt": "A highly dramatic anime action illustration is set inside a traditional wooden martial arts hall, shot from a low angle to create a strong cinematic perspective. In the foreground, a fierce-looking young female martial artist assumes a squatting fighting stance and charges forward, her fist striking the camera. She sports {argument name=\"hair color\" default=\"black\"} hair, tied up in a messy high bun with a red ribbon. She wore a white Chinese kung fu shirt with red trim and frog buttons, paired with red wide-leg pants and black martial arts shoes adorned with red accents. Her expression is focused, aggressive, and determined, her eyes flashing with a sharp red light. Red energy ribbons and painterly flowing light encircled her body and fists, scattering sparks and embers. In the upper right corner, the second young female warrior leapt into the air, her body half-sided, dressed in a deep green qipao-style combat uniform, adorned with gorgeous gold embroidery, black stockings, and high heels. Her {argument name=\"second character hair color\" default=\"Lavender\"} is styled into two buns, with curly tousles and decorative hair accessories. She extended one hand in a martial arts gesture, surrounded by an arc-shaped blue glowing stream of water energy, forming an almost complete ring around her body. The stark contrast between the forces of red and blue elements signals an imminent conflict. The setting is the dilapidated dojo interior, with shattered wooden floors bursting upward, dust, wood chips, and moving debris solidifying in midair. Warm beams of light pass through wooden structures and windows, intertwining with glowing particles. In the background, large hanging calligraphy plaques can be seen, including a central wooden plaque inscribed with {argument name=\"main sign text\" default=\"Martial Arts Association\"}, as well as an old vertical paper scroll with black Chinese characters. High-detail anime illustrations, dynamic perspective, extreme dynamism, layered special effects, rich texture, dramatic contour lighting, the collision of cool blue energy and fiery warm highlights, exquisite concept art quality, vertical composition.",
       "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-dark-fantasy-cover",
+      "assetId": "goku-gpt-image-2-dark-fantasy-cover",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Dark Fantasy Cover"
+      },
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dark-fantasy-cover.jpg",
+      "prompt": "Fantasy novel cover, {argument name=\"Character\" default=\"Nezha with Three Heads and Six Arms\"} Floating in the Void, {argument name=\"Base\" default=\"Flame Lotus Platform\"} Base, {argument name=\"Style\" default=\"Dark Epic Style\"}",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-zestsip-subway-glowing-billboards",
+      "assetId": "goku-gpt-image-2-zestsip-subway-glowing-billboards",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "ZestSip Subway Glowing Billboards"
+      },
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-zestsip-subway-glowing-billboards.jpeg",
+      "prompt": "A realistic modern transit station advertising scene was created for energy drink brand ZestSip, with three large glowing billboard posters installed side by side on a smooth wall. The ad content should be lively and full of energy. The environment should feel like a high-end subway station or underground corridor, with polished floors, architectural wall panels, bright rectangular ceiling light panels overhead, and stair railings visible in the lower left prospect.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-retro-skeuomorphic-icon-set",
+      "assetId": "goku-gpt-image-2-retro-skeuomorphic-icon-set",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Retro Skeuomorphic Icon Set"
+      },
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-retro-skeuomorphic-icon-set.jpg",
+      "prompt": "Generate a set of icons for {argument name=\"device\" default=\"vintage electronic equipment\"} in {argument name=\"style\" default=\"retro skeuomorphic style\"}, including icon names in the image.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-summer-citrus-soda-ad-visual",
+      "assetId": "goku-gpt-image-2-summer-citrus-soda-ad-visual",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Summer Citrus SODA Ad Visual"
+      },
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-summer-citrus-soda-ad-visual.jpg",
+      "prompt": "[Chinese]\r\nImage generation: Product advertisement photos, seasonal products suitable for summer, carbonated drinks, name=\"Summer Mandarin SODA\", shape=PET bottle 500ml, designed and generated after a high CTA design for beverage advertising in 2025, with an aspect ratio of 3:4\r\n\r\n[English]\r\nImage generation: Product advertising photo, Seasonal product suitable for summer, Carbonated beverage, Name=\"Summer Citrus SODA\", Shape=500ml PET bottle, Design and generate image specifications after researching high CTA design as a beverage advertisement in 2025, Aspect ratio 3:4",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-imagined-self-japanese-illustration",
+      "assetId": "goku-gpt-image-2-imagined-self-japanese-illustration",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Imagined Self Japanese Illustration"
+      },
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-imagined-self-japanese-illustration.jpg",
+      "prompt": "Generate an illustration of \"me\" as you imagine it. Features include a Japanese illustration style, distinct character features, natural emotional expressions, a half-body composition, dynamic poses, exquisite clothing details, a hand-drawn graffiti style, ink splatter strokes, free-flowing lines, a blend of pastels and ink, a comic sketch texture, a minimalist white background, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-monkey-king-smashes-heavenly-army",
+      "assetId": "goku-gpt-image-2-monkey-king-smashes-heavenly-army",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Monkey King Smashes Heavenly Army"
+      },
+      "industry": "marketing-advertising",
+      "category": "landscape-architecture",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-monkey-king-smashes-heavenly-army.jpg",
+      "prompt": "A hyper-realistic, epic fantasy illustration, with the protagonist {argument name=\"main character\" default=\"Sun Wukong, the Monkey King\"}, presenting dynamic combat postures. He wears exquisitely ornate golden armor, his red cloak fluttering in the wind, and the pheasant feathers on his head extend out long. He has a fierce monkey face, powerfully swinging a glowing, intricately carved golden staff downward at a group of {argument name=\"enemy type\" default=\"Heavenly Soldiers\"}. The heavenly soldiers clad in thick, intricate golden armor are fiercely repelled by the impact. Sparks from explosions, glowing embers, and shattered stone fragments fill the area around the battle. The background is a majestic and cloudy {argument name=\"setting\" default=\"Heaven\"}, with towering, ornate columns and Chinese temple architecture faintly appearing in the hazy and dramatic sky. Cinematic lighting, highly detailed, masterpieces, intense action scenes.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-beer-ukiyo-e-landscape",
+      "assetId": "goku-gpt-image-2-beer-ukiyo-e-landscape",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Beer Ukiyo-e Landscape"
+      },
+      "industry": "marketing-advertising",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-beer-ukiyo-e-landscape.jpg",
+      "prompt": "A {argument name=\"art style\" default=\"traditional Japanese Ukiyo-e woodblock print\"} landscape featuring an {argument name=\"main character\" default=\"anthropomorphic glass of beer with a frothy head, a happy smiling face, stick-like yellow arms and legs, and traditional sandals\"} walking on a dirt path. The character holds a blue round fan displaying the kanji \"{argument name=\"fan text\" default=\"涼\"}\". The background includes a large pine tree and a wooden bridge on the right with 3 small figures crossing, plus 3 more figures walking on the path. To the left, tall reeds border a river leading to a distant {argument name=\"background mountain\" default=\"snow-capped Mount Fuji\"} under a gradient sky. A traditional text cartouche in the top left reads \"{argument name=\"top left text\" default=\"東海道 五十三次之内 由井\"}\" next to red artist seals, with a matching cartouche in the bottom left. The image has vintage, muted colors and authentic woodblock paper textures.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-japanese-futuristic-product-ad",
+      "assetId": "goku-gpt-image-2-japanese-futuristic-product-ad",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Japanese Futuristic Product Ad"
+      },
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-japanese-futuristic-product-ad.jpg",
+      "prompt": "Create a hyper-realistic {argument name=\"style\" default=\"Japanese style\"} {argument name=\"subject\" default=\"Futuristic Product Advertisement\"}, with extremely rich and detailed details, using cinematic lighting and shadows, ultra-minimalist high-end layout, {argument name=\"aesthetic\" default=\"Minimalist High-End Design Aesthetics\"}.",
+      "source": "model-detail"
     }
   ]
 }

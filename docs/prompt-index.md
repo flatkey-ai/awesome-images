@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **533**
-Demo assets: **541**
+Published templates: **541**
+Demo assets: **549**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -1314,6 +1314,14 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Horseback Astronaut Moon Surrealism](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
 - [Disco Mirror Chameleon Fantasy](../catalog/model-detail-assets.json) — cinematic · gpt-image-2
 - [Duel of Martial Arts Maidens](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Dark Fantasy Cover](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [ZestSip Subway Glowing Billboards](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Retro Skeuomorphic Icon Set](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Summer Citrus SODA Ad Visual](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Imagined Self Japanese Illustration](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Monkey King Smashes Heavenly Army](../catalog/model-detail-assets.json) — landscape-architecture · gpt-image-2
+- [Beer Ukiyo-e Landscape](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Japanese Futuristic Product Ad](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
 
 ## Demo assets
 
@@ -1860,3 +1868,11 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Horseback Astronaut Moon Surrealism](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-horseback-astronaut-moon-surrealism.jpg) — 营销与广告
 - [Disco Mirror Chameleon Fantasy](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-disco-mirror-chameleon-fantasy.jpg) — 营销与广告
 - [Duel of Martial Arts Maidens](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-duel-of-martial-arts-maidens.jpg) — 营销与广告
+- [Dark Fantasy Cover](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dark-fantasy-cover.jpg) — 营销与广告
+- [ZestSip Subway Glowing Billboards](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-zestsip-subway-glowing-billboards.jpeg) — 营销与广告
+- [Retro Skeuomorphic Icon Set](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-retro-skeuomorphic-icon-set.jpg) — 营销与广告
+- [Summer Citrus SODA Ad Visual](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-summer-citrus-soda-ad-visual.jpg) — 营销与广告
+- [Imagined Self Japanese Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-imagined-self-japanese-illustration.jpg) — 营销与广告
+- [Monkey King Smashes Heavenly Army](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-monkey-king-smashes-heavenly-army.jpg) — 营销与广告
+- [Beer Ukiyo-e Landscape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-beer-ukiyo-e-landscape.jpg) — 营销与广告
+- [Japanese Futuristic Product Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-japanese-futuristic-product-ad.jpg) — 营销与广告
