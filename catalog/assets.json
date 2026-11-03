@@ -7060,6 +7060,656 @@
       "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-japanese-futuristic-product-ad.jpg",
       "prompt": "Create a hyper-realistic {argument name=\"style\" default=\"Japanese style\"} {argument name=\"subject\" default=\"Futuristic Product Advertisement\"}, with extremely rich and detailed details, using cinematic lighting and shadows, ultra-minimalist high-end layout, {argument name=\"aesthetic\" default=\"Minimalist High-End Design Aesthetics\"}.",
       "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-cookie-milk-splash-art",
+      "assetId": "goku-gpt-image-2-cookie-milk-splash-art",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Cookie Milk Splash Art"
+      },
+      "industry": "food-beverage",
+      "category": "commercial",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cookie-milk-splash-art.jpg",
+      "prompt": "Create a dynamic close-up food illustration of a giant {argument name=\"cookie type\" default=\"chocolate chip cookie\"} crashing into a clear glass of {argument name=\"milk type\" default=\"whole milk\"}, frozen at the instant of impact. The cookie is large, golden brown, round, rough and crumbly, packed with many glossy dark chocolate chips, with visible baked texture and small cracks. Milk erupts upward in dramatic thick splashes and droplets around the cookie, with white arcs, beads, and ribbons of liquid partially obscuring the glass rim. Include exactly 5 prominent flying chocolate chunks or chips outside the cookie: one near the upper left, one near the upper center, one near the upper right, one at the right edge, and one near the lower left foreground; also include numerous tiny cookie crumbs and milk droplets scattered through the air. The glass is transparent with a slightly elliptical rim, thick reflective sides, and creamy milk visible inside. Use an expressive impasto oil-painting style with heavy palette-knife texture, visible brush strokes, warm caramel, cream, chocolate brown, amber, and muted purple tones. The background should be abstract and energetic, swirling like a dessert explosion, with warm studio lighting, high contrast highlights on the milk and chocolate, shallow depth of field, no text, no watermark, no hands, no broken glass.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-twilight-cappadocia-fantasy-vista",
+      "assetId": "goku-gpt-image-2-twilight-cappadocia-fantasy-vista",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Twilight Cappadocia Fantasy Vista"
+      },
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-twilight-cappadocia-fantasy-vista.jpg",
+      "prompt": "Create a richly detailed vertical 3:4 fantasy-realistic landscape painting of {argument name=\"location\" default=\"Cappadocia, Turkey\"} at twilight, seen from a high panoramic viewpoint over a vast valley of pale volcanic rock formations and cave dwellings. The lower half is filled with fairy-chimney stone towers, carved rock houses, arched doorways, terraces, stairways, small trees, and warm golden window lights beginning to glow throughout the town; the left foreground has larger cave-house facades and balconies, while the middle and right distance recede into a maze of illuminated rock villages, ridges, and distant mountains. The upper half is a dramatic sunset sky with deep cobalt blue at the top, scattered textured clouds, and glowing gold, peach, pink, and violet light near the horizon. Across the sky, include exactly 10 flying geese in a loose diagonal migration formation: 9 gray-brown geese with dark wings and 1 bright white goose at the lower right of the flock; add a tiny hidden small figure beside the white goose, subtle but discoverable. Use {argument name=\"sky color palette\" default=\"deep blue, violet, peach, and golden sunset\"} and {argument name=\"town lighting\" default=\"warm amber lantern and window lights\"}. Style should be highly detailed, painterly yet luminous, cinematic, whimsical, serene, and awe-inspiring, with crisp architecture, atmospheric depth, no text, no border, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-coffee-mug-shattering-macro",
+      "assetId": "goku-gpt-image-2-coffee-mug-shattering-macro",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Coffee Mug Shattering in Slow Motion"
+      },
+      "industry": "food-beverage",
+      "category": "commercial",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-coffee-mug-shattering-macro.jpg",
+      "prompt": "A detailed high-speed macro photograph of a {argument name=\"mug material and color\" default=\"white ceramic\"} coffee mug shattering on impact on a {argument name=\"floor surface\" default=\"concrete cafe floor\"}, shot at {argument name=\"shutter speed\" default=\"1/8000 second\"}. The mug is centered low in the frame with the handle visible on the right side, broken into many large jagged pieces that still loosely hold the cup shape while smaller shards fly outward. A splash of {argument name=\"drink type and color\" default=\"dark coffee\"} erupts upward and outward from the fractured mug, with suspended droplets and tiny specks frozen crisply in mid-air. Ground-level perspective, extreme shallow depth of field, ultra-sharp focus on the mug, fragments, and liquid splash, with a softly blurred modern cafe interior in the background. Warm indoor lighting with elongated ceiling lights rendered as bokeh, subtle reflections and wet splashes on the floor around the base, realistic textures, cinematic contrast, photorealistic product-ad style, dramatic moment of impact.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-rainy-suburban-street",
+      "assetId": "goku-gpt-image-2-rainy-suburban-street",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Cinematic Rainy Suburban Street"
+      },
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rainy-suburban-street.jpg",
+      "prompt": "A cinematic rainy suburban street in a {argument name=\"location\" default=\"lush forested hillside neighborhood\"}, soft overcast lighting, wet asphalt reflecting warm house lights, cozy wooden houses with glowing windows, a {argument name=\"car type\" default=\"blue vintage hatchback car\"} parked by the curb, stone stairs leading up to a home surrounded by greenery, tall pine trees and misty hills in the background, light rain falling, moody atmosphere, depth and perspective, ultra-realistic, 35mm photography, shallow depth of field, volumetric fog, HDR, 8K detail",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ink-moon-goddess-flight",
+      "assetId": "goku-gpt-image-2-ink-moon-goddess-flight",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ink Moon Goddess Flight"
+      },
+      "industry": "creator-social",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ink-moon-goddess-flight.jpg",
+      "prompt": "Traditional Chinese ink wash interpretation of {argument name=\"主题\" default=\"嫦娥奔月\"}, expressive black ink brushstrokes, soft gradients, poetic simplicity, minimalist composition, large areas of untouched white space",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-trendy-cat-avatar",
+      "assetId": "goku-gpt-image-2-trendy-cat-avatar",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Trendy Cat Avatar for Social Media"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-trendy-cat-avatar.jpg",
+      "prompt": "Generate this {argument name=\"pet\" default=\"cat\"} image to fit {argument name=\"platform\" default=\"social media platform\"} as your avatar. Feel free to use your {argument name=\"style\" default=\"internet sense\"}",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-golden-hour-palace-fantasy",
+      "assetId": "goku-gpt-image-2-golden-hour-palace-fantasy",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Golden Hour Palace Fantasy Wallpaper"
+      },
+      "industry": "architecture-real-estate",
+      "category": "environment-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-hour-palace-fantasy.jpg",
+      "prompt": "Create a vertical smartphone-wallpaper style fantasy background illustration set inside an opulent palace room at golden hour. The scene looks out through a tall arched window with ornate black-gold lattice screens toward a softly blurred domed palace and minarets in the distance. On the left, one large deep crimson patterned curtain is pulled aside, with one hanging tassel near the top center. In the foreground, place one dark carved wooden desk covered with luxurious props: one white sealed envelope with a red wax seal, one stack of scattered letters and papers, one black ink bottle, one black feather quill standing upright, one rolled parchment scroll, one ornate gold-and-black masquerade mask, one half-filled glass of red wine, one tall filigree metal lantern containing a lit candle, and two embroidered fabrics draped over the desk, one red and one black-gold. Use warm amber sunlight, dramatic shadows, dust motes, and a romantic mysterious atmosphere, with rich burgundy, bronze, black, and gold tones. Add elegant Japanese message text on the left over the curtain area reading {argument name=\"message text\" default=\"仮面の奥に、\\n真実を隠して。\"}, set in a refined serif style in pale gold, with a thin horizontal gold line and small sparkle beneath it. Make the composition cinematic, quiet, and slightly melancholic, as if hinting at palace intrigue and hidden truth behind a mask.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-grand-space-station-nebula",
+      "assetId": "goku-gpt-image-2-grand-space-station-nebula",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Grand Space Station in Nebula"
+      },
+      "industry": "media-entertainment",
+      "category": "sci-fi-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-grand-space-station-nebula.jpg",
+      "prompt": "A magnificent scene where {argument name=\"Subject\" default=\"Space Exploration\"}, {argument name=\"Background\" default=\"Nebula Shining Infinite Universe\"} and {argument name=\"Structure\" default=\"Giant Station\"} float in a grand spectacle",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-zen-tea-steam-bamboo-ink",
+      "assetId": "goku-gpt-image-2-zen-tea-steam-bamboo-ink",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Zen Tea Steam Bamboo Ink"
+      },
+      "industry": "creator-social",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-zen-tea-steam-bamboo-ink.jpg",
+      "prompt": "Create a minimalist zen-style Japanese ink wash illustration on a vertical canvas. Use warm aged rice paper as the background with subtle beige watercolor stains and abundant negative space. Place a single rustic ceramic tea cup in the lower-right area, rounded and slightly imperfect, with speckled beige clay texture, a thin dark rim, a visible amber-brown tea surface, and a soft gray ink shadow beneath it. From the cup, draw one graceful column of steam made of thin, translucent, flowing S-shaped black-gray brush lines rising upward. On the left side, include one slender bamboo branch entering diagonally from the lower-left edge and reaching toward the upper-left and center, with exactly 3 visible stem segments and exactly 12 narrow bamboo leaves in muted black, charcoal, and pale gray ink tones. Add 2 small ink dots near the lower-left of the cup. Keep the composition quiet, asymmetrical, meditative, and elegant, with soft organic brush textures, sumi-e linework, light watercolor washes, no hard outlines except the expressive ink strokes, no text, no border, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-kyoto-kiyomizu-summer-vista",
+      "assetId": "goku-gpt-image-2-kyoto-kiyomizu-summer-vista",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Kyoto Kiyomizu Summer Vista"
+      },
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kyoto-kiyomizu-summer-vista.jpg",
+      "prompt": "Create a highly detailed photorealistic summer travel landscape of Kyoto viewed from an elevated hillside, looking down over a lively traditional slope toward a grand wooden temple stage. The scene centers on {argument name=\"temple name\" default=\"Kiyomizu-dera\"}: a large historic Japanese temple hall with a broad brown cypress-bark roof, ornate eaves, and a dramatic wooden veranda supported by tall timber pillars, crowded with tiny sightseeing visitors. Slightly left of the main hall, include a three-story pagoda with red-orange accents and layered dark roofs. In the foreground and lower left, show a steep stone-paved pedestrian lane lined with traditional machiya-style houses and many gray-blue tiled roofs, with small groups of tourists walking upward and downward. Surround the temple and street with dense fresh green summer trees, including bright maple leaves framing the lower right foreground. Beyond the temple, reveal a wide city panorama with countless low-rise white and gray buildings, a green river corridor cutting horizontally across the middle distance, and blue forested mountains spanning the horizon under a clear vivid blue sky. Use a vertical {argument name=\"aspect ratio\" default=\"3:4\"} composition, high vantage point, deep depth of field, crisp architectural detail, vibrant natural colors, warm midday sunlight, gentle shadows, no text, no border, no watermark, and an inviting “imaginary travel scenery” atmosphere that makes the viewer want to visually wander from the rooftops to the river and distant mountains.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-historic-galleon-junk",
+      "assetId": "goku-gpt-image-2-historic-galleon-junk",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Historic Galleon And Junk Anchored Together"
+      },
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-historic-galleon-junk.jpg",
+      "prompt": "A highly detailed historical maritime scene at water level, showing two large wooden sailing ships anchored close together on calm reflective water under a bright blue sky with soft scattered clouds. On the left, a massive ornate European galleon dominates the composition, viewed from the rear-left stern quarter, with richly carved baroque stern decorations in gold, red, blue, and cream, heraldic emblems, multiple stern windows, and a dark hull with warm reddish-brown planking. It has 4 visible masts including a bowsprit, dense black rigging, crow's nests, and many cream-white square sails partially unfurled and hanging loosely. On the right, a traditional Chinese junk faces slightly left, with 1 very large rust-brown battened sail raised, a curved wooden hull in brown, black, and white, carved stern details, and smaller masts and rigging. In the foreground center, include 1 small wooden rowboat with 1 standing boatman wearing light clothing and a brimmed hat, adding scale between the two ships. In the distant background, show faint silhouettes of additional sailing vessels near the horizon on the far left. Lighting is crisp daylight with warm highlights on the wood, subtle reflections in the rippling water, and a painterly yet photorealistic finish, ultra-detailed textures, cinematic composition, wide aspect ratio, no modern elements.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-doodle-product-photo",
+      "assetId": "goku-gpt-image-2-minimalist-doodle-product-photo",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Minimalist Doodle Product Photo"
+      },
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-doodle-product-photo.jpg",
+      "prompt": "[{argument name=\"product\" default=\"product setup\"}], minimalist product photo, clean warm studio scene, textured beige wall background, soft directional sunlight creating long shadows, simple tabletop surface, product arranged in a playful concept composition, hand drawn white line doodle overlay of {argument name=\"character\" default=\"character\"} interacting with the product, mixed media look combining real photography and sketch illustration, high end branding feel, shallow depth of field, ultra realistic, no extra text, no watermark, 8k, 1:1",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-rainy-canyon-campfire",
+      "assetId": "goku-gpt-image-2-rainy-canyon-campfire",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Rainy Canyon Campfire Rest"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rainy-canyon-campfire.jpg",
+      "prompt": "Create a dark cinematic fantasy scene titled {argument name=\"series title\" default=\"Journey with a Barbarian 6\"}: two weary medieval travelers shelter in a narrow rocky canyon during heavy rain at night, resting beside a small bright campfire on muddy wet ground. The scene contains exactly 2 travelers: one central blond, curly-haired adventurer in soaked dark cloak and leather armor sitting on the ground and leaning against a pale gray horse, and one hooded barbarian-like companion in a black rain-drenched cloak sitting against the right rock wall with arms folded. Their faces should be obscured by deep shadow or simple dark square censor-like blocks, making them anonymous. Include exactly 2 horses: one pale gray horse lying or kneeling close to the fire beside the central traveler, and one large black horse standing on the left with wet mane, saddle, harness, and pack gear. Include exactly 5 notable foreground objects: a small campfire made of sticks, a metal cup near the flames, a leather travel bag on the left, a heap of black leather armor and straps on the lower right, and a soaked cloth or cloak spread across the mud. The canyon walls are steep, jagged, and glossy with rain, forming a narrow passage receding into misty blue-gray darkness. Use dramatic low firelight with warm orange highlights reflected in puddles and cold moonlit blue shadows in the background, ultra-detailed wet textures, realistic medieval fantasy costume design, grim survival atmosphere, high-contrast chiaroscuro, vertical composition, no text, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-alpaca-music-coloring",
+      "assetId": "goku-gpt-image-2-alpaca-music-coloring",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Cozy Alpaca Music Session"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-alpaca-music-coloring.jpg",
+      "prompt": "A black and white line art illustration of a cute fluffy {argument name=\"animal\" default=\"alpaca\"} wearing over-ear headphones. It has its eyes closed and a peaceful smile. It is holding a classic {argument name=\"device\" default=\"MP3 player\"} with a click wheel, connected to the headphones by a wire. The device is resting near 2 stacked books. Floating around the character are 4 music notes and 1 {argument name=\"floating symbol\" default=\"heart\"}. The style is minimalist, {argument name=\"art style\" default=\"coloring book style\"}, featuring thick black outlines on a pure white background.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-motion-to-form-design",
+      "assetId": "goku-gpt-image-2-motion-to-form-design",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Motion To Form Design Process"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-motion-to-form-design.jpg",
+      "prompt": "Topic: [︎Example ⭐: {argument name=\"Topic\" default=\"Tennis Serve\"}]  \nPlease present the transformation process of this theme from concept to form, as well as the final design as the final result, in an A4 vertical visual image.  It has a two-section structure.  \nThe first section is a five-step visual flowchart of the essence of the theme. Sources of conception: → Trajectory and energy → Abstract lines and structures → Three-dimensional forms → Final design—all built according to this process. Detailed sketches, line art, design drawings, small arrows, brief English labels, and carefully designed layouts with blank space. \nThe title is \"MOTION TO FORM.\"  \nThe image below shows the hero's visual that was finally formed from the process above. The category is not fixed; AI selects the most suitable design objects based on the theme. It can be in any form, including products, objects, furniture, accessories, packaging, utensils, lighting fixtures, gadgets, accessories, artworks, and so on. \nGenerate fictional brand names, slogans, and short copy to create creative content suitable for advertising or design visual displays.  \nOverall, it presents a high level of completeness that integrates concept boards, brand advertising, and design development materials. Minimalist, poetic, intellectual, and empty space creates a sense of beauty. The tone is based on neutrals, paired with 1-2 accent colors inspired by the theme. \nAccurately depicts the sense of material, light, shadow, structural beauty, and texture. High-resolution, commercial-grade visual quality.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-miniature-city-snow",
+      "assetId": "goku-gpt-image-2-miniature-city-snow",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Miniature City Snow Scene"
+      },
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-miniature-city-snow.jpg",
+      "prompt": "Isometric 3D cartoon / PBR materials / Weather integration / Miniature city / Top-down 45° / {argument name=\"城市名\" default=\"London\"} / {argument name=\"天气\" default=\"Snow\"}",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-macro-3d-virus-visualization",
+      "assetId": "goku-gpt-image-2-macro-3d-virus-visualization",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Dramatic 3D Macro Virus Visualization"
+      },
+      "industry": "education-training",
+      "category": "sci-fi-infographic",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-macro-3d-virus-visualization.jpg",
+      "prompt": "Create a dramatic macro 3D scientific visualization of {argument name=\"virus name\" default=\"Hantavirus\"} as a frightening spherical viral particle floating in a dark microscopic environment. The central subject is one large virion in sharp focus, with a rough fibrous gray-brown outer shell covered in many translucent red-orange trumpet-shaped spike proteins arranged around the entire circumference. Show a cutaway-like glowing inner core visible through the front surface, filled with warm golden bioluminescent particles and a thick coiled turquoise RNA strand curled in a spiral knot. Surround the main virion with 4 out-of-focus background viral particles: one large blurred particle in the upper left, one large blurred particle in the upper right, one partial blurred particle at the lower left edge, and one partial blurred particle at the right edge. Use cinematic depth of field, volumetric haze, floating dust-like microscopic particles, teal-green and amber color grading, high contrast rim lighting, hyper-detailed textures, semi-realistic biomedical illustration style, scary ominous mood, ultra high resolution, no text, no labels, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-surreal-whales-rainy-city",
+      "assetId": "goku-gpt-image-2-surreal-whales-rainy-city",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Surreal Whales in Rainy City Night"
+      },
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-whales-rainy-city.jpg",
+      "prompt": "Create a hyperreal cinematic nighttime photograph of {argument name=\"city setting\" default=\"a modern downtown avenue between two massive glass skyscrapers\"} during heavy rain, viewed from street level with a centered one-point perspective down the road. The scene shows exactly two towering dark office buildings forming a canyon on the left and right, with illuminated office windows and wet reflective facades. Between them rises one enormous vertical wall of ocean water, like a suspended aquarium or tidal wave stretching upward into the sky, its foamy rim curling at the top under a bright full moon partially veiled by clouds. Inside the blue-black water are three clearly visible whales: one large central whale swimming diagonally toward the viewer, one smaller whale below it, and one smaller whale higher in the distance; include many tiny fish silhouettes around them. The rain-soaked street below is glossy with mirror reflections of red traffic lights, car taillights, building lights, and moonlit blue water. Add a realistic urban traffic scene with several cars moving away from the viewer, including one prominent dark sedan in the lower center with glowing red taillights, and scattered pedestrians on both sidewalks and crosswalk areas holding umbrellas. Use {argument name=\"mood\" default=\"awe-inspiring, surreal, dramatic, and ominous\"}, deep navy and steel-blue color grading, high contrast, volumetric mist, street steam, rain streaks, sharp architectural detail, realistic reflections, and a 35mm cinematic lens look. No text, no watermark, no illustration style; make it feel like an impossible but photoreal event captured in a high-budget disaster-fantasy film.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-wat-arun-papercut-dusk",
+      "assetId": "goku-gpt-image-2-wat-arun-papercut-dusk",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Layered Papercut Wat Arun Dusk"
+      },
+      "industry": "creator-social",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-wat-arun-papercut-dusk.jpg",
+      "prompt": "A highly detailed layered papercut artwork of {argument name=\"scene\" default=\"Wat Arun in Bangkok, Thailand at dusk\"}, viewed from across the river in a centered, symmetrical composition. The image should look like handcrafted 3D paper sculpture and kirigami, with stacked cut-paper layers, visible paper edges, soft relief depth, delicate shadows between layers, and crisp ornamental architectural detail. Place the grand central prang of the temple rising dramatically in the middle, surrounded by 4 smaller prangs, dense dark green-black tree masses at the base, a riverside promenade with small pavilions, and multiple Thai flags lining the waterfront. In the foreground, show the Chao Phraya River as stylized rolling paper waves in deep navy and charcoal, with 1 long traditional river boat crossing from left to right near the bottom center. The sky is filled with many horizontally stretched layered clouds cut from paper, framing a low setting sun partially hidden behind the temple on the right side of center. Use a warm sunset palette of {argument name=\"color palette\" default=\"golden yellow, amber, burnt orange, peach, terracotta, coral, and deep blue-black\"}. Keep the style elegant, intricate, cinematic, and richly textured, with a handcrafted paper diorama feel, high contrast between glowing sky and dark foreground, and an overall refined Asian decorative art aesthetic.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-material-translation-grid",
+      "assetId": "goku-gpt-image-2-material-translation-grid",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Material Translation Grid"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-material-translation-grid.jpg",
+      "prompt": "2x2 grid, {argument name=\"source object\" default=\"b2 plane, moon landing scene\"}, 2 other complex scenes with 4 fun materials -> translation_solve(source_object → target_material): source = [object] target_mat = [material] mapping_rules: - source.primary_function → target_mat.equivalent_function_in_new_material - source.surface_detail → target_mat.characteristic_texture * 2.0 - source.joinery_method → infer(connection_type from target_mat.physics) - source.weight_distribution → target_mat.density_logic * 1.5 - source.color_scheme → infer(natural_palette from target_mat.typical_hues) render( subject = source reconstructed_in target_mat, realism = \"material properties must be physically plausible\" * 1.8, detail = \"zoomed macro view showing material authenticity\" * 1.6, context = \"isolated on complementary background\" * 1.2 ) + studio_product_photography - (photoshop_texture_overlay / 5) - (impossible_material_behavior / 4) example: \"{argument name=\"example source\" default=\"sports car\"} → {argument name=\"example material\" default=\"woven rattan\"}\"",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-chaotic-circles-abstract-rhapsody",
+      "assetId": "goku-gpt-image-2-chaotic-circles-abstract-rhapsody",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Chaotic Circles Abstract Rhapsody"
+      },
+      "industry": "creator-social",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chaotic-circles-abstract-rhapsody.jpg",
+      "prompt": "Create a square abstract expressionist painting on a full-bleed canvas, dense and energetic, with no recognizable subject and no text. Fill the entire image edge to edge with layered circular geometry and chaotic paint splatter: approximately 55 visible circles and rings of different sizes, including about 20 large solid disks, 18 medium disks, 10 small dots, and 7 thin outlined rings. Use a vivid primary-color palette dominated by {argument name=\"dominant color\" default=\"deep cobalt blue\"}, saturated red, golden yellow, orange, hot magenta, emerald green, black, and white. Compose the circles so they overlap heavily across the canvas, with the largest forms including a huge red-orange disk in the lower left, a large cobalt-blue disk in the lower center, a large orange disk on the right, a bright yellow disk near center, several black disks in the upper left and lower right, and red circular masses across the top and bottom. Add many thin circular outlines and partial arcs in black, red, orange, blue, and white, some scratched or broken. Cover everything with aggressive Pollock-like splashes, drips, streaks, scratches, speckles, and dry-brush scuffs in white, black, yellow, red, and blue, creating a distressed grunge texture with high contrast and layered depth. The style should feel like {argument name=\"art style\" default=\"modern abstract expressionism with pop-art circular forms\"}, extremely saturated, chaotic but balanced, high-resolution, crisp paint texture, matte acrylic and ink on canvas, no frame, no border, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-sunscreen-seaside",
+      "assetId": "goku-gpt-image-2-luxury-sunscreen-seaside",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Luxury Sunscreen by the Sea"
+      },
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-sunscreen-seaside.jpg",
+      "prompt": "A sleek {argument name=\"product color\" default=\"white\"} {argument name=\"product\" default=\"sunscreen lotion tube\"} stands upright on a {argument name=\"setting\" default=\"sunlit rock by the sea\"}. Light reflects off the gentle blue waves behind it, while fine droplets sparkle on the surface of the tube. The background sky fades into soft cyan, creating a clean and luxurious summer aesthetic. Simple composition, minimalist tone, bright daylight photography, ultra-sharp details, high-definition realism, stock photo quality.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-dusk-executive-office-luxury",
+      "assetId": "goku-gpt-image-2-dusk-executive-office-luxury",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Dusk Executive Office Luxury"
+      },
+      "industry": "architecture-real-estate",
+      "category": "environment-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dusk-executive-office-luxury.jpg",
+      "prompt": "A photorealistic modern executive office interior at dusk, viewed from a slightly wide angle inside the room, with floor-to-ceiling corner windows revealing a hazy metropolitan skyline in the distance. The space is minimalist and upscale, with warm ambient lighting, soft sunset tones, and a calm corporate luxury mood. In the center foreground, place a large contemporary desk in matte dark wood or charcoal finish with a clean rectangular shape, a slim task lamp, a closed laptop or folder, and an ergonomic black office chair. Along the left side, include a low modern leather sofa in deep brown and a minimalist metal coffee table holding exactly 3 stacked books or magazines and 1 decorative bowl. On the right side, show a built-in rectangular planter with green foliage in the foreground, and behind it a glass-walled meeting room with red-tinted interior walls and glass double doors. In the back corridor, add built-in wooden shelving with books and a few small decor objects, leading deeper into the office. Use recessed ceiling lights, subtle LED strip lighting near the ceiling edge, polished concrete or smooth stone flooring, and a restrained palette of gray, taupe, dark wood, black, and warm orange reflections from sunset. The windows should dominate the composition, with the skyline softly atmospheric and slightly diffused, emphasizing height, luxury, and quiet evening productivity.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-electric-blue-lightning-vfx",
+      "assetId": "goku-gpt-image-2-electric-blue-lightning-vfx",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Electric Blue Lightning VFX Asset Sheet"
+      },
+      "industry": "education-training",
+      "category": "sci-fi-infographic",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-electric-blue-lightning-vfx.jpg",
+      "prompt": "Create a high-resolution VFX asset of {argument name=\"effect type\" default=\"electric lightning strikes\"} on a pure black transparent-looking background, designed as a game or compositing effect sheet. Show exactly 5 separate vertical lightning strike columns descending from the top edge to the bottom: one near the far left, one left-of-center, one large brightest strike in the center, one right-of-center, and one near the far right. Each strike has a jagged branching main bolt in intense {argument name=\"lightning color\" default=\"electric blue\"} with a white-hot core, thin secondary forks spreading outward, and soft blue bloom glow. At the bottom of each strike, add a bright starburst impact point sitting on a subtle horizontal glowing line, with faint sparks, tiny particle scatter, and a slight mirrored reflection below the impact. Make the central strike the tallest, thickest, and brightest focal point, while the other four strikes are slightly narrower and evenly spaced. Use a dramatic dark storm-energy look, high contrast, crisp branching detail, luminous aura, volumetric glow, no text, no characters, no scenery, no borders, widescreen 16:9 composition, suitable for overlaying as a visual effects material.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-starstreak-blazing-reentry",
+      "assetId": "goku-gpt-image-2-starstreak-blazing-reentry",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Starstreak Blazing Reentry"
+      },
+      "industry": "media-entertainment",
+      "category": "sci-fi-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-starstreak-blazing-reentry.jpg",
+      "prompt": "A cinematic hard-sci-fi space illustration of a futuristic space shuttle performing atmospheric reentry above Earth, viewed from a three-quarter front-left angle as it flies from right to left. The vehicle is a sleek white delta-wing orbiter with 2 vertical tail fins, 2 large rear engines, a pointed nose, dark cockpit windows, subtle panel lines, light weathering, and small black technical markings. The fuselage bears the text {argument name=\"ship name\" default=\"STARSTREAK\"}. A blazing reentry plasma sheath wraps around the nose, belly, wing edges, and upper rear body, forming a long turbulent orange-white fire trail that fills much of the upper background. The shuttle remains clearly visible inside the incandescent shock layer, with bright rim lighting and scorched warm reflections on the hull. Below, the curved Earth occupies the lower part of the frame with a thin blue atmospheric limb, cloud systems, ocean, and a visible spiral storm. Above is deep black-blue space with faint stars. Ultra-detailed aerospace concept art, dramatic motion, realistic lighting, high contrast, sharp focus, epic orbital perspective, painted illustration style, no text overlays except the ship marking.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-geese-flying-italian-valley",
+      "assetId": "goku-gpt-image-2-geese-flying-italian-valley",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Geese Flying Over Italian Valley"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-geese-flying-italian-valley.jpg",
+      "prompt": "{argument name=\"title\" default=\"Morning Crossing the Valley of Italy\"}\n\n{argument name=\"location\" default=\"Valley of Funes\"}\nWhen {argument name=\"season\" default=\"early summer\"} is enveloped in the light\n\nThe geese catch the wind in the high sky\nFly over small villages and green meadows\n\nThis time, the herd is far away\nYou might not even see the small figure on the back of a white goose",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-vintage-stone-garden-path",
+      "assetId": "goku-gpt-image-2-vintage-stone-garden-path",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Vintage Stone Garden Path Pattern"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-stone-garden-path.jpg",
+      "prompt": "Create a seamless repeating tile pattern of an old stone garden path seen from directly above. The composition is filled edge to edge with irregular polygonal paving stones separated by dark soil-filled cracks, designed so all edges match perfectly for tiling. Use a delicate watercolor and ink illustration style on warm off-white paper: soft translucent washes, hand-drawn graphite/sepia outlines, subtle granulation, uneven pigment blooms, and natural texture. The stones are pale cream, light gray, beige, and muted blush with mossy green stains and lichen patches; the cracks contain rich brown earth with tiny tufts of grass, small weeds, and miniature leafy sprouts. Keep the pattern moderately dense with varied stone sizes and orientations, organic randomness, no obvious central focal point, no shadows from objects, no text, no border, no watermark. Color palette: sage green moss, olive lichen, warm ivory stone, dusty beige, muted gray, earthy brown.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ballerina-abstract-evolution",
+      "assetId": "goku-gpt-image-2-ballerina-abstract-evolution",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ballerina Abstract Evolution Art"
+      },
+      "industry": "creator-social",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ballerina-abstract-evolution.jpg",
+      "prompt": "Artistic progression in five vertical panels: from realistic sketch to modern abstract sculpture of a {argument name=\"subject\" default=\"ballerina in arabesque pose\"}.\n\n1. Detailed pencil sketch of ballerina on pointe, elegant extended leg and arms.\n2. Refined mid-stage sketch.\n3. Strongly stylized flowing lines.\n4. Angular geometric abstraction.\n5. Final sleek, {argument name=\"material\" default=\"ribbon-twisted contemporary metal sculpture\"} with beautiful curves and tension.\n\n{argument name=\"style\" default=\"Black ink and charcoal style\"} on white background, high-contrast artistic study, luxury sculpture aesthetic --ar 3:2",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-cosmic-bonsai-dream-garden",
+      "assetId": "goku-gpt-image-2-cosmic-bonsai-dream-garden",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Cosmic Bonsai Dream Garden"
+      },
+      "industry": "creator-social",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cosmic-bonsai-dream-garden.jpg",
+      "prompt": "Create a lavish vertical fantasy illustration of one enormous flowering bonsai tree in a wide porcelain planter, set in a dreamy cosmic night garden. The bonsai has a twisted, glossy, rose-gold trunk and branching limbs, with a dense rounded canopy made from countless succulent-like rosette blossoms in {argument name=\"flower colors\" default=\"pearl pink, lavender, lilac, peach, and opalescent white\"}; the petals should look translucent, dewy, and jewel-like with sparkling highlights. Add many long hanging crystal-bead strands and delicate dripping garlands beneath the branches, like luminous wisteria made of pearls and glass. The planter is one large pale pink-lavender bowl with ornate silver baroque floral metal ornaments on the front, sitting on an intricately carved circular silver pedestal. At the lower right, place exactly one sleeping {argument name=\"animal\" default=\"white fluffy cat\"} curled peacefully on the pedestal beside a few pastel pearl spheres. The background is a deep starry galaxy sky filled with glowing bokeh, tiny stars, floating petals, and magical dust, with exactly one large pale moon partially visible in the upper right corner. Surround the base with soft clusters of pink and purple blossoms and glowing pearls. Use an ultra-detailed anime fantasy art style, romantic and ethereal, high saturation pastels, iridescent lighting, soft bloom, crystalline sparkle, ornate decorative craftsmanship, serene bedtime mood, vertical composition, no text, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-kuafu-chasing-sun-ink-art",
+      "assetId": "goku-gpt-image-2-kuafu-chasing-sun-ink-art",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Kuafu Chasing Sun Ink Art"
+      },
+      "industry": "creator-social",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kuafu-chasing-sun-ink-art.jpg",
+      "prompt": "Hybrid Realism and Ink-Wash Illustration. Subject: {argument name=\"主体\" default=\"夸父追日 (Kuafu Chases the Sun)\"}",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-warm-glow-after-rain",
+      "assetId": "goku-gpt-image-2-warm-glow-after-rain",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Warm Glow After Rain"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-warm-glow-after-rain.jpg",
+      "prompt": "夜焼けのあと、雨のzanった通りに{argument name=&quot;kind of shop&quot; default=&quot;wagashi house&quot;}さんの灯りがぽつんとあたたかく见えました. {argument name=&quot;Object&quot; default=&quot;色とりどりのお Fruit&quot;}をLooking at めているうちに, Today&#39;s のことも, 小しだけやわらかく思い出せそうです.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-gothic-gauntlet-fries",
+      "assetId": "goku-gpt-image-2-gothic-gauntlet-fries",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Gothic Gauntlet Fries Feast"
+      },
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-gothic-gauntlet-fries.jpg",
+      "prompt": "\"scene\": {\n    \"atmosphere\": \"{argument name=\"atmosphere\" default=\"dark, gothic, fantasy, cinematic, mysterious\"}\",\n    \"lighting\": \"moody, warm candlelight, dramatic shadows, glowing embers\",\n    \"environment\": \"ancient medieval chamber or banquet hall, dark background\"\n  },\n  \"subject\": {\n    \"main_item\": \"{argument name=\"main food\" default=\"crispy golden french fries\"} bursting out of an {argument name=\"container\" default=\"ornate, metallic gothic gauntlet-shaped cone\"}\",\n    \"details\": \"fries are perfectly seasoned, sprinkled with fine salt particles, fresh green rosemary bits, emitting thick hot steam, dynamic action splash effect of spices\",\n    \"cone_design\": \"intricate silver filigree patterns, studded with small dark red rubies, dark metallic texture\"\n  },\n  \"foreground_and_setup\": {\n    \"surface\": \"dark green marble tabletop with silver metallic borders, decorated with fresh rosemary twigs\",\n    \"sides\": [\n      {\n        \"item\": \"vintage bronze goblet filled with rich red tomato ketchup, engraved with a lion emblem\"\n      },\n      {\n        \"item\": \"antique silver metallic cup with a handle, filled with creamy white mayonnaise sauce\"\n      }\n    ],\n    \"scattered_items\": \"a few seasoned french fries placed neatly on the marble surface\"\n  },\n  \"background\": {\n    \"elements\": \"blurry dark gothic pillars, vintage metal candelabras with burning wax candles, soft bokeh effect of red and orange warm lights\"\n  },\n  \"art_style\": {\n    \"type\": \"hyper-realistic food photography, fantasy concept art\",\n    \"quality\": \"4k resolution, ultra-detailed textures, sharp focus on the fries, macro shot depth of field\"\n  }",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-candle-ambient-imagery",
+      "assetId": "goku-gpt-image-2-luxury-candle-ambient-imagery",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Luxury Candle Ambient Product Imagery"
+      },
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-candle-ambient-imagery.jpg",
+      "prompt": "Produce warm, atmospheric {argument name=\"product\" default=\"candle and home fragrance\"} product images that sell the feeling of luxury, comfort, and calm. This prompt captures glowing flame light, molten wax texture, the warmth of {argument name=\"material\" default=\"amber glass\"}, and all the sensory visual cues that make candle buyers click \"purchase.\" Perfect for candle brands, Etsy candle sellers, home fragrance startups, and lifestyle brands wanting imagery that evokes the full sensory experience of their product",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-perfume-still-life",
+      "assetId": "goku-gpt-image-2-luxury-perfume-still-life",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Luxury Perfume Editorial Still Life"
+      },
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-perfume-still-life.jpg",
+      "prompt": "A high-end editorial product photograph of a single luxury perfume bottle centered in a warm earthy still-life scene. The product is a clear rectangular glass bottle filled with golden amber liquid, topped with a glossy rounded black cap, with a clean white front label that reads \"BYREDO\", \"BAL D’AFRIQUE\", and \"EAU DE PARFUM\". Place the bottle upright on 1 curved piece of pale weathered driftwood, surrounded by a dense carpet of 1 layer of rich green moss covering the foreground and lower frame. Use a minimal studio composition with the product isolated against a smooth warm brown-to-amber gradient background, softly illuminated like sunset light. Light the scene with dramatic directional warm light from the upper right, creating a bright glow on the background, a crisp highlight on the cap, soft reflections in the glass, and gentle shadows across the wood and moss. Keep the framing vertical, the bottle centered slightly low in the composition with generous negative space above, and the overall mood natural, luxurious, earthy, cinematic, and polished like a premium fragrance campaign shot.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-resin-orb-miniature-city",
+      "assetId": "goku-gpt-image-2-resin-orb-miniature-city",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Miniature City Inside Resin Orb"
+      },
+      "industry": "travel-hospitality",
+      "category": "travel-illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-resin-orb-miniature-city.jpg",
+      "prompt": "Create a photorealistic close-up product-style image of a perfectly clear spherical UV resin art orb sitting on a glossy dark wooden tabletop. Inside the transparent sphere, encapsulate a miniature panoramic {argument name=\"embedded scene\" default=\"modern city skyline beside a green park under a vivid blue sky\"}, with tall glass skyscrapers, a low urban horizon, bright grass in the foreground, and a distinctive curved dome-like architectural structure on the right. The sphere should look like polished resin or glass, with strong refraction, lens distortion, magnified internal scenery, tiny suspended gold glitter and micro-bubbles throughout, and sparkling highlights around the rim. Use {argument name=\"lighting mode\" default=\"lighting on\"}: warm indoor illumination with bright specular reflections, a glowing highlight on the left edge of the orb, and shimmering gold flecks. Place the orb centered slightly low in the frame on a richly grained varnished wooden table with visible scratches, reflections, and warm amber tones. The background should be softly blurred with cozy dark-brown interior objects, including an out-of-focus decorative container on the left and a small round metallic object on the right, creating shallow depth of field and bokeh. Compose as a realistic macro photograph, 4:3 aspect ratio, high detail, crisp sphere, blurred background, luxurious handmade resin craft aesthetic, magical miniature world trapped inside a crystal ball.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-programmer-metro-commute",
+      "assetId": "goku-gpt-image-2-programmer-metro-commute",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Programmer's Commute Scroll"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-programmer-metro-commute.jpg",
+      "prompt": "A {argument name=\"occupation\" default=\"programmer\"} clocks out, in {argument name=\"location\" default=\"Shanghai Metro Line 1\"}, carrying a laptop bag and scrolling on his phone",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-amber-orange-luxury-still-life",
+      "assetId": "goku-gpt-image-2-amber-orange-luxury-still-life",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Amber Orange Luxury Still Life"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-amber-orange-luxury-still-life.jpg",
+      "prompt": "A dynamic composition with two vibrant orange slices, dark berries, and small sprigs of lavender floating against a deep black background. Amber resin drops elegantly rotate around the scene, placed on polished black marble surfaces with golden textures. Hyper-realistic lighting creates dramatic highlights and shadows, emphasizing the luxurious arrangement. 8K resolution, movie depth. 3:4",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-cinematic-dream-house-exterior",
+      "assetId": "goku-gpt-image-2-cinematic-dream-house-exterior",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Cinematic Dream House Exterior"
+      },
+      "industry": "architecture-real-estate",
+      "category": "environment-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-dream-house-exterior.jpg",
+      "prompt": "Create an ultra-realistic cinematic house exterior with stunning architectural design and premium visual aesthetics. The house can be {argument name=\"architectural style\" default=\"modern, luxury, rustic, cottage, gothic, fantasy, royal, or minimalist\"} in style. Include highly detailed architecture, large windows, elegant textures, beautiful landscaping, realistic pathways, glowing interior lighting, and immersive outdoor surroundings.\n\nThe environment should feel like a high-budget movie scene mixed with professional architectural photography and luxury real-estate advertising. Add dramatic cinematic lighting, volumetric sunlight, atmospheric fog, realistic reflections, shadows, {argument name=\"weather or time\" default=\"rain or sunset mood\"}, garden lights, trees, flowers, water elements, and detailed environmental effects for a visually powerful composition.\n\nUse wide-angle cinematic camera perspective, depth of field, HDR lighting, ray tracing, photorealistic rendering, Unreal Engine quality, cinematic color grading, hyper-detailed textures, luxury aesthetic, masterpiece composition, ultra-realistic environment design, highly immersive atmosphere, 8K ultra detail.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-strawberry-repair-cream-commercial",
+      "assetId": "goku-gpt-image-2-strawberry-repair-cream-commercial",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Strawberry Repair Cream Commercial"
+      },
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-strawberry-repair-cream-commercial.jpg",
+      "prompt": "A sleek jade-pink tube labeled \"{argument name=\"product name\" default=\"Strawberry Repair Cream\"}\" upright on glossy marble, surrounded by creamy {argument name=\"fruit\" default=\"Strawberry\"} splashes and flying {argument name=\"fruit\" default=\"Strawberry\"} slices mid-air. Warm natural lighting, minimal light-beige background, ultra-realistic textures.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-chocolate-history-book",
+      "assetId": "goku-gpt-image-2-chocolate-history-book",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Edible Chocolate History Book"
+      },
+      "industry": "food-beverage",
+      "category": "commercial",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chocolate-history-book.jpg",
+      "prompt": "Create a square 1:1 macro photography image of an open antique history book on a clean white background, styled like an edible history pop-up book. The book is thick, vintage, leather-bound, and lying open flat at 180 degrees. Its pages are aged parchment with yellowed paper, worn edges, and visible paper texture. On the left page, show an abundant, slightly messy cocoa harvest spread partially covering the printed text: exactly 5 whole or split cacao pods in deep red-orange and brown tones, 1 wooden bowl filled with cacao nibs, a large scatter of loose cacao beans, broken cacao shells, small piles of nibs, and several glossy green leaves tucked among the ingredients. Everything should feel organic, overflowing, and tactile. On the right page, create a large 3D pop-up sculpture of assorted Swiss chocolate built entirely from chocolate and confectionery materials: exactly 8 visible chocolate bars or bar segments in mixed dark, milk, and white chocolate, arranged in a bouquet-like upright structure with 5 large leaf-shaped cacao or chocolate leaves behind them, curled pale chocolate shavings at the base, scattered cacao crumbs, and a wrapped paper base with a vintage label reading “CHOCOLAT SUISSE” and smaller text “Maison de Qualité”. Beside it, place a tiny 1:35 scale Victorian-era chocolatier gentleman in an apron, actively presenting and adjusting the chocolate display with both hands. Print on the right page in bold black serif text: “Vevey, 1875”. Below that, include a short faded cursive lore paragraph about cacao and Swiss chocolate culture. The paragraph should read: “From the cacao pod’s humble shell emerges a confection of elegance. In Swiss chocolate houses, cacao is refined into a treasured delicacy, shared in salons and homes alike, prized for comfort, celebration, and the craft of sweet invention.” Lighting is soft, warm museum lighting focused at the center of the open book. Mood is educational, whimsical, and richly textural. Emphasize photorealism, shallow depth of field, miniature world aesthetic, premium editorial styling, and extremely high material texture fidelity.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-kawaii-shaved-ice-cafe-doodles",
+      "assetId": "goku-gpt-image-2-kawaii-shaved-ice-cafe-doodles",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Kawaii Shaved Ice Café Doodles"
+      },
+      "industry": "food-beverage",
+      "category": "commercial",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kawaii-shaved-ice-cafe-doodles.jpg",
+      "prompt": "Create a warm photorealistic lifestyle food photograph of a cozy Japanese café table in golden afternoon light, with cute hand-drawn doodles overlaid in white, yellow, and pink marker. The scene shows exactly 5 edible/drink items on a wooden tray: 1 large strawberry shaved ice dessert in a clear glass bowl as the centerpiece, topped with whipped cream and a fresh strawberry, with red syrup crystals cascading down one side; 1 striped ceramic cup of tea on the left; 1 small bowl holding a pink peach-shaped sweet in front-left; 1 tall iced lemon drink with straw and mint on the right; and 1 caramel custard pudding on a patterned saucer in front-right, topped with whipped cream and a strawberry. Add exactly 4 kawaii smiling faces with blush: on the shaved ice, tea cup, lemon slice in the drink, and pudding. In the softly blurred background, include a vertical café banner reading {argument name=\"banner text\" default=\"かき氷\"}. Overlay exactly 7 handwritten Japanese text annotations: large white headline {argument name=\"headline text\" default=\"夏のかき氷\"} near the shaved ice, small round tag {argument name=\"ice tag text\" default=\"氷\"} above the dessert, yellow cloud text {argument name=\"summer note\" default=\"清涼一夏\"} near the left, white cloud text {argument name=\"mood note\" default=\"美食で良い気分\"} upper right, yellow starburst text {argument name=\"check in note\" default=\"週末チェックイン\"} mid-right, pink cloud text \"一口の価値があります\" lower right, plus small decorative handwritten accents. Surround the food with cute doodled hearts, sparkles, arrows, stars, and playful motion marks, as if sketched on top of the photo. Use shallow depth of field, natural window light, amber tones, realistic textures, glossy ice, condensation on the drink glass, wooden tabletop, casual café interior bokeh, cheerful summer mood, high-resolution editorial food photography mixed with adorable doodle illustration.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-chair-design-eras",
+      "assetId": "goku-gpt-image-2-chair-design-eras",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Chair Design Across Ten Historical Eras"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chair-design-eras.jpg",
+      "prompt": "Show the {argument name=\"subject\" default=\"same chair\"} redesigned across {argument name=\"number of eras\" default=\"10\"} historical eras, from {argument name=\"start era\" default=\"Ancient Rome\"} to cyberpunk future, in one clean comparison grid with readable era labels",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-penrose-triangle-real",
+      "assetId": "goku-gpt-image-2-penrose-triangle-real",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Impossible Triangle Made Real"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-penrose-triangle-real.jpg",
+      "prompt": "The Penrose impossible triangle built as a real concrete structure, aerial view, an architect standing on it casting a real shadow, extreme photorealism, no trace of digital manipulation.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-kaiseki-wagyu-sashimi-art",
+      "assetId": "goku-gpt-image-2-kaiseki-wagyu-sashimi-art",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Kaiseki Wagyu Sashimi Art"
+      },
+      "industry": "food-beverage",
+      "category": "commercial",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kaiseki-wagyu-sashimi-art.jpg",
+      "prompt": "Create a high-end Japanese kaiseki food photograph on a glossy black lacquer plate against a dark black background, dramatic low-key studio lighting, shallow depth of field, macro lens realism. The composition is diagonal and elegant: on the right foreground place exactly 3 thick slices of medium-rare wagyu beef steak, seared brown edges, pink marbled centers, glossy sauce pooling beneath, topped with tiny flecks of gold leaf. On the left midground place exactly 4 translucent white sashimi slices of {argument name=\"fish type\" default=\"white fish\"}, folded and overlapping, with wet reflective highlights, tiny purple edible flowers, and scattered gold leaf. Add exactly 1 large red-orange maple leaf in the front left foreground, exactly 1 curved dry-brushed gold powder arc sweeping around the left and bottom of the plate, exactly 1 upright purple herb flower sprig between the fish and beef, exactly 2 small green wasabi mounds near the back right and back center, exactly 2 pale green rolled garnish rings behind the beef, and exactly 1 small autumn branch in the back with red maple leaves and a green bud. Use {argument name=\"plate style\" default=\"glossy black lacquer plate\"}, {argument name=\"lighting mood\" default=\"dramatic low-key luxury restaurant lighting\"}, and {argument name=\"background color\" default=\"deep black\"}. Make it photorealistic, luxurious, refined, with crisp textures on the food, soft bokeh in the rear decorations, no text, no hands, no utensils, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ancient-bodhisattva-mural",
+      "assetId": "goku-gpt-image-2-ancient-bodhisattva-mural",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ancient Bodhisattva Mural Art"
+      },
+      "industry": "creator-social",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ancient-bodhisattva-mural.jpg",
+      "prompt": "A richly detailed vertical mural in the style of an aged East Asian religious wall painting on weathered silk or plaster, with visible cracks, abrasions, faded pigment, and distressed gold leaf. At the center, a celestial bodhisattva-like goddess floats gracefully above a large pink lotus pedestal, framed by a huge circular golden halo filling the upper middle of the composition. She wears an elaborate jeweled headdress, layered necklaces, armlets, and flowing robes in muted cinnabar red, cream, teal, and soft green, with long ribbon-like scarves swirling around her body in elegant arcs. Her right arm is raised, delicately holding a pink lotus flower, while her left hand extends outward in a gentle offering gesture. Surrounding her are exactly 3 smaller attendant maidens: one at lower left standing on clouds and playing a pipa, one at lower center kneeling or floating while presenting a tray of lotus blossoms, and one at lower right standing lightly on clouds with both hands raised in reverence. The background is a deep lapis-blue celestial sky filled with stylized cream and jade clouds, faint flying birds, lotus blooms, and 2 ornate temple pavilions in the upper left and upper right corners. Add hanging ornamental motifs near the mid-left and mid-right edges, and enclose the whole image in a decorative floral border. The overall mood is sacred, elegant, and antique, with intricate linework, delicate textile patterns, muted earthy tones, and a dominant blue-and-gold palette, resembling a treasured museum fresco or devotional hanging scroll.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-skincare-editorial",
+      "assetId": "goku-gpt-image-2-luxury-skincare-editorial",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Luxury Skincare Editorial Photography"
+      },
+      "industry": "marketing-advertising",
+      "category": "product-advertising",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-skincare-editorial.jpg",
+      "prompt": "Studio editorial photograph of a {argument name=\"vessel type\" default=\"premium skincare vessel (bottle, jar, or tube)\"} in {argument name=\"material\" default=\"glass or ceramic\"}, with a colored accent detail. Set on a {argument name=\"surface\" default=\"natural stone or marble slab\"} resting on a round mirror, all on a soft neutral surface. Scattered droplets of serum or oil catch the light around the mirror and slab. Sprigs of lavender, eucalyptus, or rose petals drape naturally across both surfaces. Warm sunlight from the upper left casts gentle leaf shadows evoking filtered daylight. Aesthetic is minimalist and luxurious, with golden hour tones highlighting natural textures. Style: 3D realism, luxury product photography, shallow depth of field. Format: 1:1, ultra-detailed.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ming-porcelain-guanyin-nezha",
+      "assetId": "goku-gpt-image-2-ming-porcelain-guanyin-nezha",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ming Porcelain Guanyin Nezha Art"
+      },
+      "industry": "creator-social",
+      "category": "illustration",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ming-porcelain-guanyin-nezha.jpg",
+      "prompt": "{argument name=\"Style\" default=\"Ming Dynasty Blue and White Porcelain Style\"}, {argument name=\"Theme\" default=\"Guanyin Bodhisattva, Nezha\"}",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-assassin-movie-ticket-stub",
+      "assetId": "goku-gpt-image-2-assassin-movie-ticket-stub",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Assassin Movie Ticket Stub"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-assassin-movie-ticket-stub.jpg",
+      "prompt": "{argument name=\"Movie Title\" default=\"Jing Ke Assassinates Qin\"} Movie ticket stub, {argument name=\"Pattern\" default=\"Dagger Map Unfolded Pattern\"}, Copywriting \"{argument name=\"Copyscript\" default=\"Map Exhausted Dagger Revealed\"}\"",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-design-elegance",
+      "assetId": "goku-gpt-image-2-minimalist-design-elegance",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Elegance of Minimalist Design"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-design-elegance.jpg",
+      "prompt": "Embrace the elegance of simplicity with this prompt, ideal for projects that celebrate {argument name=\"style\" default=\"minimalistic design\"}. These images highlight clean lines, uncluttered spaces, and subtle beauty, perfect for {argument name=\"theme\" default=\"modern, minimalist themes\"}. Each scene focuses on the essential elements, creating a serene and sophisticated visual experience.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-spaceship-female-android",
+      "assetId": "goku-gpt-image-2-spaceship-female-android",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Spaceship with Female Android"
+      },
+      "industry": "media-entertainment",
+      "category": "sci-fi-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-spaceship-female-android.jpg",
+      "prompt": "{argument name=\"location\" default=\"spaceship\"} with {argument name=\"subject\" default=\"female android\"}",
+      "source": "model-detail"
     }
   ]
 }

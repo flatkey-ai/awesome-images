@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **541**
-Demo assets: **549**
+Published templates: **591**
+Demo assets: **599**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -1323,6 +1323,152 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Beer Ukiyo-e Landscape](../catalog/model-detail-assets.json) — illustration · gpt-image-2
 - [Japanese Futuristic Product Ad](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
 
+## 食品与饮料
+
+- [Cookie Milk Splash Art](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 旅游与酒店
+
+- [Twilight Cappadocia Fantasy Vista](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 食品与饮料
+
+- [Coffee Mug Shattering in Slow Motion](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 旅游与酒店
+
+- [Cinematic Rainy Suburban Street](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Ink Moon Goddess Flight](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Trendy Cat Avatar for Social Media](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## architecture-real-estate
+
+- [Golden Hour Palace Fantasy Wallpaper](../catalog/model-detail-assets.json) — environment-art · gpt-image-2
+
+## 媒体与娱乐
+
+- [Grand Space Station in Nebula](../catalog/model-detail-assets.json) — sci-fi-art · gpt-image-2
+
+## 创作者与社交
+
+- [Zen Tea Steam Bamboo Ink](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Kyoto Kiyomizu Summer Vista](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+- [Historic Galleon And Junk Anchored Together](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 营销与广告
+
+- [Minimalist Doodle Product Photo](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 创作者与社交
+
+- [Rainy Canyon Campfire Rest](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cozy Alpaca Music Session](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Motion To Form Design Process](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 旅游与酒店
+
+- [Miniature City Snow Scene](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 教育与培训
+
+- [Dramatic 3D Macro Virus Visualization](../catalog/model-detail-assets.json) — sci-fi-infographic · gpt-image-2
+
+## 旅游与酒店
+
+- [Surreal Whales in Rainy City Night](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Layered Papercut Wat Arun Dusk](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Material Translation Grid](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Chaotic Circles Abstract Rhapsody](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 营销与广告
+
+- [Luxury Sunscreen by the Sea](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## architecture-real-estate
+
+- [Dusk Executive Office Luxury](../catalog/model-detail-assets.json) — environment-art · gpt-image-2
+
+## 教育与培训
+
+- [Electric Blue Lightning VFX Asset Sheet](../catalog/model-detail-assets.json) — sci-fi-infographic · gpt-image-2
+
+## 媒体与娱乐
+
+- [Starstreak Blazing Reentry](../catalog/model-detail-assets.json) — sci-fi-art · gpt-image-2
+
+## 创作者与社交
+
+- [Geese Flying Over Italian Valley](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Vintage Stone Garden Path Pattern](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Ballerina Abstract Evolution Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Cosmic Bonsai Dream Garden](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Kuafu Chasing Sun Ink Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Warm Glow After Rain](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 营销与广告
+
+- [Gothic Gauntlet Fries Feast](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Luxury Candle Ambient Product Imagery](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+- [Luxury Perfume Editorial Still Life](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 旅游与酒店
+
+- [Miniature City Inside Resin Orb](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Programmer's Commute Scroll](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Amber Orange Luxury Still Life](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## architecture-real-estate
+
+- [Cinematic Dream House Exterior](../catalog/model-detail-assets.json) — environment-art · gpt-image-2
+
+## 营销与广告
+
+- [Strawberry Repair Cream Commercial](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 食品与饮料
+
+- [Edible Chocolate History Book](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+- [Kawaii Shaved Ice Café Doodles](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 创作者与社交
+
+- [Chair Design Across Ten Historical Eras](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Impossible Triangle Made Real](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 食品与饮料
+
+- [Kaiseki Wagyu Sashimi Art](../catalog/model-detail-assets.json) — commercial · gpt-image-2
+
+## 创作者与社交
+
+- [Ancient Bodhisattva Mural Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 营销与广告
+
+- [Luxury Skincare Editorial Photography](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 创作者与社交
+
+- [Ming Porcelain Guanyin Nezha Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Assassin Movie Ticket Stub](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Elegance of Minimalist Design](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 媒体与娱乐
+
+- [Spaceship with Female Android](../catalog/model-detail-assets.json) — sci-fi-art · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -1876,3 +2022,53 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Monkey King Smashes Heavenly Army](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-monkey-king-smashes-heavenly-army.jpg) — 营销与广告
 - [Beer Ukiyo-e Landscape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-beer-ukiyo-e-landscape.jpg) — 营销与广告
 - [Japanese Futuristic Product Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-japanese-futuristic-product-ad.jpg) — 营销与广告
+- [Cookie Milk Splash Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cookie-milk-splash-art.jpg) — 食品与饮料
+- [Twilight Cappadocia Fantasy Vista](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-twilight-cappadocia-fantasy-vista.jpg) — 旅游与酒店
+- [Coffee Mug Shattering in Slow Motion](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-coffee-mug-shattering-macro.jpg) — 食品与饮料
+- [Cinematic Rainy Suburban Street](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rainy-suburban-street.jpg) — 旅游与酒店
+- [Ink Moon Goddess Flight](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ink-moon-goddess-flight.jpg) — 创作者与社交
+- [Trendy Cat Avatar for Social Media](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-trendy-cat-avatar.jpg) — 创作者与社交
+- [Golden Hour Palace Fantasy Wallpaper](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-hour-palace-fantasy.jpg) — architecture-real-estate
+- [Grand Space Station in Nebula](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-grand-space-station-nebula.jpg) — 媒体与娱乐
+- [Zen Tea Steam Bamboo Ink](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-zen-tea-steam-bamboo-ink.jpg) — 创作者与社交
+- [Kyoto Kiyomizu Summer Vista](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kyoto-kiyomizu-summer-vista.jpg) — 旅游与酒店
+- [Historic Galleon And Junk Anchored Together](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-historic-galleon-junk.jpg) — 旅游与酒店
+- [Minimalist Doodle Product Photo](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-doodle-product-photo.jpg) — 营销与广告
+- [Rainy Canyon Campfire Rest](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rainy-canyon-campfire.jpg) — 创作者与社交
+- [Cozy Alpaca Music Session](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-alpaca-music-coloring.jpg) — 创作者与社交
+- [Motion To Form Design Process](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-motion-to-form-design.jpg) — 创作者与社交
+- [Miniature City Snow Scene](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-miniature-city-snow.jpg) — 旅游与酒店
+- [Dramatic 3D Macro Virus Visualization](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-macro-3d-virus-visualization.jpg) — 教育与培训
+- [Surreal Whales in Rainy City Night](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-whales-rainy-city.jpg) — 旅游与酒店
+- [Layered Papercut Wat Arun Dusk](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-wat-arun-papercut-dusk.jpg) — 创作者与社交
+- [Material Translation Grid](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-material-translation-grid.jpg) — 创作者与社交
+- [Chaotic Circles Abstract Rhapsody](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chaotic-circles-abstract-rhapsody.jpg) — 创作者与社交
+- [Luxury Sunscreen by the Sea](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-sunscreen-seaside.jpg) — 营销与广告
+- [Dusk Executive Office Luxury](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dusk-executive-office-luxury.jpg) — architecture-real-estate
+- [Electric Blue Lightning VFX Asset Sheet](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-electric-blue-lightning-vfx.jpg) — 教育与培训
+- [Starstreak Blazing Reentry](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-starstreak-blazing-reentry.jpg) — 媒体与娱乐
+- [Geese Flying Over Italian Valley](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-geese-flying-italian-valley.jpg) — 创作者与社交
+- [Vintage Stone Garden Path Pattern](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-stone-garden-path.jpg) — 创作者与社交
+- [Ballerina Abstract Evolution Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ballerina-abstract-evolution.jpg) — 创作者与社交
+- [Cosmic Bonsai Dream Garden](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cosmic-bonsai-dream-garden.jpg) — 创作者与社交
+- [Kuafu Chasing Sun Ink Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kuafu-chasing-sun-ink-art.jpg) — 创作者与社交
+- [Warm Glow After Rain](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-warm-glow-after-rain.jpg) — 创作者与社交
+- [Gothic Gauntlet Fries Feast](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-gothic-gauntlet-fries.jpg) — 营销与广告
+- [Luxury Candle Ambient Product Imagery](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-candle-ambient-imagery.jpg) — 营销与广告
+- [Luxury Perfume Editorial Still Life](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-perfume-still-life.jpg) — 营销与广告
+- [Miniature City Inside Resin Orb](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-resin-orb-miniature-city.jpg) — 旅游与酒店
+- [Programmer's Commute Scroll](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-programmer-metro-commute.jpg) — 创作者与社交
+- [Amber Orange Luxury Still Life](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-amber-orange-luxury-still-life.jpg) — 创作者与社交
+- [Cinematic Dream House Exterior](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-dream-house-exterior.jpg) — architecture-real-estate
+- [Strawberry Repair Cream Commercial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-strawberry-repair-cream-commercial.jpg) — 营销与广告
+- [Edible Chocolate History Book](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chocolate-history-book.jpg) — 食品与饮料
+- [Kawaii Shaved Ice Café Doodles](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kawaii-shaved-ice-cafe-doodles.jpg) — 食品与饮料
+- [Chair Design Across Ten Historical Eras](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chair-design-eras.jpg) — 创作者与社交
+- [Impossible Triangle Made Real](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-penrose-triangle-real.jpg) — 创作者与社交
+- [Kaiseki Wagyu Sashimi Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kaiseki-wagyu-sashimi-art.jpg) — 食品与饮料
+- [Ancient Bodhisattva Mural Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ancient-bodhisattva-mural.jpg) — 创作者与社交
+- [Luxury Skincare Editorial Photography](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-skincare-editorial.jpg) — 营销与广告
+- [Ming Porcelain Guanyin Nezha Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ming-porcelain-guanyin-nezha.jpg) — 创作者与社交
+- [Assassin Movie Ticket Stub](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-assassin-movie-ticket-stub.jpg) — 创作者与社交
+- [Elegance of Minimalist Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-design-elegance.jpg) — 创作者与社交
+- [Spaceship with Female Android](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-spaceship-female-android.jpg) — 媒体与娱乐
