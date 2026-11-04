@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **591**
-Demo assets: **599**
+Published templates: **641**
+Demo assets: **649**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -1469,6 +1469,107 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 
 - [Spaceship with Female Android](../catalog/model-detail-assets.json) — sci-fi-art · gpt-image-2
 
+## 创作者与社交
+
+- [Cinematic Volumetric Light In Fog](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Surreal Deep Red Minimalist Concept Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## 旅游与酒店
+
+- [Snowy Floating City Isometric](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Dragon Queen Cliff Sovereign](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Detailed Cross-Section 3D Illustration](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Teddy Bears Last Supper](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 营销与广告
+
+- [Otherworldly Panther Perfumer](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 创作者与社交
+
+- [Epic Silhouette Poster Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Dark Knight Raises Weapon](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Sleeping Calico Cat On Appliance](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Four Mythical Beasts Expressions](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Macro Embroidery Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Geese Crossing the Starry Sky](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Luxury Blueprint And Render Split View](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Serene Lakeside Anime Illustration](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 营销与广告
+
+- [Lavender Balm Dreamy Product Showcase](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 创作者与社交
+
+- [Invisible Wings Minimalist Ink](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Passport Worlds Unfold](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Vintage 1870s Photo Restoration Style](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Ancient Portolan Sea Chart](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Minimalist Magazine Style Illustration](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Dusk Convenience Store Nostalgia](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Radiant Gem Luxury](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Crimson Moon Demon Samurai](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Newlyweds' Bedroom Scene](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Splendid Rinpa Decorative Style Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Infinite Cinematic Photograph](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Hyperrealistic 3D Blueprint Diorama](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Dark Romantic Anime Fantasy Men](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Baku Flame Tower Journey](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Frozen Motion in Light Trails](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 营销与广告
+
+- [Luxury 3D Product Museum Display](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 创作者与社交
+
+- [Solitary Ronin in the Rain](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Ishihara Color Blindness Test Revealed](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Futuristic Virtual Idol Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Black Three Kingdoms: Guan Gong](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Minimalist Poetic Risograph Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Cute Mini Robot Mascot](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Futuristic Gaming Headset Neon Arena](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Organic Chamomile Calming Care](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 教育与培训
+
+- [Lightning Supercar Storm Breakthrough](../catalog/model-detail-assets.json) — sci-fi-infographic · gpt-image-2
+
+## 创作者与社交
+
+- [Luxury Jewel Vault Display](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 旅游与酒店
+
+- [Golden River and Ancient City Sky](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Cyberpunk Girl Neon Bath](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Giant Mecha Maintenance Bay](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 营销与广告
+
+- [Aloe Gel Skincare Commercial](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 创作者与社交
+
+- [Zen River Stone Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+
+## architecture-real-estate
+
+- [Chubby Hamster Snoozing in Tiny House](../catalog/model-detail-assets.json) — environment-art · gpt-image-2
+
+## 创作者与社交
+
+- [Recycled Plastic Bag Marine Animal Sculpture](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Enchanted Forest Illustration](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
 ## Demo assets
 
 The gallery assets are kept separately from reusable templates so a preview image is never mistaken for its source prompt.
@@ -2072,3 +2173,53 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Assassin Movie Ticket Stub](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-assassin-movie-ticket-stub.jpg) — 创作者与社交
 - [Elegance of Minimalist Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-design-elegance.jpg) — 创作者与社交
 - [Spaceship with Female Android](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-spaceship-female-android.jpg) — 媒体与娱乐
+- [Cinematic Volumetric Light In Fog](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-volumetric-fog.jpg) — 创作者与社交
+- [Surreal Deep Red Minimalist Concept Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-deep-red-minimalist.jpg) — 创作者与社交
+- [Snowy Floating City Isometric](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-snowy-floating-city-isometric.jpg) — 旅游与酒店
+- [Dragon Queen Cliff Sovereign](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dragon-queen-cliff.jpg) — 创作者与社交
+- [Detailed Cross-Section 3D Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-detailed-cross-section-3d-illustration.jpg) — 创作者与社交
+- [Teddy Bears Last Supper](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-teddy-bears-last-supper.jpg) — 创作者与社交
+- [Otherworldly Panther Perfumer](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-otherworldly-panther-perfumer.jpg) — 营销与广告
+- [Epic Silhouette Poster Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-epic-silhouette-poster.jpg) — 创作者与社交
+- [Dark Knight Raises Weapon](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dark-knight-raises-weapon.jpg) — 创作者与社交
+- [Sleeping Calico Cat On Appliance](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-calico-cat-sleeping-appliance.jpg) — 创作者与社交
+- [Four Mythical Beasts Expressions](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-four-mythical-beasts-expressions.jpg) — 创作者与社交
+- [Macro Embroidery Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-macro-embroidery-art.jpg) — 创作者与社交
+- [Geese Crossing the Starry Sky](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-geese-starry-lakeside-dawn.jpg) — 创作者与社交
+- [Luxury Blueprint And Render Split View](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-blueprint-render-split.jpg) — 创作者与社交
+- [Serene Lakeside Anime Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lakeside-anime-illustration.jpg) — 创作者与社交
+- [Lavender Balm Dreamy Product Showcase](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lavender-balm-dreamy-product.jpg) — 营销与广告
+- [Invisible Wings Minimalist Ink](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-invisible-wings-minimalist-ink.jpg) — 创作者与社交
+- [Passport Worlds Unfold](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-passport-worlds-unfold.jpg) — 创作者与社交
+- [Vintage 1870s Photo Restoration Style](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-1870s-photo-style.jpg) — 创作者与社交
+- [Ancient Portolan Sea Chart](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ancient-portolan-chart.jpg) — 创作者与社交
+- [Minimalist Magazine Style Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-magazine-illustration.jpg) — 创作者与社交
+- [Dusk Convenience Store Nostalgia](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dusk-convenience-store-nostalgia.jpg) — 创作者与社交
+- [Radiant Gem Luxury](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-radiant-gem-luxury.jpg) — 创作者与社交
+- [Crimson Moon Demon Samurai](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-crimson-moon-demon-samurai.jpg) — 创作者与社交
+- [Newlyweds' Bedroom Scene](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-newlyweds-bedroom-scene.jpg) — 创作者与社交
+- [Splendid Rinpa Decorative Style Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rinpa-decorative-style.jpg) — 创作者与社交
+- [Infinite Cinematic Photograph](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-infinite-cinematic-photograph.jpg) — 创作者与社交
+- [Hyperrealistic 3D Blueprint Diorama](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-blueprint-3d-diorama.jpg) — 创作者与社交
+- [Dark Romantic Anime Fantasy Men](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dark-romantic-anime-fantasy-men.jpg) — 创作者与社交
+- [Baku Flame Tower Journey](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-baku-flame-tower-journey.jpg) — 创作者与社交
+- [Frozen Motion in Light Trails](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-frozen-motion-light-trails.jpg) — 创作者与社交
+- [Luxury 3D Product Museum Display](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-3d-museum-display.jpg) — 营销与广告
+- [Solitary Ronin in the Rain](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ronin-rain-ink-illustration.jpg) — 创作者与社交
+- [Ishihara Color Blindness Test Revealed](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ishihara-color-blindness-test.jpg) — 创作者与社交
+- [Futuristic Virtual Idol Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-futuristic-virtual-idol-art.jpg) — 创作者与社交
+- [Black Three Kingdoms: Guan Gong](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-black-three-kingdoms-guan-pgong.jpg) — 创作者与社交
+- [Minimalist Poetic Risograph Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-risograph-art.jpg) — 创作者与社交
+- [Cute Mini Robot Mascot](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cute-mini-robot-mascot.jpg) — 创作者与社交
+- [Futuristic Gaming Headset Neon Arena](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-futuristic-gaming-headset-neon-arena.jpg) — 创作者与社交
+- [Organic Chamomile Calming Care](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-organic-chamomile-calming-care.jpg) — 创作者与社交
+- [Lightning Supercar Storm Breakthrough](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lightning-supercar-storm-emergence.jpg) — 教育与培训
+- [Luxury Jewel Vault Display](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-jewel-vault-display.jpg) — 创作者与社交
+- [Golden River and Ancient City Sky](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-river-ancient-city-sky.jpg) — 旅游与酒店
+- [Cyberpunk Girl Neon Bath](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cyberpunk-girl-neon-bath.jpg) — 创作者与社交
+- [Giant Mecha Maintenance Bay](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-giant-mecha-maintenance-bay.jpg) — 创作者与社交
+- [Aloe Gel Skincare Commercial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-aloe-gel-skincare-commercial.jpg) — 营销与广告
+- [Zen River Stone Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-zen-river-stone-art.jpg) — 创作者与社交
+- [Chubby Hamster Snoozing in Tiny House](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chubby-hamster-manga-house.jpg) — architecture-real-estate
+- [Recycled Plastic Bag Marine Animal Sculpture](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-plastic-bag-marine-sculpture.jpg) — 创作者与社交
+- [Enchanted Forest Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-enchanted-forest-illustration.jpg) — 创作者与社交
