@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **641**
-Demo assets: **649**
+Published templates: **691**
+Demo assets: **699**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -1569,6 +1569,86 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 
 - [Recycled Plastic Bag Marine Animal Sculpture](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
 - [Enchanted Forest Illustration](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Mystery Creature Anatomy Revealed](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Blazing Fire Angel Descending](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 媒体与娱乐
+
+- [Retro Pixel Space Shooter Sprites](../catalog/model-detail-assets.json) — sci-fi-art · gpt-image-2
+
+## 创作者与社交
+
+- [Rabbit Swordswoman Cyan Strike](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Toy Sweets Party Spot Difference](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Historical Scrapbook Art Collage](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Desert Starry Airplane Café](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Strawberry Mochi Impact Explosion](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Kirie Washi Paper Fashion Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Night Market Feast](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Perplexed Anime Girl Pastel Doodle](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Viral Hand-Drawn Animal Stickers](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Anime Dojo Bubble Sparring](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Phantom Elf Mysterious Light](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Moody Doodle-Edited Restaurant Table Scene](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Giant Fluffy Chick on Commuter Train](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Stylized Eyes Design Showcase](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Dreamy Spring Husky Watercolor Puppies](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 营销与广告
+
+- [Luxury Sunscreen Invisible Shield Ad](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 创作者与社交
+
+- [Cat Girl Vending Machine Design](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Pixel Perler Bead Character Blueprint](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Vintage Hand Lettered Sketch](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Rabbit Hiragana Optical Learning Sheet](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cute Dessert Brand Visual Proposal](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 旅游与酒店
+
+- [High Contrast Street Silhouette Photography](../catalog/model-detail-assets.json) — travel-illustration · gpt-image-2
+
+## 创作者与社交
+
+- [Yu Ji Sword Dance Whirlwind Effects](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cinematic Latte Splash Ad](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Hand-drawn Summer Oriental Courtyard Illustration](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Playful Catgirl Oil Pastel Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Juice Energy Blast](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## architecture-real-estate
+
+- [Tang Dynasty Palace Makeup Six Steps](../catalog/model-detail-assets.json) — environment-art · gpt-image-2
+
+## 创作者与社交
+
+- [Cyan Blade Battle Maid](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Rainy Jungle Pudding Frog](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Minimalist Court Ladies Watercolor](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Steampunk Building Cross-Section Blueprint](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Sci-Fi Buddhist Cover Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Kraken Glass Statue Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Red Moon and Silver Wolf](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Minimalist Light Shadow Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Cute Puppy Sticker Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Kawaii Animal Sticker Collection](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cheshire Cat Plush Toy](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [High-End Minimal Advertising Illustration](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cat-Eared Gynoid Digital Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Audience With The King Scene](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Moe Creature Personification Art](../catalog/model-detail-assets.json) — illustration · gpt-image-2
+- [Minimal Cordless Vacuum Concept Sketch](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Hedgehog Bionic Combat Boot](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+
+## 营销与广告
+
+- [Cat Food Product Kit Photography](../catalog/model-detail-assets.json) — product-advertising · gpt-image-2
+
+## 创作者与社交
+
+- [Gold Leaf Watercolor Illustration Technique](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
 
 ## Demo assets
 
@@ -2223,3 +2303,53 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Chubby Hamster Snoozing in Tiny House](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chubby-hamster-manga-house.jpg) — architecture-real-estate
 - [Recycled Plastic Bag Marine Animal Sculpture](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-plastic-bag-marine-sculpture.jpg) — 创作者与社交
 - [Enchanted Forest Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-enchanted-forest-illustration.jpg) — 创作者与社交
+- [Mystery Creature Anatomy Revealed](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-creature-anatomy-encyclopedia.jpg) — 创作者与社交
+- [Blazing Fire Angel Descending](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-blazing-fire-angel.jpg) — 创作者与社交
+- [Retro Pixel Space Shooter Sprites](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-retro-pixel-space-shooter-sprites.jpg) — 媒体与娱乐
+- [Rabbit Swordswoman Cyan Strike](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rabbit-swordswoman-cyan-strike.jpg) — 创作者与社交
+- [Toy Sweets Party Spot Difference](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-toy-sweets-party-spot-difference.jpg) — 创作者与社交
+- [Historical Scrapbook Art Collage](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-historical-scrapbook-art.jpg) — 创作者与社交
+- [Desert Starry Airplane Café](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-desert-starry-airplane-cafe.jpg) — 创作者与社交
+- [Strawberry Mochi Impact Explosion](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-strawberry-mochi-impact-explosion.jpg) — 创作者与社交
+- [Kirie Washi Paper Fashion Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kirie-washi-paper-fashion.jpg) — 创作者与社交
+- [Night Market Feast](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-night-market-feast.jpg) — 创作者与社交
+- [Perplexed Anime Girl Pastel Doodle](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-perplexed-anime-pastel-doodle.jpg) — 创作者与社交
+- [Viral Hand-Drawn Animal Stickers](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-viral-hand-drawn-animal-stickers.jpg) — 创作者与社交
+- [Anime Dojo Bubble Sparring](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-anime-dojo-bubble-sparring.jpg) — 创作者与社交
+- [Phantom Elf Mysterious Light](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-phantom-elf-mysterious-light.jpg) — 创作者与社交
+- [Moody Doodle-Edited Restaurant Table Scene](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-moody-doodle-restaurant-table.jpg) — 创作者与社交
+- [Giant Fluffy Chick on Commuter Train](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chick-on-commuter-train.jpg) — 创作者与社交
+- [Stylized Eyes Design Showcase](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-stylized-eyes-design-showcase.jpg) — 创作者与社交
+- [Dreamy Spring Husky Watercolor Puppies](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dreamy-spring-husky-watercolor.jpg) — 创作者与社交
+- [Luxury Sunscreen Invisible Shield Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-sunscreen-invisible-shield.jpg) — 营销与广告
+- [Cat Girl Vending Machine Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cat-girl-vending-machine.jpg) — 创作者与社交
+- [Pixel Perler Bead Character Blueprint](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-pixel-perler-bead-character-blueprint.jpg) — 创作者与社交
+- [Vintage Hand Lettered Sketch](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-hand-lettered-sketch.jpg) — 创作者与社交
+- [Rabbit Hiragana Optical Learning Sheet](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rabbit-hiragana-optical-sheet.jpg) — 创作者与社交
+- [Cute Dessert Brand Visual Proposal](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cute-dessert-brand-visual-proposal.jpg) — 创作者与社交
+- [High Contrast Street Silhouette Photography](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-street-silhouette-photography.jpg) — 旅游与酒店
+- [Yu Ji Sword Dance Whirlwind Effects](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-yu-ji-sword-dance-whirlwind.jpg) — 创作者与社交
+- [Cinematic Latte Splash Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-latte-splash-ad.jpg) — 创作者与社交
+- [Hand-drawn Summer Oriental Courtyard Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-summer-oriental-courtyard-illustration.jpg) — 创作者与社交
+- [Playful Catgirl Oil Pastel Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-playful-catgirl-oil-pastel.jpg) — 创作者与社交
+- [Juice Energy Blast](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-juice-energy-blast.jpg) — 创作者与社交
+- [Tang Dynasty Palace Makeup Six Steps](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-tang-dynasty-palace-makeup.jpg) — architecture-real-estate
+- [Cyan Blade Battle Maid](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cyan-blade-battle-maid.jpg) — 创作者与社交
+- [Rainy Jungle Pudding Frog](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rainy-jungle-pudding-frog.jpg) — 创作者与社交
+- [Minimalist Court Ladies Watercolor](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-court-ladies-watercolor.jpg) — 创作者与社交
+- [Steampunk Building Cross-Section Blueprint](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-steampunk-building-cross-section.jpg) — 创作者与社交
+- [Sci-Fi Buddhist Cover Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-sci-fi-buddhist-cover.jpg) — 创作者与社交
+- [Kraken Glass Statue Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kraken-glass-statue.jpg) — 创作者与社交
+- [Red Moon and Silver Wolf](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-red-moon-silver-wolf.jpg) — 创作者与社交
+- [Minimalist Light Shadow Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-light-shadow-art.jpg) — 创作者与社交
+- [Cute Puppy Sticker Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cute-puppy-sticker-art.jpg) — 创作者与社交
+- [Kawaii Animal Sticker Collection](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-kawaii-animal-sticker-collection.jpg) — 创作者与社交
+- [Cheshire Cat Plush Toy](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cheshire-cat-plush-toy.jpg) — 创作者与社交
+- [High-End Minimal Advertising Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-high-end-advertising-illustration.jpg) — 创作者与社交
+- [Cat-Eared Gynoid Digital Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cat-eared-gynoid-digital-art.jpg) — 创作者与社交
+- [Audience With The King Scene](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-audience-with-the-king.jpg) — 创作者与社交
+- [Moe Creature Personification Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-moe-creature-personification.jpg) — 创作者与社交
+- [Minimal Cordless Vacuum Concept Sketch](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimal-cordless-vacuum-concept.jpg) — 创作者与社交
+- [Hedgehog Bionic Combat Boot](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-hedgehog-bionic-hiking-boot.jpg) — 创作者与社交
+- [Cat Food Product Kit Photography](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cat-food-product-kit.jpg) — 营销与广告
+- [Gold Leaf Watercolor Illustration Technique](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-gold-leaf-watercolor-technique.jpg) — 创作者与社交
