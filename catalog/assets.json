@@ -9010,6 +9010,656 @@
       "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-gold-leaf-watercolor-technique.jpg",
       "prompt": "Ultra-fine and even line art, hair layered in fine bundles, watercolor glaze for sheerness, added glow for soft light, metal for {argument name=\"Metallic texture\" default=\"Gold leaf style\"} for highlights and reflections, {argument name=\"Color scheme\" default=\"Pastel × gold\"} for low contrast, decoration for {argument name=\"Decorative Density\" default=\" While arranging it in a high-density \"} area, maintaining rhythm, adding depth through air perspective and bokeh, and drawing backgrounds at the same density",
       "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-lone-wanderer-dystopia",
+      "assetId": "goku-gpt-image-2-lone-wanderer-dystopia",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Lone Wanderer Dystopia"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lone-wanderer-dystopia.jpg",
+      "prompt": "Create a cinematic widescreen sci-fi dystopian landscape in the style of a serious film still. A lone {argument name=\"female character\" default=\"short-haired woman in a dark teal long dress or tunic with trousers\"} walks across a vast muddy, barren plain, holding a small dark case or tool bag at her side. In the immediate foreground, place exactly 1 motionless human body lying horizontally on the wet ground, mostly in shadow. In the left midground, include exactly 1 pale vintage sedan parked or slowly driving across the flats, angled slightly away. The background should show a hazy futuristic industrial city with exactly 2 large elevated bridge or viaduct structures spanning from the left and right sides toward the skyline, plus bulky cylindrical and rectangular towers softened by smog. Use a muted teal-gray and dusty beige color palette, low contrast, atmospheric haze, wet reflective patches in the mud, and a bleak post-apocalyptic mood. Composition: 16:9 aspect ratio, wide establishing shot, horizon high in the frame, the woman positioned slightly left of center, the car farther left, the skyline distant and desaturated. Lighting should be overcast and backlit through polluted air, with realistic film grain, anamorphic cinematic framing, and no visible text, logos, or UI elements.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-mystic-forge-blacksmith",
+      "assetId": "goku-gpt-image-2-mystic-forge-blacksmith",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Mystic Forge Blacksmith"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mystic-forge-blacksmith.jpg",
+      "prompt": "Create a dark fantasy cinematic illustration of a massive muscular blacksmith in a medieval forge, shown from the waist up in a vertical composition. The blacksmith is a rugged bearded man with long messy {argument name=\"hair color\" default=\"dark brown\"} hair tied back, wearing heavy worn leather armor, thick gloves, straps, metal rivets, and a pendant, but place a large opaque dark brown square censor block directly over the center of his face. He grips a huge engraved hammer in his left hand and tongs in his right, striking a glowing red-orange molten metal blade or ingot on a heavy black anvil. At the impact point, create an explosive burst of orange sparks mixed with vivid blue-purple electric arcs crawling across the hot metal, giving the scene a rock-and-roll magical forge energy. The background is a cluttered stone-and-timber smithy with exactly 1 blazing furnace arch on the left, hanging chains above, tools and banners on the walls, and a crate of coal on the right. Use dramatic warm firelight, deep shadows, gritty textures, soot, embers floating through the air, high detail, painterly realism, epic fantasy concept art, strong contrast, volumetric glow, and a vertical 2:3 poster framing. Add a small elegant signature and date in the bottom-right corner reading {argument name=\"date text\" default=\"June 9, 2026\"} and {argument name=\"signature text\" default=\"Oyagi\"}. No other readable text.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-pearl-sunset-dreamscape",
+      "assetId": "goku-gpt-image-2-pearl-sunset-dreamscape",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Pearl Sunset Dreamscape"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-pearl-sunset-dreamscape.jpg",
+      "prompt": "Create a dreamy pearlescent bead sculpture of a sunset landscape, as if the entire scene is built from thousands of glossy translucent glass pearls, bubbles, and tiny crystal spheres suspended in space on a black rectangular display base. The artwork shows {argument name=\"scene theme\" default=\"a romantic riverside sunset landscape\"}: a huge glowing sun on the right made from concentric rings of yellow, gold, white, and amber beads, with radiant bead spray around it; a winding reflective river or path starts at the bottom center and curves toward the horizon; dark silhouetted reeds and marsh grasses fill the lower foreground; two tiny human silhouettes stand together near the right horizon; exactly 5 black bird silhouettes fly across the sunlit sky. The sky is a dramatic swirl of bead colors: deep navy and cobalt at upper left, violet and purple clouds, magenta and crimson bands, orange near the horizon, and pearly white cloud streaks around the sun. Use {argument name=\"dominant material\" default=\"iridescent glass pearls and crystal bubbles\"} with strong specular highlights, transparent refractions, and pearl-like luster. Background is pure black studio darkness, making the floating beads sparkle; the sculpture sits on a flat black plinth with subtle reflection and shadow. Style is ultra-detailed macro product photography of a handmade jewel-like installation, high contrast, cinematic lighting, crisp focus on the bead texture, magical and dreamlike, no text, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-observatory-solitude-impossible-horizon",
+      "assetId": "goku-gpt-image-2-observatory-solitude-impossible-horizon",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Observatory Solitude Impossible Horizon"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-observatory-solitude-impossible-horizon.jpg",
+      "prompt": "Create an original photorealistic surreal editorial image from inside a {argument name=\"room style\" default=\"vast, shadowed observatory room\"}, looking out through a {argument name=\"window style\" default=\"monumental arched window\"} toward an {argument name=\"horizon view\" default=\"impossible civilization\"} on the far horizon.\\n\\nScene: a lone woman",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-pelican-bicycle-vector",
+      "assetId": "goku-gpt-image-2-pelican-bicycle-vector",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Pelican Riding Bicycle Vector Art"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-pelican-bicycle-vector.jpg",
+      "prompt": "A minimalist vector-style illustration on a flat light gray background showing a pelican riding a bicycle, drawn from simple geometric shapes with thick dark charcoal outlines. The composition is wide and centered, with the bicycle occupying the lower two-thirds of the image and the bird’s head floating slightly above and forward of the handlebars in a deliberately abstract, diagram-like way. The bicycle is a simple black road-bike silhouette in side view with exactly 2 large wheels, each with a thick outer rim and exactly 4 visible spoke lines forming a cross, a straight horizontal ground line beneath both wheels, a triangular frame, a short black saddle, and simplified crank and pedal details near the rear of the frame. The pelican is constructed from clean abstract pieces: a white rounded head with a small black circular eye, a long open beak pointing left made of 2 parts with an upper orange triangular section and a lower pale pink pouch section, a short dark curve on top of the head, a small separate white oval neck/body connector, a larger white rounded body positioned over the bike, and a single white wing-like shape angled upward over the back. Add exactly 2 orange leg shapes, long narrow rectangles leaning downward from the body toward the bicycle frame, suggesting the bird is pedaling. Keep the forms intentionally sparse and slightly surreal, like a logo test or simple code-editor doodle, with no shading, no gradients, no textures, no text, and lots of negative space.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-silver-android-utopian-space-city",
+      "assetId": "goku-gpt-image-2-silver-android-utopian-space-city",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Silver Android in Utopian Metropolis"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-silver-android-utopian-space-city.jpg",
+      "prompt": "Create a cinematic ultra-detailed sci-fi scene titled conceptually “spaceship and female android”: a full-body {argument name=\"subject\" default=\"female android\"} walking confidently toward the viewer along a glossy reflective avenue in a utopian futuristic space city. She has a sleek white biomechanical humanoid body with intricate silver panels, visible joints, small black and red mechanical details, feminine armor-like contours, long flowing {argument name=\"hair color\" default=\"white-silver\"} hair blowing to the side, and an intentionally blank/softly blurred featureless face. The environment is a luminous white-and-glass orbital metropolis with tall needle-like towers on the left and right, elevated skybridges, rounded transparent domes, curved terraces, manicured green gardens, and polished wet-looking floors reflecting the sky and architecture. In the sky, show exactly 1 enormous turquoise-green planet dominating the background, exactly 1 small moon crossing in front of it, and exactly 5 small flying spacecraft/drones scattered at different depths. Use bright daylight, blue sky, scattered white clouds, warm highlights, volumetric atmosphere, subtle lens glow, realistic reflections, and epic scale. Composition: vertical 4:5 frame, central android in the foreground, low-to-mid camera angle, strong leading lines from the walkway, symmetrical futuristic architecture framing her, mountains faintly visible in the far distance. Style: high-end photorealistic science-fiction concept art, clean elegant white technology, serene utopian mood, sharp detail, 8k, cinematic lighting, no text, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-scandinavian-utopia-illustration",
+      "assetId": "goku-gpt-image-2-scandinavian-utopia-illustration",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Scandinavian Utopia Illustration Art"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-scandinavian-utopia-illustration.jpg",
+      "prompt": "“Scandinavian-style [世外桃源 / 许巍] illustration on pure white background, muted earthy colors, cozy Nordic simplicity, soft organic forms, handmade texture, minimal clean aesthetic, no text, no logos.”",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-surreal-origami-miniature-village",
+      "assetId": "goku-gpt-image-2-surreal-origami-miniature-village",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Surreal Origami Miniature Village World"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-origami-miniature-village.jpg",
+      "prompt": "Ultra-cinematic surreal photography of an {argument name=\"subject\" default=\"entire miniature village world\"} built ENTIRELY out of folded paper origami in the style of {argument name=\"origami style\" default=\"Akira Yoshizawa origami\"} — origami paper houses with sharp creased roofs, origami paper trees with folded leaves, miniature origami paper villagers walking around, origami paper cranes flying overhead, a large central {argument name=\"central figure\" default=\"origami paper dragon\"} coiled around a tiny origami pagoda, scattered origami paper lanterns glowing softly, every single element visible paper folds and creases, soft warm tungsten studio lighting catching the paper edges. Dark moody studio background. Three-quarter macro angle, the paper village dominating the frame. NO TEXT, NO OVERLAYS, NO LOGOS — pure origami paper photography only. 9:16 vertical, 8K masterpiece.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-frog-pilot-cockpit",
+      "assetId": "goku-gpt-image-2-frog-pilot-cockpit",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Frog Pilot Space Adventure"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-frog-pilot-cockpit.jpg",
+      "prompt": "Create a cinematic widescreen 16:9 still of a cute anthropomorphic {argument name=\"animal pilot\" default=\"green frog\"} sitting centered in the cockpit of a futuristic fighter jet, viewed from the front as if the camera is mounted just outside the canopy. The character has glossy green skin, huge expressive eyes, a wide gentle smile with a tiny tongue showing, and wears a {argument name=\"pilot hat color\" default=\"blue\"} baseball cap with a small patch, a matching blue neck scarf, a light gray flight suit, shoulder harness straps, and a small high-tech monocle or targeting device over one eye. The cockpit surrounds the character with angular dark metal panels, joysticks, instrument blocks, and glowing red, yellow, and green control lights, with triangular canopy struts framing the face symmetrically. Outside the canopy are blurred purple-blue aircraft wings and a bright blue sky with soft clouds, suggesting fast flight. Use a family-friendly 3D animated movie look, polished CGI, charming character design, realistic cockpit details, shallow depth of field, vibrant daylight, high contrast, glossy highlights, centered composition, black cinematic letterbox bars, and an adventurous sci-fi mood.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-xianxia-sunrise-fantasy",
+      "assetId": "goku-gpt-image-2-xianxia-sunrise-fantasy",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Epic Xianxia Sunrise Fantasy Landscape"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-xianxia-sunrise-fantasy.jpg",
+      "prompt": "Create an epic cinematic fantasy landscape in a highly detailed painterly-realistic Chinese xianxia style. A lone {argument name=\"character description\" default=\"elegant ancient Chinese woman viewed from behind\"} stands on a high stone terrace at the edge of a mountain cliff, gazing out over a vast mist-filled realm at sunrise. She wears layered flowing {argument name=\"robe color\" default=\"teal and pale white silk robes\"} with ornate gold floral embroidery, long translucent sleeves and scarves streaming dramatically in the wind; her very long black hair is half-up with delicate silver hair ornaments and loose strands blowing sideways. Around her and partly framing the foreground are two enormous unfurled painted scrolls or silk landscape paintings, one curling up on the left and one sweeping in from the lower right, their parchment surfaces decorated with faint ink-wash mountains and gold-trimmed edges, making the scene feel like a living painting. The view below shows a grand mythic valley with countless jagged karst peaks, floating layers of clouds and fog, winding rivers and lakes reflecting the sun, tiny villages or palace rooftops nestled among mountains, distant bridges of water and land, and blue-gray mountain ranges fading into atmospheric haze. The {argument name=\"time of day\" default=\"golden sunrise\"} breaks through dramatic clouds near the upper center, casting warm radiant light across the water while the foreground remains cool blue and shadowed. Use a wide-angle grand scale composition, the woman positioned in the lower left third facing away, strong depth, volumetric mist, soft god rays, intricate fabric detail, ancient Chinese fantasy mood, serene and awe-inspiring atmosphere, ultra-detailed environment, cinematic lighting, no modern objects, no text, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-bear-glowing-orb-night",
+      "assetId": "goku-gpt-image-2-bear-glowing-orb-night",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Bear and Glowing Orb at Night"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-bear-glowing-orb-night.jpg",
+      "prompt": "一张在深夜针叶林中拍摄的黑白红外相机照片。前景左侧，一只巨大的黑熊正走过，带有轻微的动态模糊。林间空地中央，地面上有一块完美的圆形、黑暗且贫瘠的泥土地。在那片黑暗圆圈的最边缘，离地悬浮着一个明亮、发光的球体。图像呈现出颗粒感的夜视美学，可以看到底部的灌木丛、松树树干以及右下角的树桩。底部边缘有一条黑色数据栏，上面印有白色文字：最左侧是一个椭圆形标志，写着“{argument name=\"camera brand\" default=\"RECONYX\"}”，接着是时间戳“{argument name=\"timestamp\" default=\"03:14:22 11-OCT-2023\"}”，然后是“{argument name=\"temperature\" default=\"TEMP: 4°C\"}”，最右侧是“{argument name=\"trigger info\" default=\"TRIGGER: MOTION DUAL TRIGGER\"}”。",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-ice-cream-shop-interior",
+      "assetId": "goku-gpt-image-2-minimalist-ice-cream-shop-interior",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Modern Minimalist Ice Cream Shop Rendering"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-ice-cream-shop-interior.jpg",
+      "prompt": "Create a photorealistic architectural interior rendering of a modern minimalist ice cream shop named {argument name=\"shop name\" default=\"Some ice\"}, viewed from the front seating area looking toward the service counter in warm late-afternoon sunlight. The space is tall and narrow with cream plaster walls, gray concrete flooring, a gray textured back wall, white square-tile counter, warm wood ceiling canopy, hidden cove lighting, and soft shadows from tree leaves cast across the left wall and floor. Place the large shop logo above the counter, dark gray letters with a small yellow accent. The service area contains exactly 1 white tiled front counter, 1 large silver desktop computer on the counter, 1 staff member behind the counter wearing a cream shirt and beige apron, and 4 illuminated menu boards on the back wall labeled Signature, Sweet, Yogurt, and Classic with dessert photos. On the right wall, include exactly 3 wooden retail shelves displaying small branded paper bags or boxes. On the left wall, include exactly 3 framed promotional posters under a slim brass wall light, one featuring a cute mascot and the text {argument name=\"poster headline\" default=\"Have Someice Day\"}. Furnish the customer area with exactly 6 round café tables total: 2 in the left foreground, 2 smaller tables along the left middle wall, and 2 on the right side; include exactly 10 visible chairs total, mostly warm bentwood chairs with chrome legs plus 1 pale yellow chair and 1 black chair on the right. Add a staircase and narrow passage receding into the back left, with wood stair treads, a black metal railing, and a glimpse of brick wall and glass door at the far rear. Use a calm Scandinavian-Japanese café aesthetic, natural materials, realistic global illumination, soft depth, clean composition, no people except the single staff member, no clutter, no watermark, 3:2 horizontal aspect ratio.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-cyberpunk-coding-station-night",
+      "assetId": "goku-gpt-image-2-cyberpunk-coding-station-night",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Cyberpunk Coding Station Night"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cyberpunk-coding-station-night.jpg",
+      "prompt": "Create a cinematic photorealistic vertical image of a cramped Japanese apartment room turned into an intense solo AI coding workstation at night. The room is narrow and messy, viewed from the doorway with a wide-angle lens, deep perspective, and moody teal-blue cyberpunk lighting. Place exactly 4 tall cyan fluorescent tube lights: one vertical tube near the left doorway, one vertical tube near the left side of the back window, one vertical tube near the right side of the back window, and one vertical tube near the right doorway. Show exactly 3 iMac-style desktop computers with glowing technical dashboards and code graphs: two on the left desk area and one centered on the back desk. Add a large window with horizontal blinds at the back, black night outside, visible humidity/steam or fog drifting near the window, a bare hanging ceiling bulb and exposed ceiling wires. The desks should be cluttered with keyboards, mice, small devices, cooling fans, stacked electronics, and cables. On the floor, create a chaotic nest of many long white and gray cables spreading from the desks toward the foreground. Include one exhausted programmer in a black hoodie crouching low near the floor on the right-center, head down, untangling or plugging cables, conveying burnout and late-night debugging. Add exactly 4 black drink cans on the floor, plus scattered papers, a notebook, a pen, and a small open equipment case on the right. Use glossy dark wooden flooring reflecting cyan light, concrete or gray walls, black curtains framing both sides, high contrast shadows, realistic lens distortion, gritty documentary detail, no readable text, no watermark. Atmosphere: overheated room, humid air, productivity chaos, one-person tech team energy. Style should be photorealistic, cinematic, ultra-detailed, teal and amber color contrast, 35mm wide-angle, vertical 2:3 composition. Optional customizations: make the workstation centered around {argument name=\"main task\" default=\"AI coding and 3D model generation\"}, set the dominant light color to {argument name=\"light color\" default=\"cyan blue\"}, set the room location to {argument name=\"room location\" default=\"small Japanese apartment\"}, set the person’s mood to {argument name=\"programmer mood\" default=\"exhausted and overwhelmed\"}, and set the time of day to {argument name=\"time of day\" default=\"late night\"}.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ink-echoes-hero-legacy",
+      "assetId": "goku-gpt-image-2-ink-echoes-hero-legacy",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ink Echoes: Hero's Legacy"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ink-echoes-hero-legacy.jpg",
+      "prompt": "一张高级的动漫风格电影角色海报，采用竖版9:16构图，灵感来自日本主视觉图和双重曝光叙事。\n顶部区域：两个较大的相对的主角侧面脸庞（左和右），高度详细，柔和的表情，形成主导的剪影构图。他们的头发和轮廓溶解在墨水、灰尘和粒子中。\n中心区域：一个全身角色自信地站立（英雄姿态），略微低于中心，作为视觉锚点。服装细节丰富，戏剧性照明，微妙的发光。\n大剪影内部：复杂的双重曝光拼贴画展示多个场景——城市景观、战场、建筑、象征性环境、配角和情感故事时刻。使用雾气、水墨渲染、烟雾和分层透明度将一切无缝融合。\n中下部区域：配角以电影感分组排列，动态姿势，深度分层，略微淡入大气中。\n底部区域：一个象征性的景观（树木、废墟或城市）从薄雾中浮现，增加深度和叙事收尾。\n风格：日本水墨渲染 + 水彩纹理 + 柔和颗粒 + 电影感动漫渲染\n柔和的调色板（米色、棕褐色、灰色、柔和的蓝色调）\n高细节但边缘柔和\n带有大面积留白的纸纹理背景\n边缘溶解在墨水飞溅和灰尘中\n构图：强烈的垂直流动引导视线从顶部 → 中心 → 底部\n左右平衡对称\n干净、极简、高端的海报设计\n照明：柔和的漫射光，微妙的发光高光，大气薄雾\n排版（可选）：侧面有极简的日文竖排文字\n底部中心有小型电影标题\n质量：超细节，4K，锐利对焦，电影级景深，杰作",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-voxcat-surveillance-courtyard",
+      "assetId": "goku-gpt-image-2-voxcat-surveillance-courtyard",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "VOXCAT Surveillance Courtyard"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-voxcat-surveillance-courtyard.jpg",
+      "prompt": "Create a cinematic cold sci-fi scene in a vertical 4:5 frame from an extreme high-angle overhead camera, looking down into a vast oppressive concrete testing courtyard. The environment is a circular Chinese courtyard-inspired laboratory chamber made of wet dark stone, steel-gray concrete walls, mint-green cyan light accents, exposed black cables, drainage seams, and glossy rain-slick floor reflections. In the lower center foreground stands one small sharp figure: a cat-eared cyberpunk girl named {argument name=\"character name\" default=\"VOXCAT\"}, treated like an abnormal experimental sample rather than a cute mascot. She has pale mint hair, glowing translucent cat ears, a cropped white and mint tactical outfit, straps, thigh harnesses, arm sleeves, chunky boots, and a small shoulder marking reading “VOX CAT”; her face is deliberately obscured by a smooth gray anonymizing blur, making her feel monitored and dehumanized. The composition must emphasize environmental pressure: the character is small, centered below the huge circular arena, with massive walls and architectural rings dominating her. Include exactly one large circular test platform in the middle, one raised central disk, one dark sealed doorway at the far wall, two concrete blocks in the front left and front right foreground, one stylized cat/fox laboratory emblem on the upper left wall, one RX-07 emblem on the right foreground block, and one handwritten VOXCAT signature at the bottom right. Text elements: on the back wall place {argument name=\"main wall text\" default=\"情感实验第7区\"}, beneath it {argument name=\"wall subtitle\" default=\"理性优先 情感禁止\"}, and on the doorway lintel small text reading {argument name=\"door warning text\" default=\"观测中｜非参与者禁止入内\"}. On the central disk write “关系实验场 RX-07”. Around the circular floor ring place three visible Chinese warning labels: “接近＝风险”, “亲密＝变量”, and “情绪＝噪声”. Lighting should be low-key, teal-cyan and steel gray, with low saturation, hard concrete texture, wet specular highlights, volumetric haze, surveillance-camera unease, and a cinematic dystopian laboratory mood. Use a wide-angle lens, deep depth of field, high-position surveillance composition, no warm colors, no crowd, no extra characters, no cute cheerful atmosphere.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-blue-queen-ruins",
+      "assetId": "goku-gpt-image-2-blue-queen-ruins",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Blue Queen of Ruins"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-blue-queen-ruins.jpg",
+      "prompt": "Create a full-body cinematic fashion portrait of {argument name=\"character name\" default=\"Asuka Langley Soryu\"} reimagined as a solitary, regal figure in a cold abandoned concrete ruin. She has long flowing {argument name=\"hair color\" default=\"fiery red-orange\"} hair with small red twin hair clips, pale skin, a slim elegant silhouette, and a distant, composed pose; keep the face softly obscured or minimally detailed rather than sharply recognizable. Dress her in a monochrome {argument name=\"outfit color\" default=\"midnight ink-blue\"} vertical silhouette: a sleeveless Fortuny Delphos–inspired pleated silk column gown with a wide shallow boat neckline, ankle-to-calf length, subtle glossy highlights, and extremely fine vertical pleats continuing the body line. Add matching tonal silk stockings and minimalist pointed-toe high-heel pumps inspired by Manolo Blahnik BB, all in the same dark blue palette so the dress, hosiery, and shoes form one uninterrupted line. She stands slightly turned beside a massive weathered concrete pillar, one hand resting lightly on the pillar and the other relaxed at her side, legs crossed at the ankles. The environment is a vast derelict industrial interior with many tall concrete columns receding into the background, peeling surfaces, exposed rusted rebar, rubble, dead weeds, shallow reflective water on the floor, and bluish fog. Use {argument name=\"lighting mood\" default=\"cold blue moonlit haze\"} with soft shafts of light from the upper left, wet reflections, high-fashion editorial realism, dramatic depth, muted blue-gray ruins, and a quiet queenlike atmosphere that feels distant, elegant, and razor-sharp. Vertical 2:3 composition, full body visible from head to shoes, realistic fabric texture, cinematic color grading, no text, no watermark, no extra characters.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-gothic-magic-swordswoman",
+      "assetId": "goku-gpt-image-2-gothic-magic-swordswoman",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Gothic Magic Swordswoman Action Illustration"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-gothic-magic-swordswoman.jpg",
+      "prompt": "A hyper-detailed anime fantasy action illustration of a fierce young woman lunging toward the viewer with a glowing magical sword, shown in an extreme foreshortened low-angle perspective where the blade dominates the foreground and points straight at the camera. She has {argument name=\"hair color\" default=\"long pastel pink\"} hair streaming dramatically behind her in many windblown strands, bright {argument name=\"eye color\" default=\"turquoise blue\"} eyes, and a focused, determined expression. She wears an elaborate black gothic-lolita battle dress with layered ruffles, lace trim, corset shaping, detached lace sleeves or gloves, thigh garter details, and dark armored boots. Her outfit is accented with exactly 3 vivid blue roses: 2 in a black lace headpiece and 1 at the center of her chest. The sword is ornate and elegant, with a silver filigree guard and a luminous blue blade filled with glowing rune-like patterns. Surround her with multiple overlapping circular magic sigils, arcane rings, starfield particles, sparkling shards, and cosmic light trails in a {argument name=\"background palette\" default=\"violet, indigo, and electric blue\"} celestial backdrop. Add crystalline prism fragments and glittering highlights across the scene, with intense bloom, high contrast, intricate lace and fabric detail, and a polished premium gacha-game key visual look. The composition should feel dynamic, cinematic, and magical, as if {argument name=\"character name\" default=\"a gothic magical swordswoman\"} is mid-strike in an astral dimension.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-twilight-starship-alien-world",
+      "assetId": "goku-gpt-image-2-twilight-starship-alien-world",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Twilight Starship Alien World"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-twilight-starship-alien-world.jpg",
+      "prompt": "A cinematic ultra-detailed science fiction alien landscape at twilight on a distant planet: a gigantic sleek futuristic spaceship floats low across the sky from left to right above a mirror-still lake, its elongated dark metallic hull covered in intricate layered armor plates, vents, windows, exposed mechanical ribs, glowing blue and violet lights, and luminous engine details. The lake below reflects the entire spacecraft, the pastel sky, and a huge pink-purple ringed planet dominating the upper right, with two small moons nearby and a star-filled nebula sky in teal, indigo, lavender, and magenta. The foreground is a rocky alien shoreline covered with dense bioluminescent extraterrestrial plants: purple grasses, blue moss, glowing spherical flower tips, tiny luminous blossoms, and crystalline shrubs. In the middle distance, high cliffs stretch across the horizon with multiple thin waterfalls dropping into misty basins, low fog drifting over the water, and layered mountains fading into the distance. Lighting is dreamy but photorealistic, with soft sunrise/sunset colors, crisp reflections, volumetric mist, high dynamic range, extreme environmental detail, wide-angle composition, epic scale, 16:9 aspect ratio, no text, no people. Customize the scene with a {argument name=\"spaceship color\" default=\"dark gunmetal with blue and violet lights\"}, {argument name=\"planet color\" default=\"pink-purple\"}, {argument name=\"alien plant color palette\" default=\"purple, blue, lavender, and cyan bioluminescence\"}, {argument name=\"time of day\" default=\"twilight\"}, and {argument name=\"overall style\" default=\"cinematic photorealistic space opera concept art\"}.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ink-cat-portrait-scroll",
+      "assetId": "goku-gpt-image-2-ink-cat-portrait-scroll",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ink Cat Portrait Scroll"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ink-cat-portrait-scroll.jpg",
+      "prompt": "Using REFERENCE_0 as the pet base, transform the cat into a refined traditional Chinese ink-and-color painting in the style of an antique literati portrait. Keep the cat’s identity, silver tabby markings, round face, large eyes, and front-facing seated posture recognizable, but remove all modern indoor objects and place the cat in an elegant classical composition on stone. Add a soft aged rice-paper background, 1 pale full moon near the upper center-left, 1 bamboo cluster along the upper right, 1 ornamental scholar’s rock on the right, and 1 magnolia branch with 3 large white blossoms in the lower left. Add vertical Chinese calligraphy on the upper left with 4 large characters, a second narrower vertical inscription beneath it, and 2 red seal stamps near the inscription. Use delicate brushwork, muted beige-gray tones, subtle washes, fine fur detailing, and a serene poetic atmosphere like an old Eastern painting scroll.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-moonlit-castle-pixel-fantasy",
+      "assetId": "goku-gpt-image-2-moonlit-castle-pixel-fantasy",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Moonlit Castle Pixel Fantasy"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-moonlit-castle-pixel-fantasy.jpg",
+      "prompt": "Create a richly detailed 1990s Sierra adventure game style pixel-art scene of a {argument name=\"castle type\" default=\"medieval Bavarian castle\"} at night, viewed from across a calm lake. The castle is large and storybook-like, with white stone walls, red steep roofs, half-timbered upper floors, multiple cylindrical towers and turrets, crenellated ramparts, a glowing arched gate, and warm yellow light shining from many small windows. A narrow stone bridge crosses the water to the entrance on the left side of the castle. Set the scene in a deep cobalt-blue moonlit landscape with a bright full moon in the upper left sky, scattered stars, soft layered clouds, dark pine forest silhouettes, distant mountain peaks, rocky lake edges, and a few tall evergreens framing the left and right sides. The lake should dominate the foreground, reflecting the entire castle, moonlight, bridge, windows, and towers in shimmering horizontal pixelated ripples. Add small glowing fireflies around the lakeshore and over the water. Use a nostalgic VGA pixel-art aesthetic inspired by classic Sierra point-and-click adventure games, with crisp dithering, limited but vibrant blue-purple palette, luminous highlights, high contrast, painterly pixel clusters, romantic fantasy atmosphere, and no modern UI or text.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-vintage-rabbit-collage-curio",
+      "assetId": "goku-gpt-image-2-vintage-rabbit-collage-curio",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Vintage Rabbit Collage Curio"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-rabbit-collage-curio.jpg",
+      "prompt": "Create a vertical vintage mixed-media collage illustration of a standing rabbit-shaped character centered on an aged cream archival paper page, with a thin rectangular border and subtle stains. The character is a full-body anthropomorphic bunny silhouette with exactly 2 long upright ears, 1 round head, 1 torso, 2 arms, 2 legs, and 2 chunky boots, constructed entirely from torn paper fragments, antique diagrams, maps, manuscript scraps, circuit board pieces, coins, gears, and engineering blueprints. Use a muted sepia, parchment, ochre, navy blueprint, faded green circuit-board, copper, and dark ink palette. The head should be a collage of horse cave-art paper on the left, anatomical/technical drawing paper on the right, a central cream circular face patch containing a simple black infinity symbol, and a large red glass camera-lens or mechanical optical device attached on the right side of the head. Behind the head, draw fine radial sunburst ink lines extending outward. The 2 ears should differ: the left ear contains a scientific network diagram with small labeled nodes and torn manuscript edges; the right ear contains the word “MYCELIUM,” a white mushroom/mycelium illustration, and a green circuit-board strip. The torso should resemble a patched yellow paper coat or tunic with the large printed word {argument name=\"torso text\" default=\"KANA\"}, torn tape-like strips, map fragments, small lightbulb drawings, and exposed green circuit board on the right side. Add exactly 6 visible coins clustered near the lower left side of the head/upper torso, and exactly 3 industrial gears at the character’s left hip/side. The legs and boots should be made from dark navy blueprint paper with white drafting lines, beige torn paper bands, and heavy black boot soles. Include small handwritten annotation labels around the character with thin leader lines, in the style of an old specimen plate: “Catalog ocean prominent” near the upper right, “Illimeted manuscip cuttings” at left middle, “Circuit letterpress samples” at right middle, “Industrial gears” at lower left, and “Catalog specimen plate” at lower right. Overall mood: whimsical retro-futurist cabinet-of-curiosities specimen, precise collage edges, layered torn paper texture, hand-drawn technical details, no photorealistic human features, no modern clean vector style. The main subject should be {argument name=\"character shape\" default=\"a rabbit silhouette\"} with {argument name=\"central symbol\" default=\"a black infinity symbol\"} on the face patch, rendered as a high-resolution scanned paper collage on {argument name=\"background paper\" default=\"aged cream paper\"}.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-rainy-night-hologram-lover",
+      "assetId": "goku-gpt-image-2-rainy-night-hologram-lover",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Rainy Night Walk With Hologram Lover"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rainy-night-hologram-lover.jpg",
+      "prompt": "一幕电影感的奇幻现实主义夜景，雨后湿漉漉的城市街道上，一名年轻男子（与上传图片中一致）正与一位发光的全息女性手牵手漫步。男子形象写实，身穿全黑叠搭服饰，包括黑色连帽衫、黑色夹克、黑色工装裤和白色运动鞋，留着凌乱的深色头发和微小的胡茬，戴着圆框眼镜。他神情平静且略带感伤，注视着那位发光的女性。女性完全由温暖的金光线条和霓虹轮廓组成，看起来像是一个发光的人体速写或灵魂形态。她有着飘逸的长发，穿着一件发光的长外套，怀抱一束在黑暗环境中格外醒目的鲜红玫瑰。街道反射着橙色的路灯和城市散景，在湿润的路面上形成光泽反射。忧郁的都市氛围，浪漫孤独的美学，浅景深，极度细腻的电影照明，柔光效果，真实纹理，情感化叙事，高对比度，写实风格，8K，纵向构图。",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-veiled-woman-mecca-mountain",
+      "assetId": "goku-gpt-image-2-veiled-woman-mecca-mountain",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Mysterious Veiled Woman Overlooking Mecca"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-veiled-woman-mecca-mountain.jpg",
+      "prompt": "Cinematic portrait of a {argument name=\"subject\" default=\"young Muslim woman\"} standing on a mountain overlooking Mecca city with the Abraj Al Bait Clock Tower in the background, wearing a flowing black abaya and a black-and-white keffiyeh wrapped around her head and face, only her eyes visible. Soft cloudy sky, warm beige tones, peaceful spiritual atmosphere, desert landscape, modest fashion aesthetic, elegant Arabian style, wind gently flowing through fabric, dramatic composition, realistic details, soft natural lighting, emotional travel photography, Islamic aesthetic, photorealistic, ultra detailed, cinematic color grading, serene mood.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ink-sketch-portrait-color-splash",
+      "assetId": "goku-gpt-image-2-ink-sketch-portrait-color-splash",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ink Sketch Portrait With Color Splash"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ink-sketch-portrait-color-splash.jpg",
+      "prompt": "ultra-detailed {argument name=\"subject\" default=\"ink sketch style portrait of a young man with curly hair, beard, and wearing orange-tinted sunglasses and a denim jacket\"}, looking slightly upward with a confident expression\nart style: {argument name=\"style\" default=\"black and white pen illustration with cross-hatching and fine line shading, high detail engraving style\"}\nbackground: {argument name=\"background\" default=\"layered vintage newspaper collage with readable textures and headlines\"}\ngraphic elements: bold orange and blue paint splashes behind the subject, dynamic\ncompositioncolor style: mostly monochrome with selective color accents (orange glasses\nand paint splashes, blue splashes)\nlighting: flat studio-style illustration lighting, no shadows from real light sources\ncomposition: centered portrait, poster design layout, clean hierarchy, sharp facial details\nno depth blur, no bokeh, crisp edges, high contrast ink texture\naspect ratio 4:6",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-steampunk-giant-boots-street",
+      "assetId": "goku-gpt-image-2-steampunk-giant-boots-street",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Steampunk Giant Boots Street Scene"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-steampunk-giant-boots-street.jpg",
+      "prompt": "Create a vertical cinematic fantasy street scene from an extremely low ground-level viewpoint, centered on the lower legs of a colossal or giant woman standing in shallow reflective water. The main subject wears tall glossy black leather gothic boots reaching above the knees, with platform soles, pointed rounded toes, tight lacing up the front, and many metal buckles and straps on both boots; the visible outfit continues as tight black pants above the boots. The boots dominate the frame, cropped at the upper thighs, with the feet planted in ankle-deep water and a strong mirror reflection extending downward across the lower half of the image. Surround her with a grand steampunk / dark fantasy city street: ornate Victorian buildings on both sides, towers, balconies, pipes, cables and overhead wires, distant haze, and small pedestrians walking in the background to emphasize scale. Include exactly 10 visible pedestrians: 5 on the left side of the street, 1 central figure walking toward the giant boots, and 4 on the right side, all dressed in dark long coats or fantasy urban clothing. Add natural water ripples around the soles and across the reflection, as if the street is flooded after rain, with teal-blue water, shimmering highlights, and subtle distortion of the boot and architecture reflections. Lighting should be dramatic backlit sunrise or sunset, bright glow from the upper center-left, cool blue shadows, warm rim light on leather and buildings, cinematic depth, high detail, ultra-realistic anime fantasy illustration style, sharp foreground boots, atmospheric background, no text, no watermark. Use {argument name=\"boot color\" default=\"glossy black\"}, {argument name=\"city style\" default=\"steampunk Victorian dark fantasy\"}, {argument name=\"water effect\" default=\"shallow reflective water with natural ripples\"}, {argument name=\"time of day\" default=\"backlit sunrise\"}, and {argument name=\"main subject scale\" default=\"colossal giant woman\"}.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-warrior-last-stand-undead",
+      "assetId": "goku-gpt-image-2-warrior-last-stand-undead",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Warrior's Last Stand Against Undead"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-warrior-last-stand-undead.jpg",
+      "prompt": "Create a hyper-detailed cinematic vertical action scene of {argument name=\"character name\" default=\"a frontline warrior\"} making a desperate last stand in the center of the frame, standing wide-legged on the crushed hood of a wrecked dark car. The hero wears custom-fitted tan tactical combat gear: plate carrier with 4 front magazine pouches, armored shoulder and elbow pads, gloves, utility belt, thigh holster, knee pads, combat boots, and a gas mask hanging from the left hip. The hero grips a black pump-action shotgun at chest height, firing toward the right edge of the image with a bright muzzle flash, sparks, and recoil smoke. Use {argument name=\"face appearance\" default=\"a sharp realistic adult male face, partially shadowed by smoke\"} for the face. Surround the hero with exactly 5 visible undead enemies: 1 crouched zombie on the left near flames, 1 standing zombie behind the car on the right, 1 darker blurred zombie farther right near police lights, and 2 foreground zombies seen from behind at the lower left and lower right edges. The environment is an urban disaster battlefield with burning debris, orange flames, thick gray smoke clouds filling the sky, damaged vehicles, and a police car in the background with red and blue emergency lights glowing through haze. Lighting should be dramatic and cinematic, mixing warm firelight from below and cool smoky daylight from above, with shallow depth of field, crisp focus on the warrior, gritty textures, realistic fabric dirt, soot, embers, and high-contrast Hollywood action color grading. Composition: vertical 2:3 poster crop, full-body hero centered, low camera angle, intense heroic presence, no text, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-crystal-cat-gem-cathedral",
+      "assetId": "goku-gpt-image-2-crystal-cat-gem-cathedral",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Crystal Cat in Gem Cathedral"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-crystal-cat-gem-cathedral.jpg",
+      "prompt": "Create a luminous fantasy anime illustration of {argument name=\"character name\" default=\"Nico\"}, a small elegant crystal cat familiar standing in a majestic cathedral made of glass and gemstones. The cat has a petite foxlike feline body, oversized pointed ears, a delicate smiling face, long white whiskers, and large sparkling {argument name=\"eye color\" default=\"violet-blue\"} eyes with glossy highlights. Its entire body appears made from translucent faceted crystal, primarily {argument name=\"crystal body color\" default=\"icy blue and lavender\"}, refracting rainbow prismatic colors across its face, torso, legs, paws, and ears. Add one diamond-shaped gem embedded on the forehead, plus a faceted jewel collar or chest ornament. The cat stands in a graceful three-quarter pose, front legs straight, back slightly arched, head turned toward the viewer, with an expression that feels magical, confident, and gentle. Include exactly two long flowing tails curling upward behind it, each ending in a bright crystal flame or gem tip: one glowing pink-magenta and one glowing cyan-blue, both surrounded by tiny star sparkles. The setting is an ethereal crystal palace interior with tall arched columns on both sides, stained-glass windows glowing softly in the background, a polished reflective floor, and distant gem formations. Use a pastel palette of blue, lavender, pink, cyan, and pearly white, with soft volumetric backlight, rainbow caustics, glittering particles, lens-like starbursts, and a dreamy high-detail gpt-image-2 fantasy art style. Keep the composition centered, full-body, square format, no text, no watermark, no extra animals.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-chongqing-isometric-diorama",
+      "assetId": "goku-gpt-image-2-chongqing-isometric-diorama",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Chongqing Isometric Miniature Diorama Map"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chongqing-isometric-diorama.jpg",
+      "prompt": "A highly detailed, isometric 3D miniature diorama map of {argument name=\"city name\" default=\"Chongqing\"}, blending traditional Chinese architecture with modern skyscrapers, set against a vintage parchment map background. The scene features a winding river with a modern bridge connecting a densely packed peninsula of high-rises to older, multi-tiered traditional buildings glowing with warm light. A monorail train curves along a track near the water. Key landmarks are labeled with vertical banners containing Chinese characters, such as \"洪崖洞\" (Hongyadong) and \"解放碑\" (Jiefangbei). The top left corner displays large calligraphy reading \"{argument name=\"main title\" default=\"重庆\"}\" above the English text \"{argument name=\"english subtitle\" default=\"CHONGQING\"}\" and smaller Chinese text \"山城雾都·江城重庆\" alongside a red seal. The lighting is warm and cinematic, emphasizing the intricate textures of the miniature buildings, trees, and water, creating a tilt-shift photography effect.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-desert-rebel-sandstorm",
+      "assetId": "goku-gpt-image-2-desert-rebel-sandstorm",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Desert Rebel Storm"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-desert-rebel-sandstorm.jpg",
+      "prompt": "Create a vertical cinematic 35mm film still of {argument name=\"character name\" default=\"a rugged desert rebel leader\"} walking directly toward the camera through a violent sandstorm in a desert war zone. The central subject is one adult man, waist-to-knees visible, centered and dominant, with messy dark hair, a stern intense expression, dusty tan skin, stubble, a partially unbuttoned faded denim shirt with two chest pockets, a silver chain necklace, dark cargo pants, black fingerless gloves, and bracelets on one wrist. He carries exactly two main props: a double-barrel shotgun held diagonally across his torso in his right hand, with wooden stock and twin barrels pointed upward to the viewer’s right, and a heavy rusty metal chain dangling from his left hand. Behind him are exactly four vehicles: two motorcycles flanking him in the midground with bright circular headlights and helmeted riders, and two armored trucks farther back with glowing headlights, roof gunner silhouettes, and soldiers standing in turrets. Add exactly five visible background fighters: two motorcycle riders, two turret soldiers, and one small distant figure between the trucks. The atmosphere is packed with blowing sand, dust clouds, sparks, flying debris, heat haze, and dramatic backlight from a low golden sun, creating a rebellious action-movie mood. Use a shallow depth of field: the man and shotgun are sharp, while the convoy behind is slightly blurred by dust. Color grade with warm ochre, amber, sepia, and smoky gray tones, high contrast, gritty texture, realistic skin and fabric detail, anamorphic cinematic lighting, and dynamic motion. Canvas is vertical 9:16, full-body heroic composition, no text, no watermark, no logos.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-emerald-sorceress-dark-ritual",
+      "assetId": "goku-gpt-image-2-emerald-sorceress-dark-ritual",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Emerald Sorceress Dark Ritual"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-emerald-sorceress-dark-ritual.jpg",
+      "prompt": "A dark fantasy full-body portrait of a mysterious sorceress standing barefoot in the center of an ancient ritual chamber, shown in side profile with her head slightly bowed and her body mostly in silhouette against an intense glowing emerald magic circle. She has {argument name=\"hair style\" default=\"dark curly hair in a loose messy bun with long tendrils framing her face\"} and wears a {argument name=\"dress color\" default=\"black\"} floor-length gown with a very low open back, a thigh-high slit, and long torn shadow-like ribbons or vine-like wisps trailing from the dress and wrapping around her body. Behind her is 1 enormous circular arcane sigil composed of many concentric rings, geometric lines, occult symbols, rune-like markings, and 3 prominent pentagram medallions positioned at the top, left, and right. The environment is a gothic stone hall with tall shadowy pillars, drifting green smoke, faint magical haze, and a glossy reflective floor engraved with 1 additional partial summoning circle in the foreground. Use a monochrome palette of {argument name=\"glow color\" default=\"neon emerald green\"} and black, with extreme contrast, dramatic backlighting, volumetric fog, cinematic rim light, intricate magical linework, ethereal smoke, and a haunting supernatural atmosphere. Make the figure elegant, dangerous, and otherworldly, with ultra-detailed fantasy illustration rendering, symmetrical composition centered on the glowing sigil, vertical aspect ratio, and a mood of forbidden ritual magic.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-futuristic-argentina-world-cup-champion",
+      "assetId": "goku-gpt-image-2-futuristic-argentina-world-cup-champion",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Futuristic Argentina World Cup Champion Poster"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-futuristic-argentina-world-cup-champion.jpg",
+      "prompt": "2026年FIFA世界杯宣传海报，展示参考图像中的同一个人转变为穿着阿根廷主题、灵感源自钢铁侠的动力装甲的未来派足球冠军。保留参考照片中的准确面部特征、发型、胡须、微笑、肤色、面部结构和黑色矩形眼镜，具有高度的面部准确性和身份一致性。全身英雄姿态，胸部中心有发光的电弧反应堆，阿根廷天蓝色、白色、银色和金色装饰的高级金属装甲，手持未来派足球。高科技实验室环境，配有全息显示器、数字界面和未来科技面板。背景透明照明舱中展示着FIFA世界杯奖杯。电影级灯光，体积烟雾，大气雾气，金属反射，光线追踪反射，超精细装甲纹理，科幻电影海报构图，史诗级规模，戏剧性透视，写实渲染，超写实细节，8K分辨率，景深，HDR，虚幻引擎质量，杰作，优质体育广告活动，未来足球传奇美学。",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-alchemist-paper-shadow-box",
+      "assetId": "goku-gpt-image-2-alchemist-paper-shadow-box",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Alchemist Paper Shadow Box Diorama"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-alchemist-paper-shadow-box.jpg",
+      "prompt": "Create a photorealistic tabletop product shot of a handmade layered craft-paper shadow box diorama inside a deep square black frame, showing a fantasy alchemist girl from {argument name=\"series title\" default=\"Toxic Party\"} standing in the center of an old laboratory. The character has {argument name=\"hair color\" default=\"long flowing white hair\"}, a partially blurred or softly obscured face, a pale green long coat with split tails, darker green leggings, brown leather boots, crisscrossing chest straps, belt pouches, and exactly 7 small potion bottles strapped around her waist. Pose her dynamically with one arm raised in a greeting or spell-casting gesture and the other arm extended sideways. Build the entire interior as layered cut paper and cardboard with visible stacked depth: arched shelves, gothic window, wooden beams, stone-tile floor, and warm lantern light. Include exactly 24 laboratory vessels and bottles in the diorama: 7 on the left upper shelves, 6 on the left lower shelves and table, 4 on the rear middle shelves, 3 on the right shelves, 2 large floor bottles, and 2 bottles attached to the foreground furniture. Add exactly 5 major foreground props inside the box: an open sketchbook with alchemy diagrams, a low worktable, a small crate, a furnace or brazier with orange flame, and a large round-bottom flask. On the right wall, add a parchment sign reading {argument name=\"sign text\" default=\"Laboratoire de Saint-Germain Paris, 1768\"}. Surround the framed diorama with a real craft workspace: green cutting mat, scattered paper scraps in tan, brown, sage and white, a metal ruler, precision craft knife, tweezers, a bottle of craft glue labeled {argument name=\"glue label\" default=\"CRAFT GLUE\"}, a jar of brushes and pencils, and a cardboard box. Use shallow depth of field, warm studio lighting, realistic paper fibers, subtle shadows between every cut-paper layer, and a cozy handmade shadow-box aesthetic.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-giant-miniature-train-station",
+      "assetId": "goku-gpt-image-2-giant-miniature-train-station",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Giant Caressing Miniature Train Station"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-giant-miniature-train-station.jpg",
+      "prompt": "Forced perspective shot, a giant {argument name=\"subject\" default=\"man wearing a light grey jacket\"} with black cuffs is carefully placing his hands on the roof of a miniature train station model, the station is labeled \"{argument name=\"station name\" default=\"AI TRENDS PLATFORM\"}\" and features tiny figures of people waiting and walking, complete with miniature train cars and food carts, the model train station sits on a small platform with train tracks, with green foliage visible in the foreground and a misty, overcast sky in the background, creating a surreal, dreamlike quality, 35mm photography, hyper-realistic, soft lighting, shallow depth of field, muted color palette, glossy textures, uploaded face as reference.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-underwater-flower-woman-fantasy",
+      "assetId": "goku-gpt-image-2-underwater-flower-woman-fantasy",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Underwater Flower Woman Fantasy Anime Art"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-underwater-flower-woman-fantasy.jpg",
+      "prompt": "Create a vertical fantasy anime illustration of a graceful underwater flower-woman standing barefoot on a pale sandy seabed, centered in the composition. She wears a simple satin-white slip dress with thin straps, softly reflective fabric, and a calf-length hem, while her body is enveloped by enormous flowing {argument name=\"flower petal color\" default=\"pale blush pink\"} petals resembling oversized ruffled sea anemone or oyster mushroom petals. The petals form a dramatic headdress and cloak around her, with many fine white vein lines, scalloped edges, translucent layering, and long trailing petal panels spreading across the floor like a gown train. Her face is intentionally hidden by a flat square {argument name=\"face cover color\" default=\"dusty pink\"} censor block placed over the head area. Set the scene in a dreamy underwater garden with soft blue-green water, sunbeams filtering down from above, floating bubbles, tiny glowing jellyfish, and blurred coral and anemone shapes in lavender, blue, and pastel pink in the background. Use delicate painterly rendering, soft gradients, luminous rim light, ethereal pastel colors, elegant fashion-illustration proportions, intricate petal texture, serene magical atmosphere, and high detail.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-moonlit-knights-otherworld-bond",
+      "assetId": "goku-gpt-image-2-moonlit-knights-otherworld-bond",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Moonlit Knight's Otherworld Bond"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-moonlit-knights-otherworld-bond.jpg",
+      "prompt": "Create a square romantic Japanese isekai light novel cover illustration showing two characters standing very close together in the center of the frame: a tall silver-haired knight heroine and a modern high school boy. The heroine has {argument name=\"hair color\" default=\"silver-white\"} hair styled in an elaborate fantasy updo with dark floral ornaments, pale skin, and an ornate dark fantasy knight outfit with black armor pieces, leather straps, corset-like bodice, asymmetrical skirt details, thigh-high elements, gloves, chains, ribbons, and delicate magical accessories. The boy has messy black hair, wears a modern blue school-style jacket over a white shirt with loosened collar, dark straps and belt details, and a backpack-like silhouette, looking protective and shy as he stands shoulder-to-shoulder with her. Their faces are intentionally obscured by soft square censor-like blur blocks over the upper center, while their bodies and clothing remain highly detailed. Set them in a moonlit fantasy garden filled with icy blue foliage, hanging paper lanterns, drifting petals, glowing mist, crystal palace architecture in the background, and a large full moon behind them. Use a cool blue, silver, black, and lavender palette with luminous rim lighting, soft magical atmosphere, intricate anime-fantasy detail, dramatic painterly rendering, romantic light novel cover composition, and no visible title text, leaving subtle empty space near the top for a future title. Aspect ratio 1:1, highly polished, elegant, cinematic, ethereal, slightly chaotic decorative detail, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-claymation-retro-pc-desk",
+      "assetId": "goku-gpt-image-2-claymation-retro-pc-desk",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Claymation Retro PC Desk Setup"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-claymation-retro-pc-desk.jpg",
+      "prompt": "A vibrant, cute 3D claymation-style illustration of a retro yellow desktop computer setup on a desk. The central yellow CRT monitor displays a teal screen with the {argument name=\"OS logo text\" default=\"Microsoft Windows 98\"} logo and 7 desktop icons labeled 'My Computer', 'Online Services', 'My Documents', 'Outlook Express', 'Internet Explorer', 'Connect to the Internet', and 'Recycle Bin', plus a bottom taskbar with a 'Start' button and a clock reading '5:49 PM'. The monitor has a yellow sticky note reading '{argument name=\"monitor sticky note\" default=\"Be Happy\"}' and a small yellow bird perched on top. The computer base is labeled 'CREATIVE PC'. In front is a yellow mechanical keyboard labeled 'KBD-98' with orange and cream keys, and a yellow mouse labeled 'MS'. To the left is a green desk lamp, a smiling potted cactus, a blue floppy disk labeled '{argument name=\"floppy disk label\" default=\"FUN STUFF\"}', and a blue mug reading '{argument name=\"mug text\" default=\"COFFEE TIME!\"}' with a smiley face. To the right are 2 stacked books (green 'WINDOWS 98 MANUAL', blue 'INTERNET EXPLORER') and 2 smiling balloons (orange and yellow). The foreground features a green cutting mat, a yellow pencil, a green tape dispenser labeled 'TAPE IT!', 2 crayons, a pink sticky note reading 'Take a Break!', and a white notepad with a 5-item 'TO DO LIST': '1. Be Awesome', '2. Play More', '3. Call Mom', '4. Eat Snacks', '5. Smile :)'. The background wall has a green and cream clock, a white poster reading '{argument name=\"poster text\" default=\"HAVE A NICE DAY!\"}' with a smiling sun and 'Do Your Best!', and 3 additional sticky notes: a yellow one reading 'Dream Big Work Hard!', a pink one reading 'You've Got This!', and a green one reading 'Meeting 10:00 AM!'.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-essence-elegant-minimalism",
+      "assetId": "goku-gpt-image-2-essence-elegant-minimalism",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Essence of Elegant Minimalism"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-essence-elegant-minimalism.jpg",
+      "prompt": "Discover the essence of elegance through {argument name=\"photography style\" default=\"minimalist product photography\"}. With clean lines and ample negative space, the focus is on the product's beauty. Soft, diffused lighting accentuates sleek design, presenting a visual ode to simplicity and sophistication",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-misty-forest-camper-dawn",
+      "assetId": "goku-gpt-image-2-misty-forest-camper-dawn",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Misty Forest Camper at Dawn"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-misty-forest-camper-dawn.jpg",
+      "prompt": "Create a realistic cinematic square photo of {argument name=\"subject\" default=\"a Pakistani woman\"} camping in a misty pine forest at early morning or blue-hour dusk. She is seated on a rough fallen log beside a small campfire, holding a metal warm cup with visible steam rising, looking slightly to the left in a calm reflective pose. She wears a navy baseball cap, a green-and-blue plaid flannel overshirt, dark fitted hiking pants, gray-brown hiking boots, and her long dark hair is braided over one shoulder. In the foreground, show a compact campfire built from exactly 7 visible stones around burning logs, with orange flames, embers, and a little smoke; place exactly 1 vintage kerosene lantern glowing warmly on the log near the fire. On the right side, include exactly 1 large black hiking backpack and exactly 2 trekking poles leaning beside it. In the background, show a cozy wooden cabin with exactly 3 warm yellow lit windows, softened by fog among tall pine trees. Use shallow depth of field, cool blue misty atmosphere contrasted with warm fire and cabin light, natural forest ground with pine needles and moss, cinematic color grading, realistic textures, soft volumetric fog, 50mm documentary photography feel, no text, no watermark. Keep the subject’s face softly obscured or anonymized while preserving natural proportions and photorealistic lighting. Customize key details with {argument name=\"shirt color\" default=\"green and blue plaid\"}, {argument name=\"time of day\" default=\"early morning or dusk\"}, {argument name=\"setting\" default=\"misty pine forest\"}, and {argument name=\"background cabin\" default=\"cozy wooden cabin with warm lit windows\"}.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-embroidery-birds-floral-relief",
+      "assetId": "goku-gpt-image-2-embroidery-birds-floral-relief",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Embroidery Birds Floral Relief"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-embroidery-birds-floral-relief.jpg",
+      "prompt": "精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-restaurant-interior-design",
+      "assetId": "goku-gpt-image-2-restaurant-interior-design",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Cinematic Restaurant Interior Design"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-restaurant-interior-design.jpg",
+      "prompt": "Design a realistic restaurant interior based on this menu: {argument name=\"menu\" default=\"[menu]\"}, matching the cuisine, price level, mood and target audience, cinematic interior photography.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-surreal-couture-dancer",
+      "assetId": "goku-gpt-image-2-surreal-couture-dancer",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Surreal Couture Dancer"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-couture-dancer.jpg",
+      "prompt": "Create a vertical cinematic fantasy fashion portrait of a graceful woman dancing in a surreal abstract environment, shown from mid-thigh upward in a dynamic three-quarter back pose with one arm extended downward and her head turned slightly toward the viewer. Her face should be intentionally obscured by a plain rectangular censor block in a warm tan color, centered over the face. She wears an elaborate flowing couture gown in {argument name=\"dress colors\" default=\"teal, turquoise, coral orange, cream, and metallic gold\"}, with sheer long sleeves, intricate filigree embroidery, lace-like organic patterns, a low open back, and long translucent ribbons and panels streaming behind her as if caught in wind. Surround her with dense swirling abstract paint ribbons, splashes, tendrils, circular disks, floral doodles, and decorative particles in matching teal and orange tones against a dark nearly black background. Include exactly one large glossy floating sphere near the upper right of her head, decorated with ornate floral and paisley-like patterns, reflecting highlights. The composition should feel immersive and kinetic, with dramatic backlighting, warm golden rim light on hair and shoulders, teal-orange color grading, shallow depth of field, high detail, painterly photorealism, luxury editorial fashion styling, volumetric glow, and no readable text. Use {argument name=\"aspect ratio\" default=\"vertical 9:16\"} framing, emphasizing motion, fabric flow, and surreal ornamental complexity.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-medieval-castle-duel",
+      "assetId": "goku-gpt-image-2-medieval-castle-duel",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Medieval Castle Duel"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-medieval-castle-duel.jpg",
+      "prompt": "Create a cinematic medieval fantasy mock duel scene in a stone castle courtyard, titled by mood as {argument name=\"scene theme\" default=\"mock battle\"}. Use a vertical 4:5 composition, realistic high-detail photography style, harsh midday sunlight, dusty air, flying grit and tiny sparks where weapons meet. Show exactly 8 visible people: 2 foreground duelists, 1 noble armored observer, and 5 background guards. In the foreground center, a rugged swordsman with {argument name=\"hero hair\" default=\"long dark curly hair\"} wears an off-white loose linen shirt, dark trousers, a leather belt, a side dagger, and tall worn brown boots; he crouches forward with both hands gripping a sword, blocking an attack. On the right foreground, an opponent in dark blue-black plate armor with ornate gold trim, a closed helmet, layered leather straps, and tall boots lunges in with crossed blades, partially back-facing the viewer. On the left midground, a regal knight commander with {argument name=\"commander armor\" default=\"polished silver plate armor and a white cape\"} stands calmly with arms crossed, watching the duel. Behind them, place 5 armored guards standing in a loose line with spears and dark armor, slightly out of focus. The background is an old gray stone fortress wall with an arched gate, narrow windows, wooden palisade details, and a large dark blue hanging banner bearing a gold heraldic lion-like crest. Faces should be anonymized with simple flat brown rectangular face coverings on all clearly visible people, matching the image’s censored look. Emphasize gritty medieval realism, textured armor, scratches, dust, leather, cobblestone ground, dramatic action, shallow depth of field, no modern objects, no text, no watermark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-neon-monochrome-vector-portrait",
+      "assetId": "goku-gpt-image-2-neon-monochrome-vector-portrait",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Neon Monochrome Vector Portrait Art"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-neon-monochrome-vector-portrait.jpg",
+      "prompt": "Transform the subject into a striking high-contrast monochrome vector portrait, rendered in a premium black-and-white comic book illustration style with crisp cel-shading, bold geometric shapes, and ultra-clean vector linework. Preserve the subject's facial features, hairstyle, expression, and overall likeness with high accuracy.\n\nThe subject wears an {argument name=\"top layer\" default=\"open dark button-up shirt\"} layered over a {argument name=\"base layer\" default=\"white crew-neck T-shirt\"}, complemented by a minimalist square pendant chain necklace. A pair of stylish sunglasses rests naturally on top of the head, integrated seamlessly into the hairstyle.\n\nIlluminate the portrait with intense {argument name=\"neon color\" default=\"red\"} neon rim lighting that traces the contours of the hair, face, shoulders, and clothing, creating a dramatic glow against the monochrome artwork. The red highlights should add depth, separation, and a futuristic cinematic atmosphere without overpowering the black-and-white design.\n\nSet against a pure black background, emphasizing strong contrast and visual impact. Style the artwork with sharp vector edges, bold shadows, clean negative space, graphic-novel aesthetics, modern streetwear energy, and premium poster-quality composition. Ultra-detailed yet minimalist, edgy, contemporary, and visually powerful.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-silver-valkyrie-character-art",
+      "assetId": "goku-gpt-image-2-silver-valkyrie-character-art",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Silver Valkyrie Character Art"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-silver-valkyrie-character-art.jpg",
+      "prompt": "A full-body anime fantasy warrior girl standing alone on a plain light gray background, clean character illustration with soft painterly rendering and crisp line art. She is a slender young woman with long straight {argument name=\"hair color\" default=\"platinum blonde\"} hair, center-parted with long face-framing strands and a small tied section at the back, light {argument name=\"eye color\" default=\"amber-brown\"} eyes, fair skin, and a calm slightly serious expression. Her pose is dynamic and confident: legs apart in a stable stance, one arm raised over her head gripping a long spear shaft behind her shoulders, the other hand holding the spear lower near her side so the ornate spear extends diagonally across the composition. The weapon is 1 elaborate dark metallic spear with a long narrow blade, cross-shaped barbs, engraved gothic details, and a sharp butt spike. Her outfit is a refined dark fantasy battle costume with exactly 6 visible main pieces: 1 black steel armored right arm gauntlet with engraved plating, 1 fitted black-and-bronze corset breastplate, 1 white high-neck blouse with sheer long sleeves, 1 short asymmetrical white skirt with flowing split overskirt panels, 1 pair of black thigh-high armored boots with silver filigree knee and ankle accents, and 1 brown belt set with straps including a right-thigh garter strap. Add subtle silver ornamentation at the collar and armor edges, elegant leather textures, polished metal highlights, and gently wind-swept fabric. Keep the palette muted and sophisticated in ivory, charcoal, bronze, and silver. The style should feel like premium Japanese RPG character concept art, highly detailed, graceful, slightly gothic, isolated full figure, no extra props, no scenery, only a faint soft ground shadow beneath her feet.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-solitary-wanderer-triptych",
+      "assetId": "goku-gpt-image-2-solitary-wanderer-triptych",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Solitary Wanderer Triptych"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-solitary-wanderer-triptych.jpg",
+      "prompt": "{\"type\":\"电影感 3 帧连续电影剧照\",\"style\":\"超写实、忧郁、自然光、浅景深、柔和的大地色调、柔和的阴天氛围、细腻的胶片颗粒感\",\"subject\":{\"count\":1,\"description\":\"年轻女性旅行者，深棕色凌乱发髻，身穿深色廓形毛衣、棕色长裤和登山靴\",\"face_visibility\":\"3 帧中均为侧脸或背影\"},\"layout\":{\"orientation\":\"竖版三联画，由 3 个堆叠的横向画幅组成，中间有细边框分隔\",\"sections\":[{\"title\":\"顶部画幅\",\"position\":\"顶部\",\"count\":1,\"labels\":[\"女性双臂交叉倚靠在木栅栏上，向右看\"]},{\"title\":\"中间画幅\",\"position\":\"中心\",\"count\":1,\"labels\":[\"女性独自坐在空旷蜿蜒的道路中央，手持折叠纸质地图，向左看\"]},{\"title\":\"底部画幅\",\"position\":\"底部\",\"count\":1,\"labels\":[\"女性背影，背着粗犷的登山包，站立着眺望湖泊和山谷\"]}]},\"environment\":{\"location\":\"偏远的高地景观，有连绵起伏的丘陵、稀疏的落叶树木、石楠花和灌木丛、远处的山脉以及湖泊\",\"weather\":\"多云、凉爽、微雾\"},\"camera\":{\"framing\":\"电影叙事序列，顶部画幅为中景人像，中间画幅为全身坐姿，底部画幅为中景背影\",\"lens\":\"浅焦纪录片摄影风格\",\"aspect\":\"高竖版图像\"},\"details\":{\"props_count\":3,\"props\":[\"木栅栏，带有一个小的圆形路径标记牌，上面有白色房屋图标\",\"折叠纸质地图\",\"棕色帆布登山包\"]}}",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ghostly-ballerina-abandoned-theater",
+      "assetId": "goku-gpt-image-2-ghostly-ballerina-abandoned-theater",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ghostly Ballerina in Abandoned Theater"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ghostly-ballerina-abandoned-theater.jpg",
+      "prompt": "Create a cinematic black-and-white fine-art photograph of {argument name=\"subject\" default=\"a ghostly ballerina\"} dancing alone inside {argument name=\"location\" default=\"an abandoned old theater or ballroom\"}. The dancer is positioned slightly right of center, wearing a translucent knee-length ballet dress and pointe shoes, with her arms extended in an elegant, fragile pose; use a long-exposure multiple-exposure effect so her body appears as two or three overlapping semi-transparent silhouettes, suggesting motion and haunting presence. The room is dark, decayed, and atmospheric, with cracked plaster, an arched alcove or stage opening on the right, rows of shadowed seats or debris in the background, and tall broken arched windows on the left. Strong sunlight blasts through the window from the left rear, creating visible shafts of dusty light, smoky haze, high-contrast rim lighting, and a bright rectangular patch of light on the wooden floor beneath the dancer. Use {argument name=\"lighting style\" default=\"dramatic backlight with volumetric dust beams\"}, deep blacks, glowing highlights, film grain, soft blur from movement, and a moody gothic mood. Compose in a horizontal 4:3 frame, wide interior view, low-to-mid camera height, with the dancer small enough to show the environment. No text, no modern objects, no color, no clean studio look.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-floating-steampunk-night-market",
+      "assetId": "goku-gpt-image-2-floating-steampunk-night-market",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Floating Steampunk Night Market Above Clouds"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-floating-steampunk-night-market.jpg",
+      "prompt": "Goal: Create a richly detailed fantasy concept art scene of a floating night market above the clouds, blending steampunk airships, sky docks, and colorful bazaar tents.\n\nCanvas: Vertical 2:3 composition, cinematic wide-angle view, high fantasy digital painting with painterly realism, deep perspective, dramatic scale, no text or watermark.\n\nSetting and atmosphere: A vast aerial marketplace suspended among thick white clouds at twilight or night. The sky is dark navy and stormy overhead, with heavy rolling clouds, while a pale glowing horizon cuts across the middle distance. The mood should feel magical, bustling, and slightly mysterious, with warm lantern light contrasting against cool blue moonlit clouds.\n\nLayout: Foreground and lower half filled with wooden market platforms, bridges, railings, stalls, hanging fabric canopies, and crowds. Midground opens into a cloud-filled gap with more floating docks and ships. Background shows distant clouds and flying vessels receding into haze.\n\nCounted major elements: Include exactly 3 visible airships: 1 large oval zeppelin-like ship on the upper left with a dark wooden gondola and many rigging cables, 1 smaller distant airship centered in the background, and 1 very large balloon-and-gondola airship docked on the upper right with a round vertical envelope, ropes, masts, and a projecting gangway. Include exactly 5 main market areas: 1 lower-left stall cluster beneath dark blue striped canvas, 1 center-lower wooden dock with lanterns and figures, 1 right-lower covered bazaar with striped awnings and food stalls, 1 middle-left floating market platform in the clouds, and 1 upper-right docked platform beside the large airship. Include many small human figures as a dense crowd of merchants and shoppers, but keep them tiny and atmospheric rather than portrait-like.\n\nSubject details: Wooden floating piers should appear suspended in the sky with no visible ground, supported by fantasy engineering and partly hidden by clouds. Stalls sell spices, fruits, fabrics, trinkets, baskets, and glowing objects. Add draped cloth awnings in deep blue, teal, red, orange, purple, and gold. Use numerous warm hanging lanterns and street lamps throughout the scene, especially along railings and stall fronts. Add ropes, pennant strings, crates, barrels, tables, ladders, poles, and rigging to increase detail.\n\nVisual style: Epic fantasy illustration, highly detailed, atmospheric lighting, ornate steampunk airship design, warm golden lantern glow, cool blue shadows, volumetric clouds, cinematic depth, intricate market clutter, painterly brushwork, sharp focal detail in the lower market and softer distant background.\n\nCustomization: The scene should depict {argument name=\"market name\" default=\"a floating night market above the clouds\"} with {argument name=\"airship style\" default=\"steampunk zeppelin airships\"}, illuminated by {argument name=\"lighting mood\" default=\"warm golden lanterns against a stormy blue night sky\"}, with canopies in {argument name=\"canopy colors\" default=\"deep blue, teal, red, orange, purple, and gold\"}, and populated by {argument name=\"crowd type\" default=\"tiny fantasy merchants, travelers, and shoppers\"}.\n\nConstraints: No modern buildings, no cars, no aircraft with wings, no readable signage, no sci-fi neon, no empty market; keep the image grand, dense, and vertical with the airships clearly above and behind the crowded bazaar.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-lone-priest-mountain-ritual",
+      "assetId": "goku-gpt-image-2-lone-priest-mountain-ritual",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ritual of the Lone Priest"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lone-priest-mountain-ritual.jpg",
+      "prompt": "Create a cinematic black-and-white widescreen photograph of a lone {argument name=\"character type\" default=\"tattooed dark fantasy warrior-priest\"} standing on a rugged mountain ridge, centered slightly right, facing the camera with both arms extended outward in a ritualistic pose. The figure has messy dark hair and an intentionally obscured face covered by a soft square blur, giving an anonymous editorial look. Dress him in an ornate black velvet cloak with heavy draped sleeves, metallic trim, and a dramatic shoulder mantle; the costume has exactly 5 prominent visible outfit elements: a black hooded cape, a polished metal chest plate with round studs, layered chain straps across the torso, a wide belt with circular medallions, and a dark pleated skirt or kilt. His bare chest and forearms show dense tattoos, and his hands hold thin dangling cords or straps. Place him outdoors on a steep rocky hillside with a large dark mountain slope rising on the right, a hazy valley stretching into the distance on the left, sparse grass in the foreground, and exactly 3 small soft clouds in the sky. Use {argument name=\"visual style\" default=\"high-contrast analog film photography\"}, shallow depth of field, visible film grain, natural daylight, dramatic shadows, and a slightly low-angle heroic composition. The mood should feel mystical, pagan, and theatrical, like a fashion editorial shot in a remote wilderness. No text, no watermark, no modern buildings, no extra people.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-vintage-futuristic-couture",
+      "assetId": "goku-gpt-image-2-vintage-futuristic-couture",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Vintage Futuristic Couture Fashion Illustration"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-futuristic-couture.jpg",
+      "prompt": "Create a high fashion illustration of a lead couture model walking in a {argument name=\"coat color\" default=\"steel blue-gray\"} fitted, structural long coat made of {argument name=\"material\" default=\"lamb skin\"} and lined with bright white raw silk charmeuse. Black accents, oversized elegant hat with floral detail, {argument name=\"style era\" default=\"1920s vintage glamour meets futuristic elegance\"}, Vogue editorial style, graceful movement captured mid-walk",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-vintage-workshop-coffee-man",
+      "assetId": "goku-gpt-image-2-vintage-workshop-coffee-man",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Vintage Workshop Coffee Man Portrait"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-workshop-coffee-man.jpg",
+      "prompt": "A {argument name=\"setting\" default=\"cozy vintage workshop filled with nostalgic collectibles, warm cinematic lighting, and rich wooden textures\"}. A {argument name=\"subject\" default=\"stylish man with flowing dark hair and sunglasses sits confidently in a wooden chair, holding a coffee cup\"}. Behind him is a {argument name=\"background elements\" default=\"classic light-blue vintage convertible sports car and several adorable tabby cats wearing tiny top hats\"} are scattered around the scene. The room is packed with antique cameras, old books, clocks, retro radios, framed artwork, and decorative curiosities. Large industrial desk lamp glowing warmly overhead. Shallow depth of field, bokeh background, ultra-detailed miniature diorama aesthetic, realistic textures, photorealistic, cinematic composition, golden-hour tones, highly detailed, 8k resolution, masterpiece, magazine-quality photography, intricate storytelling scene.",
+      "source": "model-detail"
     }
   ]
 }
