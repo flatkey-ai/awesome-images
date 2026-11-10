@@ -10310,6 +10310,656 @@
       "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-guangzhou-oriental-fantasy.jpg",
       "prompt": "Flat illustration, high-end oriental fantasy style city poster design, vertical 9:16 composition. The layout uses a diagonal + S-shaped flow extending from the bottom left to top right. The background is deep black grading down to intense dark red, creating strong warm-cool contrast and spatial depth with faint stardust and grain texture. In the center, a flowing golden energy line winds through like a flame, extending upward from the base, featuring fluid texture, particle effects, and gradient highlights, with subtle energy debris and volumetric light. Within the golden flow, the architectural landmarks of {argument name=\"city\" default=\"Guangzhou\"} emerge layer by layer: the Canton Tower is the visual core with prominent proportions, surrounded by the Zhujiang New Town skyline, Liede Bridge, and modern Lingnan architectural elements. Buildings are rendered using \"fine line drawing + golden luminous blocks,\" with clear outlines and rich details, appearing to float in a void against the golden halo, creating a surreal spatial hierarchy with slightly fogged backgrounds for added depth. At the bottom of the frame is an oriental white-haired female figure with flowing hair like mist, naturally connecting and merging with the golden light. Her hair is translucent with gradient light effects; she has a graceful posture, eyes closed, and a serene expression, holding a bouquet of colorful flowers dotted with shimmering particles, symbolizing the spiritual connection between people and city energy. Character details are moderately simplified to emphasize the overall design. Lighting is concentrated on the golden flow, buildings, and character outlines, creating intense chiaroscuro and visual focus. The overall atmosphere is grand, mysterious, imbued with oriental mythology, and slightly healing. Colors use black and dark red as a base with brilliant gold as the main visual emphasis. The gold has rich light-dark layers, complemented by small areas of high-saturation floral colors, maintaining a sophisticated and restrained aesthetic. Integrated text and layout: Centered Songti font at the top reads \"{argument name=\"city\" default=\"Guangzhou\"} · China,\" followed by smaller text \"{argument name=\"date\" default=\"2026/04/20\"}\" and \"{argument name=\"author\" default=\"LIYUE\"}\" below. Text uses pale gold or soft warm white, unified with the overall lighting. High-quality details, cinematic lighting, rich volumetric and particle details, clean image without noise, ultra-high 8K resolution, commercial-grade poster quality.",
       "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-hyperrealistic-dreamy-butterfly-portrait-gi2-02737",
+      "assetId": "goku-gpt-image-2-hyperrealistic-dreamy-butterfly-portrait-gi2-02737",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Hyperrealistic Dreamy Butterfly Portrait"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-hyperrealistic-dreamy-butterfly-portrait-gi2-02737.jpg",
+      "prompt": "Buatlah potret hyper realistis {argument name=\"subject\" default=\"seorang wanita cantik berkulit putih cerah porselain\"}. Buatlah tanpa merubah fitur wajahnya, 9:16. HD. Outfit: Mengenakan pakaian dengan detail mewah, termasuk sarung tangan berbahan tulle transparan yang dihiasi taburan manik-manik atau rhinestone berkilau, serta aksesori kalung mutiara yang elegan di leher. Rambut: Rambut tampak ditata dengan gaya yang teratur dan halus, namun sebagian besar tertutup oleh efek cahaya dan fokus pada wajah. Riasan: Menggunakan riasan wajah yang glamor dan detail. Terdapat aksen eyeliner bergaya grafis yang tajam di sudut mata, serta kuku yang panjang dengan desain nail art yang mewah dan rumit. Pose: Subjek berpose sangat ekspresif dengan tangan berada di depan wajah, menutupi sebagian wajah dengan jari-jarinya yang mengenakan cincin besar berbentuk kupu-kupu yang sangat mencolok dan artistik. Ekspresi: Menampilkan ekspresi yang intens, misterius, dan dreamy, dengan tatapan mata yang tajam namun lembut menembus sela-sela jari. Latar: Latar belakang tampak kabur dan terfokus pada efek cahaya artistik, memberikan kesan suasana yang sangat sinematik, ethereal, dan mewah. Pencahayaan: Pencahayaan yang digunakan sangat dramatis dengan efek flare dan soft glow, menciptakan suasana yang magis serta menonjolkan tekstur manik-manik dan detail perhiasan kupu-kupu dengan kilau yang memukau.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-stay-cool-walk-easy-gi2-02961",
+      "assetId": "goku-gpt-image-2-stay-cool-walk-easy-gi2-02961",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Stay Cool Walk Easy"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-stay-cool-walk-easy-gi2-02961.jpg",
+      "prompt": "A giant white clog partially embedded in crystal-clear ice, with cool mist around. Model standing casually beside it.\n\nBackground: icy blue environment\n\nText: “STAY COOL. WALK EASY.”\n\nSubtext: “Fresh comfort, all day.”",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-tiny-collage-digital-universe-gi2-03846",
+      "assetId": "goku-gpt-image-2-tiny-collage-digital-universe-gi2-03846",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Tiny Collage Digital Universe"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-tiny-collage-digital-universe-gi2-03846.jpg",
+      "prompt": "Create a poetic miniature collage universe showing a student’s DIGITAL IDENTITY through real photographed objects and tiny emotional worlds. Style: cozy handmade scrapbook diary, emotional collage aesthetic, Gen Z healing vibe, mixed media collage with warm daylight, cream paper texture, soft grain, masking tape, torn paper, handwritten English notes, arrows, doodles, layered scrapbook composition, whimsical miniature worldbuilding. Include customizable elements: Dream career: {argument name=\"dream career\" default=\"architect\"} Favorite things: {argument name=\"favorite things\" default=\"plants and cats\"} Digital objects: {argument name=\"digital elements\" default=\"laptops and headphones\"} Personality keywords: {argument name=\"personality keywords\" default=\"creative, quiet\"} Online alter ego: {argument name=\"online persona\" default=\"pixel artist\"} Emotional quote: {argument name=\"emotional quote\" default=\"Small steps every day.\"} Transform real objects into miniature emotional environments: keyboard → futuristic city, headphones → music tunnel, books → rooftop homes, camera → memory archive, tablet → glowing digital ocean, controller → arcade town, coffee cup → café lake, cables → subway system.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-mythic-haute-couture-design-draft-gi2-04140",
+      "assetId": "goku-gpt-image-2-mythic-haute-couture-design-draft-gi2-04140",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Mythic Haute Couture Design Draft"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mythic-haute-couture-design-draft-gi2-04140.jpg",
+      "prompt": "Generate a photo titled \"Paper Comes True · Mythic Costume\" style image, 4:5 portrait. The image shows a high-end Eastern mythology haute couture design draft: off-white manuscript paper clipped onto a wooden drawing board and placed on a warm wood-colored design workbench. The tabletop contains fabric samples, color charts, pencils, pin-tube pens, ceramic teacups, jade ornaments, metal accessories, and sketches of small clothing structures.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ultimate-fermentation-guide-visual-grid-gi2-05169",
+      "assetId": "goku-gpt-image-2-ultimate-fermentation-guide-visual-grid-gi2-05169",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ultimate Fermentation Guide Visual Grid"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ultimate-fermentation-guide-visual-grid-gi2-05169.jpg",
+      "prompt": "16:9, 2x2 grid, for “{argument name=\"food\" default=\"sauerkraut\"}”, “kombucha”, “kimchi”, “sourdough starter”. => fermentation_content = ( isometric_fermentation_station_setup_for_[fermented_food]_with_jars_weights_airlocks * 1.6 ) + ( microbial_timeline_chart_bacteria_yeast_activity_by_day_for_[fermented_food] * 1.5 ) + ( ph_and_temperature_sweet_spot_diagram_specific_to_[fermented_food] * 1.4 ) + ( taste_evolution_flavor_wheel_day_by_day_for_[fermented_food]_from_sweet_to_tangy * 1.3 ) + ( troubleshooting_common_ferment_fails_mold_kahm_yeast_soft_mush_with_photos_for_[fermented_food] * 1.5 ) + ( gut_health_benefits_explainer_linking_[fermented_food]_metabolites_to_microbiome * 1.2 ) + ( recipe_variant_matrix_spicy_herbal_fruity_editions_of_[fermented_food] * 1.1 ) + ( safety_and_sterilization_checklist_for_[fermented_food]_with_myth_busting * 1.0 ) + ( serving_suggestion_plate_scape_integrating_[fermented_food]_into_daily_meals * 0.9 ) - ( fear_based_“dangerous_bacteria”_stock_images / 3.2 ) - ( over_styled_hipster_mason_jars_with_no_instruction / 2.9 ) - ( unclear_burping_or_maintenance_routine / 3.1 )",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-lost-head-floating-vibe-gi2-05820",
+      "assetId": "goku-gpt-image-2-lost-head-floating-vibe-gi2-05820",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Lost Head Floating Vibe"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lost-head-floating-vibe-gi2-05820.jpg",
+      "prompt": "A seated man with his body grounded, but his head is floating slightly above his neck, drifting upward, connected by thin smoke-like strands.\n\nOutfit: minimal neutral tones.\nLighting: soft cinematic, slight glow around head.\nBackground: empty studio.\n\nTypography:\n\n* Top: “LOSt”\n* Small text: “IMAGINARY ”\n* Large airy text: “VIBE ”\n\nMood: dissociation, detachment.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-1985-beijing-hutong-dawn-street-scene-gi2-06238",
+      "assetId": "goku-gpt-image-2-1985-beijing-hutong-dawn-street-scene-gi2-06238",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "1985 Beijing Hutong Dawn Street Scene"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-1985-beijing-hutong-dawn-street-scene-gi2-06238.jpg",
+      "prompt": "{argument name=\"year\" default=\"1985\"} Beijing hutong alley at {argument name=\"time of day\" default=\"dawn\"}, a barefoot tofu seller carrying two wooden buckets across his shoulder, steam rising from a yutan stall, vintage Flying Pigeon bicycles parked against grey brick walls, autumn leaves scattered on wet cobblestone, an old man in Mao suit eating jianbing from a street cart, neon shop signs flickering, warm tungsten streetlight glow, Kodak Portra 400 film grain, documentary street photography by {argument name=\"photographer\" default=\"Wang Fuchun\"}",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-how-inventions-changed-the-world-gi2-07377",
+      "assetId": "goku-gpt-image-2-how-inventions-changed-the-world-gi2-07377",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "How Inventions Changed the World"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-how-inventions-changed-the-world-gi2-07377.jpg",
+      "prompt": "innovation_ripple_effect_for_{argument name=\"invention\" default=\"[historical_invention]\"} = ( mechanical_anatomy_exploded_view_of_{argument name=\"invention\" default=\"[historical_invention]\"} * 1.8 ) + ( information_velocity_graph_years_to_spread_idea_pre_vs_post_invention * 2.0 ) + ( cognitive_load_shift_diagram_how_society_processed_information_differently * 1.6 ) + ( economic_disruption_matrix_guilds_vs_industry_labor_shift * 1.4 ) + ( material_supply_chain_sourcing_map_for_the_invention * 1.3 ) - ( dusty_museum_artifact_photos / 3.0 ) - ( inventor_as_lone_genius_trope / 3.8 ) - ( boring_patent_office_drawings / 3.5 )",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-character-design-board-gi2-07730",
+      "assetId": "goku-gpt-image-2-luxury-character-design-board-gi2-07730",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Luxury Character Design Board"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-character-design-board-gi2-07730.jpg",
+      "prompt": "Buat character design board sinematik untuk {argument name=\"genre film\" default=\"film drama premium\"}.\nKarakter utama {argument name=\"gender\" default=\"perempuan\"} dengan fitur wajah tegas tapi tetap lembut, kulit glowing natural, dan silk gown high-fashion dengan desain modern sculpted. Dilengkapi jewelry minimalis yang memberi kesan elegan dan mewah.\n\nInclude:\n-full-body turnaround\n-variasi ekspresi wajah\n-cinematic portrait angle\n-studi fabric physics\n-makeup breakdown\n-annotation notes\n-skala tinggi badan\n\nMood:\nclean studio lighting, soft shadow, editorial fashion aesthetic, dan nuansa luxury magazine modern.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-vintage-70s-magazine-cover-design-gi2-07888",
+      "assetId": "goku-gpt-image-2-vintage-70s-magazine-cover-design-gi2-07888",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Vintage 70s Magazine Cover Design"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-70s-magazine-cover-design-gi2-07888.jpg",
+      "prompt": "Vintage {argument name=\"magazine name\" default=\"[MAGAZINE NAME]\"} cover, 1970s {argument name=\"country\" default=\"[COUNTRY]\"} design. Main photo: {argument name=\"architecture\" default=\"[ARCHITECTURE]\"}. Kodachrome 64 film grain, warm color cast. Masthead in bold compressed serif. Headline + sub-deck overlaid lower third. Glossy paper texture, corner fold. 2:3.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-angelic-girl-riding-clouds-fantasy-art-gi2-09232",
+      "assetId": "goku-gpt-image-2-angelic-girl-riding-clouds-fantasy-art-gi2-09232",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Angelic Girl Riding Clouds Fantasy Art"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-angelic-girl-riding-clouds-fantasy-art-gi2-09232.jpg",
+      "prompt": "(1girl1.5), solo, alone, (girl at the front), girl close up, look at viewer, {argument name=\"character expression\" default=\"The girl of Mercy, the expression of mercy\"}, the girl in the center of the screen. bare shoulders. upper body, Circle of angels, haloed, riding on clouds.extend both hands, White frills.(((Multiple mixed scenes))), all translucent, {argument name=\"theme\" default=\"science fiction, fantasy, steampunk, cyberpunk, fairyland\"}, movie poster, wire frame, picture book, ink, illustration, double exposure, lens flare, aestheticism, the galaxy, dreams in the middle of the night, from above, psychedelics, brave swords, spectacular scenery, masterpieces, best quality, running lights, tons of drugs, tons of stationery, iridescent, cute, kawaii, illustration, Super fine illustration, (Noah's Ark:1.2), Angels, {argument name=\"environment\" default=\"The wilderness, the world tree, the meadows\"}, Holograms, 11-dimensional universe, world reason, truth",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-western-sichuan-3-day-adventure-gi2-10215",
+      "assetId": "goku-gpt-image-2-western-sichuan-3-day-adventure-gi2-10215",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Western Sichuan 3-Day Adventure"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-western-sichuan-3-day-adventure-gi2-10215.jpg",
+      "prompt": "Help me generate {argument name=\"Travel itinerary\" default=\"May Day Western Sichuan Travel Guide: Day 1: Siguniang Mountain, Danba; Day 2: Yala Snow Mountain, Moshi Park, Xinduqiao; Day 3: Yuzixi, Honghaizi Mugechoo, Provincial Highway 434 back to Chengdu\"}",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-understanding-frontend-backend-database-saas-gi2-10303",
+      "assetId": "goku-gpt-image-2-understanding-frontend-backend-database-saas-gi2-10303",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Understanding Frontend Backend Database SaaS"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-understanding-frontend-backend-database-saas-gi2-10303.jpg",
+      "prompt": "01 Front-end (what the user sees)\n\nWhat is it: the front-end is the interface, the part that the user can see, point and operate.\n\nWhere: the interface of the web page, small program, App.\n\nWhat to use: HTML (structure), CSS (style), JavaScript (interaction).\n\n02 Backend (the part that handles behind the scenes)\n\nWhat it is: the backend is the brain behind the scenes, responsible for logic and computing.\n\nWhere: on the server, invisible to the user.\n\nRole:\n\nHandles login registration\n\nCalculate prices, recommend products\n\nReceive front-end requests, return data\n\nCommonly used programming languages: Java, Python, Go, JavaScript (Node.js)\n\n03 Database (memorized part)\n\nWhat it is: a database is used to store and manage data.\n\nWhat is stored: accounts, passwords, orders, inventory...\n\nCommon databases:\n\nMySQL, PostgreSQL (relational, like tables)\n\nMongoDB (document-based, like folders)\n\n04 SaaS (Software as a Service)\n\nWhat is it : SaaS = Software as a Service.\n\nCore features:\n\nOpen a webpage/applet/app and it works!\n\nSubscribe on a monthly or yearly basis\n\nCommon forms: website, mobile App, applet can be SaaS.\n\n05 Summary\n\nFront-end: the interface that users see and operate\n\nBackend: the logic and computation that runs behind the scenes\n\nDatabase: where the data is stored and managed\n\nSaaS: software made as a service that users use anytime over the web\n\nFront-end display → back-end processing → database storage → SaaS is the delivery method\n\nHelp me draw an easy-to-understand diagram for the above content",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-six-classic-cinematic-lighting-techniques-gi2-11623",
+      "assetId": "goku-gpt-image-2-six-classic-cinematic-lighting-techniques-gi2-11623",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Six Classic Cinematic Lighting Techniques"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-six-classic-cinematic-lighting-techniques-gi2-11623.jpg",
+      "prompt": "Zone 1 (top-left): Rembrandt lighting, key 45° elevated camera left, fill -45° camera right 0.5x, dramatic triangle on shadow cheek Zone 2 (top-center): Butterfly lighting, key overhead slightly front, fill reflector under chin, butterfly nose shadow, beauty editorial Zone 3 (top-right): Split lighting, hard key 90° camera left, zero fill, half face in shadow, noir mystery Zone 4 (bottom-left): Loop lighting, key 30° elevated camera left, fill -30° camera right 0.3x, small nose loop shadow, natural commercial Zone 5 (bottom-center): Rim lighting dominant, hard backlight 170° camera right gold gel, hair glow, edge separation, heroic silhouette Zone 6 (bottom-right): Clamshell lighting, butterfly key overhead + large soft fill from below 45°, zero shadows, porcelain skin, high-end beauty",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-premium-minimal-travel-poster-gi2-20408",
+      "assetId": "goku-gpt-image-2-premium-minimal-travel-poster-gi2-20408",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Premium Minimal Travel Poster"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-premium-minimal-travel-poster-gi2-20408.jpg",
+      "prompt": "Create a premium editorial travel illustration of {argument name=\"destination\" default=\"DESTINATION\"}, {argument name=\"country\" default=\"COUNTRY/REGION\"} using a minimal layered cutout illustration style. IMPORTANT: This must NOT look like a busy handmade paper craft artwork. Instead, it should feel like a premium Scandinavian editorial poster, a modern travel magazine cover, a sophisticated museum-shop print, and an elegant minimalist paper collage design. STYLE: minimal layered cutout illustration, large clean paper shapes, editorial paper collage aesthetic, bold geometric masses, simplified layered depth, soft subtle shadows, clean cut edges with slightly rounded corners, ultra simplified shape language. COLOR & LIGHTING: limited color palette (4–6 colors) featuring {argument name=\"primary color\" default=\"PRIMARY COLOR\"}, [SECONDARY COLOR], crisp white, soft slate blue, and pale grey, vibrant but restrained tones. MOOD: calm, modern, refined, premium, slightly whimsical, mature high-end travel branding aesthetic. TYPOGRAPHY: minimal elegant sans-serif typography with the text \"[DESTINATION]\", clean spacing and alignment, suitable size. ASPECT RATIO: 4:5 vertical poster format.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-corporate-strategy-future-vision-slide-gi2-20418",
+      "assetId": "goku-gpt-image-2-corporate-strategy-future-vision-slide-gi2-20418",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Corporate Strategy Future Vision Slide"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-corporate-strategy-future-vision-slide-gi2-20418.jpg",
+      "prompt": "Goal: Create a polished Japanese corporate strategy slide about the purpose and future vision of a project using accumulated data from an insurance-safety network and BI tools. Canvas: 16:9 horizontal presentation slide, white background, navy and light-blue corporate palette, thin blue outlines, clean grid alignment, dense but readable Japanese business-slide typography. Title: Large navy heading at top left: &quot;1.1. Purpose and Future Vision of This Project&quot;. Top overview box: Directly below the title, add a white rectangular box with a thin navy border. On the left, include a dark navy pill label &quot;Overview&quot;. To the right, write: &quot;This project will statistically analyze data accumulated in the insurance-safety network using BI tools, etc., to conduct research aimed at ensuring the reliable implementation of permits and regulations in industrial safety and product safety administration, and preventing damage to accumulated data.&quot; Overall message band: Below the overview, add a pale blue horizontal band. On the left, a dark-blue arrow label &quot;Overall Message&quot;. Main message text in bold navy: &quot;By utilizing security networks and BI tools, the current four challenges will be consolidated into three future visions: predictive detection and two major automations.&quot; Main layout: Three columns with headings from left to right: &quot;Purpose&quot;, &quot;Current Challenges&quot;, &quot;Future Vision&quot;. Use two horizontal rows separated by a dotted divider. Use arrows from current issues toward future vision cards. Left column, exactly 2 dark navy purpose cards: 1. Card label &quot;Purpose 1&quot; in a small white rounded pill, main text: &quot;Ensuring the reliable implementation of permits and regulations in industrial safety and product safety administration&quot;. 2. Card label &quot;Purpose 2&quot; in a small white rounded pill, main text: &quot;Prevention of the risk of damage to accumulated data&quot;. Center column, exactly 4 current issue items grouped into two pale-gray rounded containers, each item with a navy circular number badge: 1. &quot;Implementation of uniform regulations&quot; with smaller explanation &quot;Except for the certified business operator system, uniform individual regulations, permits, notifications, and inspection obligations are imposed regardless of the safety level of the business operator.&quot; 2. 1. &quot;Implementation of statistical analysis work by external organizations&quot; with smaller explanation: &quot;In many of the relevant departments, the statistical analysis of accident information is conducted by contracted companies, and the reporting frequency is limited to once a year.&quot; 2. &quot;Errors occurred in data aggregation&quot; with smaller explanation: &quot;Errors in aggregation occurred in the materials used for deliberations on the High Pressure Gas Safety Act amendment bill during the 208th ordinary session of the Diet.&quot; 3. &quot;Risk of information sharing gaps&quot; with smaller explanation: &quot;Because inter-organizational communication is operated via email, etc., there is a risk of database deficiencies occurring due to sharing gaps or transcription errors.&quot; Right column, exactly 3 future vision cards with blue outline and simple line icons: 1. Top large card connected from the first issue group by a thick navy arrow, icon of a magnifying glass with a rising bar chart and warning triangle, text: &quot;Realization of early detection of signs of accidents and legal violations.&quot; 2. Middle card connected from the second issue group by a branching arrow, icon of a computer monitor/document with upload or transfer arrows, text: &quot;Automation of data entry.&quot; 3. Bottom card connected by the same branching arrow, icon of a database cylinder with a gear, text: &quot;Automation of data aggregation&quot;. Bottom message strip: Full-width white strip with thin blue border. On the left, a circular target icon. Text in bold navy: &quot;By visualizing and analyzing accumulated data from the security network using a BI tool, we will simultaneously achieve advanced regulatory operation and improved data quality.&quot; Visual style: Japanese consulting deck aesthetic, crisp vector icons, consistent navy #003b8f / deep blue #001f5b accents, pale blue highlight bands, rounded cards, subtle gray dividers, no photos, no shadows beyond very light card depth. Keep all text sharp and legible, with the exact count of 2 purpose cards, 4 issue items, and 3 future vision cards. Use {argument name=&quot;project data source&quot; default=&quot;Security Network&quot;}, {argument name=&quot;analysis tool&quot; default=&quot;BI tool&quot;}, {argument name=&quot;slide title&quot; default=&quot;1.1. Objectives and future vision of this project&quot;}, {argument name=&quot;overall message&quot;} default=&quot;By utilizing security networks and BI tools, the current four challenges will be consolidated into three future visions: predictive detection and two major automations.&quot;}, and {argument name=&quot;bottom message&quot; default=&quot;By visualizing and analyzing the accumulated data of security networks with BI tools, we will simultaneously achieve advanced regulatory operations and improved data quality.&quot;}.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-dramatic-black-white-fashion-portrait-gi2-20424",
+      "assetId": "goku-gpt-image-2-dramatic-black-white-fashion-portrait-gi2-20424",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Dramatic Black White Fashion Portrait"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dramatic-black-white-fashion-portrait-gi2-20424.jpg",
+      "prompt": "Dramatic ultra-photorealistic black-and-white studio fashion portrait of an {argument name=\"subject\" default=\"adult man\"}, photographed as a premium editorial campaign with a full-frame professional camera. Three-quarter body composition, framed from approximately mid-thigh upward. He stands naturally with confident posture, both hands casually tucked into his trouser pockets, shoulders relaxed, chest subtly open, chin slightly lifted, head turned a little away from the camera. His expression is calm, self-assured, serious, and composed.\n\nHe wears round vintage-style sunglasses with realistic dark lenses and thin frames, a perfectly tailored {argument name=\"shirt type\" default=\"crisp white dress shirt\"} with the top two or three buttons undone, collar naturally open, sleeves casually rolled to the forearms, shirt neatly tucked into high-quality dark tailored trousers with a simple leather belt and understated metal buckle. Clothing should show authentic fabric texture, natural wrinkles, realistic stitching, subtle folds around the elbows and waist, and physically accurate draping.\n\nPure seamless black studio background with no visible environment, props, texture, or distractions. Extremely controlled low-key cinematic lighting: one strong directional side light positioned approximately 45 degrees to the subject, creating sculpted bright highlights across the white shirt while allowing the opposite side of the face and body to fall naturally into deep partial shadow. Subtle soft reflected fill only where physically plausible. Strong chiaroscuro, rich blacks, luminous white highlights, smooth tonal transitions, realistic skin texture, natural pores and fine facial detail, subtle facial hair detail, accurate anatomy, realistic hands and fingers.\n\nHigh-contrast monochrome photography with a refined filmic tonal range, deep blacks without crushed facial detail, clean highlights without excessive clipping, subtle natural film grain, realistic lens rendering, gentle background separation, and authentic photographic imperfections. Sharp focus on the face, sunglasses, and shirt collar with a gradual shallow depth of field toward the lower body. Sophisticated luxury fashion editorial aesthetic, timeless cinematic mood, restrained and elegant rather than theatrical.\n\nPhotorealistic skin, physically accurate lighting, realistic shadows, true-to-life proportions, natural posture, premium studio photography, high dynamic range, fine micro-contrast, detailed fabric texture, realistic optical characteristics, {argument name=\"lens\" default=\"85mm\"} portrait lens look, approximately f/2.8, full-frame camera, high-resolution RAW photography, professionally retouched but not artificially smoothed, no CGI appearance.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-summer-fruits-vegetables-guide-gi2-20429",
+      "assetId": "goku-gpt-image-2-summer-fruits-vegetables-guide-gi2-20429",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Summer Fruits Vegetables Guide"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-summer-fruits-vegetables-guide-gi2-20429.jpg",
+      "prompt": "Subject: {argument name=&quot;subject&quot; default=&quot;Introduction to 10 Summer Fruits and Vegetables&quot;} Generates 10 consecutive images, each introducing a different fruit or vegetable, along with key phrases, logical explanations, color schemes, and layout similar to a PowerPoint presentation. Ensures the layout of each image is distinct, with a 16:9 aspect ratio.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-turkish-fruit-market-stall-gi2-20437",
+      "assetId": "goku-gpt-image-2-turkish-fruit-market-stall-gi2-20437",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Turkish Fruit Market Stall"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-turkish-fruit-market-stall-gi2-20437.jpg",
+      "prompt": "{argument name=\"ülke\" default=\"Türkiye\"}'den bir fotoğraf oluştur. Bir pazar'da tezgahta {argument name=\"meyveler\" default=\"meyvelerin\"} arkasında duran bir manavcı, tezgahta farklı meyveler var, herbirinin adı ve fiyatı yazıyor. Fiyatları güncel olarak arşatır ve Türkiye'ye göre ortalama fiyatlar yazmalısın. {argument name=\"stil\" default=\"Ultra gerçekçi bir haber fotoğrafı\"} olmalı.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-black-wind-cinematic-fashion-portrait-gi2-20454",
+      "assetId": "goku-gpt-image-2-black-wind-cinematic-fashion-portrait-gi2-20454",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Black Wind Cinematic Fashion Portrait"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-black-wind-cinematic-fashion-portrait-gi2-20454.jpg",
+      "prompt": "Create a vertical cinematic fashion campaign portrait titled {argument name=\"headline text\" default=\"BLACK WIND\"}. A solitary {argument name=\"subject\" default=\"East Asian woman\"} stands in a windswept open grassland under a heavy overcast sky, framed from mid-thigh upward in a low-angle editorial composition. She wears a fitted black ribbed turtleneck top and a long flowing black skirt or dress, with her hands held behind her back; her head is turned in profile to the right, eyes closed, calm and introspective. Her very long black hair is blown dramatically to the left by strong wind, with many fine strands trailing across the cloudy sky. The background shows dark rolling hills and moody moorland, with tall dry grasses in the extreme foreground blurred by shallow depth of field and motion, partially crossing the lower center of the image. Use muted cool film tones, blue-gray clouds, soft natural diffused light, subtle grain, realistic skin, high-fashion editorial styling, atmospheric wind movement, and a slightly underexposed dramatic look. Add minimalist thin white typography centered near the bottom: large widely spaced text “{argument name=\"headline text\" default=\"BLACK WIND\"}”, below it smaller spaced text “{argument name=\"series title\" default=\"WIND FIELD PORTRAITS\"}”, and a third tiny line “{argument name=\"tagline\" default=\"SILENCE MOVES WITH THE WIND\"}”. Keep the design clean with no logos or watermarks, portrait aspect ratio 9:16, photographic realism, and ensure the wind, hair, grasses, and clouds define the mood.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-lonely-woman-in-blue-coat-gi2-20455",
+      "assetId": "goku-gpt-image-2-lonely-woman-in-blue-coat-gi2-20455",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Lonely Woman In Blue Coat"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lonely-woman-in-blue-coat-gi2-20455.jpg",
+      "prompt": "A cinematic street portrait of a young woman walking through a crowded city, with the subject perfectly sharp while the surrounding pedestrians are blurred using a dramatic panning motion effect. The entire image is monochrome black and white except for the woman's {argument name=\"coat color\" default=\"deep navy-blue\"} wool coat, which remains the only vivid color in the scene. She glances back over her shoulder with a calm, thoughtful expression, loose wind-swept hair, soft natural makeup, and a minimalist shoulder bag. The busy urban background is filled with fast-moving commuters rendered as ghostly motion blur, emphasizing loneliness amidst the crowd. Soft overcast daylight, shallow depth of field, subtle film grain, realistic skin texture, cinematic contrast, emotional storytelling, editorial fashion photography, premium fine-art street photography, ultra-photorealistic, Leica M11 look, Kodak Tri-X black and white film aesthetic with selective color, 50mm lens, f/1.8, ISO 100, 1/20s shutter speed, natural ambient lighting, high dynamic range, ultra-detailed, award-winning composition, 8K.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-dreamy-cinematic-luxury-fashion-portrait-gi2-20456",
+      "assetId": "goku-gpt-image-2-dreamy-cinematic-luxury-fashion-portrait-gi2-20456",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Dreamy Cinematic Luxury Fashion Portrait"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dreamy-cinematic-luxury-fashion-portrait-gi2-20456.jpg",
+      "prompt": "A dreamy cinematic portrait of a beautiful young woman with {argument name=\"hair style\" default=\"long, wavy golden-blonde hair\"}, wearing a {argument name=\"clothing\" default=\"cream-beige oversized shirt\"} and a {argument name=\"accessory\" default=\"black leather strap luxury wristwatch\"}. She gently covers her eyes with one hand while facing slightly upward, revealing a graceful jawline and elegant neck. Soft warm golden rim lighting illuminates her hair, creating a glowing halo effect. A perfect luminous golden circle frames her against a deep black background filled with tiny sparkling stars and floating golden particles. Ultra-realistic, highly detailed skin, cinematic lighting, premium fashion photography, shallow depth of field, soft glow, luxurious aesthetic, 8K masterpiece.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-breathtaking-rainy-mountain-lake-scenery-gi2-20457",
+      "assetId": "goku-gpt-image-2-breathtaking-rainy-mountain-lake-scenery-gi2-20457",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Breathtaking Rainy Mountain Lake Scenery"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-breathtaking-rainy-mountain-lake-scenery-gi2-20457.jpg",
+      "prompt": "A breathtaking mountain road just after rainfall, wet asphalt reflecting the golden sunset, lush green hills covered in mist, dramatic clouds, tiny water droplets on leaves, fresh atmosphere, cinematic lighting, ultra realistic, HDR, peaceful, highly detailed, 8K, DSLR quality, wide-angle landscape photography, no people, natural colors. A stunning sunrise over a crystal-clear lake surrounded by majestic mountains, colorful sky with orange and pink clouds, gentle fog floating above the water, lush green trees, mirror-like reflections, peaceful morning atmosphere, cinematic composition, ultra realistic, HDR, volumetric lighting, 8K, DSLR landscape photography, highly detailed, no people.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-couple-park-emotional-moments-gi2-20461",
+      "assetId": "goku-gpt-image-2-couple-park-emotional-moments-gi2-20461",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Couple Park Emotional Moments"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-couple-park-emotional-moments-gi2-20461.jpg",
+      "prompt": "Ultra-realistic lifestyle photography of a happy young couple walking hand in hand through a beautiful park during golden hour. Both are smiling naturally, laughing together, making eye contact, and enjoying each other's company. Blooming flowers, lush green trees, warm sunlight, and a peaceful atmosphere create a romantic setting. Soft cinematic lighting, vibrant colors, premium editorial photography, ultra-detailed, photorealistic, 8K, authentic emotions, shallow depth of field, elegant composition, clean negative space for branding or text, portrait aspect ratio 4:5. Ultra-realistic lifestyle photography of a young couple sitting apart on a park bench after an argument. Both look sad and emotionally distant, avoiding eye contact, with thoughtful expressions and subtle body language showing tension. The atmosphere is calm with an overcast sky, muted colors, gentle breeze, and a few fallen leaves, creating an emotional yet respectful mood. Cinematic natural lighting, premium editorial photography, ultra-detailed, photorealistic, 8K, realistic facial expressions, shallow depth of field, elegant composition, clean negative space for branding or text, portrait aspect ratio 4:5.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-royal-dual-scenes-8k-gi2-20462",
+      "assetId": "goku-gpt-image-2-royal-dual-scenes-8k-gi2-20462",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Royal Dual Scenes 8K"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-royal-dual-scenes-8k-gi2-20462.jpg",
+      "prompt": "Colorful Royal Scene (8K) A majestic king and queen standing together in front of a magnificent golden palace at sunrise, wearing luxurious royal robes embroidered with gold and precious gemstones, elegant crowns sparkling with diamonds, colorful flower gardens, majestic white peacocks, glowing fountains, cinematic lighting, ultra-detailed faces, realistic textures, vibrant colors, fantasy realism, volumetric light, masterpiece composition, HDR, 8K, hyper-realistic, ultra-sharp focus. Dark Royal Scene (8K) A powerful king and queen standing on the balcony of a dark gothic castle during a thunderstorm, black and crimson royal outfits, ancient jeweled crowns, flowing capes, glowing torches, lightning illuminating the sky, ravens flying overhead, dramatic shadows, mysterious atmosphere, cinematic dark fantasy, ultra-realistic facial details, volumetric fog, high contrast, HDR, masterpiece, hyper-detailed, ultra-sharp, 8K quality.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-cinematic-melancholic-portrait-gi2-20480",
+      "assetId": "goku-gpt-image-2-cinematic-melancholic-portrait-gi2-20480",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Cinematic Melancholic Portrait"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-melancholic-portrait-gi2-20480.jpg",
+      "prompt": "A cinematic close-up portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} with long slightly messy black hair falling across her face, porcelain skin, soft pink lips, and deep expressive eyes. She gazes directly into the camera with a {argument name=\"expression\" default=\"calm, melancholic\"} expression. Dramatic low-key lighting illuminates only parts of her face, creating strong contrast against a dark shadowy background. Subtle strands of hair move gently as if touched by a breeze, adding a natural and emotional feel. Moody atmosphere, minimalist composition, soft skin texture, delicate facial details, editorial beauty photography, subtle grain, muted colors, intimate and mysterious mood, ultra-realistic, high detail, captured like an artistic film still.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-zen-woman-by-floral-window-gi2-20484",
+      "assetId": "goku-gpt-image-2-zen-woman-by-floral-window-gi2-20484",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Zen Woman by Floral Window"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-zen-woman-by-floral-window-gi2-20484.jpg",
+      "prompt": "Theme: Minimalist Eastern Zen Poster Style Branch: New Chinese Style with Female Aesthetics Main Content: {argument name=&quot;Main Content&quot; default=&quot;An ancient-style woman standing in front of a floral window, her posture quiet and reserved&quot;} Emotional Theme: Elegant, Gentle, and Luxurious Scene and Imagery: {argument name=&quot;Imagery&quot; default=&quot;Jade-green floral window, rose-red flower shadows, woman, light gold ornaments, clean white space&quot;} Composition and Space: Lower-center composition, with the floral window as the main background, the figure in the lower middle part, and sufficient white space above and to the sides of the image. Color Control: {argument name=&quot;Color Control&quot; default=&quot;Warm white as a bright base, jade-green used for the floral window and some background structures, rose-red only used for flower shadows and a few local accents, light gold used for highlights on small ornaments&quot;}, the figure&#39;s clothing can be pearl white or light pinkish-white; avoid full rose-red or full jade-green light. Light and Texture: Soft natural light, clean flat poster feel, slight paper feel, bright and clear colors. Aspect Ratio: 9:16 Additional requirements: The overall aesthetic should lean towards a feminine style and resemble a Xiaohongshu (Little Red Book) cover; the subjects should be delicate and petite; the image should be clean, sophisticated, and not overly dark.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-stunning-korean-couture-fashion-editorial-gi2-20489",
+      "assetId": "goku-gpt-image-2-stunning-korean-couture-fashion-editorial-gi2-20489",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Stunning Korean Couture Fashion Editorial"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-stunning-korean-couture-fashion-editorial-gi2-20489.jpg",
+      "prompt": "A stunning young {argument name=\"ethnicity\" default=\"Korean\"} woman in a high-end fashion studio photoshoot, standing confidently against a seamless {argument name=\"background color\" default=\"dark charcoal\"} backdrop. She wears an elegant couture evening gown crafted from luxurious satin and silk, perfectly tailored with sophisticated details, flowing silhouette, and refined textures. Minimalist studio environment with no distracting props, all attention directed toward her beauty, posture, and presence.\nCinematic low-key lighting setup with a single large softbox creating soft highlights across her face and outfit, subtle rim light separating her from the background, deep shadows, dramatic contrast, and moody editorial atmosphere. Natural skin texture, flawless makeup, glossy hair styled elegantly, captivating expression, graceful pose, fashion magazine cover quality.\nUltra-realistic DSLR photography, premium luxury fashion editorial, shallow depth of field, 85mm lens, f/1.8, tack-sharp focus on the model, background fading into darkness, exceptional fabric detail, realistic lighting falloff, rich tonal depth, cinematic color grading, Vogue-style photoshoot, masterpiece composition, photorealistic, RAW photo quality, 8K resolution, highly detailed, professional studio fashion campaign.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-elegant-city-fashion-portrait-at-golden-hour-gi2-20510",
+      "assetId": "goku-gpt-image-2-elegant-city-fashion-portrait-at-golden-hour-gi2-20510",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Elegant City Fashion Portrait at Golden Hour"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-elegant-city-fashion-portrait-at-golden-hour-gi2-20510.jpg",
+      "prompt": "A beautiful young adult woman with {argument name=\"hair\" default=\"long wavy black hair\"} and expressive brown eyes, wearing an {argument name=\"outfit\" default=\"elegant black outfit\"}, standing in a {argument name=\"setting\" default=\"luxurious modern city\"} at golden hour. Soft cinematic lighting on her face, natural skin texture, subtle wind moving her hair, confident and graceful expression, realistic facial features, shallow depth of field, premium fashion photography, ultra-detailed, photorealistic, 85mm lens, cinematic color grading, 8K quality.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-paris-paper-craft-miniature-travel-gi2-20534",
+      "assetId": "goku-gpt-image-2-paris-paper-craft-miniature-travel-gi2-20534",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Paris Paper Craft Miniature Travel"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-paris-paper-craft-miniature-travel-gi2-20534.jpg",
+      "prompt": "Create a charming miniature 3D paper-craft travel illustration of {argument name=\"destination\" default=\"Paris\"}, designed like a delicate handmade travel postcard. Feature recognizable local landmarks and cultural elements as tiny handcrafted models, arranged on a narrow floating landscape strip. Include small details such as local transportation, trees, street lamps, water, birds, clouds, and subtle travel elements like an airplane with a dotted flight path.\n\nUse a soft white textured paper background, gentle natural lighting, pastel colors, subtle shadows, and a whimsical handcrafted aesthetic. The landmarks should look like they are made from paper, clay, wood, and miniature craft materials, with realistic tiny textures and charming imperfections.\n\nKeep the composition minimal, clean, airy, and centered, with plenty of negative space around the miniature scene. Add a small elegant handwritten-style title at the bottom reading “{argument name=\"destination name\" default=\"DESTINATION\"}”.\n\nStyle: miniature diorama, handcrafted paper art, travel postcard, whimsical 3D illustration, soft pastel palette, tactile textures, macro photography feel, delicate details, cozy artistic aesthetic, high resolution, vertical 9:16 composition.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-vermilion-gate-zen-poster-gi2-20548",
+      "assetId": "goku-gpt-image-2-vermilion-gate-zen-poster-gi2-20548",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Vermilion Gate Zen Poster"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vermilion-gate-zen-poster-gi2-20548.jpg",
+      "prompt": "Theme: {argument name=&quot;Theme&quot; default=&quot;Minimalist Oriental Zen Poster&quot;} Style Branch: {argument name=&quot;Style Branch&quot; default=&quot;High Contrast New Chinese Style&quot;} Main Content: {argument name=&quot;Main Content&quot; default=&quot;A small figure stands in front of a half-open vermilion round door, about to enter the courtyard&quot;} Emotional Motif: Entry, Subtlety, Oriental Courtyard, Bright Summer Scene and Imagery: Vermilion round door, off-white wall, emerald green bamboo shadows, bright courtyard inside the door, silhouette of the small figure Composition and Space: Central composition, the round door as a strong symbolic subject, a large area of ​​white space on the wall, the figure in a small area in front of the door Color Control: Off-white as the base of the wall, vermilion used for the main body of the round door, emerald green only used for the bamboo shadows and a few plants inside the door, the figure is silhouetted in dark blue; avoid the wall also becoming a red and green color Light and Texture: Natural daylight, light paper-like wall, clear bamboo shadows, clean edges Aspect Ratio: 9:16 Additional requirements: The round door should be simple and elegant, the figures should be small but tell a story, and the overall design should resemble a bright, modern Chinese-style brand poster.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-knitted-beijing-morning-diorama-poster-gi2-20556",
+      "assetId": "goku-gpt-image-2-knitted-beijing-morning-diorama-poster-gi2-20556",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Knitted Beijing Morning Diorama Poster"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-knitted-beijing-morning-diorama-poster-gi2-20556.jpg",
+      "prompt": "Goal: Create a soft healing morning poster combining typography and a miniature Beijing landscape scene on warm knitted fabric.\n\nCanvas: Wide horizontal poster, 16:9 aspect ratio, warm cream and beige palette, generous negative space on the left, cinematic shallow depth of field.\n\nLayout: Place all typography in a vertical block on the upper-left third. The right and lower areas show a tiny diorama-like winter morning landscape made from fuzzy cream yarn and knitted textile folds. Use the knitted fabric as rolling hills, ground, and foreground ridge, with visible wool fibers and soft loops.\n\nText content: Include exactly 7 text elements on the left: 1) bold uppercase English headline “GOOD MORNING”; 2) very large thin Chinese characters “早安”; 3) a short horizontal divider line; 4) location line “北京 BEIJING”; 5) date line “2026-07-28”; 6) quoted sentence “迎着晨光，步步自有回响。”; 7) two-line blessing text “愿你今日自信从容 / 让清晨点亮新的开始”. Use dark warm brown typography, clean modern sans-serif for English and dates, elegant thin Chinese type for the large characters.\n\nSubject details: The miniature scene contains exactly 7 visible human figures: 1) a delivery cyclist in the lower-left foreground riding a black bicycle with tan delivery boxes; 2) a standing person near center-left waving one arm; 3) a tiny distant figure pair near the middle background; 4) a runner in dark shorts near center; 5) a photographer or traveler standing center-right with a backpack; 6) a tiny distant walker near the temple stairs. Add one central traditional Beijing-style pavilion/temple with stairs in the right background, one partial traditional roof building at the far right edge, and a few pale flowering or frosted trees. Make all people look like tiny scale-model figures.\n\nVisual style: Macro photography of a handcrafted miniature scene, cozy wool texture, soft sunrise light from the upper left, gentle misty atmosphere, creamy highlights, realistic fabric fibers, warm shadows, premium lifestyle poster aesthetic, calm and comforting mood.\n\nParameters: Use {argument name=\"headline text\" default=\"GOOD MORNING\"}, {argument name=\"large greeting text\" default=\"早安\"}, {argument name=\"city label\" default=\"北京 BEIJING\"}, {argument name=\"date\" default=\"2026-07-28\"}, and {argument name=\"quote\" default=\"迎着晨光，步步自有回响。\"}.\n\nConstraints: Keep the image uncluttered, preserve the left-side text hierarchy, avoid watermarks or logos, do not add extra people beyond the 7 specified figures, and maintain a soft beige morning color grade.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-zen-calligraphy-poster-art-gi2-20568",
+      "assetId": "goku-gpt-image-2-zen-calligraphy-poster-art-gi2-20568",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Zen Calligraphy Poster Art"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-zen-calligraphy-poster-art-gi2-20568.jpg",
+      "prompt": "Theme: {argument name=&quot;Theme&quot; default=&quot;Minimalist Oriental Zen Poster&quot;} Style Branch: High-contrast, communicative main content: {argument name=&quot;The subject&quot; default=&quot;A silhouette of a figure writing in front of a long wall&quot;} Emotional Theme: {argument name=&quot;Emotion&quot; default=&quot;Expression, momentum, clarity, literary tension&quot;} Scene and Imagery: Off-white long wall, large area of ​​cobalt blue blank space, bright orange signature mark, figure and brushstrokes Ink lines Composition and Space: Side composition, figure is on one side, long wall forms a large area of ​​blank space, writing action brings out vertical or diagonal visual movement Color Control: Off-white as the wall surface and main blank space base, cobalt blue is used for local background blocks or shadow layers, bright orange is only used for small area marks, brushstrokes, or signature positions, figure is silhouetted in black ink; avoid the overall wall surface being too heavily colored Light and Texture: Natural light, paper wall texture, clear ink lines, light grain, modern cultural poster feel Aspect Ratio: 9:16 Additional requirements: The action should be powerful, but the overall design should remain minimalist, suitable for posters with a strong cultural feel and catchy headlines.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-art-house-movie-poster-design-gi2-20585",
+      "assetId": "goku-gpt-image-2-minimalist-art-house-movie-poster-design-gi2-20585",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Minimalist Art House Movie Poster Design"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-art-house-movie-poster-design-gi2-20585.jpg",
+      "prompt": "Minimalist art-house movie poster featuring a close-up portrait of {argument name=\"subject\" default=\"HUMAN\"} wearing {argument name=\"clothing\" default=\"CLOTHING\"}, shown in side profile and partially swallowed by shadow, with loose hair strands drifting across the face. Use [PALETTE], abstract blocks of light and darkness, a matte frosted gradient background, and [SCENERY] reduced to a tiny distant scene in the lower left. Emphasize poetic tension, clean negative space, cinematic grain, soft motion haze, layered depth, and refined typography, with the title “{argument name=\"movie title\" default=\"TITLE\"}” near the lower center and the small text “[TEXT]” include a laurel emblem beneath it, vertical 4:5.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-oriental-papercut-dreamscape-gi2-20588",
+      "assetId": "goku-gpt-image-2-oriental-papercut-dreamscape-gi2-20588",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Oriental Papercut Dreamscape"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-oriental-papercut-dreamscape-gi2-20588.jpg",
+      "prompt": "9:16 Vertical Version, Modern Oriental Papercut Art, Layered Papercut Illustration, Dimensional Paper Sculpture, Intricate Paper Carving, Paper Diorama, Layered Shadow Box, Epic Oriental Paper Fantasy, Poetic Female Dreamscape, Contemporary Oriental Art Poster. The core narrative of the image is: a young Oriental woman (age 25) stands alone atop a towering, enormous paper art platform, with an endless sea of ​​clouds and layered distant mountains below. Her clothing is a long paper art dress in moon white and misty blue. Dream imagery includes clouds, distant mountains, flying birds, long steps, paper ribbons in the wind, and shimmering starlight. All structures must be unified with a highly refined three-dimensional paper sculpture language. The overall color scheme is primarily moon white, misty blue, and light gold, with a small amount of silver-white accents. Light illuminates the top of the platform, the edge of the ladder, the railings, and the outlines of the figures, enhancing the texture of the paper fibers. The painting must emphasize its enormous scale, strong depth, vast negative space, sense of oppression from the heights, the tiny figures, and the vastness of the sky and earth.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ethereal-jade-corridor-above-cloud-sea-gi2-20625",
+      "assetId": "goku-gpt-image-2-ethereal-jade-corridor-above-cloud-sea-gi2-20625",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ethereal Jade Corridor Above Cloud Sea"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ethereal-jade-corridor-above-cloud-sea-gi2-20625.jpg",
+      "prompt": "{argument name=&quot;scene type&quot; default=&quot;A cinematic Eastern fantasy scene&quot;}, a cinematic wide shot, strictly using one-point perspective. The main subject is a {argument name=&quot;core building&quot; default=&quot;a white jade corridor suspended above a sea of ​​clouds&quot;}, which sharply narrows from the lower right corner of the image to the upper left, with the vanishing point located at the left third of the image. Above the corridor are white jade beams and a coffered ceiling, carved with intertwined cloud and dragon patterns, with extremely fine gold lines along the edges; a row of columns lines the corridor, the columns are made of deep vermilion lacquered wood, and the capitals and bases are made of white jade openwork carvings, with the columns becoming closer together and smaller in size as they go deeper into the image. In the middle of the corridor stands a huge white jade circular moon-shaped decoration, with a relief of a dragon coiled around it, and the blue sky and clouds in the distance visible through the ring. The floor of the corridor is polished white jade like a mirror, perfectly reflecting the sky and clouds above—the lower half of the image is almost entirely filled with the reflected clouds, creating an interplay of reality and illusion. The outer side of the corridor is a dark wooden latticework railing. Three young women stand by the railing, gazing outwards; all are shown from behind, their figures extremely small, occupying only one-tenth of the image&#39;s height: one wears a light green wide-sleeved ruqun (a type of traditional Chinese dress), the other two wear moon-white and light blue jackets, their long hair flowing down, their sleeves gently fluttering in the wind. To the left of the image is a floating island, covered with deep green pines and cascading vines, with a slender white waterfall cascading down into the clouds; further away, in the sea of ​​clouds, several tiered Chinese pavilions float faintly, their scale extremely small, softened by the mist. The sky is a bright, clear azure, dotted with large, fluffy white cumulus clouds, the cloud layers possessing clear volume and depth. Warm golden sunlight streams into the corridor from the right side of the image at a low angle, casting bright highlights on the vermilion pillars and white jade carvings, creating backlit halos and soft lens flare between the pillars; the shadows within the corridor are clean, cool blue-gray. The color scheme is a high-contrast combination of warm gold, vermilion, white jade, and azure clouds, bright and transparent, saturated yet not gaudy. Texture: cinematic film still, shallow depth of field slightly blurring the foreground pillars, strong aerial perspective fading the distant scenery layer by layer; the architectural carvings are extremely intricate and precise. Overall, the scene is ethereal, vast, and dreamlike.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-bold-minimal-vector-fashion-portrait-gi2-20631",
+      "assetId": "goku-gpt-image-2-bold-minimal-vector-fashion-portrait-gi2-20631",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Bold Minimal Vector Fashion Portrait"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-bold-minimal-vector-fashion-portrait-gi2-20631.jpg",
+      "prompt": "A bold modern vector portrait of a stylish woman wearing {argument name=\"eyewear\" default=\"oversized geometric translucent sunglasses\"} and a {argument name=\"outfit\" default=\"black turtleneck\"}, centered in a symmetrical composition. Hair slicked back with a clean middle part, flawless skin, confident expression, minimal jewelry, soft glossy lips, sharp eyebrows, elegant editorial beauty look. Background features a large perfectly centered circular halo in a matching monochromatic color palette ({argument name=\"color theme\" default=\"teal, cyan, orange, coral, purple, or emerald\"}), with a smooth radial gradient. Use a limited two-tone color scheme with dramatic cel-shaded lighting, crisp vector shapes, thick clean outlines, smooth gradients, high contrast, glossy highlights, and geometric facial shadows. Style inspired by premium fashion illustration, luxury magazine covers, modern pop art, Adobe Illustrator vector artwork, minimalist branding, editorial poster design, flat graphic design with subtle depth, luxury eyewear campaign, ultra-clean composition, centered portrait, contemporary digital illustration, Behance trending, Dribbble aesthetic, award-winning graphic design, 8K. Style keywords: minimal vector portrait, geometric shading, cel shading, modern fashion illustration, monochromatic palette, luxury editorial, pop art, clean vector lines, glossy highlights, bold gradients, premium poster design, centered composition, high-end branding.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-luxury-fashion-editorial-portrait-gi2-20636",
+      "assetId": "goku-gpt-image-2-luxury-fashion-editorial-portrait-gi2-20636",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Luxury Fashion Editorial Portrait"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-fashion-editorial-portrait-gi2-20636.jpg",
+      "prompt": "Create an ultra-realistic luxury fashion editorial featuring a {argument name=\"subject\" default=\"beautiful young East Asian woman\"} with long, voluminous dark brown layered hair styled in a modern soft blowout with natural movement. She wears the {argument name=\"outfit\" default=\"elegant ivory one-shoulder draped satin couture top paired with matching high-waisted ivory wide-leg tailored trousers\"}, maintaining the same premium silhouette and styling. She is captured in a graceful hair-adjustment walk, gently tucking her hair behind one ear with one hand while the other remains inside her trouser pocket. She has a subtle confident smile, relaxed shoulders, elegant posture, and is walking naturally toward the camera. Background: The {argument name=\"setting\" default=\"luxurious architectural studio featuring a massive illuminated circular halo\"}, textured charcoal walls, distant sculptural sand dunes with reflective water, glossy polished floor with soft reflections, warm golden ambient lighting, and a clean minimalist composition. Lighting: Large diffused softbox, warm cinematic rim light, soft golden backlight, subtle volumetric glow, premium HDR lighting with natural skin tones. Style: Vogue editorial, Ralph Lauren, Zara Studio, luxury commercial fashion campaign, Pinterest aesthetic, magazine-quality composition, 85mm full-frame lens, f/2, slight low-angle perspective, razor-sharp focus, ultra-detailed satin fabric, realistic hair strands, flawless skin texture, photorealistic 8K, crystal-clear Full HD quality, masterpiece, 4:5 aspect ratio.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-avant-garde-tennis-fashion-editorial-gi2-20681",
+      "assetId": "goku-gpt-image-2-avant-garde-tennis-fashion-editorial-gi2-20681",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Avant-Garde Tennis Fashion Editorial"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-avant-garde-tennis-fashion-editorial-gi2-20681.jpg",
+      "prompt": "Avant-garde sports fashion, advertising, a {argument name=\"subject\" default=\"huge tennis ball\"} set up like a monumental sculpture, a {argument name=\"athlete\" default=\"male athlete\"} sprawled across the curved surface of the ball like modern furniture, the huge word \"{argument name=\"text label\" default=\"GOAL\"}\" in bold typography behind, the background of the burnt green studio, shiny mirrored floor, luxurious sports editorial style, cinematic lighting, ultra-pure composition, 1:1",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-runaway-vacuum-chaos-in-living-room-gi2-20683",
+      "assetId": "goku-gpt-image-2-runaway-vacuum-chaos-in-living-room-gi2-20683",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Runaway Vacuum Chaos in Living Room"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-runaway-vacuum-chaos-in-living-room-gi2-20683.jpg",
+      "prompt": "Ultra-realistic surreal cinematic photography, 8K.\n\nA young woman wearing {argument name=\"clothing\" default=\"a bright turquoise oversized T-shirt, purple sweatpants, and colorful sneakers\"}, accidentally being pulled across the living room by an {argument name=\"object\" default=\"enormous runaway vacuum cleaner\"}.\n\nGesture: both hands desperately gripping the vacuum hose, body leaning backward, one foot sliding across the floor, face showing exaggerated surprise mixed with uncontrollable laughter.\n\nEnvironment: surreal living room disaster, enormous vacuum cleaner racing across the floor, rugs flying upward, cushions spinning through the air, books floating, curtains swirling dramatically, colorful household objects suspended in mid-air, a glowing wall sign saying \"{argument name=\"sign text\" default=\"Challenge Trouble\"}\".\n\nMood: cheerful, chaotic, absurd, hilarious, goofy, ridiculous, full-color.\n\nCamera angle: dynamic side-angle tracking composition, capturing the woman's entire body and the runaway vacuum cleaner.\n\nUltra-realistic photography, cinematic lighting, vibrant colors, realistic motion implied through composition, highly detailed textures, exaggerated comedic energy.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ancient-fantasy-forest-goddess-portrait-gi2-20720",
+      "assetId": "goku-gpt-image-2-ancient-fantasy-forest-goddess-portrait-gi2-20720",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ancient Fantasy Forest Goddess Portrait"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ancient-fantasy-forest-goddess-portrait-gi2-20720.jpg",
+      "prompt": "Create a vertical 9:16 aspect ratio portrait in an ancient Chinese fantasy style, themed &quot;Forest Goddess&quot;. The subject should be an adult Eastern woman with a refined and serene classical beauty, her hair styled in a high bun or half-updo, adorned with gold hairpins, jade, pearl necklaces, and a few pink ornaments. The clothing should be a combination of multiple layers of Hanfu (traditional Han clothing) and fantasy ancient costumes, without a fixed single color or style. It could be a combination of a high-waisted ruqun (a type of traditional Chinese dress), a cross-collar ruqun, a front-opening shanqun (another type of traditional Chinese dress), a wide-sleeved shan (another type of traditional Chinese dress), a shawl, a semi-transparent gauze outer layer, and an embroidered brocade inner layer. The colors can vary, such as moon white, jade blue, lotus root pink, vermilion red, dark blue, light purple-gray, beige, lake green, and antique gold, but all should be unified by the backlighting and cool, bluish-gray atmosphere of a forest, avoiding a modern, colorful stage costume. The shot employs a close-up, vertical, four-thirds angle, slightly downward-facing composition. The subject approaches the camera from among the dense branches and foliage, with their face positioned at the visual center of the upper half of the frame, while their body and wide sleeves extend downwards. The background primarily consists of gnarled old branches, deep green leaf shadows, damp forest air, and dappled sunlight, with a few blurred leaves in the foreground providing some obstruction. Flowers are used sparingly as embellishments, perhaps one or two clusters of small white, pale pink, or delicate wildflowers; avoid a large sea of ​​flowers to prevent them from overshadowing the subject and the structure of the branches. The main light source comes from behind and above the subject, creating fragmented white highlights through the leaves. These highlights are slightly overexposed and softly diffused, resulting in silvery-white outlines on the hair, beaded necklace, embroidery, and the edges of the gauze sleeves. The face retains soft, clear fill light, with a fair, pinkish skin tone that retains realistic skin texture, clear eyes, and pale, moist lips. The expression is serene, with a slight gaze fixed on the camera. The focus of the overall color scheme is not on fixed clothing colors, but on a unified forest light and color palette: deep, dark green tree shadows, cool, bluish-gray air, milky white backlighting, antique gold details, and low-saturation fabric colors blending together. Shadows should be deep and layered, highlights can be dreamily whitened, but eyes, lips, hair strands, fabric textures, and embroidery edges should remain sharp. The design combines realistic photography with an Eastern fantasy costume editorial style, featuring shallow depth of field, slight soft focus, natural lens flare, fine grain, and a moist, airy feel—glamorous yet natural. Avoid modern objects, floral backdrops, uniform, template-like color schemes, and a flat, illustrative look.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-ethnic-minority-morning-greetings-gi2-20721",
+      "assetId": "goku-gpt-image-2-ethnic-minority-morning-greetings-gi2-20721",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Ethnic Minority Morning Greetings"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ethnic-minority-morning-greetings-gi2-20721.jpg",
+      "prompt": "Subject: {argument name=&quot;subject&quot; default=&quot;How to say &#39;Good Morning&#39; in the dialects of 10 ethnic minorities&quot;} There are 10 images in total, each with a different name and theme. Each image should contain 3-5 key points and present information in different ways. Professional, collector-grade layout with a 3:4 font ratio. No serial numbering logic.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-chrome-robot-meditates-in-wildflower-meadow-gi2-20728",
+      "assetId": "goku-gpt-image-2-chrome-robot-meditates-in-wildflower-meadow-gi2-20728",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Chrome Robot Meditates in Wildflower Meadow"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chrome-robot-meditates-in-wildflower-meadow-gi2-20728.jpg",
+      "prompt": "Create a cinematic sci-fi pastoral scene titled by mood, “Where the Robots Came to Wonder”: a highly reflective chrome humanoid robot sits cross-legged in a wildflower meadow at golden hour, positioned left of center in the foreground. The robot has a smooth mirror-sphere head with no face, polished silver anatomical plating, exposed mechanical neck details, and a calm meditative posture. One hand rests on its lap while the other is raised delicately, index finger extended, holding or greeting a tiny {argument name=\"insect\" default=\"ladybug\"} perched on the fingertip. Its mirror surfaces reflect the meadow, sky, and distant hills. In the right midground, show exactly 1 large abandoned rugged robot or mech wreck, partially reclined and overgrown with grass and wildflowers, suggesting nature reclaiming machinery. The setting is a lush rolling countryside with exactly 1 seated chrome humanoid robot, exactly 1 tiny insect on its finger, exactly 1 derelict mech in the background, and abundant daisies and purple wildflowers in the foreground. Use {argument name=\"lighting\" default=\"warm golden-hour sunlight\"}, soft clouds, distant blue-green mountains, shallow depth of field with blurred flowers near the camera, realistic high-detail 3D rendering, cinematic composition, peaceful wonder, no text, no logos, no humans, no city skyline, no weapons firing.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-modern-geometric-chinese-typography-design-gi2-20780",
+      "assetId": "goku-gpt-image-2-modern-geometric-chinese-typography-design-gi2-20780",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Modern Geometric Chinese Typography Design"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-modern-geometric-chinese-typography-design-gi2-20780.jpg",
+      "prompt": "The design revolves around a central theme, creating a modern visual experience with interwoven large Chinese characters, geometric color blocks, and organic single-line outlines. The overall design maintains a high-brightness, pure background, leaving approximately two-thirds of the space blank. Off-center clusters bear the main weight: a saturated rectangle establishes stability, while darker, lower-brightness, cool-toned circles overlap below and extend beyond the boundary. The core Chinese characters, rendered with oversized, heavy black geometric strokes, extend vertically, crossing the white background, rectangle, and circles. Incomplete occlusion and cropping create a strong sense of scale. On the left, dates and bilingual subheadings form a compact numerical section, while the right side balances the weight with vertically arranged short sentences of varying thickness. A few micro-explanations, short horizontal lines, and linear symbols are scattered along the edges, creating a three-tiered reading rhythm from the main text to side notes to details. The dynamic relationships derived from the theme are abstracted into a continuous organic outline, using clear, near-black single lines to delineate a broad, swirling form. The curves enter the color blocks from large areas of white space and extend beyond the edges, intersecting multiple times while maintaining a discernible single path. The outline largely retains its base color, with only the tips and extensions featuring localized transparent fading of the main theme color, creating tension between the light lines and the heavy, large lettering. Colors are adaptively selected based on the theme: the largest area is borne by a clean, high-brightness neutral base; the main theme color remains vibrant and highly saturated, used for rectangles and localized transparent gradients; circles use a deep, cool supporting color that is hue-distinct from the main theme color, blending into the main theme color at the ends for a soft diffusion; text and outlines use near-black, with a very small amount of light-colored text pressed against the main color blocks; unequal areas, light and dark levels, and saturation differences are fixed, but specific color names are not. All elements have a matte, digitally printed, flat surface with sharp outline edges; gradients only slowly feather in two localized areas, without adding 3D shadows, paper grain, or global lighting effects. The font maintains a low-contrast, thick, near-geometric sans-serif skeleton. The main characters allow for elongated, misaligned, cut-out components and background changes across color blocks. Numbers adopt a rounded, futuristic structure, while smaller characters are converging with a narrow font and ample kerning. Branding, advertising slogans, and specific dates are all replaced with new theme information. Ultimately, the design retains extreme white space, geometric clustering slightly below the center, the opposing pull of vertical and horizontal text, and the moment when organic lines traverse rigid graphics, avoiding uniformly filling each part or simplifying the outline into isolated decorations.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-minimalist-watercolor-girl-illustration-gi2-20816",
+      "assetId": "goku-gpt-image-2-minimalist-watercolor-girl-illustration-gi2-20816",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Minimalist Watercolor Girl Illustration"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-watercolor-girl-illustration-gi2-20816.jpg",
+      "prompt": "Minimalist watercolor illustration on {argument name=\"paper type\" default=\"textured ivory handmade paper\"}, soft pastel palette, delicate ink outlines, subtle watercolor bleeding, cozy storybook aesthetic, lots of clean negative space.\n\nA stylish young woman in modern casual clothing is the main subject, captured in a calm, emotional everyday moment. She wears {argument name=\"clothing\" default=\"an oversized trench coat or cardigan layered over soft neutral clothing\"}, a long flowing skirt or wide-leg pants, leather loafers or ankle boots, and a simple crossbody bag. Medium-length natural hair gently frames her face.\n\nThe composition is intentionally small within the canvas, leaving generous empty space around the character. Soft expressive pose with gentle emotions, surrounded by tiny floating watercolor splashes, subtle butterflies, flowers, leaves, or seasonal elements depending on the scene.\n\nExamples of scenes:\n• {argument name=\"scene\" default=\"Squatting beside a bouquet of blue roses while gently touching one flower\"}.\n• Standing quietly while holding a wrapped bouquet against her chest.\n• Resting peacefully beneath a large tree with eyes closed.\n• Reaching upward toward a single apple hanging from a tree branch while carrying a basket of freshly picked apples.\n\nHand-painted watercolor textures, soft shadows, elegant brush strokes, muted earthy colors, warm natural atmosphere, peaceful lifestyle illustration, Japanese stationery art style, minimal editorial illustration, whimsical yet realistic proportions, premium watercolor painting, ultra-detailed, 8K.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-whimsical-miniature-girl-illusion-gi2-20820",
+      "assetId": "goku-gpt-image-2-whimsical-miniature-girl-illusion-gi2-20820",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Whimsical Miniature Girl Illusion"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-whimsical-miniature-girl-illusion-gi2-20820.jpg",
+      "prompt": "Create a whimsicalminiature-world illusion where {argument name=\"subject\" default=\"Main girl\"} appears tiny, standing beneath a giant human hand with the thumb and index finger gently framing her from above without touching. She looks up with a warm genuine smile, hands behind her back, wearing {argument name=\"clothing\" default=\"the same red shirt, black long, and white sneakers\"}. Beside her stands a {argument name=\"pet\" default=\"small fluffy white puppy\"} looking up with curiosity. Warm golden sunlight, soft cinematic shadows, tiny floating hearts, subtle sparkles, warm bokeh, magical atmosphere, dreamy perspective, ultra-realistic, Pinterest aesthetic, premium editorial photography, 8K.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-black-man-expression-sheet-gi2-20827",
+      "assetId": "goku-gpt-image-2-black-man-expression-sheet-gi2-20827",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Black Man Expression Sheet"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-black-man-expression-sheet-gi2-20827.jpg",
+      "prompt": "Create a clean studio portrait expression sheet of {argument name=\"character name\" default=\"a young Black man\"} shown in exactly 6 separate head-and-shoulders portraits arranged in a 3-column by 2-row grid. The man has short cropped black hair, warm brown skin, a neatly trimmed short beard and mustache, and distinctive thick translucent white eyeglasses. He wears a dark charcoal or black blazer over a crisp white open-collar dress shirt in every panel. Use a neutral beige-gray studio backdrop, soft even portrait lighting, realistic photography, sharp facial detail, and consistent camera angle and framing across all six images. The six expressions must be: top left, broad friendly smile showing teeth; top center, calm neutral serious face looking straight at camera; top right, surprised delighted face with wide eyes and open mouth; bottom left, joyful laughing smile with eyes slightly squinted; bottom center, thoughtful skeptical pose with furrowed brow and one hand touching the chin; bottom right, subtle smirk looking off to the side. Keep the portraits tightly cropped from chest to head, evenly spaced with clean horizontal and vertical grid alignment, no text, no logos, no extra people, no props except the glasses and the hand in the thoughtful pose. Style should feel like a polished professional actor headshot contact sheet for {argument name=\"use case\" default=\"social media reaction expressions\"}.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-morning-tea-orange-still-life-gi2-20832",
+      "assetId": "goku-gpt-image-2-morning-tea-orange-still-life-gi2-20832",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Morning Tea Orange Still Life"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-morning-tea-orange-still-life-gi2-20832.jpg",
+      "prompt": "Create a quiet Hearth Hush still-life photograph on a warm beige stone countertop beside a textured plaster wall. The scene is lit by low golden morning sunlight from the upper right, casting a bright triangular patch on the wall and long soft shadows across the counter, with restrained contrast and a calm, airy composition. Show exactly 7 main visible objects: 1 clear round glass teapot with a lid, curved handle, and spout, half-filled with {argument name=\"tea color\" default=\"deep amber orange tea\"} with condensation on the glass; 3 cut blood orange halves grouped to the right with vivid ruby-red pulp and orange rind; 1 small rustic paring knife lying diagonally in front of the fruit with a muted wooden handle; 1 rumpled natural linen cloth in the lower left; and 1 matte ceramic vase in the back left holding a sparse olive branch with small leaves. Use a natural palette of cream, sand, honey, terracotta, amber, and muted olive. Emphasize the hearth field through the glowing tea, luminous citrus flesh, and sunlit reflections on the glass; emphasize the hush field through open negative space on the wall, pale stone texture, soft fabric folds, and stillness. Compose in a vertical 4:5 frame, slightly elevated eye-level angle, realistic editorial food photography, shallow-to-moderate depth of field, delicate surface imperfections, no people, no text, no branding, no extra objects.",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-heian-fantasy-rainy-night-garden-gi2-20840",
+      "assetId": "goku-gpt-image-2-heian-fantasy-rainy-night-garden-gi2-20840",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Heian Fantasy Rainy Night Garden"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-heian-fantasy-rainy-night-garden-gi2-20840.jpg",
+      "prompt": "Japanese-style fantasy background illustration, illustration with high saturation colors, no people, {argument name=&quot;Seasonal Scene&quot; default=&quot;Rainy Night&quot;} that only appears {argument name=&quot;Garden Style&quot; default=&quot;Heian Fantasy Garden&quot;}, thin silk screens and blinds reminiscent of a twelve-layered kimono in pale wisteria and light blue, old Shinden-style corridor, wet wooden floor, moss-covered stone lantern, rain-soaked stone pavement, {argument name=&quot;Type of Flower&quot; default=&quot;Hydrangea&quot;} in blue-violet, pale wisteria, and pale blue blooming all over the garden, each flower cluster delicately depicted, full moon reflected in the pond, silvery mist, raindrops floating in the air reflecting moonlight like jewels, tranquil and sacred atmosphere, mystical, poignant, dreamlike and elegant, deep perspective that draws you into the background, layered foreground, middle ground, and background, atmospheric perspective, soft moonlight, volumetric mist, soft lighting, ethereal Atmosphere, ultra-flat, masterpiece, beautiful background art like a sacred place",
+      "source": "model-detail"
+    },
+    {
+      "slug": "goku-gpt-image-2-bauhaus-geometric-fashion-editorial-gi2-20842",
+      "assetId": "goku-gpt-image-2-bauhaus-geometric-fashion-editorial-gi2-20842",
+      "model": "gpt-image-2",
+      "title": {
+        "en": "Bauhaus Geometric Fashion Editorial"
+      },
+      "industry": "creator-social",
+      "category": "cinematic-concept-art",
+      "url": "https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-bauhaus-geometric-fashion-editorial-gi2-20842.jpg",
+      "prompt": "High-fashion editorial photography, young woman with long dark brown hair, dynamic pose with one leg raised and knee bent holding a black strappy heeled sandal, wearing a {argument name=\"outfit one\" default=\"blue and white tie-dye shibori print fitted jumpsuit with long sleeves and wide-leg trousers\"}, posed between and within large architectural geometric cutout panels in matte white, panels featuring circular cutout openings revealing {argument name=\"accent color\" default=\"vivid amber-yellow\"} backing behind, one large full circle cutout at head level, one large semicircle cutout at floor level creating an S-curve negative space framing the figure, one small amber circle floating in upper right corner, soft neutral light gray studio background, clean shadow-free diffused lighting, Bauhaus constructivist geometric set design, vertical 4:5 composition, fashion editorial photography --ar 4:5 --v 6\n\nHigh-fashion editorial photography, young woman with sleek dark hair, dynamic one-leg-raised pose, wearing a vivid red and white abstract print fitted jumpsuit, posed within large architectural geometric cutout panels in clean white, circular and semicircular openings revealing bold electric blue backing, small cobalt blue circle accent in upper corner, soft neutral studio background, strong graphic shadow from directional lighting adding drama, Bauhaus constructivist geometric set design with bold complementary red and blue color contrast, vertical 4:5 composition, luxury fashion editorial --ar 4:5 --v 6\n\nHigh-fashion editorial photography, young woman with sleek pulled-back hair, dynamic raised-leg power pose, wearing a black and gold abstract brushstroke print fitted jumpsuit, black strappy heeled sandals, posed within oversized architectural geometric cutout panels in deep charcoal matte black, circular and semicircular cutout openings revealing vivid gold backing creating dramatic halo and arc effects, small gold circle floating in frame, subtle dramatic rim lighting on model creating separation from dark panels, sophisticated dark luxury Bauhaus editorial set design, vertical 4:5 composition, high-fashion campaign photography --ar 4:5 --v 6",
+      "source": "model-detail"
     }
   ]
 }
