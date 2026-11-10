@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **741**
-Demo assets: **749**
+Published templates: **791**
+Demo assets: **799**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -1699,6 +1699,56 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Ritual of the Lone Priest](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
 - [Vintage Futuristic Couture Fashion Illustration](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
 - [Vintage Workshop Coffee Man Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Lady in Misty Red Poppies](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Still But Slipping](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cinematic Red Rim Light Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [India 3D Miniature Travel Diorama](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Dogs' Whimsical Bone Road Trip](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Concrete Beam Shear Cracking Inspection](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Sunlit Library Focus](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Surreal Cubist Woman Bird Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cinematic Perfume In Ancient Temple](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Golden Week Ends at Dusk](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Scribble Art Portrait Yellow Background](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cyberpunk Store Human Robot Encounter](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Vintage Onsen Film Aesthetics](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Dreamlike Flower Sea of Light](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Golden Hour Equestrian Bond](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Vintage Kyoto Travel Poster](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cute Block Figure Adventure](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Authentic Skin Texture Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Accidental Aquarium Tunnel Selfie](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Gilded Mythical Beast Emerges](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Elegant Dance in Dim Lounge](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Faceless Youth Silhouette](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Shopping Cart Speed Run](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Zesty Summer Glow Beverage Ad](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cinematic Mountain Garden Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Holographic Sunset Encounter](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Galaxy Train Celestial Carriage](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Giant's Gentle Offer](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Steel Shield Mecha Poster](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Tiny Planet Canakkale Aerial](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Bustling Ancient Chinese Street Scene](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Dark Eastern Fantasy Tower Poster](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Lone Rider: Field of Shadows](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Pale Lodge: Cursed Outpost](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Surreal Bird Couture Runway Show](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Sunset Luxury Terrace Skyline](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Railway Commander Sunset](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Mango Passion Fruit Jar Shot](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Fire and Ice Warrior Standoff](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Giant Cat Steampunk Airship Fantasy Painting](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Subway Speed Effect](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Mother of Pearl Fantasy Illustration](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Solitary Wanderer on Coastal Highway](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cat Manager and Penguin Clerk](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Quiet Twilight Kitchen Moment](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cinematic Rainy Night Neon Café Scene](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Icelandic Fisherman Stormy Harbor Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Low Poly Papercraft Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Guardian of Orbital Museum](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Golden Guangzhou: Oriental Fantasy](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
 
 ## Demo assets
 
@@ -2453,3 +2503,53 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Ritual of the Lone Priest](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lone-priest-mountain-ritual.jpg) — 创作者与社交
 - [Vintage Futuristic Couture Fashion Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-futuristic-couture.jpg) — 创作者与社交
 - [Vintage Workshop Coffee Man Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-workshop-coffee-man.jpg) — 创作者与社交
+- [Lady in Misty Red Poppies](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lady-misty-red-poppies.jpg) — 创作者与社交
+- [Still But Slipping](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-still-but-slipping.jpg) — 创作者与社交
+- [Cinematic Red Rim Light Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-red-rim-portrait.jpg) — 创作者与社交
+- [India 3D Miniature Travel Diorama](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-india-3d-miniature-travel.jpg) — 创作者与社交
+- [Dogs' Whimsical Bone Road Trip](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dogs-bone-road-trip.jpg) — 创作者与社交
+- [Concrete Beam Shear Cracking Inspection](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-concrete-beam-shear-cracking.jpg) — 创作者与社交
+- [Sunlit Library Focus](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-sunlit-library-focus.jpg) — 创作者与社交
+- [Surreal Cubist Woman Bird Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-cubist-woman-bird-portrait.jpg) — 创作者与社交
+- [Cinematic Perfume In Ancient Temple](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-perfume-temple.jpg) — 创作者与社交
+- [Golden Week Ends at Dusk](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-week-melancholy.jpg) — 创作者与社交
+- [Scribble Art Portrait Yellow Background](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-scribble-art-portrait.jpg) — 创作者与社交
+- [Cyberpunk Store Human Robot Encounter](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cyberpunk-store-robot-encounter.jpg) — 创作者与社交
+- [Vintage Onsen Film Aesthetics](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-japanese-onsen-film-aesthetics.jpg) — 创作者与社交
+- [Dreamlike Flower Sea of Light](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dreamlike-flower-sea-light.jpg) — 创作者与社交
+- [Golden Hour Equestrian Bond](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-hour-equestrian-bond.jpg) — 创作者与社交
+- [Vintage Kyoto Travel Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-kyoto-travel-poster.jpg) — 创作者与社交
+- [Cute Block Figure Adventure](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cute-block-figure-adventure.jpg) — 创作者与社交
+- [Authentic Skin Texture Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-authentic-skin-texture-portrait.jpg) — 创作者与社交
+- [Accidental Aquarium Tunnel Selfie](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-aquarium-tunnel-selfie.jpg) — 创作者与社交
+- [Gilded Mythical Beast Emerges](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-gilded-mythical-beast-ink-clouds.jpg) — 创作者与社交
+- [Elegant Dance in Dim Lounge](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-elegant-lounge-dance.jpg) — 创作者与社交
+- [Faceless Youth Silhouette](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-faceless-youth-silhouette.jpg) — 创作者与社交
+- [Shopping Cart Speed Run](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-shopping-cart-speed-selfie.jpg) — 创作者与社交
+- [Zesty Summer Glow Beverage Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-zesty-summer-glow-beverage.jpg) — 创作者与社交
+- [Cinematic Mountain Garden Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-mountain-garden-portrait.jpg) — 创作者与社交
+- [Holographic Sunset Encounter](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-holographic-sunset-encounter.jpg) — 创作者与社交
+- [Galaxy Train Celestial Carriage](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-galaxy-train-celestial-carriage.jpg) — 创作者与社交
+- [Giant's Gentle Offer](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-giant-robot-gentle-offer.jpg) — 创作者与社交
+- [Steel Shield Mecha Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-steel-shield-mecha-poster.jpg) — 创作者与社交
+- [Tiny Planet Canakkale Aerial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-canakkale-tiny-planet.jpg) — 创作者与社交
+- [Bustling Ancient Chinese Street Scene](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ancient-chinese-street-qingming.jpg) — 创作者与社交
+- [Dark Eastern Fantasy Tower Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-demon-locking-tower-poster.jpg) — 创作者与社交
+- [Lone Rider: Field of Shadows](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lone-rider-field-shadows.jpg) — 创作者与社交
+- [Pale Lodge: Cursed Outpost](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-pale-lodge-cursed-outpost.jpg) — 创作者与社交
+- [Surreal Bird Couture Runway Show](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-bird-couture-runway.jpg) — 创作者与社交
+- [Sunset Luxury Terrace Skyline](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-sunset-luxury-terrace-skyline.jpg) — 创作者与社交
+- [Railway Commander Sunset](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-railway-commander-sunset.jpg) — 创作者与社交
+- [Mango Passion Fruit Jar Shot](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mango-passion-fruit-jar.jpg) — 创作者与社交
+- [Fire and Ice Warrior Standoff](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-fire-ice-warriors-standoff.jpeg) — 创作者与社交
+- [Giant Cat Steampunk Airship Fantasy Painting](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cat-steampunk-airship.jpg) — 创作者与社交
+- [Subway Speed Effect](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-subway-speed-effect.jpg) — 创作者与社交
+- [Mother of Pearl Fantasy Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mother-of-pearl-fantasy-illustration.jpg) — 创作者与社交
+- [Solitary Wanderer on Coastal Highway](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-coastal-road-trip.jpg) — 创作者与社交
+- [Cat Manager and Penguin Clerk](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cat-manager-penguin-clerk.jpg) — 创作者与社交
+- [Quiet Twilight Kitchen Moment](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-quiet-twilight-kitchen.jpg) — 创作者与社交
+- [Cinematic Rainy Night Neon Café Scene](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-rainy-neon-cafe.jpg) — 创作者与社交
+- [Icelandic Fisherman Stormy Harbor Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-icelandic-fisherman-stormy-harbor-portrait.jpg) — 创作者与社交
+- [Low Poly Papercraft Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-low-poly-papercraft-portrait.jpg) — 创作者与社交
+- [Guardian of Orbital Museum](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-orbital-museum-guardian.jpg) — 创作者与社交
+- [Golden Guangzhou: Oriental Fantasy](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-guangzhou-oriental-fantasy.jpg) — 创作者与社交
