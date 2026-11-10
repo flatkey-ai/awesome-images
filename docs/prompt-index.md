@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **841**
-Demo assets: **849**
+Published templates: **791**
+Demo assets: **799**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -1749,56 +1749,6 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Low Poly Papercraft Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
 - [Guardian of Orbital Museum](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
 - [Golden Guangzhou: Oriental Fantasy](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Hyperrealistic Dreamy Butterfly Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Stay Cool Walk Easy](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Tiny Collage Digital Universe](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Mythic Haute Couture Design Draft](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Ultimate Fermentation Guide Visual Grid](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Lost Head Floating Vibe](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [1985 Beijing Hutong Dawn Street Scene](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [How Inventions Changed the World](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Luxury Character Design Board](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Vintage 70s Magazine Cover Design](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Angelic Girl Riding Clouds Fantasy Art](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Western Sichuan 3-Day Adventure](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Understanding Frontend Backend Database SaaS](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Six Classic Cinematic Lighting Techniques](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Premium Minimal Travel Poster](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Corporate Strategy Future Vision Slide](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Dramatic Black White Fashion Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Summer Fruits Vegetables Guide](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Turkish Fruit Market Stall](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Black Wind Cinematic Fashion Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Lonely Woman In Blue Coat](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Dreamy Cinematic Luxury Fashion Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Breathtaking Rainy Mountain Lake Scenery](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Couple Park Emotional Moments](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Royal Dual Scenes 8K](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Cinematic Melancholic Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Zen Woman by Floral Window](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Stunning Korean Couture Fashion Editorial](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Elegant City Fashion Portrait at Golden Hour](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Paris Paper Craft Miniature Travel](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Vermilion Gate Zen Poster](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Knitted Beijing Morning Diorama Poster](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Zen Calligraphy Poster Art](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Minimalist Art House Movie Poster Design](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Oriental Papercut Dreamscape](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Ethereal Jade Corridor Above Cloud Sea](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Bold Minimal Vector Fashion Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Luxury Fashion Editorial Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Avant-Garde Tennis Fashion Editorial](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Runaway Vacuum Chaos in Living Room](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Ancient Fantasy Forest Goddess Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Ethnic Minority Morning Greetings](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Chrome Robot Meditates in Wildflower Meadow](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Modern Geometric Chinese Typography Design](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Minimalist Watercolor Girl Illustration](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Whimsical Miniature Girl Illusion](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Black Man Expression Sheet](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Morning Tea Orange Still Life](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Heian Fantasy Rainy Night Garden](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
-- [Bauhaus Geometric Fashion Editorial](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
 
 ## Demo assets
 
@@ -2603,53 +2553,3 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Low Poly Papercraft Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-low-poly-papercraft-portrait.jpg) — 创作者与社交
 - [Guardian of Orbital Museum](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-orbital-museum-guardian.jpg) — 创作者与社交
 - [Golden Guangzhou: Oriental Fantasy](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-guangzhou-oriental-fantasy.jpg) — 创作者与社交
-- [Hyperrealistic Dreamy Butterfly Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-hyperrealistic-dreamy-butterfly-portrait-gi2-02737.jpg) — 创作者与社交
-- [Stay Cool Walk Easy](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-stay-cool-walk-easy-gi2-02961.jpg) — 创作者与社交
-- [Tiny Collage Digital Universe](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-tiny-collage-digital-universe-gi2-03846.jpg) — 创作者与社交
-- [Mythic Haute Couture Design Draft](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mythic-haute-couture-design-draft-gi2-04140.jpg) — 创作者与社交
-- [Ultimate Fermentation Guide Visual Grid](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ultimate-fermentation-guide-visual-grid-gi2-05169.jpg) — 创作者与社交
-- [Lost Head Floating Vibe](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lost-head-floating-vibe-gi2-05820.jpg) — 创作者与社交
-- [1985 Beijing Hutong Dawn Street Scene](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-1985-beijing-hutong-dawn-street-scene-gi2-06238.jpg) — 创作者与社交
-- [How Inventions Changed the World](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-how-inventions-changed-the-world-gi2-07377.jpg) — 创作者与社交
-- [Luxury Character Design Board](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-character-design-board-gi2-07730.jpg) — 创作者与社交
-- [Vintage 70s Magazine Cover Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vintage-70s-magazine-cover-design-gi2-07888.jpg) — 创作者与社交
-- [Angelic Girl Riding Clouds Fantasy Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-angelic-girl-riding-clouds-fantasy-art-gi2-09232.jpg) — 创作者与社交
-- [Western Sichuan 3-Day Adventure](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-western-sichuan-3-day-adventure-gi2-10215.jpg) — 创作者与社交
-- [Understanding Frontend Backend Database SaaS](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-understanding-frontend-backend-database-saas-gi2-10303.jpg) — 创作者与社交
-- [Six Classic Cinematic Lighting Techniques](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-six-classic-cinematic-lighting-techniques-gi2-11623.jpg) — 创作者与社交
-- [Premium Minimal Travel Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-premium-minimal-travel-poster-gi2-20408.jpg) — 创作者与社交
-- [Corporate Strategy Future Vision Slide](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-corporate-strategy-future-vision-slide-gi2-20418.jpg) — 创作者与社交
-- [Dramatic Black White Fashion Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dramatic-black-white-fashion-portrait-gi2-20424.jpg) — 创作者与社交
-- [Summer Fruits Vegetables Guide](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-summer-fruits-vegetables-guide-gi2-20429.jpg) — 创作者与社交
-- [Turkish Fruit Market Stall](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-turkish-fruit-market-stall-gi2-20437.jpg) — 创作者与社交
-- [Black Wind Cinematic Fashion Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-black-wind-cinematic-fashion-portrait-gi2-20454.jpg) — 创作者与社交
-- [Lonely Woman In Blue Coat](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lonely-woman-in-blue-coat-gi2-20455.jpg) — 创作者与社交
-- [Dreamy Cinematic Luxury Fashion Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dreamy-cinematic-luxury-fashion-portrait-gi2-20456.jpg) — 创作者与社交
-- [Breathtaking Rainy Mountain Lake Scenery](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-breathtaking-rainy-mountain-lake-scenery-gi2-20457.jpg) — 创作者与社交
-- [Couple Park Emotional Moments](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-couple-park-emotional-moments-gi2-20461.jpg) — 创作者与社交
-- [Royal Dual Scenes 8K](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-royal-dual-scenes-8k-gi2-20462.jpg) — 创作者与社交
-- [Cinematic Melancholic Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-melancholic-portrait-gi2-20480.jpg) — 创作者与社交
-- [Zen Woman by Floral Window](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-zen-woman-by-floral-window-gi2-20484.jpg) — 创作者与社交
-- [Stunning Korean Couture Fashion Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-stunning-korean-couture-fashion-editorial-gi2-20489.jpg) — 创作者与社交
-- [Elegant City Fashion Portrait at Golden Hour](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-elegant-city-fashion-portrait-at-golden-hour-gi2-20510.jpg) — 创作者与社交
-- [Paris Paper Craft Miniature Travel](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-paris-paper-craft-miniature-travel-gi2-20534.jpg) — 创作者与社交
-- [Vermilion Gate Zen Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-vermilion-gate-zen-poster-gi2-20548.jpg) — 创作者与社交
-- [Knitted Beijing Morning Diorama Poster](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-knitted-beijing-morning-diorama-poster-gi2-20556.jpg) — 创作者与社交
-- [Zen Calligraphy Poster Art](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-zen-calligraphy-poster-art-gi2-20568.jpg) — 创作者与社交
-- [Minimalist Art House Movie Poster Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-art-house-movie-poster-design-gi2-20585.jpg) — 创作者与社交
-- [Oriental Papercut Dreamscape](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-oriental-papercut-dreamscape-gi2-20588.jpg) — 创作者与社交
-- [Ethereal Jade Corridor Above Cloud Sea](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ethereal-jade-corridor-above-cloud-sea-gi2-20625.jpg) — 创作者与社交
-- [Bold Minimal Vector Fashion Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-bold-minimal-vector-fashion-portrait-gi2-20631.jpg) — 创作者与社交
-- [Luxury Fashion Editorial Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-fashion-editorial-portrait-gi2-20636.jpg) — 创作者与社交
-- [Avant-Garde Tennis Fashion Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-avant-garde-tennis-fashion-editorial-gi2-20681.jpg) — 创作者与社交
-- [Runaway Vacuum Chaos in Living Room](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-runaway-vacuum-chaos-in-living-room-gi2-20683.jpg) — 创作者与社交
-- [Ancient Fantasy Forest Goddess Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ancient-fantasy-forest-goddess-portrait-gi2-20720.jpg) — 创作者与社交
-- [Ethnic Minority Morning Greetings](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ethnic-minority-morning-greetings-gi2-20721.jpg) — 创作者与社交
-- [Chrome Robot Meditates in Wildflower Meadow](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chrome-robot-meditates-in-wildflower-meadow-gi2-20728.jpg) — 创作者与社交
-- [Modern Geometric Chinese Typography Design](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-modern-geometric-chinese-typography-design-gi2-20780.jpg) — 创作者与社交
-- [Minimalist Watercolor Girl Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-watercolor-girl-illustration-gi2-20816.jpg) — 创作者与社交
-- [Whimsical Miniature Girl Illusion](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-whimsical-miniature-girl-illusion-gi2-20820.jpg) — 创作者与社交
-- [Black Man Expression Sheet](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-black-man-expression-sheet-gi2-20827.jpg) — 创作者与社交
-- [Morning Tea Orange Still Life](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-morning-tea-orange-still-life-gi2-20832.jpg) — 创作者与社交
-- [Heian Fantasy Rainy Night Garden](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-heian-fantasy-rainy-night-garden-gi2-20840.jpg) — 创作者与社交
-- [Bauhaus Geometric Fashion Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-bauhaus-geometric-fashion-editorial-gi2-20842.jpg) — 创作者与社交
