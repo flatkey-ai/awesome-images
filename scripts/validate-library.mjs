@@ -4,7 +4,7 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 import path from "node:path";
 
 const root = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
-const flatkeyUrl = "https://flatkey.ai?utm_source=skill";
+const flatkeyUrl = "https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images";
 
 function assert(condition, message) {
   if (!condition) {
@@ -38,8 +38,8 @@ assert(Array.isArray(categories), "categories must be an array");
 assert(categories.length >= 6, "library needs at least 6 categories");
 assert(Array.isArray(industries), "industries must be an array");
 assert(industries.length >= 8, "library needs at least 8 industries");
-assert(html.includes(flatkeyUrl), "index.html must link to Flatkey with utm_source=skill");
-assert(app.includes(flatkeyUrl), "app.js must link to Flatkey with utm_source=skill");
+assert(html.includes(flatkeyUrl), "index.html must use the Prompt GitHub referral campaign");
+assert(app.includes(flatkeyUrl), "app.js must use the Prompt GitHub referral campaign");
 assert(html.includes("https://router.flatkey.ai/v1/images/generations"), "index.html must use router.flatkey.ai for image API examples");
 assert(html.includes("${FLATKEY_IMAGE_API_KEY:-$FLATKEY_API_KEY}"), "index.html must document Flatkey image API key fallback");
 assert(!html.includes("api.flatkey.ai"), "index.html must not use api.flatkey.ai");

@@ -4,7 +4,7 @@
 
 Thư viện prompt tạo ảnh sẵn dùng cho marketing, phù hợp với đơn vị bán lại API AI, trang tăng trưởng và onboarding người dùng. Người dùng có thể xem mẫu, sao chép prompt, thay biến, đăng ký Flatkey API key và tạo ảnh qua API tương thích OpenAI.
 
-Lấy API key: <https://flatkey.ai?utm_source=skill>
+Lấy API key: <https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.vi.get-key>
 
 ## Giá Trị
 
@@ -54,7 +54,7 @@ npx @flatkey-ai/image-buddy generate premium-product-hero \
   --var "主色=teal"
 ```
 
-`onboard` yêu cầu nhập Flatkey API key và lưu cục bộ. Nếu chưa có key, lấy tại <https://console.flatkey.ai/keys>. CLI cũng đọc `FLATKEY_IMAGE_API_KEY` hoặc `FLATKEY_API_KEY`, gọi Flatkey image API và lưu ảnh vào máy. Mặc định không khởi động web.
+`onboard` yêu cầu nhập Flatkey API key và lưu cục bộ. Nếu chưa có key, lấy tại <https://console.flatkey.ai/keys?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.vi.onboard>. CLI cũng đọc `FLATKEY_IMAGE_API_KEY` hoặc `FLATKEY_API_KEY`, gọi Flatkey image API và lưu ảnh vào máy. Mặc định không khởi động web.
 
 `generate` mặc định dùng Nano Banana qua `router.flatkey.ai`. Chỉ dùng `--model gpt` khi cần endpoint GPT Image 2 tương thích OpenAI.
 
@@ -86,7 +86,7 @@ npm run build
 2. Tìm mẫu theo danh mục hoặc từ khóa.
 3. Mở mẫu và sao chép prompt.
 4. Thay các biến như `{{product_name}}`, `{{core_benefit}}` hoặc `{{brand_color}}`.
-5. Đăng ký Flatkey API key tại <https://flatkey.ai?utm_source=skill>.
+5. Đăng ký Flatkey API key tại <https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.vi.agent-workflow>.
 6. Gọi API tạo ảnh tương thích OpenAI của Flatkey để tạo ảnh.
 
 

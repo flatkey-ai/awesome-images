@@ -189,7 +189,7 @@ async function generateImage(args) {
   const config = await readConfig();
   const apiKey = options.apiKey || process.env.FLATKEY_IMAGE_API_KEY || process.env.FLATKEY_API_KEY || config.apiKey;
   if (!apiKey) {
-    throw new Error("Set FLATKEY_IMAGE_API_KEY or FLATKEY_API_KEY, pass --api-key, or run image-buddy onboard. Get a key at https://console.flatkey.ai/keys.");
+    throw new Error("Set FLATKEY_IMAGE_API_KEY or FLATKEY_API_KEY, pass --api-key, or run image-buddy onboard. Get a key at https://console.flatkey.ai/keys?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.cli.missing-key");
   }
 
   const baseUrl = String(options.baseUrl || process.env.FLATKEY_IMAGE_BASE_URL || "https://router.flatkey.ai").replace(/\/+$/, "");
@@ -313,13 +313,13 @@ async function onboard(args) {
   const options = parseOptions(args);
   let apiKey = options.apiKey || "";
   if (!apiKey) {
-    console.log("Get a Flatkey API key: https://console.flatkey.ai/keys");
+    console.log("Get a Flatkey API key: https://console.flatkey.ai/keys?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.cli.onboard");
     const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
     apiKey = (await rl.question("Paste Flatkey API key: ")).trim();
     rl.close();
   }
   if (!apiKey) {
-    throw new Error("No API key provided. Get one at https://console.flatkey.ai/keys.");
+    throw new Error("No API key provided. Get one at https://console.flatkey.ai/keys?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.cli.empty-key");
   }
   const configPath = imageBuddyConfigPath();
   await mkdir(dirname(configPath), { recursive: true });
@@ -525,6 +525,6 @@ Options:
   -h, --help            Show help
 
 Get a Flatkey API key:
-  https://console.flatkey.ai/keys
+  https://console.flatkey.ai/keys?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.cli.help
 `);
 }

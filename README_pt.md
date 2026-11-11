@@ -4,7 +4,7 @@
 
 Biblioteca de prompts de geração de imagem pronta para marketing, feita para revendedores de API de IA, páginas de crescimento e onboarding de usuários. Usuários podem navegar por modelos, copiar prompts, substituir variáveis, registrar uma API key da Flatkey e gerar imagens por uma API compatível com OpenAI.
 
-Obter API key: <https://flatkey.ai?utm_source=skill>
+Obter API key: <https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.pt.get-key>
 
 ## Por Que Existe
 
@@ -54,7 +54,7 @@ npx @flatkey-ai/image-buddy generate premium-product-hero \
   --var "主色=teal"
 ```
 
-`onboard` solicita uma API key da Flatkey e salva localmente. Se você não tiver uma key, obtenha em <https://console.flatkey.ai/keys>. A CLI também lê `FLATKEY_IMAGE_API_KEY` ou `FLATKEY_API_KEY`, chama a API de imagens da Flatkey e salva as imagens localmente. Ela não inicia uma web por padrão.
+`onboard` solicita uma API key da Flatkey e salva localmente. Se você não tiver uma key, obtenha em <https://console.flatkey.ai/keys?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.pt.onboard>. A CLI também lê `FLATKEY_IMAGE_API_KEY` ou `FLATKEY_API_KEY`, chama a API de imagens da Flatkey e salva as imagens localmente. Ela não inicia uma web por padrão.
 
 `generate` usa Nano Banana por padrão via `router.flatkey.ai`. Use `--model gpt` somente quando precisar do endpoint GPT Image 2 compatível com OpenAI.
 
@@ -86,7 +86,7 @@ npm run build
 2. Encontrar um modelo por categoria ou palavra-chave.
 3. Expandir o modelo e copiar o prompt.
 4. Substituir variáveis como `{{product_name}}`, `{{core_benefit}}` ou `{{brand_color}}`.
-5. Registrar uma API key da Flatkey em <https://flatkey.ai?utm_source=skill>.
+5. Registrar uma API key da Flatkey em <https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.pt.agent-workflow>.
 6. Chamar a API de imagens compatível com OpenAI da Flatkey para gerar imagens.
 
 

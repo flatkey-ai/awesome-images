@@ -4,7 +4,7 @@
 
 AI API リセラー、成長施策ページ、ユーザーオンボーディング向けの画像生成プロンプトライブラリです。ユーザーはテンプレートを閲覧し、プロンプトをコピーし、変数を置き換え、Flatkey API key を登録して、OpenAI 互換の画像 API で画像を生成できます。
 
-API key を取得：<https://flatkey.ai?utm_source=skill>
+API key を取得：<https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.ja.get-key>
 
 ## 価値
 
@@ -54,7 +54,7 @@ npx @flatkey-ai/image-buddy generate premium-product-hero \
   --var "主色=teal"
 ```
 
-`onboard` は Flatkey API key の入力を促し、ローカルに保存します。key がない場合は <https://console.flatkey.ai/keys> で取得できます。CLI は保存済み key、`FLATKEY_IMAGE_API_KEY`、または `FLATKEY_API_KEY` を読み取り、Flatkey 画像 API を呼び出し、画像をローカルに保存します。デフォルトでは Web UI を起動しません。
+`onboard` は Flatkey API key の入力を促し、ローカルに保存します。key がない場合は <https://console.flatkey.ai/keys?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.ja.onboard> で取得できます。CLI は保存済み key、`FLATKEY_IMAGE_API_KEY`、または `FLATKEY_API_KEY` を読み取り、Flatkey 画像 API を呼び出し、画像をローカルに保存します。デフォルトでは Web UI を起動しません。
 
 `generate` はデフォルトで `router.flatkey.ai` 経由の Nano Banana を使います。OpenAI 互換の GPT Image 2 endpoint が必要な場合だけ `--model gpt` を指定してください。
 
@@ -86,7 +86,7 @@ npm run build
 2. カテゴリまたはキーワードでテンプレートを探します。
 3. テンプレートを展開し、プロンプトをコピーします。
 4. `{{product_name}}`、`{{core_benefit}}`、`{{brand_color}}` などの変数を置き換えます。
-5. <https://flatkey.ai?utm_source=skill> で Flatkey API key を登録します。
+5. <https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.ja.agent-workflow> で Flatkey API key を登録します。
 6. Flatkey の OpenAI 互換画像 API を呼び出して画像を生成します。
 
 

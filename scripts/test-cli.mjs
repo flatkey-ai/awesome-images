@@ -60,6 +60,7 @@ const generateNoKey = await run([...cli, "generate", "--prompt", "premium produc
 });
 assert.notEqual(generateNoKey.code, 0);
 assert.match(generateNoKey.stderr, /FLATKEY_IMAGE_API_KEY|FLATKEY_API_KEY/);
+assertReferralLink(generateNoKey.stderr, "awesome-images.cli.missing-key");
 
 const calls = [];
 const server = createServer(async (request, response) => {
@@ -198,6 +199,18 @@ const help = await run([...cli, "--help"]);
 assert.equal(help.code, 0);
 assert.match(help.stdout, /image-buddy generate/);
 assert.match(help.stdout, /image-buddy web/);
+assertReferralLink(help.stdout, "awesome-images.cli.help");
+
+function assertReferralLink(text, content) {
+  const match = text.match(/https:\/\/console\.flatkey\.ai\/keys[^\s]+/);
+  assert.ok(match, "CLI must include the key-console referral link");
+  const url = new URL(match[0]);
+  assert.equal(url.pathname, "/keys");
+  assert.equal(url.searchParams.get("utm_source"), "github");
+  assert.equal(url.searchParams.get("utm_medium"), "referral");
+  assert.equal(url.searchParams.get("utm_campaign"), "awesome-images");
+  assert.equal(url.searchParams.get("utm_content"), content);
+}
 
 function run(command, env = {}) {
   const child = spawn(command[0], command.slice(1), {

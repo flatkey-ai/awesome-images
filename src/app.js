@@ -1,6 +1,6 @@
 import { demoPrompts } from "./demo-prompts.js";
 
-const flatkeyUrl = "https://flatkey.ai?utm_source=skill";
+const flatkeyUrl = "https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images";
 const grid = document.querySelector("#promptGrid");
 const searchInput = document.querySelector("#searchInput");
 const templateCount = document.querySelector("#templateCount");
@@ -50,7 +50,7 @@ function renderPrompts() {
             <div class="card-actions">
               <button data-use="${item.id}">用同款</button>
               <button data-copy="${item.id}">复制提示词</button>
-              <a href="${flatkeyUrl}" target="_blank" rel="noreferrer">注册 API key</a>
+              <a href="${flatkeyUrl}&utm_content=awesome-images.gallery.${encodeURIComponent(item.id)}" target="_blank" rel="noreferrer">注册 API key</a>
             </div>
           </div>
         </article>

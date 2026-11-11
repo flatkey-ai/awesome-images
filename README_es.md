@@ -4,7 +4,7 @@
 
 Biblioteca de prompts de generación de imágenes lista para marketing, pensada para revendedores de API de IA, páginas de crecimiento y onboarding de usuarios. Los usuarios pueden explorar plantillas, copiar prompts, reemplazar variables, registrar una API key de Flatkey y generar imágenes mediante una API compatible con OpenAI.
 
-Obtener API key: <https://flatkey.ai?utm_source=skill>
+Obtener API key: <https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.es.get-key>
 
 ## Por Qué Existe
 
@@ -54,7 +54,7 @@ npx @flatkey-ai/image-buddy generate premium-product-hero \
   --var "主色=teal"
 ```
 
-`onboard` pide una API key de Flatkey y la guarda localmente. Si no tienes key, consíguela en <https://console.flatkey.ai/keys>. La CLI también lee `FLATKEY_IMAGE_API_KEY` o `FLATKEY_API_KEY`, llama a la API de imágenes de Flatkey y guarda las imágenes localmente. No inicia una web por defecto.
+`onboard` pide una API key de Flatkey y la guarda localmente. Si no tienes key, consíguela en <https://console.flatkey.ai/keys?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.es.onboard>. La CLI también lee `FLATKEY_IMAGE_API_KEY` o `FLATKEY_API_KEY`, llama a la API de imágenes de Flatkey y guarda las imágenes localmente. No inicia una web por defecto.
 
 `generate` usa Nano Banana por defecto a través de `router.flatkey.ai`. Usa `--model gpt` solo si necesitas el endpoint GPT Image 2 compatible con OpenAI.
 
@@ -86,7 +86,7 @@ npm run build
 2. Encontrar una plantilla por categoría o palabra clave.
 3. Expandir la plantilla y copiar el prompt.
 4. Reemplazar variables como `{{product_name}}`, `{{core_benefit}}` o `{{brand_color}}`.
-5. Registrar una API key de Flatkey en <https://flatkey.ai?utm_source=skill>.
+5. Registrar una API key de Flatkey en <https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.es.agent-workflow>.
 6. Llamar a la API de imágenes compatible con OpenAI de Flatkey para generar imágenes.
 
 

@@ -18,7 +18,7 @@ npx @flatkey-ai/image-buddy onboard
 If user has no key, send them to:
 
 ```text
-https://console.flatkey.ai/keys
+https://console.flatkey.ai/keys?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.skill.get-key
 ```
 
 2. Turn user wording into a final prompt and generate directly:
@@ -56,7 +56,7 @@ CLI renders templates, calls Flatkey image API, and saves generated images local
 API key signup:
 
 ```text
-https://flatkey.ai?utm_source=skill
+https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.skill.register
 ```
 
 

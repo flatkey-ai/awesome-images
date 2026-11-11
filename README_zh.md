@@ -2,9 +2,9 @@
 
 [English](README.md) | [中文](README_zh.md) | [日本語](README_ja.md) | [Español](README_es.md) | [Português](README_pt.md) | [Tiếng Việt](README_vi.md)
 
-Image Buddy 是一个商业化生图提示词库 + CLI，用 [Flatkey.ai](https://flatkey.ai?utm_source=skill) 生成可直接使用的营销图片。Flatkey.ai 通常比常见直连生图 API 路线便宜约 40%，这个库负责把低成本生图变成更容易落地的产品图、广告图、头像、App 图、电商图和素材图。
+Image Buddy 是一个商业化生图提示词库 + CLI，用 [Flatkey.ai](https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.zh.intro) 生成可直接使用的营销图片。Flatkey.ai 通常比常见直连生图 API 路线便宜约 40%，这个库负责把低成本生图变成更容易落地的产品图、广告图、头像、App 图、电商图和素材图。
 
-获取 API key：<https://flatkey.ai?utm_source=skill>
+获取 API key：<https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.zh.get-key>
 
 ## 你会得到什么
 
@@ -96,7 +96,7 @@ npx @flatkey-ai/image-buddy generate premium-product-hero \
 
 模板 id 后面的普通文本会作为 hint 自动填充缺失变量，用户不用先学每个 `--var` 名字。
 
-`onboard` 会提示输入 Flatkey API key 并保存到本地。没有 key 可去 <https://console.flatkey.ai/keys> 获取。CLI 也会读取 `FLATKEY_IMAGE_API_KEY` 或 `FLATKEY_API_KEY`，调用 Flatkey 生图 API，并把图片保存到本地。默认不启动网页。
+`onboard` 会提示输入 Flatkey API key 并保存到本地。没有 key 可去 <https://console.flatkey.ai/keys?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.zh.onboard> 获取。CLI 也会读取 `FLATKEY_IMAGE_API_KEY` 或 `FLATKEY_API_KEY`，调用 Flatkey 生图 API，并把图片保存到本地。默认不启动网页。
 
 `generate` 默认通过 `router.flatkey.ai` 调用 Nano Banana，更适合直接 CLI 生成。需要 OpenAI 兼容的 GPT Image 2 endpoint 时再传 `--model gpt`。
 
@@ -129,7 +129,7 @@ npm run build
 2. 按分类或关键词找到模板。
 3. 展开模板并复制提示词。
 4. 替换 `{{product_name}}`、`{{core_benefit}}`、`{{brand_color}}` 等变量。
-5. 在 <https://flatkey.ai?utm_source=skill> 注册 Flatkey API key。
+5. 在 <https://flatkey.ai?utm_source=github&utm_medium=referral&utm_campaign=awesome-images&utm_content=awesome-images.readme.zh.agent-workflow> 注册 Flatkey API key。
 6. 运行 `image-buddy generate` 生成图片并保存到本地。
 
 
