@@ -1,7 +1,7 @@
 # Image prompt index
 
-Published templates: **791**
-Demo assets: **799**
+Published templates: **841**
+Demo assets: **849**
 
 The machine-readable catalog is available at [`catalog/prompts.json`](../catalog/prompts.json).
 
@@ -1749,6 +1749,56 @@ The machine-readable catalog is available at [`catalog/prompts.json`](../catalog
 - [Low Poly Papercraft Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
 - [Guardian of Orbital Museum](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
 - [Golden Guangzhou: Oriental Fantasy](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Couture Editorial Magazine Spread](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Mirror Night: Candid Film Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Fisheye Street Style Step Over Shot](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Casual Forest Hike Snapshot](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Whimsical Paper-Cut Asian Travel Illustration](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Surreal Cat Mask Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Silver-Haired Gentleman's European Dream](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Surreal Rooftop Pool Man](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Summer Botanical Garden Coffee Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Purple Haze: Korean Fashion Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Paris Golden Hour Male Model Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Muse Stepping Out of Frame](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Couple Laughing Macro Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cinematic Tiny Planet Fantasy World](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cafe Beauty with Gourmet Burger](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Fuchsia Satin Bloom Editorial](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Minimalist Futuristic Fashion Editorial](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Summer Eiffel Tower Vacation Selfie](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Candid Summer Street Photography Vibes](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Gothic Lolita Heroine](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Giant Sneaker Fashion Campaign](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Premium Saffron Pistachio Ice Cream Ad](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Retro City Exploded Isometric](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Four Seasons of Onsen Town](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Victorian Gothic Mourning Procession](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Surreal Miniature Bridal Sandals Ad](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Surreal Fashion Western Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Dreamy Bus Window Selfie at Sunset](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cinematic Hanfu Tea Room Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Rainy Autumn Glass City Dream](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Lakeside Floral Portrait Golden Hour](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Red Dress White Rhino Surreal Fashion](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Crimson Gown Venetian Fashion Editorial](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Neon Heart Evening Gown Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Golden Hour Street Fashion Queen](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Farmer Golden Energy Aura Deep Work](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Tired Creator Amid Digital Imagination Explosion](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Dramatic Low-Key Athlete Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Unfinished Sacred Covenant](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Impossible Grand Palace Library Interior](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Monochrome Matcha Splash Fashion Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Ivory Couture In Silk Cathedral](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Surreal Coffee Pour From Phone](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Golden Hour Balloon Festival Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Minimalist Luxury Fashion Portrait](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Surreal Fashion Editorial Concept](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Luxury Fashion Studio Editorial Shoot](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Chic Blue Fashion Editorial Shoot](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Trapped in Crystal Heart](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
+- [Cinematic Suit Portrait Studio Shot](../catalog/model-detail-assets.json) — cinematic-concept-art · gpt-image-2
 
 ## Demo assets
 
@@ -2553,3 +2603,53 @@ The gallery assets are kept separately from reusable templates so a preview imag
 - [Low Poly Papercraft Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-low-poly-papercraft-portrait.jpg) — 创作者与社交
 - [Guardian of Orbital Museum](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-orbital-museum-guardian.jpg) — 创作者与社交
 - [Golden Guangzhou: Oriental Fantasy](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-guangzhou-oriental-fantasy.jpg) — 创作者与社交
+- [Couture Editorial Magazine Spread](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-couture-editorial-magazine-spread.jpg) — 创作者与社交
+- [Mirror Night: Candid Film Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-mirror-night-candid-film-portrait.jpg) — 创作者与社交
+- [Fisheye Street Style Step Over Shot](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-fisheye-street-style-step-over-shot.jpg) — 创作者与社交
+- [Casual Forest Hike Snapshot](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-casual-forest-hike-snapshot.jpg) — 创作者与社交
+- [Whimsical Paper-Cut Asian Travel Illustration](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-whimsical-paper-cut-asian-travel-illustration.jpg) — 创作者与社交
+- [Surreal Cat Mask Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-cat-mask-portrait.jpg) — 创作者与社交
+- [Silver-Haired Gentleman's European Dream](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-silver-haired-gentleman-s-european-dream.jpg) — 创作者与社交
+- [Surreal Rooftop Pool Man](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-rooftop-pool-man.jpg) — 创作者与社交
+- [Summer Botanical Garden Coffee Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-summer-botanical-garden-coffee-portrait.jpg) — 创作者与社交
+- [Purple Haze: Korean Fashion Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-purple-haze-korean-fashion-portrait.jpg) — 创作者与社交
+- [Paris Golden Hour Male Model Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-paris-golden-hour-male-model-portrait.jpg) — 创作者与社交
+- [Muse Stepping Out of Frame](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-muse-stepping-out-of-frame.jpg) — 创作者与社交
+- [Couple Laughing Macro Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-couple-laughing-macro-portrait.jpg) — 创作者与社交
+- [Cinematic Tiny Planet Fantasy World](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-tiny-planet-fantasy-world.jpg) — 创作者与社交
+- [Cafe Beauty with Gourmet Burger](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cafe-beauty-with-gourmet-burger.jpg) — 创作者与社交
+- [Fuchsia Satin Bloom Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-fuchsia-satin-bloom-editorial.jpg) — 创作者与社交
+- [Minimalist Futuristic Fashion Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-futuristic-fashion-editorial.jpg) — 创作者与社交
+- [Summer Eiffel Tower Vacation Selfie](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-summer-eiffel-tower-vacation-selfie.jpg) — 创作者与社交
+- [Candid Summer Street Photography Vibes](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-candid-summer-street-photography-vibes.jpg) — 创作者与社交
+- [Gothic Lolita Heroine](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-gothic-lolita-heroine.jpg) — 创作者与社交
+- [Giant Sneaker Fashion Campaign](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-giant-sneaker-fashion-campaign.jpg) — 创作者与社交
+- [Premium Saffron Pistachio Ice Cream Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-premium-saffron-pistachio-ice-cream-ad.jpg) — 创作者与社交
+- [Retro City Exploded Isometric](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-retro-city-exploded-isometric.jpg) — 创作者与社交
+- [Four Seasons of Onsen Town](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-four-seasons-of-onsen-town.jpg) — 创作者与社交
+- [Victorian Gothic Mourning Procession](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-victorian-gothic-mourning-procession.jpg) — 创作者与社交
+- [Surreal Miniature Bridal Sandals Ad](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-miniature-bridal-sandals-ad.jpg) — 创作者与社交
+- [Surreal Fashion Western Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-fashion-western-portrait.jpg) — 创作者与社交
+- [Dreamy Bus Window Selfie at Sunset](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dreamy-bus-window-selfie-at-sunset.jpg) — 创作者与社交
+- [Cinematic Hanfu Tea Room Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-hanfu-tea-room-portrait.jpg) — 创作者与社交
+- [Rainy Autumn Glass City Dream](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-rainy-autumn-glass-city-dream.jpg) — 创作者与社交
+- [Lakeside Floral Portrait Golden Hour](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-lakeside-floral-portrait-golden-hour.jpg) — 创作者与社交
+- [Red Dress White Rhino Surreal Fashion](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-red-dress-white-rhino-surreal-fashion.jpg) — 创作者与社交
+- [Crimson Gown Venetian Fashion Editorial](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-crimson-gown-venetian-fashion-editorial.jpg) — 创作者与社交
+- [Neon Heart Evening Gown Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-neon-heart-evening-gown-portrait.jpg) — 创作者与社交
+- [Golden Hour Street Fashion Queen](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-hour-street-fashion-queen.jpg) — 创作者与社交
+- [Farmer Golden Energy Aura Deep Work](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-farmer-golden-energy-aura-deep-work.jpg) — 创作者与社交
+- [Tired Creator Amid Digital Imagination Explosion](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-tired-creator-amid-digital-imagination-explosion.jpg) — 创作者与社交
+- [Dramatic Low-Key Athlete Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-dramatic-low-key-athlete-portrait.jpg) — 创作者与社交
+- [Unfinished Sacred Covenant](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-unfinished-sacred-covenant.jpg) — 创作者与社交
+- [Impossible Grand Palace Library Interior](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-impossible-grand-palace-library-interior.jpg) — 创作者与社交
+- [Monochrome Matcha Splash Fashion Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-monochrome-matcha-splash-fashion-portrait.jpg) — 创作者与社交
+- [Ivory Couture In Silk Cathedral](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-ivory-couture-in-silk-cathedral.jpg) — 创作者与社交
+- [Surreal Coffee Pour From Phone](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-coffee-pour-from-phone.jpg) — 创作者与社交
+- [Golden Hour Balloon Festival Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-golden-hour-balloon-festival-portrait.jpg) — 创作者与社交
+- [Minimalist Luxury Fashion Portrait](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-minimalist-luxury-fashion-portrait.jpg) — 创作者与社交
+- [Surreal Fashion Editorial Concept](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-surreal-fashion-editorial-concept.jpg) — 创作者与社交
+- [Luxury Fashion Studio Editorial Shoot](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-luxury-fashion-studio-editorial-shoot.jpg) — 创作者与社交
+- [Chic Blue Fashion Editorial Shoot](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-chic-blue-fashion-editorial-shoot.jpg) — 创作者与社交
+- [Trapped in Crystal Heart](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-trapped-in-crystal-heart.jpg) — 创作者与社交
+- [Cinematic Suit Portrait Studio Shot](../https://cdn.shulex-voc.com/flatkey/prompt-gallery/goku-openlab/gpt-image-2/goku-gpt-image-2-cinematic-suit-portrait-studio-shot.jpg) — 创作者与社交
